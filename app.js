@@ -49,8 +49,8 @@
     window.scrollTo(0, 0);
   }
 
-  // Back button handlers
-  document.querySelectorAll('.btn-back').forEach((btn) => {
+  // Navigation handlers
+  $$('.btn-back').forEach((btn) => {
     btn.addEventListener('click', () => {
       const target = btn.dataset.go;
       if (target === 'home') showScreen('home');
@@ -63,8 +63,13 @@
     });
   });
 
+  const startPracticeBtn = $('#btn-start-practice');
+  if (startPracticeBtn) {
+    startPracticeBtn.addEventListener('click', () => showScreen('subjects'));
+  }
+
   // Exit exam back button — confirm
-  const exitExamBtn = document.querySelector('.btn-exit-exam');
+  const exitExamBtn = $('.btn-exit-exam');
   if (exitExamBtn) {
     exitExamBtn.addEventListener('click', (e) => {
       e.stopPropagation();
@@ -78,7 +83,7 @@
 
   // ─── Home & Subject Screens ───
   function renderSubjectGrid(containerId) {
-    const container = document.getElementById(containerId);
+    const container = $('#' + containerId);
     if (!container) return;
     container.innerHTML = '';
 
@@ -105,8 +110,8 @@
 
   // ─── Paper Select ───
   function renderPapers() {
-    const list = document.getElementById('paper-list');
-    const title = document.getElementById('papers-title');
+    const list = $('#paper-list');
+    const title = $('#papers-title');
     list.innerHTML = '';
     title.textContent = currentSubject.name;
 
@@ -572,11 +577,11 @@
     // Show install prompt if not dismissed before
     const dismissed = localStorage.getItem('vault_install_dismissed');
     if (!dismissed) {
-      document.getElementById('install-prompt').classList.remove('hidden');
+      $('#install-prompt').classList.remove('hidden');
     }
   });
 
-  document.getElementById('install-btn').addEventListener('click', async () => {
+  $('#install-btn').addEventListener('click', async () => {
     if (!deferredInstallPrompt) return;
     deferredInstallPrompt.prompt();
     const result = await deferredInstallPrompt.userChoice;
@@ -584,11 +589,11 @@
       showToast('App installed successfully!');
     }
     deferredInstallPrompt = null;
-    document.getElementById('install-prompt').classList.add('hidden');
+    $('#install-prompt').classList.add('hidden');
   });
 
-  document.getElementById('install-dismiss').addEventListener('click', () => {
-    document.getElementById('install-prompt').classList.add('hidden');
+  $('#install-dismiss').addEventListener('click', () => {
+    $('#install-prompt').classList.add('hidden');
     localStorage.setItem('vault_install_dismissed', '1');
   });
 
@@ -622,7 +627,6 @@
         };
       });
 
-      renderSubjectGrid('home-subject-grid');
       renderSubjectGrid('subject-grid');
     } catch (err) {
       console.error('Initialization error:', err);

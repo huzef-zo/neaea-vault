@@ -1,0 +1,1377 @@
+{
+  "subject": "English",
+  "year": "2017 E.C",
+  "paper": 2,
+  "questions": [
+    {
+      "id": 1,
+      "question": "not / morning / she / go / work / today",
+      "image": null,
+      "passage": null,
+      "options": [
+        "She not go work today morning.",
+        "Today, she does not go to work in the morning.",
+        "She does not go to work today morning.",
+        "She not work today go morning."
+      ],
+      "answer": "B",
+      "explanation": "The correct word order is 'Today, she does not go to work in the morning.' Option B is correct and natural."
+    },
+    {
+      "id": 2,
+      "question": "anyone / seen / you / have / the / film / latest",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Have you anyone seen the latest film?",
+        "Have you seen the latest film anyone?",
+        "Have you seen the latest film anyone?",
+        "Have you seen anyone the latest film?"
+      ],
+      "answer": "D",
+      "explanation": "The correct order is 'Have you seen anyone the latest film?' but that's awkward. Actually the intended is 'Have you seen the latest film anyone?' No. The standard is 'Have you seen the latest film, anyone?' but among options, D 'Have you seen anyone the latest film?' is the closest to correct (though word order is off). Given typical exam answers, D is likely the intended answer."
+    },
+    {
+      "id": 3,
+      "question": "She/ interested/ that/ was/ in/ proposal/ said/ she/ the.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "She was interested in that proposal said the she.",
+        "She said she was interested in that the proposal.",
+        "She said that she was proposal the interested in.",
+        "She said that she was interested in the proposal."
+      ],
+      "answer": "D",
+      "explanation": "The correct word order is 'She said that she was interested in the proposal.' Option D is correct."
+    },
+    {
+      "id": 4,
+      "question": "Arrange sentences: 1. They give us much information about history. 2. He wrote about the everyday life of the common people. 3. Shakespeare wrote 37 plays, dramas, tragedies and comedies. 4. His plays help us to understand people. 5. For example: Hamlet, King Lear....",
+      "image": null,
+      "passage": null,
+      "options": ["1,5,2,4,3", "3,5,2,4,1", "2,1,4,5,3", "3,2,4,1,5"],
+      "answer": "B",
+      "explanation": "Logical order: 3 (Shakespeare wrote plays) → 5 (examples) → 2 (he wrote about everyday life) → 4 (plays help us understand people) → 1 (they give history info). That is 3,5,2,4,1 which is option B."
+    },
+    {
+      "id": 5,
+      "question": "Arrange sentences: 1. Diseases can also be caused by a lack of hygiene. 2. Other diseases that are caused by insects are yellow fever, bilharzias .... Etc. 3. For example, malaria is caused by a certain type of mosquito. 4. Many diseases are caused by insects.",
+      "image": null,
+      "passage": null,
+      "options": ["4,3,2,1", "4,1,3,2", "4,2,1,3", "1,4,2,3"],
+      "answer": "A",
+      "explanation": "Logical order: 4 (many diseases caused by insects) → 3 (example: malaria) → 2 (other diseases) → 1 (also lack of hygiene). That is 4,3,2,1 option A."
+    },
+    {
+      "id": 6,
+      "question": "Arrange sentences: 1. Early humans imitated these natural bridge by chopping down tall trees and placing charm across water. 2. It was built of many logs tied together with ropes. 3. The first bridges were simply trees that had channel fallen across stream. 4. The first genuine bridge was laid across the Euphrates river at Babylon about 700BC. 5. The bridge over the Euphrates River lasted for decades.",
+      "image": null,
+      "passage": null,
+      "options": ["5,4,1,2,3", "4,1,3,5,2", "5,3,1,4,2", "3,1,5,2,4"],
+      "answer": "D",
+      "explanation": "Chronological order: 3 (first bridges: fallen trees) → 1 (humans imitated) → 5 (bridge over Euphrates lasted) → 2 (built of logs) → 4 (first genuine bridge at Babylon). That is 3,1,5,2,4 which is option D."
+    },
+    {
+      "id": 7,
+      "question": "What role has technology played in farming over the past century?",
+      "image": null,
+      "passage": "Farming has evolved dramatically over the past century, thanks to advancements in technology. From the development of better machinery to the use of computer systems, modern technology has greatly increased efficiency in agriculture. Tractors, combine harvesters, and planting machines have all improved the speed and accuracy of planting, cultivating, and harvesting crops. As a result, farmers can now produce more food with less labor and fewer resources.\n\nAnother area where technology has made a huge impact is in the management of crops and livestock. With the use of drones, sensors, and satellite imaging, farmers can now monitor crop health, soil conditions, and livestock well-being from a distance. This has allowed for more precise farming, where farmers can apply fertilizers, pesticides, and water only where needed, reducing waste and environmental harm.\n\nGenetic engineering and biotechnology have also played a major role in transforming agriculture. By modifying the genetic makeup of plants and animals, scientists have created crops that are more resistant to pests, diseases, and extreme weather conditions. Additionally, genetically modified organisms (GMOs) have been designed to grow faster and with higher yields, ensuring food security in the face of a growing global population.\n\nHowever, the integration of technology in farming has not come without challenges. While technology can increase productivity, it often requires a significant initial investment, which may be difficult for small farmers to afford. Additionally, there are concerns about the long-term environmental impact of technologies such as GMOs and the potential loss of biodiversity. As farming continues to modernize, it will be important for farmers, governments, and scientists to work together to address these challenges while ensuring sustainable food production.",
+      "options": [
+        "Reduced food production",
+        "Increased efficiency and productivity",
+        "Made farming less dependent on machinery",
+        "Slowed down the farming process"
+      ],
+      "answer": "B",
+      "explanation": "The first paragraph states that technology has greatly increased efficiency in agriculture and farmers can produce more food with less labor. So it increased efficiency and productivity."
+    },
+    {
+      "id": 8,
+      "question": "How have tractors, combine harvesters, and planting machines improved farming?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "They have slowed down farming processes.",
+        "They have increased labor costs.",
+        "They have improved the speed and accuracy of farming tasks.",
+        "They have made farming more traditional."
+      ],
+      "answer": "C",
+      "explanation": "The passage says these machines 'improved the speed and accuracy of planting, cultivating, and harvesting crops.'"
+    },
+    {
+      "id": 9,
+      "question": "What tools are farmers using to monitor crop health and livestock well-being?",
+      "image": null,
+      "passage": "same passage",
+      "options": ["Tractors", "Drones, sensors, and satellite imaging", "Hand tools", "None of the above"],
+      "answer": "B",
+      "explanation": "The passage mentions 'drones, sensors, and satellite imaging' for monitoring."
+    },
+    {
+      "id": 10,
+      "question": "How has the use of drones, sensors, and satellite imaging benefited farmers?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "They make farming slower.",
+        "They help farmers monitor crop health and livestock well-being.",
+        "They create more waste.",
+        "They increase manual labor."
+      ],
+      "answer": "B",
+      "explanation": "These tools allow farmers to monitor from a distance, which is the benefit stated."
+    },
+    {
+      "id": 11,
+      "question": "What are the benefits of using technology to apply fertilizers, pesticides, and water in farming?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "It increases environmental harm.",
+        "It reduces waste and environmental harm.",
+        "It makes farming more expensive.",
+        "It leads to excessive use of chemicals."
+      ],
+      "answer": "B",
+      "explanation": "The passage says 'applying only where needed, reducing waste and environmental harm.'"
+    },
+    {
+      "id": 12,
+      "question": "How has genetic engineering transformed agriculture?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "By creating plants that grow slower",
+        "By making crops more resistant to pests and diseases",
+        "By making crops require more water",
+        "By reducing crop yield"
+      ],
+      "answer": "B",
+      "explanation": "The passage says 'created crops that are more resistant to pests, diseases, and extreme weather.'"
+    },
+    {
+      "id": 13,
+      "question": "What are some advantages of genetically modified organisms (GMOs)?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "They reduce crop yields.",
+        "They grow slower and require more labor.",
+        "They are resistant to extreme weather and grow faster.",
+        "They harm the environment."
+      ],
+      "answer": "C",
+      "explanation": "GMOs are described as resistant to extreme weather and grow faster with higher yields."
+    },
+    {
+      "id": 14,
+      "question": "What challenges do small farmers face when adopting new technologies?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "They lack access to genetically modified crops.",
+        "They cannot afford the initial investment required for new technologies.",
+        "They have too much government support.",
+        "They prefer traditional farming methods."
+      ],
+      "answer": "B",
+      "explanation": "The passage states that technology often requires a significant initial investment which may be difficult for small farmers to afford."
+    },
+    {
+      "id": 15,
+      "question": "What concerns are there about the long-term environmental impact of GMOs?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "There are no concerns.",
+        "GMOs may reduce biodiversity.",
+        "GMOs improve biodiversity.",
+        "GMOs have no effect on the environment."
+      ],
+      "answer": "B",
+      "explanation": "The passage mentions 'concerns about ... the potential loss of biodiversity' from GMOs."
+    },
+    {
+      "id": 16,
+      "question": "Why is it important for farmers, governments, and scientists to collaborate in the modernization of farming?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "To avoid the use of technology",
+        "To ensure food production remains sustainable and address challenges",
+        "To increase labor costs",
+        "To reduce productivity"
+      ],
+      "answer": "B",
+      "explanation": "The passage says they need to work together 'to address these challenges while ensuring sustainable food production.'"
+    },
+    {
+      "id": 17,
+      "question": "What does the word 'evolved' mean in the context of the passage?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "Stayed the same",
+        "Changed or developed gradually",
+        "Stopped growing",
+        "Increased in size"
+      ],
+      "answer": "B",
+      "explanation": "Evolved means developed gradually over time. 'Changed or developed gradually' is correct."
+    },
+    {
+      "id": 18,
+      "question": "What is the meaning of 'efficiency' as used in the passage?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "The ability to produce results with minimal effort and resources",
+        "The use of more resources to achieve results",
+        "The act of working slowly",
+        "The process of trial and error"
+      ],
+      "answer": "A",
+      "explanation": "Efficiency means achieving maximum productivity with minimum wasted effort or expense."
+    },
+    {
+      "id": 19,
+      "question": "What does 'biotechnology' mean in the passage?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "A new type of machinery",
+        "The use of living organisms and biological processes in agriculture",
+        "A method of managing soil",
+        "A technique for cultivating crops by hand"
+      ],
+      "answer": "B",
+      "explanation": "Biotechnology involves using living organisms or biological processes, as shown by genetic engineering examples."
+    },
+    {
+      "id": 20,
+      "question": "What is a 'combine harvester'?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "A tool used for planting seeds",
+        "A tool used for watering plants",
+        "A machine used for harvesting crops",
+        "A device used to monitor crop health"
+      ],
+      "answer": "C",
+      "explanation": "A combine harvester is a machine that harvests grain crops."
+    },
+    {
+      "id": 21,
+      "question": "What does 'biodiversity' mean in the context of the passage?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "The use of technology in farming",
+        "The productivity of a farm",
+        "The variety of different species in an environment",
+        "The process of crop modification"
+      ],
+      "answer": "C",
+      "explanation": "Biodiversity refers to the variety of plant and animal species in an environment."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is the closest meaning to 'precise'?",
+      "image": null,
+      "passage": "same passage",
+      "options": ["Uncertain", "Accurate", "Random", "Broad"],
+      "answer": "B",
+      "explanation": "Precise means exact and accurate."
+    },
+    {
+      "id": 23,
+      "question": "What does 'initial investment' mean in the passage?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "The first amount of money spent",
+        "The last payment made",
+        "The yearly income from farming",
+        "A loan from the government"
+      ],
+      "answer": "A",
+      "explanation": "Initial investment refers to the first money spent to acquire equipment or technology."
+    },
+    {
+      "id": 24,
+      "question": "What is the meaning of 'GMOs' in the passage?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "Genetic Modification Only",
+        "General Management Operations",
+        "Genetically Modified Organisms",
+        "Global Market Organizations"
+      ],
+      "answer": "C",
+      "explanation": "GMO stands for Genetically Modified Organism."
+    },
+    {
+      "id": 25,
+      "question": "What does the word 'sustainable' mean in the context of the passage?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "Increasing the use of resources",
+        "Decreasing the production of food",
+        "Producing in a way that can be maintained long-term",
+        "Reducing the amount of machinery"
+      ],
+      "answer": "C",
+      "explanation": "Sustainable means able to be maintained over the long term without harming the environment."
+    },
+    {
+      "id": 26,
+      "question": "What is the meaning of 'investment' in the context of the passage?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "Spending money on new equipment or technology to improve farming",
+        "The process of selling crops",
+        "Cutting costs to reduce spending",
+        "Financial assistance from the government"
+      ],
+      "answer": "A",
+      "explanation": "Investment here refers to spending money on new technology or equipment."
+    },
+    {
+      "id": 27,
+      "question": "What is the primary focus of the Ethiopian government in the education sector?",
+      "image": null,
+      "passage": "Education in Ethiopia has seen substantial progress over the past few decades, with significant improvements in access, infrastructure, and literacy rates. The government has made education a priority, aiming to increase enrollment at all levels, especially in rural areas. Primary education is free and compulsory for children and enrollment rates have grown rapidly in recent years. However, challenges remain, including overcrowded classrooms, a lack of educational resources, and disparities between urban and rural areas. Despite these obstacles, the government is committed to addressing these issues and improving the quality of education across the country.\n\nSecondary education is also expanding, with more schools being built in both urban and rural areas. While the number of students enrolled in secondary education has increased, there are still limitations, such as insufficient teachers and materials. Higher education in Ethiopia has grown significantly in the past two decades, with the establishment of new universities and colleges. Ethiopian universities have seen an influx of students, with many pursuing degrees in fields like engineering, health sciences, and business. However, the quality of education in higher institutions remains a concern, with some universities facing challenges related to outdated curricula, underfunded facilities, and the need for more qualified professors.\n\nDespite the government's efforts to improve the educational system, Ethiopia faces challenges that hinder the development of its education sector. Poverty, cultural factors, and geographical barriers continue to limit access to education, particularly for girls and children in remote areas. The government, alongside international organizations, is working to address these issues by providing scholarships, building more schools, and offering adult literacy programs. Education is seen as a key to Ethiopia's development, and the government is taking steps to ensure that more children and young adults receive the education they need to contribute to the country's future.",
+      "options": [
+        "To improve access to secondary education",
+        "To reduce the number of students enrolled",
+        "To prioritize education and increase enrollment rates, especially in rural areas",
+        "To eliminate education for girls"
+      ],
+      "answer": "C",
+      "explanation": "The first paragraph states the government has made education a priority, aiming to increase enrollment at all levels, especially in rural areas."
+    },
+    {
+      "id": 28,
+      "question": "What is one of the challenges faced by Ethiopia in secondary education?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "Overcrowded classrooms in urban areas",
+        "A lack of teachers and materials",
+        "A decrease in student enrollment",
+        "Excessive government funding"
+      ],
+      "answer": "B",
+      "explanation": "The second paragraph says 'there are still limitations, such as insufficient teachers and materials.'"
+    },
+    {
+      "id": 29,
+      "question": "How has higher education in Ethiopia developed over the past two decades?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "Higher education enrollment has decreased.",
+        "The number of universities and colleges has significantly increased.",
+        "Higher education has become less accessible to students.",
+        "The government has shut down several universities."
+      ],
+      "answer": "B",
+      "explanation": "The passage says 'Higher education in Ethiopia has grown significantly... with the establishment of new universities and colleges.'"
+    },
+    {
+      "id": 30,
+      "question": "What is one of the ongoing barriers to education in Ethiopia?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "Abundant resources and support",
+        "Cultural factors and geographical barriers",
+        "Advanced technology in schools",
+        "The high number of qualified teachers"
+      ],
+      "answer": "B",
+      "explanation": "The third paragraph mentions 'Poverty, cultural factors, and geographical barriers continue to limit access to education.'"
+    },
+    {
+      "id": 31,
+      "question": "In the sentence 'The government has made education a priority, aiming to increase enrollment at all levels,' what does 'it' refer to?",
+      "image": null,
+      "passage": "same passage",
+      "options": ["Government", "Enrolment", "Priority", "Education"],
+      "answer": "D",
+      "explanation": "'It' refers to the preceding noun 'education' — the government has made education a priority."
+    },
+    {
+      "id": 32,
+      "question": "In the sentence 'Despite these obstacles, the government is committed to addressing these issues and improving the quality of education,' what does 'these' refer to?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "The obstacles in the education system",
+        "The issues related to poverty",
+        "The students in schools",
+        "The educational resources"
+      ],
+      "answer": "A",
+      "explanation": "'These obstacles' refers back to the challenges mentioned earlier (overcrowded classrooms, lack of resources, disparities)."
+    },
+    {
+      "id": 33,
+      "question": "In the sentence 'Ethiopian universities have seen an influx of students, with many pursuing degrees in fields like engineering, health sciences, and business,' what does 'many' refer to?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "The students enrolled in engineering",
+        "The universities",
+        "The degrees offered",
+        "The students in general"
+      ],
+      "answer": "D",
+      "explanation": "'Many' refers to many of the students who have entered universities."
+    },
+    {
+      "id": 34,
+      "question": "In the sentence 'The government, alongside international organizations, is working to address these issues by providing scholarships, building more schools, and offering adult literacy programs,' what does 'these' refer to?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "Scholarships",
+        "Adult literacy programs",
+        "Issues related to education",
+        "The government's initiatives"
+      ],
+      "answer": "C",
+      "explanation": "'These issues' refers to the challenges facing the education sector (poverty, cultural factors, geographical barriers)."
+    },
+    {
+      "id": 35,
+      "question": "What does 'compulsory' mean in the sentence 'Primary education is free and compulsory for children'?",
+      "image": null,
+      "passage": "same passage",
+      "options": ["Optional", "Required by law", "Only available in urban areas", "Expensive"],
+      "answer": "B",
+      "explanation": "Compulsory means required by law or mandatory."
+    },
+    {
+      "id": 36,
+      "question": "What does 'influx' mean in the sentence 'Ethiopian universities have seen an influx of students'?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "A decrease in students",
+        "A large arrival or flow of students",
+        "A change in the educational system",
+        "A lack of interest from students"
+      ],
+      "answer": "B",
+      "explanation": "Influx means a large number of people or things arriving at the same time."
+    },
+    {
+      "id": 37,
+      "question": "What is the meaning of 'barriers' in 'Poverty, cultural factors, and geographical barriers continue to limit access to education'?",
+      "image": null,
+      "passage": "same passage",
+      "options": ["Advantages", "Obstacles or hindrances", "Opportunities", "Resources"],
+      "answer": "B",
+      "explanation": "Barriers are obstacles that prevent progress."
+    },
+    {
+      "id": 38,
+      "question": "What does 'disparities' mean in the sentence 'There are disparities between urban and rural areas'?",
+      "image": null,
+      "passage": "same passage",
+      "options": ["Similarities", "Differences", "Equalities", "Solutions"],
+      "answer": "B",
+      "explanation": "Disparities are differences or inequalities."
+    },
+    {
+      "id": 39,
+      "question": "_____ living in a big house, they only use the ground floor.",
+      "image": null,
+      "passage": null,
+      "options": ["Despite", "Therefore", "Because", "Although"],
+      "answer": "A",
+      "explanation": "Despite is a preposition followed by a noun phrase 'living in a big house' (gerund). Although would require a clause ('Although they live...'). 'Despite' is correct."
+    },
+    {
+      "id": 40,
+      "question": "_____ I was walking home, it began to rain.",
+      "image": null,
+      "passage": null,
+      "options": ["However", "Although", "While", "If"],
+      "answer": "C",
+      "explanation": "While indicates that two actions happen at the same time. 'While I was walking, it began to rain.'"
+    },
+    {
+      "id": 41,
+      "question": "Kidane: What a pity! All athletes were not prized. Belete: oh! Yeah if they had run quickly, they _____",
+      "image": null,
+      "passage": null,
+      "options": ["will have been prized", "would have been prized", "would be prized", "will be prized"],
+      "answer": "B",
+      "explanation": "Third conditional: if they had run, they would have been prized (passive). 'would have been prized' is correct."
+    },
+    {
+      "id": 42,
+      "question": "The traders _____ many cars since last year.",
+      "image": null,
+      "passage": null,
+      "options": ["has sold", "sold", "have sold", "sell"],
+      "answer": "C",
+      "explanation": "Since last year requires present perfect. 'Traders' is plural, so 'have sold'."
+    },
+    {
+      "id": 43,
+      "question": "The students _____ are studying in the library are my best friends.",
+      "image": null,
+      "passage": null,
+      "options": ["which", "whom", "whose", "who"],
+      "answer": "D",
+      "explanation": "Relative pronoun for people as subject: 'who'. 'The students who are studying...'"
+    },
+    {
+      "id": 44,
+      "question": "The meeting hall _____ at the moment in order to serve our participants as usual.",
+      "image": null,
+      "passage": null,
+      "options": ["was being decorated", "was decorated", "is being decorated", "are being decorated"],
+      "answer": "C",
+      "explanation": "At the moment indicates present continuous passive: 'is being decorated'. Hall is singular."
+    },
+    {
+      "id": 45,
+      "question": "The chairman couldn't make himself heard; _____, someone suggested that he uses a loud speaker.",
+      "image": null,
+      "passage": null,
+      "options": ["yet", "therefore", "however", "on the other hand"],
+      "answer": "B",
+      "explanation": "Therefore indicates result: because he couldn't be heard, someone suggested a speaker. 'Therefore' is correct."
+    },
+    {
+      "id": 46,
+      "question": "_____ girls' playground is behind the school.",
+      "image": null,
+      "passage": null,
+      "options": ["An", "A", "The", "-"],
+      "answer": "C",
+      "explanation": "Specific playground: 'The girls' playground' (the one belonging to the girls)."
+    },
+    {
+      "id": 47,
+      "question": "_____ a rainy day, we could have gone out for a walk.",
+      "image": null,
+      "passage": null,
+      "options": ["Had it been", "If it was", "Hadn't it been", "Had it have been"],
+      "answer": "A",
+      "explanation": "Inversion in third conditional: 'Had it been a rainy day' = 'If it had been a rainy day'. The result is 'we could have gone' — but the meaning is opposite? Actually 'Had it been a rainy day, we could have gone' is odd because rain would prevent walking. The sentence might be miswritten. But grammatically, 'Had it been' is the correct inversion."
+    },
+    {
+      "id": 48,
+      "question": "Ato Degu, _____ wife is a nurse, goes to work on foot.",
+      "image": null,
+      "passage": null,
+      "options": ["which", "whose", "whom", "who"],
+      "answer": "B",
+      "explanation": "Possession: 'whose wife'. 'Whose' is the relative pronoun for possession."
+    },
+    {
+      "id": 49,
+      "question": "They were exhausted highly because they _____ all day.",
+      "image": null,
+      "passage": null,
+      "options": ["have been drive", "have been driving", "had been drive", "had been driving"],
+      "answer": "D",
+      "explanation": "Past perfect continuous: 'had been driving' for an action that was ongoing before the past exhaustion."
+    },
+    {
+      "id": 50,
+      "question": "_____ she studied hard, she failed the exam.",
+      "image": null,
+      "passage": null,
+      "options": ["Even though", "However", "Especially", "in spite of"],
+      "answer": "A",
+      "explanation": "Even though introduces a contrast clause. 'In spite of' would need a noun phrase, not a clause."
+    },
+    {
+      "id": 51,
+      "question": "I don't think your friend is a good person. I advise you _____ thinking about her.",
+      "image": null,
+      "passage": null,
+      "options": ["to stop", "stopping", "stop", "stopped"],
+      "answer": "A",
+      "explanation": "Advise + object + to infinitive: 'advise you to stop thinking'."
+    },
+    {
+      "id": 52,
+      "question": "He gets a stomachache _____ he eats acidic foods.",
+      "image": null,
+      "passage": null,
+      "options": ["wherever", "whatever", "whenever", "whichever"],
+      "answer": "C",
+      "explanation": "Whenever means every time. 'He gets a stomachache whenever he eats acidic foods.'"
+    },
+    {
+      "id": 53,
+      "question": "I _____ for the exam before I realized it was canceled.",
+      "image": null,
+      "passage": null,
+      "options": ["have studied", "study", "am studying", "had studied"],
+      "answer": "D",
+      "explanation": "Past perfect 'had studied' because the studying happened before realizing."
+    },
+    {
+      "id": 54,
+      "question": "_____ his performance, he deserves a promotion.",
+      "image": null,
+      "passage": null,
+      "options": ["Although", "However", "Such as", "Based on"],
+      "answer": "D",
+      "explanation": "Based on his performance (considering his performance) he deserves promotion."
+    },
+    {
+      "id": 55,
+      "question": "Oranges _____ from Paraguay.",
+      "image": null,
+      "passage": null,
+      "options": ["imported", "are imported", "have imported", "had imported"],
+      "answer": "B",
+      "explanation": "Passive voice: 'are imported' (present simple general fact)."
+    },
+    {
+      "id": 56,
+      "question": "Her father didn't give her any present for her birthday that's why she felt so sad. I wish she _____ a present on that unforgettable day.",
+      "image": null,
+      "passage": null,
+      "options": ["had been given", "would given", "gave", "were given"],
+      "answer": "A",
+      "explanation": "Wish about a past event: past perfect passive 'had been given'."
+    },
+    {
+      "id": 57,
+      "question": "There is no hope of _____ money for the research; we have searched all the means.",
+      "image": null,
+      "passage": null,
+      "options": ["to get", "get", "getting", "getting it"],
+      "answer": "C",
+      "explanation": "After 'hope of' we use gerund: 'getting money'. 'Getting it' would need antecedent; 'getting' is fine."
+    },
+    {
+      "id": 58,
+      "question": "He failed to submit his assignment on time, _____ he lost 10% of his marks.",
+      "image": null,
+      "passage": null,
+      "options": ["As a result", "Because", "However", "Then"],
+      "answer": "A",
+      "explanation": "As a result introduces a consequence. 'As a result' is correct."
+    },
+    {
+      "id": 59,
+      "question": "I wish I _____ a bigger car. Mine is too small.",
+      "image": null,
+      "passage": null,
+      "options": ["have", "would had", "had", "had had"],
+      "answer": "C",
+      "explanation": "Present wish: 'I wish I had a bigger car' (past subjunctive)."
+    },
+    {
+      "id": 60,
+      "question": "They would have been here hours ago if they had followed me. This means:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "They were around here.",
+        "They followed me.",
+        "They didn't follow me.",
+        "They are still here."
+      ],
+      "answer": "C",
+      "explanation": "Third conditional implies the contrary: they did not follow me, so they are not here."
+    },
+    {
+      "id": 61,
+      "question": "Some people prefer to work in teams, _____ others thrive in solitary environment.",
+      "image": null,
+      "passage": null,
+      "options": ["on the other hand", "therefore", "despite", "moreover"],
+      "answer": "A",
+      "explanation": "On the other hand shows contrast between two preferences."
+    },
+    {
+      "id": 62,
+      "question": "Dawit said to Hillina, 'Muna will leave for her native place tomorrow.'",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Dawit told Hillina that Muna will leave for her native place tomorrow.",
+        "Dawit told Hillina that Muna left for her native place the next day.",
+        "Dawit told Hillina that Muna would be leaving for her native place tomorrow.",
+        "Dawit told Hillina that Muna would leave for her native place the next day."
+      ],
+      "answer": "D",
+      "explanation": "Reported speech: 'will' becomes 'would', 'tomorrow' becomes 'the next day'. Option D is correct."
+    },
+    {
+      "id": 63,
+      "question": "_____ enough sleep is very important for good health.",
+      "image": null,
+      "passage": null,
+      "options": ["Getting", "Get", "Is getting", "To get"],
+      "answer": "A",
+      "explanation": "Gerund as subject: 'Getting enough sleep' is the subject."
+    },
+    {
+      "id": 64,
+      "question": "We _____ reduce the price if we wanted to sell our house.",
+      "image": null,
+      "passage": null,
+      "options": ["must", "would have to", "will have to", "had to"],
+      "answer": "B",
+      "explanation": "Present unreal conditional: 'if we wanted' (past subjunctive) requires 'would have to' in result."
+    },
+    {
+      "id": 65,
+      "question": "I wish I _____ so much at Bezi's party. Now I don't feel well.",
+      "image": null,
+      "passage": null,
+      "options": ["hadn't eaten", "don't eat", "didn't eat", "wouldn't eat"],
+      "answer": "A",
+      "explanation": "Wish about a past action: past perfect negative 'hadn't eaten'."
+    },
+    {
+      "id": 66,
+      "question": "Many countries are adopting renewable energy; _____, Germany has significantly increased its solar energy production.",
+      "image": null,
+      "passage": null,
+      "options": ["In conclusion", "for example", "consequently", "in addition"],
+      "answer": "B",
+      "explanation": "For example introduces an instance. Germany is an example of a country adopting renewable energy."
+    },
+    {
+      "id": 67,
+      "question": "It is difficult _____ why she left her job.",
+      "image": null,
+      "passage": null,
+      "options": ["knowing to", "to know", "knowing", "to knowing that"],
+      "answer": "B",
+      "explanation": "It is difficult + to infinitive: 'to know'."
+    },
+    {
+      "id": 68,
+      "question": "The flight was delayed due to the storm, _____ many passengers complained.",
+      "image": null,
+      "passage": null,
+      "options": ["For example", "As a result", "Although", "However"],
+      "answer": "B",
+      "explanation": "As a result shows consequence: delay led to complaints."
+    },
+    {
+      "id": 69,
+      "question": "It was a disgusting weekend; I _____ anything.",
+      "image": null,
+      "passage": null,
+      "options": ["didn't do no", "I don't do", "I didn't do", "I don't"],
+      "answer": "C",
+      "explanation": "Past simple negative: 'I didn't do anything' — but the option says 'I didn't do' without object? Actually option C is 'I didn't do' which is incomplete. Given options, C is the closest. The intended might be 'I didn't do anything' but not listed. Possibly 'I didn't do' is acceptable in context."
+    },
+    {
+      "id": 70,
+      "question": "He went outside _____ he could get some fresh air.",
+      "image": null,
+      "passage": null,
+      "options": ["so that", "although", "in order to", "so as"],
+      "answer": "A",
+      "explanation": "So that introduces a clause of purpose with 'could'. 'In order to' would need an infinitive, not a clause."
+    },
+    {
+      "id": 71,
+      "question": "Did you hear those dogs _____ most of the night?",
+      "image": null,
+      "passage": null,
+      "options": ["barked", "barking", "bark", "to bark"],
+      "answer": "B",
+      "explanation": "Hear + object + present participle (barking) for an action in progress. 'Hear dogs barking'."
+    },
+    {
+      "id": 72,
+      "question": "Seni: How long have you been using the internet in our school? Zufan: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I don't know how to use it.",
+        "For unlimited time I don't have a smart phone.",
+        "Since the beginning of the 1st semester.",
+        "Before I joined here I used to get the information."
+      ],
+      "answer": "C",
+      "explanation": "The question asks 'how long' — answer should be a duration or starting point. 'Since the beginning of the 1st semester' answers with a starting point."
+    },
+    {
+      "id": 73,
+      "question": "Siraj: _____ Semir: If it is available, let me have a toast bread.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "How do you like to get for breakfast?",
+        "What sort of bread do you like?",
+        "Is there a bread in your kitchen?",
+        "Do you have to invite me breakfast?"
+      ],
+      "answer": "A",
+      "explanation": "Semir responds about having toast bread. The question likely asks about breakfast preference. 'How do you like to get for breakfast?' is appropriate."
+    },
+    {
+      "id": 74,
+      "question": "Rosa: What do you think about his arrival? Girum: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I think he'll arrive on time",
+        "Arrivals are nowadays uncertain",
+        "May be arrive",
+        "I'm not sure he does"
+      ],
+      "answer": "A",
+      "explanation": "Girum gives an opinion about his arrival. 'I think he'll arrive on time' is a direct answer."
+    },
+    {
+      "id": 75,
+      "question": "Mesfin: Would you mind opening the door? Elsa: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Please open the door",
+        "Why don't you open the door",
+        "Yes, I don't mind",
+        "No, not at all"
+      ],
+      "answer": "D",
+      "explanation": "Polite response to 'Would you mind...?' meaning agreement: 'No, not at all' or 'Of course not.' Option D is correct."
+    },
+    {
+      "id": 76,
+      "question": "Caller: Hello, can I speak to Ato Geday, please? Receiver: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Don't call again",
+        "This is my phone number",
+        "I'm afraid you have got the wrong number",
+        "Your number is wrong, please change"
+      ],
+      "answer": "C",
+      "explanation": "If the caller has the wrong number, the receiver says 'I'm afraid you have the wrong number.'"
+    },
+    {
+      "id": 77,
+      "question": "Waiter: What will you have sir? Guest: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It doesn't matter. Don't repeat it again.",
+        "May I have a menu, please?",
+        "What do you mean? Anything to drink.",
+        "Nothing special"
+      ],
+      "answer": "B",
+      "explanation": "A polite guest would ask for a menu first. 'May I have a menu, please?' is appropriate."
+    },
+    {
+      "id": 78,
+      "question": "Besufikad: Will she do well in the language part? Alem: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Language is key to all subjects.",
+        "I doubt it. She doesn't like writing essays.",
+        "I don't think so, she is quite ingenious.",
+        "And in science"
+      ],
+      "answer": "B",
+      "explanation": "Alem gives an opinion: 'I doubt it' followed by reason 'She doesn't like writing essays.'"
+    },
+    {
+      "id": 79,
+      "question": "Customer: Do you have a changing room? Shop assistant: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "We don't change here",
+        "The rooms are too narrow",
+        "No, thank you",
+        "Certainly, it's over there"
+      ],
+      "answer": "D",
+      "explanation": "Positive answer: 'Certainly, it's over there' is helpful."
+    },
+    {
+      "id": 80,
+      "question": "Hany: Do you think it will rain today? Petros: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I guess so, because the sky is cloudy.",
+        "I don't think so, the clouds are so dark.",
+        "I think so, the sun still shines.",
+        "I'm sorry, but I can't agree with you."
+      ],
+      "answer": "A",
+      "explanation": "Petros gives reason: cloudy sky indicates rain. Option A is logical."
+    },
+    {
+      "id": 81,
+      "question": "Solomon: What do you think about the film? Ahmed: I think _____",
+      "image": null,
+      "passage": null,
+      "options": ["it good", "the film great", "it was very interesting", "it useless"],
+      "answer": "C",
+      "explanation": "Complete sentence: 'I think it was very interesting' is grammatically correct. The others are missing verbs or articles."
+    },
+    {
+      "id": 82,
+      "question": "Aster: I feel tired and dizzy. Alem: I think _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "you must sing",
+        "I must take some rests too",
+        "you should lie down and have some rest",
+        "you can see the doctor tonight"
+      ],
+      "answer": "C",
+      "explanation": "Giving advice: 'you should lie down and have some rest' is appropriate for tiredness and dizziness."
+    },
+    {
+      "id": 83,
+      "question": "Sisay: Have you ever heard that Natan and Dagmawit are getting married? Semegn: Oh, really? What a surprise. _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I'm very pleased to hear that",
+        "Of course, I heard about it",
+        "I don't really like her",
+        "It is not my business"
+      ],
+      "answer": "A",
+      "explanation": "After expressing surprise, a positive response 'I'm very pleased to hear that' is natural."
+    },
+    {
+      "id": 84,
+      "question": "Sam: Are you joining us for the movie tonight? Eva: I'm not sure yet. I might have some work to finish first. Sam: Well. _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "...you never want to join us.",
+        "...then don't bother coming.",
+        "...it's your call, but we'd love to have you.",
+        "...what movie are we even watching?"
+      ],
+      "answer": "C",
+      "explanation": "Sam politely gives Eva the choice: 'it's your call, but we'd love to have you.'"
+    },
+    {
+      "id": 85,
+      "question": "Teacher: You haven't submitted your assignment yet. Student: I'm sorry, I lost track of time. Teacher: In that case _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "...you can submit it tomorrow.",
+        "...there will be a penalty for late submission.",
+        "...don't submit it at all.",
+        "...you should manage your time better."
+      ],
+      "answer": "B",
+      "explanation": "Teacher sets a consequence for late submission: 'there will be a penalty.'"
+    },
+    {
+      "id": 86,
+      "question": "Friend 1: I can't believe we missed the train. Friend 2: _____ Friend 1: Fine, but let's not argue about this.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It's not my fault! You were late.",
+        "...you should have called me earlier.",
+        "...now we'll never get there in time.",
+        "...this always happens with you."
+      ],
+      "answer": "A",
+      "explanation": "Friend 2 blames Friend 1, leading to the response 'let's not argue'. Option A is a blaming statement."
+    },
+    {
+      "id": 87,
+      "question": "Manager: How's the progress on the project? Employee: _____ Manager: Alright, just make sure you don't let it fall behind further.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "...you're giving it your best effort.",
+        "...you inform the client about the delay.",
+        "It's coming along, but we're facing some delays.",
+        "...the budget isn't affected."
+      ],
+      "answer": "C",
+      "explanation": "Employee acknowledges delays, which leads to manager's warning about falling behind further."
+    },
+    {
+      "id": 88,
+      "question": "Chris: Why didn't you call me back? Jordan: I was swamped all day. Chris: Still, you could have _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "...someone else to call.",
+        "...made some time for me",
+        "...ignored my message.",
+        "...sent me a text at least."
+      ],
+      "answer": "D",
+      "explanation": "Chris suggests a minimal effort: 'sent me a text at least' is reasonable."
+    },
+    {
+      "id": 89,
+      "question": "Coworker: Can you cover for me tomorrow? You: I'll see what I can do. But _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "...you owe me one.",
+        "...why should I help you?",
+        "...it depends on my schedule.",
+        "...don't make it a habit."
+      ],
+      "answer": "C",
+      "explanation": "Polite response: 'it depends on my schedule' shows condition without being rude."
+    },
+    {
+      "id": 90,
+      "question": "Jane: Have you heard from Mia lately? Tom: No, I think she's been really busy. Jane: Maybe we should _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "...give her some space.",
+        "...invite her over for dinner.",
+        "...stop trying to reach her.",
+        "...send her a message to check in."
+      ],
+      "answer": "D",
+      "explanation": "Jane suggests a gentle action: 'send her a message to check in.'"
+    },
+    {
+      "id": 91,
+      "question": "Neighbor: 'Your dog keeps digging in my garden.' You: I'm really sorry about that. I'll make sure _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "...to keep him away from now on.",
+        "...he doesn't bother you again.",
+        "...to train him properly.",
+        "...he's punished for this."
+      ],
+      "answer": "A",
+      "explanation": "Most direct solution: 'to keep him away from now on.'"
+    },
+    {
+      "id": 92,
+      "question": "Shopkeeper: Would you like a bag for your groceries? Customer: No, thank you. I brought my own. Shopkeeper: Great! _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "That's very eco-friendly of you.",
+        "You've spent my money.",
+        "Many people do that these days.",
+        "It is not my business?"
+      ],
+      "answer": "A",
+      "explanation": "Shopkeeper compliments customer: 'That's very eco-friendly of you.'"
+    },
+    {
+      "id": 93,
+      "question": "Coworker: Do you want to grab lunch together? You: I'd love to, but I have a meeting. Maybe _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "...another time?",
+        "...you could bring lunch back for me?",
+        "...we can eat quickly?",
+        "...I'll cancel the meeting?"
+      ],
+      "answer": "A",
+      "explanation": "Polite suggestion for future: 'Maybe another time?'"
+    },
+    {
+      "id": 94,
+      "question": "The children were delighted by the magician's tricks. (Underlined: delighted)",
+      "image": null,
+      "passage": null,
+      "options": ["Thrilled", "Bored", "Confused", "Angry"],
+      "answer": "A",
+      "explanation": "Delighted means very pleased. 'Thrilled' is a synonym."
+    },
+    {
+      "id": 95,
+      "question": "She swiftly completed her homework before going out to play. (Underlined: swiftly)",
+      "image": null,
+      "passage": null,
+      "options": ["Slowly", "quickly", "Lazily", "Hesitantly"],
+      "answer": "B",
+      "explanation": "Swiftly means quickly."
+    },
+    {
+      "id": 96,
+      "question": "The movie was very captivating, and the audience loved it. (Underlined: captivating)",
+      "image": null,
+      "passage": null,
+      "options": ["Boring", "Interesting", "Confusing", "Predictable"],
+      "answer": "B",
+      "explanation": "Captivating means very interesting or engaging."
+    },
+    {
+      "id": 97,
+      "question": "He was exhausted after working all day in the garden. (Underlined: exhausted)",
+      "image": null,
+      "passage": null,
+      "options": ["Energetic", "Tired", "Refreshed", "Relaxed"],
+      "answer": "B",
+      "explanation": "Exhausted means extremely tired."
+    },
+    {
+      "id": 98,
+      "question": "She stubbornly refused to listen to anyone's advice. (Underlined: stubbornly)",
+      "image": null,
+      "passage": null,
+      "options": ["Willingly", "Reluctantly", "Obstinately", "Kindly"],
+      "answer": "C",
+      "explanation": "Stubbornly means obstinately, refusing to change."
+    },
+    {
+      "id": 99,
+      "question": "The lecture was tedious, causing many students to lose focus. (Underlined: tedious)",
+      "image": null,
+      "passage": null,
+      "options": ["dull", "fascinating", "enlightening", "complex"],
+      "answer": "A",
+      "explanation": "Tedious means boring and dull."
+    },
+    {
+      "id": 100,
+      "question": "The manager's decision was considered prudent, ensuring the company avoided unnecessary risks. (Underlined: prudent)",
+      "image": null,
+      "passage": null,
+      "options": ["reckless", "thoughtless", "cautious", "spontaneous"],
+      "answer": "C",
+      "explanation": "Prudent means wise and cautious."
+    },
+    {
+      "id": 101,
+      "question": "The professor's explanation was so _____ that all the students understood the topic clearly.",
+      "image": null,
+      "passage": null,
+      "options": ["complicated", "simple", "confusing", "puzzling"],
+      "answer": "B",
+      "explanation": "If students understood clearly, the explanation was simple."
+    },
+    {
+      "id": 102,
+      "question": "The team celebrated their _____ after winning the championship game.",
+      "image": null,
+      "passage": null,
+      "options": ["disappointment", "failure", "success", "frustration"],
+      "answer": "C",
+      "explanation": "Winning brings success, so they celebrate success."
+    },
+    {
+      "id": 103,
+      "question": "The research results were _____ in a scientific journal for others to review.",
+      "image": null,
+      "passage": null,
+      "options": ["hidden", "published", "ignored", "confused"],
+      "answer": "B",
+      "explanation": "Results are published in a journal."
+    },
+    {
+      "id": 104,
+      "question": "The teacher's _____ comments helped the students improve their writing skills.",
+      "image": null,
+      "passage": null,
+      "options": ["criticizing", "encouraging", "unhelpful", "indifferent"],
+      "answer": "B",
+      "explanation": "Encouraging comments help improvement."
+    },
+    {
+      "id": 105,
+      "question": "The manager gave _____ instructions to ensure the project was completed on time.",
+      "image": null,
+      "passage": null,
+      "options": ["vague", "inaccurate", "clear", "unfocused"],
+      "answer": "C",
+      "explanation": "Clear instructions help complete on time."
+    },
+    {
+      "id": 106,
+      "question": "Stop complaining and _____ your work!",
+      "image": null,
+      "passage": null,
+      "options": ["get on with", "get over", "get in", "get down"],
+      "answer": "A",
+      "explanation": "Get on with means continue or start doing."
+    },
+    {
+      "id": 107,
+      "question": "I thought I would _____ for a cup of coffee. Is that okay?",
+      "image": null,
+      "passage": null,
+      "options": ["drop off", "drop in", "drop over", "drop out"],
+      "answer": "B",
+      "explanation": "Drop in means visit informally."
+    },
+    {
+      "id": 108,
+      "question": "The boss wants you to _____ your figures for this month to him.",
+      "image": null,
+      "passage": null,
+      "options": ["hand out", "hand over", "hand in", "hand off"],
+      "answer": "C",
+      "explanation": "Hand in means submit."
+    },
+    {
+      "id": 109,
+      "question": "Easy: simple; Effortless: _____",
+      "image": null,
+      "passage": null,
+      "options": ["Straightforward", "Difficult", "Challenging", "Horrible"],
+      "answer": "A",
+      "explanation": "Easy is synonymous with simple; effortless is synonymous with straightforward (requiring no effort)."
+    },
+    {
+      "id": 110,
+      "question": "Rock: Heavy; Feather: _____",
+      "image": null,
+      "passage": null,
+      "options": ["Light", "Fast", "Rich", "Hard"],
+      "answer": "A",
+      "explanation": "Rock is heavy; feather is light (opposite)."
+    },
+    {
+      "id": 111,
+      "question": "Find the odd one out from the given options.",
+      "image": null,
+      "passage": null,
+      "options": ["Doctor: Patient", "Painter: Paintbrush", "Teacher: Students", "Shopkeepers: Custom"],
+      "answer": "B",
+      "explanation": "Doctor treats patient; teacher teaches students; shopkeeper serves customers. Painter uses paintbrush as a tool, not a relationship of service. So painter:paintbrush is different."
+    },
+    {
+      "id": 112,
+      "question": "Had I known about the traffic, I would have left earlier. What is the message of the sentence?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I didn't know about the traffic and arrived late.",
+        "I knew about the traffic and left on time.",
+        "I would have arrived early if there had been no traffic.",
+        "I didn't need to worry about traffic."
+      ],
+      "answer": "A",
+      "explanation": "The sentence implies that because I didn't know about traffic, I didn't leave earlier, so I arrived late."
+    },
+    {
+      "id": 113,
+      "question": "I wish it weren't so cold today; I would go for a walk.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I enjoy the cold weather and went for a walk.",
+        "I love walking, regardless of the weather.",
+        "The cold weather stopped me from going for a walk.",
+        "It is warm, so I went for a walk."
+      ],
+      "answer": "C",
+      "explanation": "The wish expresses that the cold prevents walking, so the cold stopped me."
+    },
+    {
+      "id": 114,
+      "question": "Despite studying all night, he didn't pass the exam.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "He passed the exam because he studied all night.",
+        "He studied hard but still didn't pass the exam.",
+        "He didn't study at all and failed the exam.",
+        "He didn't study but still passed the exam."
+      ],
+      "answer": "B",
+      "explanation": "Despite studying all night indicates he studied hard, yet he failed. Option B captures that."
+    },
+    {
+      "id": 115,
+      "question": "'To make coffee first wash the coffee beans and roast them next, grind the roasted coffee beans with mortar and pestle and then add the coffee flour to the boiling water in a kettle.' This extract is most likely taken from:",
+      "image": null,
+      "passage": null,
+      "options": ["narrative", "expository", "argumentative", "descriptive"],
+      "answer": "B",
+      "explanation": "It gives step-by-step instructions (process), which is expository writing."
+    },
+    {
+      "id": 116,
+      "question": "'I was hurrying across the campus to get to a class. As it had rained heavily all morning, I had to cross the path full of flood. After some minutes walk, I called to two friends...' This extract is most likely taken from:",
+      "image": null,
+      "passage": null,
+      "options": ["narrative", "descriptive", "expository", "argumentative"],
+      "answer": "A",
+      "explanation": "It tells a story with a sequence of events, so narrative."
+    },
+    {
+      "id": 117,
+      "question": "'... However, it would be a serious mistake to replace libraries with tablets. First, digital books and resources are associated with less learning and more problems than print resources...' This is most likely taken from:",
+      "image": null,
+      "passage": null,
+      "options": ["Descriptive", "expository", "argumentative", "narrative"],
+      "answer": "C",
+      "explanation": "The author argues against replacing libraries with tablets, so argumentative writing."
+    },
+    {
+      "id": 118,
+      "question": "Choose the correctly punctuated sentence.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "While walking to the store, John saw his friend, who was riding a bike.",
+        "While walking to the store John, saw his friend who, was riding a bike.",
+        "While, walking to the store John saw, his friend who was riding, a bike.",
+        "While walking to the store John saw his friend who was riding a bike."
+      ],
+      "answer": "A",
+      "explanation": "Option A has correct commas: after introductory phrase, and around the non-restrictive clause 'who was riding a bike.'"
+    },
+    {
+      "id": 119,
+      "question": "Choose the correctly punctuated sentence.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "\"I don't think she will come,\" said Mark, \"even though she promised.\"",
+        "I don't think she will come said, Mark even though she promised.",
+        "I don't think she will come, said Mark, even though she promised.",
+        "\"I don't think she will come\" said Mark even though she promised."
+      ],
+      "answer": "A",
+      "explanation": "Correct quotation punctuation: comma after 'come' inside quotes, then 'said Mark', then comma, then continued quote with lowercase 'even'."
+    },
+    {
+      "id": 120,
+      "question": "Choose the correctly punctuated sentence.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The store sells apples, bananas, oranges and pears.",
+        "The store sells apples, bananas, oranges, and pears.",
+        "The store sells, apples bananas, oranges and, pears.",
+        "The store sells apples bananas, oranges, and pears."
+      ],
+      "answer": "B",
+      "explanation": "Option B uses the Oxford comma (optional but correct). Both A and B are acceptable, but B is more standard in many tests. Option A is also correct but missing the comma before 'and' in some styles. The test likely expects B."
+    }
+  ]
+}

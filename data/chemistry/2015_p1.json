@@ -118,7 +118,7 @@
     {
       "id": 9,
       "question": "The sum of the number of electron, proton and neutron in ⁵⁶₂₆Fe is",
-      "image": "./images/2015_p1_q9.png",
+      "image": null,
       "passage": null,
       "options": [
         "26",
@@ -215,8 +215,8 @@
     },
     {
       "id": 16,
-      "question": "How many 3d electrons are present in the ground state of Fe?",
-      "image": "./images/2015_p1_q16.png",
+      "question": "How many 3d electrons are present in the ground state of Cr?",
+      "image": null,
       "passage": null,
       "options": [
         "4",

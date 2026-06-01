@@ -1,0 +1,112 @@
+{
+  "subject": "Biology",
+  "year": "2015 E.C",
+  "paper": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is the basic unit of life?",
+      "options": ["Tissue", "Cell", "Organ", "Organ system"],
+      "answer": "B",
+      "explanation": "The cell is considered the basic structural and functional unit of life. All living organisms are composed of one or more cells, as stated by the cell theory."
+    },
+    {
+      "id": 2,
+      "question": "Which organelle is known as the 'powerhouse of the cell'?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"],
+      "answer": "C",
+      "explanation": "Mitochondria are called the powerhouse of the cell because they produce ATP through oxidative phosphorylation, which is the primary energy currency of the cell."
+    },
+    {
+      "id": 3,
+      "question": "The process by which green plants make their own food using sunlight is called:",
+      "options": ["Respiration", "Photosynthesis", "Fermentation", "Transpiration"],
+      "answer": "B",
+      "explanation": "Photosynthesis is the process by which green plants convert light energy into chemical energy (glucose) using carbon dioxide and water, releasing oxygen as a byproduct."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT a function of the liver?",
+      "options": ["Detoxification", "Bile production", "Insulin production", "Protein synthesis"],
+      "answer": "C",
+      "explanation": "Insulin is produced by the beta cells of the pancreas, not the liver. The liver performs detoxification, bile production, protein synthesis, and many other vital functions."
+    },
+    {
+      "id": 5,
+      "question": "The genetic material in a virus can be:",
+      "options": ["Only DNA", "Only RNA", "Either DNA or RNA, but not both", "Both DNA and RNA simultaneously"],
+      "answer": "C",
+      "explanation": "Viruses contain either DNA or RNA as their genetic material, but never both. This distinguishes them from cellular organisms which always have both."
+    },
+    {
+      "id": 6,
+      "question": "Which blood group is known as the universal donor?",
+      "options": ["Group A", "Group B", "Group AB", "Group O"],
+      "answer": "D",
+      "explanation": "Blood group O negative is the universal donor because it has no A, B antigens or Rh factor, so it will not cause an immune reaction when transfused into recipients of any blood type."
+    },
+    {
+      "id": 7,
+      "question": "The number of chromosomes in a human somatic cell is:",
+      "options": ["23", "44", "46", "48"],
+      "answer": "C",
+      "explanation": "Human somatic (body) cells contain 46 chromosomes arranged in 23 pairs. Of these, 22 pairs are autosomes and one pair consists of sex chromosomes (XX or XY)."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a characteristic of enzymes?",
+      "options": ["They are consumed in reactions", "They speed up reactions", "They change the equilibrium", "They work at any temperature"],
+      "answer": "B",
+      "explanation": "Enzymes are biological catalysts that speed up chemical reactions without being consumed. They lower the activation energy but do not change the equilibrium of a reaction."
+    },
+    {
+      "id": 9,
+      "question": "The stage of mitosis in which chromosomes align at the cell equator is:",
+      "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+      "answer": "B",
+      "explanation": "During metaphase, chromosomes line up at the metaphase plate (cell equator) with spindle fibers attached to their centromeres, preparing for separation."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following organisms is a protozoan?",
+      "options": ["Bacteria", "Amoeba", "Yeast", "Mushroom"],
+      "answer": "B",
+      "explanation": "Amoeba is a protozoan — a single-celled eukaryotic organism. Bacteria are prokaryotes, yeast is a fungus (single-celled), and mushrooms are multicellular fungi."
+    },
+    {
+      "id": 11,
+      "question": "The hormone responsible for the fight-or-flight response is:",
+      "options": ["Insulin", "Thyroxine", "Adrenaline", "Estrogen"],
+      "answer": "C",
+      "explanation": "Adrenaline (epinephrine) is produced by the adrenal medulla and triggers the fight-or-flight response, increasing heart rate, blood pressure, and energy availability."
+    },
+    {
+      "id": 12,
+      "question": "Which structure in the ear is responsible for maintaining balance?",
+      "options": ["Cochlea", "Eardrum", "Semicircular canals", "Ossicles"],
+      "answer": "C",
+      "explanation": "The semicircular canals in the inner ear contain fluid and hair cells that detect head movement and help maintain balance and spatial orientation."
+    },
+    {
+      "id": 13,
+      "question": "In the human digestive system, protein digestion begins in the:",
+      "options": ["Mouth", "Stomach", "Small intestine", "Large intestine"],
+      "answer": "B",
+      "explanation": "Protein digestion begins in the stomach where the enzyme pepsin (activated from pepsinogen by hydrochloric acid) breaks down proteins into smaller polypeptides."
+    },
+    {
+      "id": 14,
+      "question": "The phenomenon where some bacteria survive after antibiotic treatment is called:",
+      "options": ["Adaptation", "Antibiotic resistance", "Immunity", "Mutation"],
+      "answer": "B",
+      "explanation": "Antibiotic resistance occurs when bacteria evolve mechanisms to withstand the effects of antibiotics, allowing them to survive and multiply despite treatment."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is an example of mutualism?",
+      "options": ["A tick on a dog", "Barnacles on a whale", "Bees and flowers", "A lion and a zebra"],
+      "answer": "C",
+      "explanation": "Mutualism is a relationship where both organisms benefit. Bees get nectar from flowers while flowers get pollinated — both species benefit from the interaction."
+    }
+  ]
+}

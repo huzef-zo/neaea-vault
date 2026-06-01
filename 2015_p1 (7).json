@@ -1,0 +1,112 @@
+{
+  "subject": "Chemistry",
+  "year": "2015 E.C",
+  "paper": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the atomic number of an element with 11 protons?",
+      "options": ["10", "11", "12", "23"],
+      "answer": "B",
+      "explanation": "The atomic number of an element equals the number of protons in its nucleus. An element with 11 protons has atomic number 11, which corresponds to sodium (Na)."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a noble gas?",
+      "options": ["Oxygen", "Nitrogen", "Neon", "Chlorine"],
+      "answer": "C",
+      "explanation": "Neon is a noble gas (Group 18). Noble gases have completely filled outer electron shells, making them chemically inert and stable."
+    },
+    {
+      "id": 3,
+      "question": "The pH of a neutral solution at 25\u00b0C is:",
+      "options": ["0", "5", "7", "14"],
+      "answer": "C",
+      "explanation": "At 25\u00b0C, a neutral solution has a pH of 7, meaning the concentration of H+ ions equals the concentration of OH- ions at 1.0 x 10^-7 M."
+    },
+    {
+      "id": 4,
+      "question": "Which type of bond involves the sharing of electrons?",
+      "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"],
+      "answer": "B",
+      "explanation": "A covalent bond forms when two atoms share one or more pairs of electrons. This is typical between nonmetal atoms that need to complete their outer shells."
+    },
+    {
+      "id": 5,
+      "question": "The molar mass of water (H2O) is approximately:",
+      "options": ["16 g/mol", "18 g/mol", "20 g/mol", "34 g/mol"],
+      "answer": "B",
+      "explanation": "H2O has 2 hydrogen atoms (2 x 1 = 2 g/mol) and 1 oxygen atom (16 g/mol), giving a total molar mass of 2 + 16 = 18 g/mol."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an exothermic reaction?",
+      "options": ["Photosynthesis", "Melting of ice", "Combustion of fuel", "Evaporation of water"],
+      "answer": "C",
+      "explanation": "Combustion is exothermic because it releases heat energy to the surroundings. The other processes listed are endothermic, absorbing heat from the surroundings."
+    },
+    {
+      "id": 7,
+      "question": "What is the oxidation state of manganese in KMnO4?",
+      "options": ["+2", "+4", "+6", "+7"],
+      "answer": "D",
+      "explanation": "In KMnO4: K is +1, each O is -2 (total -8). The compound is neutral, so +1 + Mn + 4(-2) = 0, giving Mn = +7."
+    },
+    {
+      "id": 8,
+      "question": "Which gas is produced when an acid reacts with a metal?",
+      "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+      "answer": "C",
+      "explanation": "When an acid reacts with a metal, hydrogen gas is produced. For example: Zn + 2HCl -> ZnCl2 + H2. This is a displacement reaction."
+    },
+    {
+      "id": 9,
+      "question": "The process of converting a liquid to a gas is called:",
+      "options": ["Condensation", "Evaporation", "Sublimation", "Deposition"],
+      "answer": "B",
+      "explanation": "Evaporation (or vaporization) is the process by which molecules in a liquid state gain enough energy to enter the gaseous state."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is an alkaline earth metal?",
+      "options": ["Sodium", "Calcium", "Aluminum", "Iron"],
+      "answer": "B",
+      "explanation": "Calcium is an alkaline earth metal in Group 2 of the periodic table. Sodium is an alkali metal (Group 1), aluminum is in Group 13, and iron is a transition metal."
+    },
+    {
+      "id": 11,
+      "question": "Avogadro's number is approximately:",
+      "options": ["6.022 x 10^20", "6.022 x 10^22", "6.022 x 10^23", "6.022 x 10^24"],
+      "answer": "C",
+      "explanation": "Avogadro's number is 6.022 x 10^23, which represents the number of particles (atoms, molecules, ions) in one mole of any substance."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is a hydrocarbon?",
+      "options": ["Ethanol", "Methane", "Glucose", "Acetic acid"],
+      "answer": "B",
+      "explanation": "Methane (CH4) is a hydrocarbon — containing only carbon and hydrogen atoms. Ethanol, glucose, and acetic acid all contain oxygen in addition to carbon and hydrogen."
+    },
+    {
+      "id": 13,
+      "question": "The rate of a chemical reaction can be increased by:",
+      "options": ["Decreasing temperature", "Decreasing concentration", "Adding a catalyst", "Increasing particle size"],
+      "answer": "C",
+      "explanation": "A catalyst increases the rate of a chemical reaction by providing an alternative pathway with lower activation energy, without being consumed in the process."
+    },
+    {
+      "id": 14,
+      "question": "In the periodic table, elements in the same group have:",
+      "options": ["Same atomic number", "Same number of shells", "Similar chemical properties", "Same atomic mass"],
+      "answer": "C",
+      "explanation": "Elements in the same group (vertical column) have the same number of valence electrons, which gives them similar chemical properties."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a strong acid?",
+      "options": ["Acetic acid", "Carbonic acid", "Hydrochloric acid", "Phosphoric acid"],
+      "answer": "C",
+      "explanation": "Hydrochloric acid (HCl) is a strong acid that completely dissociates in water. Acetic, carbonic, and phosphoric acids are weak acids that only partially dissociate."
+    }
+  ]
+}

@@ -1,0 +1,861 @@
+{
+  "subject": "Chemistry",
+  "year": "2017 E.C",
+  "paper": 4,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following statements belongs to the limitation of Dalton's atomic theory?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "An element is made up of smaller particle called atom",
+        "Atoms are made up of protons, neutrons and electrons",
+        "Atoms of the same element may have the same mass and properties",
+        "Atoms can neither be created nor destroyed during an ordinary chemical reaction"
+      ],
+      "answer": "B",
+      "explanation": "Dalton's theory stated atoms are indivisible. The discovery that atoms are made of subatomic particles (protons, neutrons, electrons) is a limitation. Option B describes this limitation."
+    },
+    {
+      "id": 2,
+      "question": "Which observation led J.J. Thomson to propose the 'plum pudding' model of the atom?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Measurement of electron charge using the oil drop experiment",
+        "Emission of X-rays by atoms",
+        "Deflection of alpha particles by gold foil",
+        "Discovery of electrons in cathode rays"
+      ],
+      "answer": "D",
+      "explanation": "Thomson's cathode ray experiments showed that electrons are negatively charged particles present in all atoms, leading to the plum pudding model where electrons are embedded in a positive sphere."
+    },
+    {
+      "id": 3,
+      "question": "According to modern atomic theory, which of the following subatomic particles is responsible for the atomic number of an element?",
+      "image": null,
+      "passage": null,
+      "options": ["Protons", "Nucleons", "Neutrons", "Electrons"],
+      "answer": "A",
+      "explanation": "Atomic number (Z) equals the number of protons in the nucleus. Protons determine the element's identity."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following types of radioactive decays involves the emission of a particle consisting of two protons and two neutrons?",
+      "image": null,
+      "passage": null,
+      "options": ["Gamma decay", "Positron emission", "Alpha decay", "Beta decay"],
+      "answer": "C",
+      "explanation": "Alpha decay emits an alpha particle (²He⁴), which contains 2 protons and 2 neutrons."
+    },
+    {
+      "id": 5,
+      "question": "An atom of nitrogen has three unpaired electrons in its ground state. Which of the following statements is correct about nitrogen?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It has a higher ionization energy than carbon.",
+        "It can form only one type of ion.",
+        "It is a noble gas."
+      ],
+      "answer": "A",
+      "explanation": "Nitrogen (Z=7) has electron configuration 1s²2s²2p³. It has a higher ionization energy than carbon due to greater nuclear charge and stable half-filled p subshell."
+    },
+    {
+      "id": 6,
+      "question": "What is the electronic configuration of the Fe³⁺ ion? (Fe = 26)",
+      "image": null,
+      "passage": null,
+      "options": ["[Ar] 4s¹ 3d⁵", "[Ar] 3d⁵", "[Ar] 3d⁵", "[Ar] 4s² 3d⁴"],
+      "answer": "B",
+      "explanation": "Fe atom: [Ar] 4s² 3d⁶. Fe³⁺ loses three electrons: first from 4s, then two from 3d → [Ar] 3d⁵."
+    },
+    {
+      "id": 7,
+      "question": "'The atom has a small, dense, positively charged nucleus around which electrons rotate at high speed and relatively long distance from it'. This postulate is according to which model of the atom?",
+      "image": null,
+      "passage": null,
+      "options": ["Rutherford's", "Thomson's", "Bohr's", "Dalton's"],
+      "answer": "A",
+      "explanation": "Rutherford's nuclear model described a tiny, dense, positively charged nucleus with electrons orbiting around it."
+    },
+    {
+      "id": 8,
+      "question": "Unknown element X has a valence shell electron configuration of 3s²3p⁵. Which of the following is true about element X?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It is stable and belongs to period 7",
+        "It forms a compound with others by losing electrons",
+        "It belongs to a class of noble gases",
+        "It belongs to group VIIA and period 3"
+      ],
+      "answer": "D",
+      "explanation": "3s²3p⁵ indicates period 3, group VIIA (halogens). It gains one electron to form negative ion."
+    },
+    {
+      "id": 9,
+      "question": "Which properties of elements increase across a period in the periodic table?",
+      "image": null,
+      "passage": null,
+      "options": ["Number of shells", "Electronegativity", "Metallic character", "Atomic size"],
+      "answer": "B",
+      "explanation": "Across a period, electronegativity increases due to greater nuclear charge and smaller atomic radius. Metallic character and atomic size decrease; number of shells remains constant."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is not true about cathode rays? Cathode rays",
+      "image": null,
+      "passage": null,
+      "options": [
+        "contains particles which are positively charged particles",
+        "has the smallest charge to mass ratio",
+        "travel in straight lines",
+        "are the common constituents of all matter"
+      ],
+      "answer": "A",
+      "explanation": "Cathode rays are streams of electrons (negatively charged), not positively charged. So option A is false."
+    },
+    {
+      "id": 11,
+      "question": "Which one of the following electromagnetic radiations has the highest frequency?",
+      "image": null,
+      "passage": null,
+      "options": ["UV rays", "Microwaves", "X-rays", "Gamma rays"],
+      "answer": "D",
+      "explanation": "Gamma rays have the highest frequency and shortest wavelength in the electromagnetic spectrum."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following represents an acceptable or possible set of quantum numbers (in the order n, l, ml, ms) for an electron in an atom?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "3,1,-1,+1/2",
+        "3,0,2,-1/2",
+        "3,2,0,0",
+        "3,0,2,+1/2"
+      ],
+      "answer": "A",
+      "explanation": "For n=3, l can be 0,1,2. For l=1, ml can be -1,0,+1. ms is ±½. Option A: 3,1,-1,+½ is allowed. Option B: ml=2 requires l≥2 but l=0, so invalid. Option C: ms cannot be 0. Option D: ml=2 requires l≥2 but l=0, invalid."
+    },
+    {
+      "id": 13,
+      "question": "Which property of elements increases both as you move from left to right across a period and from bottom to top within a group?",
+      "image": null,
+      "passage": null,
+      "options": ["Metallic character", "Nuclear charge", "Atomic radius", "Electronegativity"],
+      "answer": "D",
+      "explanation": "Electronegativity increases across a period (left to right) and decreases down a group (increases from bottom to top). So it increases both in those directions."
+    },
+    {
+      "id": 14,
+      "question": "To which group and period of the periodic table does the element with the electron configuration [Ar] 4s² 3d¹⁰ 4p³ belong?",
+      "image": null,
+      "passage": null,
+      "options": ["Group 15, Period 3", "Group 3, Period 5", "Group 5, Period 4", "Group 4, Period 3"],
+      "answer": "C",
+      "explanation": "The configuration ends with 4p³, so it is in p-block, group 15 (5 valence electrons), period 4."
+    },
+    {
+      "id": 15,
+      "question": "Which of these elements has the highest second ionization energy?",
+      "image": null,
+      "passage": null,
+      "options": ["Magnesium (Mg)", "Silicon (Si)", "Sodium (Na)", "Aluminum (Al)"],
+      "answer": "C",
+      "explanation": "Sodium (Na) has electron config [Ne]3s¹. First IE removes 3s¹ easily, second IE removes an electron from stable neon core, requiring very high energy. So second IE of Na is highest among these."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following statements is correct according to Ernest Rutherford's famous Gold Foil Experiment?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Most alpha particles passed straight through, with a few deflected at large angles.",
+        "All alpha particles were absorbed by the foil.",
+        "All alpha particles passed straight through the gold foil.",
+        "Most alpha particles were deflected at large angles."
+      ],
+      "answer": "A",
+      "explanation": "Most alpha particles passed through undeflected, a few were deflected at large angles, and very few bounced back. This led to the nuclear model."
+    },
+    {
+      "id": 17,
+      "question": "Which scientist is known for formulating the uncertainty principle, which states that the position and momentum of a particle cannot both be known exactly at the same time?",
+      "image": null,
+      "passage": null,
+      "options": ["Niels Bohr", "Erwin Schrödinger", "Albert Einstein", "Werner Heisenberg"],
+      "answer": "D",
+      "explanation": "Werner Heisenberg proposed the Heisenberg Uncertainty Principle."
+    },
+    {
+      "id": 18,
+      "question": "In the quantum mechanical model, the azimuthal quantum number for an electron in a 4f orbital is",
+      "image": null,
+      "passage": null,
+      "options": ["3", "4", "1", "5"],
+      "answer": "A",
+      "explanation": "For f orbitals, l = 3. The principal quantum number n=4 does not affect l; f means l=3."
+    },
+    {
+      "id": 19,
+      "question": "Which quantum number determines the orientation of an orbital in space?",
+      "image": null,
+      "passage": null,
+      "options": ["Azimuthal quantum number", "Spin quantum number", "Principal quantum number", "Magnetic quantum number"],
+      "answer": "D",
+      "explanation": "The magnetic quantum number (m_l) specifies the orientation of an orbital in space."
+    },
+    {
+      "id": 20,
+      "question": "According to Hund's Rule, when electrons occupy orbitals of equal energy, they will",
+      "image": null,
+      "passage": null,
+      "options": [
+        "fill each orbital singly with parallel spins before pairing",
+        "fill orbitals in random order regardless of spin",
+        "pair up in each orbital first before occupying the next",
+        "fill the lowest energy orbital available"
+      ],
+      "answer": "A",
+      "explanation": "Hund's rule: electrons occupy degenerate orbitals singly with parallel spins before pairing."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following series in the hydrogen atom's emission spectrum falls in the infrared region?",
+      "image": null,
+      "passage": null,
+      "options": ["Balmer series", "Brackett series", "Lyman series", "Paschen series"],
+      "answer": "D",
+      "explanation": "Paschen series (n=3 to higher) lies in the infrared. Lyman is UV, Balmer is visible, Brackett is also infrared but Paschen is the first infrared series."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following factors does NOT affect the kinetic energy of photoelectrons in the photoelectric effect?",
+      "image": null,
+      "passage": null,
+      "options": ["Work function of the material", "Frequency of incident light", "Wavelength of the incident light", "Intensity of incident light"],
+      "answer": "D",
+      "explanation": "Kinetic energy depends on photon energy (hν) minus work function. Frequency (or wavelength) affects it, but intensity (number of photons) affects number of ejected electrons, not their max KE."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following statements best explains why a red light has a lower frequency than a blue light?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Red light contains more photons than blue light.",
+        "Red light undergoes greater refraction in a vacuum.",
+        "Red light travels slower than blue light.",
+        "Red light has a longer wavelength than blue light."
+      ],
+      "answer": "D",
+      "explanation": "Frequency is inversely proportional to wavelength (c = λν). Red light has longer wavelength, thus lower frequency than blue."
+    },
+    {
+      "id": 24,
+      "question": "When comparing infrared (IR) and ultraviolet (UV) radiation, which of the following is true?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "IR has a shorter wavelength and higher energy than UV radiation.",
+        "Both IR and UV have the same frequency but different energies.",
+        "IR has a higher frequency than UV radiation.",
+        "IR has a longer wavelength and lower frequency than UV radiation."
+      ],
+      "answer": "D",
+      "explanation": "IR has longer wavelength and lower frequency than UV. Energy is proportional to frequency, so UV has higher energy."
+    },
+    {
+      "id": 25,
+      "question": "How does the energy of a photon relate to its wavelength in the electromagnetic spectrum?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Energy decreases as wavelength increases.",
+        "Energy is highest in visible light and lowest in gamma rays.",
+        "Energy increases with increasing wavelength.",
+        "Energy is independent of wavelength."
+      ],
+      "answer": "A",
+      "explanation": "E = hc/λ, so energy is inversely proportional to wavelength. As wavelength increases, energy decreases."
+    },
+    {
+      "id": 26,
+      "question": "What is the wavelength of light (nm) that has a frequency 4.62 × 10¹⁴ s⁻¹?",
+      "image": null,
+      "passage": null,
+      "options": ["1.39×10²³", "3.06×10⁻¹⁹", "1.54×10⁻³", "649"],
+      "answer": "D",
+      "explanation": "λ = c/ν = (3.00×10⁸ m/s) / (4.62×10¹⁴ s⁻¹) = 6.49×10⁻⁷ m = 649 nm."
+    },
+    {
+      "id": 27,
+      "question": "The energy of a photon in joule that has a wavelength of 12.3 nm is _____ J.",
+      "image": null,
+      "passage": null,
+      "options": ["1.62×10⁻¹⁷", "1.99×10⁻²⁵", "2.72×10⁻⁵⁰", "4.42×10⁻²³"],
+      "answer": "A",
+      "explanation": "E = hc/λ = (6.626×10⁻³⁴ × 3.00×10⁸) / (12.3×10⁻⁹) = (1.9878×10⁻²⁵) / (1.23×10⁻⁸) = 1.616×10⁻¹⁷ J ≈ 1.62×10⁻¹⁷ J."
+    },
+    {
+      "id": 28,
+      "question": "Which one of the following represents an impossible set of quantum numbers for an electron in an atom? (arranged as n, l, ml, ms)",
+      "image": null,
+      "passage": null,
+      "options": ["1,0,0,1/2", "3,3,3,1/2", "2,1,1,1/2", "5,4,3,1/2"],
+      "answer": "B",
+      "explanation": "l must be ≤ n-1. For n=3, l can be 0,1,2 only. l=3 is not allowed. So set 3,3,3,½ is impossible."
+    },
+    {
+      "id": 29,
+      "question": "The n = 5 to n = 3 transition in the Bohr hydrogen atom corresponds to the _____ of a photon with a wavelength of _____ nm.",
+      "image": null,
+      "passage": null,
+      "options": ["emission, 657", "absorption, 1270", "absorption, 657", "emission, 1280"],
+      "answer": "D",
+      "explanation": "Transition from higher to lower energy level emits a photon. The wavelength for n=5→3 is in the infrared region (~1280 nm). So emission, 1280 nm."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following statements is correct regarding the maximum number of electrons that can be present in an orbital characterized by the quantum numbers n = 4 and m = +1?",
+      "image": null,
+      "passage": null,
+      "options": ["10", "14", "2", "6"],
+      "answer": "C",
+      "explanation": "An orbital is defined by n, l, and m_l. One orbital can hold a maximum of 2 electrons (Pauli exclusion principle)."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following statements is correct regarding the maximum number of electrons that can be present in an orbital characterized by the quantum numbers n = 4 and l = 2?",
+      "image": null,
+      "passage": null,
+      "options": ["10", "14", "2", "6"],
+      "answer": "C",
+      "explanation": "Again, an orbital (specific set of n, l, m_l) holds at most 2 electrons. The question says 'an orbital characterized by n=4 and l=2' – but that describes a subshell (d), not a single orbital. However, the wording 'an orbital' is ambiguous. Typically, if they mean 'a subshell', maximum electrons = 10 for d. But the options include 2 and 10. Given standard exam pattern, they likely mean 'an orbital' (one specific m_l) so answer is 2. I'll interpret as 'orbital'."
+    },
+    {
+      "id": 32,
+      "question": "If an electron transitions from the n = 4 level to the n = 2 level in a hydrogen atom, what is the wavelength of the photon emitted?",
+      "image": null,
+      "passage": null,
+      "options": ["434 nm", "410 nm", "487 nm", "656 nm"],
+      "answer": "C",
+      "explanation": "Balmer series: n=4→2 gives blue-green line at 486 nm (often 487 nm). 656 nm is n=3→2."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following properties of an electron in an atom does the principal quantum number determine?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Energy of the electron and distance from the nucleus",
+        "Spin direction of the electron",
+        "Orientation of the orbital in space",
+        "Shape of the orbital"
+      ],
+      "answer": "A",
+      "explanation": "Principal quantum number (n) determines the energy level and approximate distance from the nucleus."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following elements has the highest first ionization energy?",
+      "image": null,
+      "passage": null,
+      "options": ["Oxygen (O)", "Fluorine (F)", "Carbon (C)", "Nitrogen (N)"],
+      "answer": "B",
+      "explanation": "Fluorine has the highest ionization energy among these because it is the most electronegative and has the smallest atomic radius. Nitrogen has higher IE than oxygen due to half-filled stability, but fluorine is higher than both."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following ions has the largest radius?",
+      "image": null,
+      "passage": null,
+      "options": ["Ca²⁺", "S²⁻", "Cl⁻", "K⁺"],
+      "answer": "B",
+      "explanation": "S²⁻ has gained two electrons, increasing electron-electron repulsion and has the largest ionic radius among these. Generally, anions are larger than cations; S²⁻ is larger than Cl⁻, and K⁺ and Ca²⁺ are smaller."
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is correct regarding the atomic radii of elements as you move across a period and down a group?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Atomic radius remains constant across a period and down a group",
+        "Atomic radius increases both across a period and down a group",
+        "Atomic radius decreases across a period and increases down a group",
+        "Atomic radius increases across a period and decreases down a group"
+      ],
+      "answer": "C",
+      "explanation": "Atomic radius decreases across a period (due to increased effective nuclear charge) and increases down a group (due to added shells)."
+    },
+    {
+      "id": 37,
+      "question": "In a certain experiment NaOH solution is added from a burette to dilute sulphuric acid in a beaker. Which of the following changes will occur in the beaker?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "concentration of hydroxide ion decreases",
+        "pH increases",
+        "concentration of hydrogen ion increases",
+        "pOH increases"
+      ],
+      "answer": "B",
+      "explanation": "Adding base (NaOH) to acid (H₂SO₄) neutralizes H⁺, so H⁺ decreases, pH increases, OH⁻ increases, pOH decreases."
+    },
+    {
+      "id": 38,
+      "question": "A solution of NaOH has a concentration of 0.001 M. What is the pH of this solution?",
+      "image": null,
+      "passage": null,
+      "options": ["13", "14", "11", "12"],
+      "answer": "C",
+      "explanation": "[OH⁻] = 0.001 M = 1×10⁻³ M, pOH = 3, pH = 14 - 3 = 11."
+    },
+    {
+      "id": 39,
+      "question": "According to Lewis definition, a base is a (an)",
+      "image": null,
+      "passage": null,
+      "options": ["electron pair donor", "proton acceptor", "electron pair acceptor", "proton donor"],
+      "answer": "A",
+      "explanation": "Lewis base donates an electron pair to form a coordinate covalent bond."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following is true about salts formed from weak acid and weak bases?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "the type of salt formed has acidic property",
+        "no hydrolysis takes place at all",
+        "only the cation of the salt undergo hydrolysis",
+        "both the cation and the anion of the salt undergo hydrolysis"
+      ],
+      "answer": "D",
+      "explanation": "Salts of weak acid and weak base undergo hydrolysis of both cation and anion; the pH depends on relative Ka and Kb."
+    },
+    {
+      "id": 41,
+      "question": "Which of the following species is NOT amphoteric?",
+      "image": null,
+      "passage": null,
+      "options": ["H₂O", "NH₄⁺", "H₂PO₄⁻", "HSO₄⁻"],
+      "answer": "B",
+      "explanation": "NH₄⁺ can only act as an acid (donate proton), cannot accept a proton. H₂O, H₂PO₄⁻, HSO₄⁻ can both donate and accept protons."
+    },
+    {
+      "id": 42,
+      "question": "What is the initial pH of a 0.1 M HCl solution before any NaOH is added in a titration?",
+      "image": null,
+      "passage": null,
+      "options": ["3.0", "4.0", "1.0", "2.0"],
+      "answer": "C",
+      "explanation": "HCl is strong acid, [H⁺] = 0.1 M, pH = -log(0.1) = 1.0."
+    },
+    {
+      "id": 43,
+      "question": "During the titration of 0.1 M HCl with 0.1 M NaOH, what is the pH of the solution at the equivalence point?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Exactly 7",
+        "Depends on the concentration of the NaOH solution",
+        "Less than 7",
+        "Greater than 7"
+      ],
+      "answer": "A",
+      "explanation": "Strong acid-strong base titration equivalence point pH = 7."
+    },
+    {
+      "id": 44,
+      "question": "According to the Arrhenius definition, which of the following compounds is considered an acid?",
+      "image": null,
+      "passage": null,
+      "options": ["NH₃", "CH₄", "NaOH", "HNO₃"],
+      "answer": "D",
+      "explanation": "Arrhenius acid produces H⁺ in water. HNO₃ is nitric acid. NH₃ is base, CH₄ is neutral, NaOH is base."
+    },
+    {
+      "id": 45,
+      "question": "Which of the following solutions would have the highest pH?",
+      "image": null,
+      "passage": null,
+      "options": ["0.01 M NaOH", "0.1 M acetic acid", "0.01 M HCl", "0.05 M NH₄OH"],
+      "answer": "A",
+      "explanation": "0.01 M NaOH gives pH 12. 0.01 M HCl pH 2. 0.1 M acetic acid pH ~2.9. 0.05 M NH₄OH (weak base) pH around 10-11. Highest is NaOH with pH 12."
+    },
+    {
+      "id": 46,
+      "question": "According to the Lewis definition, which of the following is a Lewis acid?",
+      "image": null,
+      "passage": null,
+      "options": ["BF₃", "CH₄", "NH₃", "OH⁻"],
+      "answer": "A",
+      "explanation": "BF₃ is electron-deficient, acts as Lewis acid (electron pair acceptor). NH₃ and OH⁻ are Lewis bases."
+    },
+    {
+      "id": 47,
+      "question": "Which of the following statements is true regarding the three acid-base theories?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "All Lewis bases are Arrhenius bases.",
+        "All Brønsted-Lowry acids are Arrhenius acids.",
+        "The Arrhenius theory can be applied in non-aqueous solvents.",
+        "All Brønsted-Lowry acids are Lewis acids."
+      ],
+      "answer": "D",
+      "explanation": "All Brønsted-Lowry acids are Lewis acids because proton donation involves accepting an electron pair. The other statements are false."
+    },
+    {
+      "id": 48,
+      "question": "The pH of a buffer made by mixing 0.2 M NH₄Cl and 0.2 M NH₃ (Kb for NH₃ = 1.8 × 10⁻⁵) is closest to:",
+      "image": null,
+      "passage": null,
+      "options": ["7.26", "6.26", "9.26", "8.26"],
+      "answer": "C",
+      "explanation": "pKa of NH₄⁺ = 14 - pKb = 14 - (-log 1.8×10⁻⁵) = 14 - 4.74 = 9.26. For buffer with equal concentrations, pH = pKa = 9.26."
+    },
+    {
+      "id": 49,
+      "question": "Which one of the following pairs can't be mixed together to form a buffer solution?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "CH₃COOH and CH₃COONa",
+        "H₃PO₄ and NaH₂PO₄",
+        "HNO₃ and NH₄NO₃",
+        "NH₃ and NH₄Cl"
+      ],
+      "answer": "C",
+      "explanation": "HNO₃ is a strong acid, NH₄NO₃ is a salt of weak base and strong acid; mixture of strong acid and a salt does not form a buffer. The others are weak acid/conjugate base or weak base/conjugate acid."
+    },
+    {
+      "id": 50,
+      "question": "If CH₃COONa is added to a solution of CH₃COOH, which of the following statements is correct?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The concentration of hydrogen ion increases",
+        "The concentration of CH₃COOH decreases",
+        "The dissociation of CH₃COOH decreases",
+        "The pH of a solution decreases"
+      ],
+      "answer": "C",
+      "explanation": "Common ion effect: adding acetate shifts equilibrium left, decreasing dissociation of acetic acid, decreasing [H⁺], increasing pH."
+    },
+    {
+      "id": 51,
+      "question": "A one liter solution is prepared by mixing 0.1 mole HCl and 0.05 mole NaOH. What is the resulting pH of the solution?",
+      "image": null,
+      "passage": null,
+      "options": ["3.3", "4.2", "1.3", "2.5"],
+      "answer": "C",
+      "explanation": "HCl reacts with NaOH: remaining H⁺ = 0.1 - 0.05 = 0.05 mol in 1 L, [H⁺]=0.05 M, pH = -log(0.05) = 1.30."
+    },
+    {
+      "id": 52,
+      "question": "A 50 mL sample of 2.0 M HCl is diluted with water to a final volume of 250 mL. What is the concentration of HCl in the diluted solution?",
+      "image": null,
+      "passage": null,
+      "options": ["0.5 M", "0.8 M", "0.2 M", "0.4 M"],
+      "answer": "D",
+      "explanation": "M₁V₁ = M₂V₂ → 2.0 × 0.050 = M₂ × 0.250 → M₂ = (0.10)/0.250 = 0.40 M."
+    },
+    {
+      "id": 53,
+      "question": "During the titration of known volume of strong acid with strong base, there is",
+      "image": null,
+      "passage": null,
+      "options": [
+        "a low pH at the beginning of a titration",
+        "no pH change of solution",
+        "a formation of acidic salt",
+        "a sharp decreasing of pH around the equivalence point"
+      ],
+      "answer": "A",
+      "explanation": "At the beginning, strong acid gives low pH. Around equivalence point, pH changes sharply (increasing, not decreasing). So A is correct."
+    },
+    {
+      "id": 54,
+      "question": "The hydronium concentration of a certain acidic solution is 1×10⁻⁵ M, what will be the hydroxide ion concentration of the solution?",
+      "image": null,
+      "passage": null,
+      "options": ["1×10⁻⁹", "1×10⁻⁸", "1×10⁻⁶", "1×10⁻¹⁴"],
+      "answer": "A",
+      "explanation": "Kw = [H₃O⁺][OH⁻] = 1×10⁻¹⁴, so [OH⁻] = 1×10⁻¹⁴ / 1×10⁻⁵ = 1×10⁻⁹ M."
+    },
+    {
+      "id": 55,
+      "question": "The acid-base indicator methyl red has Kin of 1.0×10⁻⁶. Its acidic form is red while its alkaline form is yellow. If methyl red is added to a solution with pH=7, the color observed will be",
+      "image": null,
+      "passage": null,
+      "options": ["pink", "no color observed", "red", "yellow"],
+      "answer": "D",
+      "explanation": "pKa of methyl red = -log(1×10⁻⁶) = 6. At pH 7 (greater than pKa), the alkaline form (yellow) predominates."
+    },
+    {
+      "id": 56,
+      "question": "A 50 mL solution of 0.2 M H₂SO₄ solution is titrated with NaOH solution of unknown concentration. The equivalence point against phenolphthalein indicator was signaled when 40.0 mL of NaOH was added. What is the concentration of NaOH solution?",
+      "image": null,
+      "passage": null,
+      "options": ["0.25 M", "0.50 M", "0.10 M", "0.40 M"],
+      "answer": "B",
+      "explanation": "H₂SO₄ is diprotic. Moles H₂SO₄ = 0.050 L × 0.2 = 0.01 mol. Moles H⁺ = 0.02 mol. At equivalence, moles OH⁻ = 0.02 mol. Volume NaOH = 0.040 L, so [NaOH] = 0.02 / 0.04 = 0.50 M."
+    },
+    {
+      "id": 57,
+      "question": "What is the effect of a common ion in an electrolytic solution?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It changes the equilibrium position to the right",
+        "It has no effect on equilibrium position",
+        "It has no effect on the pH of solution",
+        "It decreases the dissociation of a solute"
+      ],
+      "answer": "D",
+      "explanation": "Common ion effect decreases dissociation of a weak electrolyte (shifts equilibrium left)."
+    },
+    {
+      "id": 58,
+      "question": "Potassium phosphate is a basic salt because it is a salt of a",
+      "image": null,
+      "passage": null,
+      "options": [
+        "weak acid and a weak base and the cation of the weak base can be hydrolyzed",
+        "strong base and a weak acid and the cation of the strong base can be hydrolyzed",
+        "strong acid and a weak base and the anion of the strong acid can be hydrolyzed",
+        "strong base and a weak acid and the anion of the weak acid can be hydrolyzed"
+      ],
+      "answer": "D",
+      "explanation": "K₃PO₄ is salt of strong base (KOH) and weak acid (H₃PO₄). The anion (PO₄³⁻) hydrolyzes to give basic solution."
+    },
+    {
+      "id": 59,
+      "question": "The Ka of acetic acid CH₃COOH is 1.8×10⁻⁵, what is the percent ionization of 0.1 M CH₃COOH?",
+      "image": null,
+      "passage": null,
+      "options": ["4.2", "1.34", "1.42", "3.6"],
+      "answer": "B",
+      "explanation": "[H⁺] = √(Ka×C) = √(1.8×10⁻⁵ × 0.1) = √(1.8×10⁻⁶) = 1.34×10⁻³ M. Percent ionization = (1.34×10⁻³ / 0.1)×100 = 1.34%."
+    },
+    {
+      "id": 60,
+      "question": "The point in a titration at which the number of moles of ions added to a solution is equal to the number of moles of ions is known as",
+      "image": null,
+      "passage": null,
+      "options": ["zero point", "equivalence point", "triple point", "end point"],
+      "answer": "B",
+      "explanation": "Equivalence point is where the amount of titrant added is stoichiometrically equivalent to the analyte."
+    },
+    {
+      "id": 61,
+      "question": "At the halfway point in the titration of acetic acid with NaOH, where half of the acetic acid has been neutralized, what is the pH of the solution?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "7",
+        "Equal to the pKa of acetic acid",
+        "Equal to the pH of the initial acetic acid solution",
+        "Equal to the pH of NaOH"
+      ],
+      "answer": "B",
+      "explanation": "At half-equivalence, [HA] = [A⁻], so pH = pKa (Henderson-Hasselbalch)."
+    },
+    {
+      "id": 62,
+      "question": "During the titration of 0.1 M acetic acid with 0.1 M NaOH, what can be said about the pH at the equivalence point?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It is greater than 7 because acetate ions form a basic solution.",
+        "It depends on the concentration of NaOH.",
+        "It is less than 7 because acetic acid is weak.",
+        "It is equal to 7 because NaOH is strong."
+      ],
+      "answer": "A",
+      "explanation": "Weak acid-strong base titration equivalence point pH > 7 due to hydrolysis of conjugate base (acetate)."
+    },
+    {
+      "id": 63,
+      "question": "Which of the following is true about salts formed from strong acid and weak bases?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "the type of salt formed has acidic property",
+        "no hydrolysis takes place at all",
+        "only the cation of the salt undergo hydrolysis",
+        "both the cation and the anion of the salt undergo hydrolysis"
+      ],
+      "answer": "C",
+      "explanation": "Salts of strong acid and weak base (e.g., NH₄Cl) give acidic solution because the cation (NH₄⁺) hydrolyzes, releasing H⁺."
+    },
+    {
+      "id": 64,
+      "question": "Which one of the following is a conjugate acid-base pair?",
+      "image": null,
+      "passage": null,
+      "options": ["NH₄⁺ and NH₃", "NaF and F⁻", "H₂O and H₂O₂", "HNO₃ and HNO₂"],
+      "answer": "A",
+      "explanation": "NH₄⁺ is the conjugate acid of NH₃ (base). They differ by one H⁺."
+    },
+    {
+      "id": 65,
+      "question": "In a titration of acetic acid with sodium hydroxide, what is the pH of the solution before the equivalence point?",
+      "image": null,
+      "passage": null,
+      "options": ["pH > 7", "Cannot be determined", "pH = 7", "pH < 7"],
+      "answer": "D",
+      "explanation": "Before equivalence, there is excess weak acid, so solution is acidic (pH < 7)."
+    },
+    {
+      "id": 66,
+      "question": "A buffer solution contains acetic acid and sodium acetate. If the concentration of acetic acid equals the concentration of sodium acetate, what is the pH of the buffer solution?",
+      "image": null,
+      "passage": null,
+      "options": ["5.05", "5.23", "4.57", "4.74"],
+      "answer": "D",
+      "explanation": "When [acid] = [conjugate base], pH = pKa of acetic acid = 4.74."
+    },
+    {
+      "id": 67,
+      "question": "If the following reaction is balanced in acidic media, what will be the coefficient of Fe²⁺ in the balanced reaction? Fe²⁺ + Cr₂O₇²⁻ → Fe³⁺ + Cr³⁺",
+      "image": null,
+      "passage": null,
+      "options": ["6", "3", "14", "1"],
+      "answer": "A",
+      "explanation": "Balanced: 6Fe²⁺ + Cr₂O₇²⁻ + 14H⁺ → 6Fe³⁺ + 2Cr³⁺ + 7H₂O. Coefficient of Fe²⁺ = 6."
+    },
+    {
+      "id": 68,
+      "question": "If the following chemical reaction is balanced using a change in oxidation number method, what would be the coefficient of SO₂? PbS(s) + O₂(g) → PbO(s) + SO₂(g)",
+      "image": null,
+      "passage": null,
+      "options": ["5", "4", "2", "3"],
+      "answer": "C",
+      "explanation": "Balanced: 2PbS + 3O₂ → 2PbO + 2SO₂. Coefficient of SO₂ is 2."
+    },
+    {
+      "id": 69,
+      "question": "Which of the following pairs represents a conjugate acid-base pair in the reaction: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻?",
+      "image": null,
+      "passage": null,
+      "options": ["NH₄⁺ and H₂O", "NH₄⁺ and OH⁻", "NH₃ and OH⁻", "NH₃ and NH₄⁺"],
+      "answer": "D",
+      "explanation": "NH₃ (base) and NH₄⁺ (conjugate acid) differ by one H⁺."
+    },
+    {
+      "id": 70,
+      "question": "Which of the following salts will create a basic solution when dissolved in water?",
+      "image": null,
+      "passage": null,
+      "options": ["FeCl₃", "KBr", "NH₄Cl", "Na₂CO₃"],
+      "answer": "D",
+      "explanation": "Na₂CO₃ is salt of strong base (NaOH) and weak acid (H₂CO₃), so anion hydrolyzes to give basic solution."
+    },
+    {
+      "id": 71,
+      "question": "If the pKa of lactic acid is 3.86, which of the following ratios of lactate to lactic acid would give a pH of 4.86?",
+      "image": null,
+      "passage": null,
+      "options": ["1:1", "1:5", "1:10", "10:1"],
+      "answer": "D",
+      "explanation": "Henderson-Hasselbalch: pH = pKa + log([base]/[acid]). 4.86 = 3.86 + log(x) → log(x)=1 → x=10, so ratio base:acid = 10:1."
+    },
+    {
+      "id": 72,
+      "question": "What is the oxidation number of sulfur in the compound Na₂S₂O₇ (sodium thiosulfate? Actually Na₂S₂O₇ is sodium pyrosulfate, not thiosulfate. Thiosulfate is Na₂S₂O₃. So careful: question says 'sodium thiosulfate' but formula given is Na₂S₂O₇. Likely they mean pyrosulfate. Oxidation number calculation: Na (+1 each), O (-2 each). Let S = x. 2(+1) + 2x + 7(-2) = 0 → 2 + 2x -14 = 0 → 2x = 12 → x = +6.",
+      "image": null,
+      "passage": null,
+      "options": ["+2", "+3", "+4", "+6"],
+      "answer": "D",
+      "explanation": "In Na₂S₂O₇, each S is +6. Total charge: 2×1 + 2x + 7×(-2)=0 => 2+2x-14=0 => 2x=12 => x=6."
+    },
+    {
+      "id": 73,
+      "question": "In the following reaction, identify the species being oxidized and the species acting as the oxidizing agent: Cu + HNO₃ → Cu(NO₃)₂ + NO₂ + H₂O",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Cu is oxidized, and NO₂ is the reducing agent.",
+        "HNO₃ is oxidized, and NO₂ is the reducing agent.",
+        "Cu is oxidized, and HNO₃ is the oxidizing agent.",
+        "HNO₃ is oxidized, and Cu is the oxidizing agent."
+      ],
+      "answer": "C",
+      "explanation": "Cu goes from 0 to +2 (oxidized). HNO₃ (N from +5 to +4 in NO₂) is reduced, so HNO₃ is oxidizing agent."
+    },
+    {
+      "id": 74,
+      "question": "To balance the following redox reaction in a basic solution, how many hydroxide ions (OH⁻) are needed? MnO₄⁻ + I⁻ → MnO₂ + I₂",
+      "image": null,
+      "passage": null,
+      "options": ["4", "8", "2", "6"],
+      "answer": "B",
+      "explanation": "Balanced basic equation: 2MnO₄⁻ + 3I⁻ + 4H₂O → 2MnO₂ + 3I₂ + 8OH⁻. So 8 OH⁻ appear as product. The number needed is 8."
+    },
+    {
+      "id": 75,
+      "question": "Given the following Ka constants: Ka(HF)=7.2×10⁻⁴, Ka(HNO₂)=4.5×10⁻⁴, Ka(HCN)=6.5×10⁻¹⁰. Which of the following is the correct order of the substances in basic strength?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "NO₂⁻ > F⁻ > CN⁻",
+        "NO₂⁻ > CN⁻ > F⁻",
+        "CN⁻ > NO₂⁻ > F⁻",
+        "F⁻ > NO₂⁻ > CN⁻"
+      ],
+      "answer": "C",
+      "explanation": "The weaker the acid, the stronger its conjugate base. Ka order: HF > HNO₂ > HCN, so basic strength: CN⁻ > NO₂⁻ > F⁻."
+    },
+    {
+      "id": 76,
+      "question": "Which acid has the highest percentage ionization in a 0.1 M solution, assuming equal initial concentrations?",
+      "image": null,
+      "passage": null,
+      "options": ["Acid with Ka 4.5×10⁻⁴", "Acid with Ka 2.1×10⁻³", "Acid with Ka 1.8×10⁻⁵", "Acid with Ka 7.5×10⁻⁶"],
+      "answer": "B",
+      "explanation": "Percent ionization increases with Ka. The largest Ka is 2.1×10⁻³, so that acid has highest % ionization."
+    },
+    {
+      "id": 77,
+      "question": "A solution contains 1.0 M of a weak acid (HA) and 0.1 M of its conjugate base (A⁻). If the pKa of the acid is 5.0, what is the pH of the solution?",
+      "image": null,
+      "passage": null,
+      "options": ["3.0", "6.0", "4.0", "5.0"],
+      "answer": "C",
+      "explanation": "pH = pKa + log([A⁻]/[HA]) = 5.0 + log(0.1/1.0) = 5.0 + log(0.1) = 5.0 - 1 = 4.0."
+    },
+    {
+      "id": 78,
+      "question": "For a weak acid with a pKa of 4.5, what ratio of conjugate base to acid is needed to prepare a buffer with a pH of 5.5?",
+      "image": null,
+      "passage": null,
+      "options": ["100:1", "1:100", "1:10", "10:1"],
+      "answer": "D",
+      "explanation": "pH = pKa + log([base]/[acid]) → 5.5 = 4.5 + log(R) → log(R)=1 → R=10. So ratio base:acid = 10:1."
+    },
+    {
+      "id": 79,
+      "question": "Which salt would you expect to create a pH closest to neutral when dissolved in water?",
+      "image": null,
+      "passage": null,
+      "options": ["NaCN", "NH₄Cl", "NaNO₃", "NH₄NO₃"],
+      "answer": "C",
+      "explanation": "NaNO₃ is salt of strong acid (HNO₃) and strong base (NaOH), so neutral (pH ~7)."
+    },
+    {
+      "id": 80,
+      "question": "A solution of KCN has a pH greater than 7. Which ion in this salt is responsible for the basic pH?",
+      "image": null,
+      "passage": null,
+      "options": ["H⁺", "OH⁻", "K⁺", "CN⁻"],
+      "answer": "D",
+      "explanation": "CN⁻ is the conjugate base of weak acid HCN; it hydrolyzes to produce OH⁻, making solution basic."
+    }
+  ]
+}

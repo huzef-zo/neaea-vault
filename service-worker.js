@@ -3,7 +3,7 @@
    Cache-first strategy for full offline support
    ============================================ */
 
-const CACHE_NAME = 'neaea-vault-v2';
+const CACHE_NAME = 'neaea-vault-v5';
 
 // Core app shell
 const APP_SHELL = [
@@ -12,16 +12,18 @@ const APP_SHELL = [
   '/style.css',
   '/app.js',
   '/manifest.json',
+  '/data/manifest.json',
 ];
 
-// Data files — add new subjects/papers here
+// Data files — automatically generated
 const DATA_FILES = [
+  '/data/aptitude/2015_p1.json',
   '/data/biology/2015_p1.json',
   '/data/chemistry/2015_p1.json',
+  '/data/english/2016_p1.json',
   '/data/mathematics/2015_p1.json',
   '/data/physics/2015_p1.json',
-  '/data/english/2016_p1.json',
-  '/data/aptitude/2015_p1.json',
+  '/data/manifest.json',
 ];
 
 // Icon files

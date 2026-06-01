@@ -3,7 +3,7 @@
    Cache-first strategy for full offline support
    ============================================ */
 
-const CACHE_NAME = 'neaea-vault-v29';
+const CACHE_NAME = 'neaea-vault-v30';
 
 // Core app shell
 const APP_SHELL = [
@@ -21,6 +21,8 @@ const DATA_FILES = [
   '/data/biology/2015_p1.json',
   '/data/biology/2018_p1.json',
   '/data/biology/2018_p2.json',
+  '/data/biology/biology_2017_p1.json',
+  '/data/biology/biology_2017_p2.json',
   '/data/chemistry/2015_p1.json',
   '/data/english/2012_p1.json',
   '/data/english/2013_p1.json',

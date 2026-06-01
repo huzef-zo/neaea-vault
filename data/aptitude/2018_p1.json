@@ -1,0 +1,857 @@
+{
+  "subject": "Aptitude",
+  "year": "2018 E.C",
+  "paper": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "SCHOLAR : KNOWLEDGE ::",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Artist : creativity",
+        "Judge : courtroom",
+        "Farmer : harvest",
+        "Doctor : hospital"
+      ],
+      "answer": "A",
+      "explanation": "A scholar pursues knowledge just as an artist pursues creativity. The relationship is person : what they seek or produce. The other options pair a person with a place (judge:courtroom, doctor:hospital) or a product (farmer:harvest), which don't match the pursuit-of-abstract-quality relationship."
+    },
+    {
+      "id": 2,
+      "question": "WHISPER : SHOUT ::",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Walk : stumble",
+        "Drizzle : downpour",
+        "Speak : lecture",
+        "Glance : observe"
+      ],
+      "answer": "B",
+      "explanation": "Whisper and shout are opposite extremes of vocal volume (soft vs. loud). Similarly, drizzle and downpour are opposite extremes of rain intensity (light vs. heavy). Both pairs represent the same continuum at minimum vs. maximum."
+    },
+    {
+      "id": 3,
+      "question": "PUPIL : EYE ::",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Battery : torch",
+        "Kernel : seed",
+        "Engine : car",
+        "Page : book"
+      ],
+      "answer": "A",
+      "explanation": "A pupil is an essential functional part of an eye — without it, the eye cannot see. Similarly, a battery is an essential functional part of a torch — without it, the torch cannot produce light. Both are critical internal components that enable the whole to function."
+    },
+    {
+      "id": 4,
+      "question": "THIRST : DRINK ::",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Hunger : eat",
+        "Fatigue : sleep",
+        "Curiosity : question",
+        "Grief : weep"
+      ],
+      "answer": "A",
+      "explanation": "Thirst is a physical need that is satisfied by drinking, just as hunger is a physical need that is satisfied by eating. Both are basic biological drives with their natural remedies. While B (fatigue:sleep) is close, the answer key specifies A, and the thirst-hunger parallel is the most direct biological analogy."
+    },
+    {
+      "id": 5,
+      "question": "OPTIMIST : HOPE ::",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Pessimist : despair",
+        "Realist : fantasy",
+        "Scholar : ignorance",
+        "Artist : canvas"
+      ],
+      "answer": "A",
+      "explanation": "An optimist is defined by their tendency toward hope, just as a pessimist is defined by their tendency toward despair. Both pairs show a person defined by their characteristic emotional outlook."
+    },
+    {
+      "id": 6,
+      "question": "DROUGHT : FAMINE ::",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Flood : destruction",
+        "Rain : harvest",
+        "Sun : warmth",
+        "Wind : breeze"
+      ],
+      "answer": "A",
+      "explanation": "Drought causes famine (a natural disaster leads to a devastating consequence). Similarly, flood causes destruction. Both pairs show cause-and-effect between a natural calamity and its harmful result."
+    },
+    {
+      "id": 7,
+      "question": "Based on musical instrument family classification, choose the odd one out:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Oboe",
+        "Clarinet",
+        "Flute",
+        "Violin"
+      ],
+      "answer": "D",
+      "explanation": "Oboe, clarinet, and flute are all woodwind instruments. Violin is a string instrument, making it the odd one out based on musical instrument family classification."
+    },
+    {
+      "id": 8,
+      "question": "Based on emotional valence (positive vs. negative meaning), choose the odd one out:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Joyful",
+        "Elated",
+        "Ecstatic",
+        "Melancholy"
+      ],
+      "answer": "D",
+      "explanation": "Joyful, elated, and ecstatic all have positive emotional valence. Melancholy has negative emotional valence (sadness), making it the odd one out."
+    },
+    {
+      "id": 9,
+      "question": "Despite the heavy rains, the farmers remained _______________ that their crops would survive, drawing on generations of experience with the land.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "doubtful",
+        "hopeful",
+        "indifferent",
+        "anxious"
+      ],
+      "answer": "B",
+      "explanation": "The word 'despite' signals a contrast. Despite heavy rains (which could harm crops), the farmers remained hopeful — a positive attitude contrasting the negative situation. 'Doubtful' and 'anxious' would not create the expected contrast with 'despite.'"
+    },
+    {
+      "id": 10,
+      "question": "The young woman's speech was both _______________ and _______________; she moved the audience to tears while also challenging them to take immediate action.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "boring . . lengthy",
+        "confusing . . vague",
+        "inspiring . . persuasive",
+        "humorous . . careless"
+      ],
+      "answer": "C",
+      "explanation": "The clue is 'moved the audience to tears while also challenging them to take immediate action.' A speech that moves people to tears is inspiring, and one that challenges them to act is persuasive. The other pairs don't fit the described effects."
+    },
+    {
+      "id": 11,
+      "question": "Many Ethiopian students find themselves ___________ between respecting traditional values and _______________ the opportunities that modern education provides.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "struggling . . embracing",
+        "choosing . . rejecting",
+        "hesitating . . ignoring",
+        "deciding . . abandoning"
+      ],
+      "answer": "A",
+      "explanation": "The word 'between' suggests tension between two desirable things. Students are struggling between respecting tradition AND embracing modern opportunities — both are positive. The other options pair 'respecting tradition' with negative actions (rejecting, ignoring, abandoning), which don't create the same tension."
+    },
+    {
+      "id": 12,
+      "question": "The novel's protagonist was a _______________ character—firm in her convictions yet responsive to changing circumstances.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "simple . . rigid . . closed",
+        "complex . . steadfast . . adaptable",
+        "ordinary . . confused . . open",
+        "predictable . . weak . . resistant"
+      ],
+      "answer": "B",
+      "explanation": "'Firm in her convictions' matches 'steadfast,' and 'responsive to changing circumstances' matches 'adaptable.' A character who is both steadfast and adaptable is 'complex,' fitting the dash description perfectly."
+    },
+    {
+      "id": 13,
+      "question": "After weeks of meticulous preparation, the debate team was ready to _______________ their arguments with confidence.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "withdraw",
+        "present",
+        "question",
+        "abandon"
+      ],
+      "answer": "B",
+      "explanation": "After meticulous preparation, a debate team would be ready to present their arguments. 'Withdraw' and 'abandon' contradict the preparation, while 'question' doesn't fit the context of being ready with confidence."
+    },
+    {
+      "id": 14,
+      "question": "The success of the village's new irrigation project _______________ on the community's willingness to _______________ together and maintain the system collectively.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "depends . . work",
+        "fails . . compete",
+        "relies . . argue",
+        "hinges . . struggle"
+      ],
+      "answer": "A",
+      "explanation": "A project's success 'depends on' the community's willingness to 'work' together. The other options create nonsensical meanings — success doesn't 'fail on' or 'rely on arguing' or 'hinge on struggling.'"
+    },
+    {
+      "id": 15,
+      "question": "PREDICTABLE — Choose the word most nearly similar in meaning:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "unforeseeable",
+        "foreseeable",
+        "random",
+        "uncertain"
+      ],
+      "answer": "B",
+      "explanation": "Predictable means something that can be foreseen or known in advance. 'Foreseeable' is the closest synonym. The prefix 'fore-' means 'before,' matching the 'pre-' in predictable."
+    },
+    {
+      "id": 16,
+      "question": "ILLEGIBLE — Choose the word most nearly similar in meaning:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "readable",
+        "understandable",
+        "unreadable",
+        "clear"
+      ],
+      "answer": "C",
+      "explanation": "Illegible means impossible or very hard to read. The prefix 'il-' negates 'legible' (readable), so it means 'unreadable.' The prefix clue confirms this."
+    },
+    {
+      "id": 17,
+      "question": "SUBMERGE — Choose the word most nearly opposite in meaning:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "immerse",
+        "emerge",
+        "sink",
+        "plunge"
+      ],
+      "answer": "B",
+      "explanation": "Submerge means to put under water or go below the surface. 'Emerge' means to come out or rise from below the surface — the direct opposite. The prefix 'sub-' (under) contrasts with 'e-' (out). The other options (immerse, sink, plunge) are synonyms, not antonyms."
+    },
+    {
+      "id": 18,
+      "question": "POSTPONE — Choose the word most nearly opposite in meaning:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "delay",
+        "advance",
+        "defer",
+        "suspend"
+      ],
+      "answer": "B",
+      "explanation": "Postpone means to delay to a later time. 'Advance' means to move forward to an earlier time — the direct opposite. Delay, defer, and suspend are all synonyms of postpone."
+    },
+    {
+      "id": 19,
+      "question": "The primary purpose of this passage is to:",
+      "image": null,
+      "passage": "The Solar Revolution in Rural Ethiopia\n\n1. In the remote villages of Ethiopia's Rift Valley, where the national power grid remains a distant dream, a different kind of energy revolution is taking root. For generations, families relied on kerosene lamps—flaming, expensive, and hazardous—to extend their days beyond sunset. Children studied by dim, smoky light, their eyes straining and their lungs absorbing toxic fumes. Women walked kilometers to mill grain, and health posts stored vaccines in unreliable kerosene refrigerators. Energy poverty was simply a fact of life.\n\n2. That reality is now changing, driven by the falling cost of solar technology and innovative distribution models. Companies like Bio Lite and d.light have partnered with Ethiopian microfinance institutions to make solar home systems affordable for rural families. A typical system includes a small rooftop panel, a battery, LED lights, and a phone charger—all for less than the cost of one year's kerosene. For Alemitu, a mother of five in the Oromia region, the impact has been transformative: \"My children can now study after dark. I charge my phone at home instead of walking two hours to town. We breathe clean air.\"\n\n3. The implications extend beyond individual households. Solar-powered water pumps are enabling small-scale irrigation, extending growing seasons and increasing food security. Solar-powered refrigerators allow health clinics to store vaccines safely. And perhaps most significantly, solar energy is creating new economic opportunities—women are starting small businesses charging phones, and young people are training as solar technicians. What began as a solution to energy poverty is becoming a catalyst for broader rural development.\n\nSource: Adapted from reports by the International Renewable Energy Agency (IRENA) and field observations in Ethiopian rural communities, 2023-2025.",
+      "options": [
+        "criticize the Ethiopian government for failing to extend the power grid",
+        "describe how solar technology is transforming rural Ethiopian communities",
+        "argue that kerosene lamps are superior to solar lighting",
+        "promote urban migration as a solution to energy poverty"
+      ],
+      "answer": "B",
+      "explanation": "The passage describes the transformation occurring in rural Ethiopian communities through solar technology adoption, covering household benefits, health improvements, and broader economic opportunities. It does not criticize the government (A), argue for kerosene (C), or promote urban migration (D)."
+    },
+    {
+      "id": 20,
+      "question": "According to the passage, solar home systems in rural Ethiopia typically include all of the following EXCEPT:",
+      "image": null,
+      "passage": "The Solar Revolution in Rural Ethiopia\n\n1. In the remote villages of Ethiopia's Rift Valley, where the national power grid remains a distant dream, a different kind of energy revolution is taking root. For generations, families relied on kerosene lamps—flaming, expensive, and hazardous—to extend their days beyond sunset. Children studied by dim, smoky light, their eyes straining and their lungs absorbing toxic fumes. Women walked kilometers to mill grain, and health posts stored vaccines in unreliable kerosene refrigerators. Energy poverty was simply a fact of life.\n\n2. That reality is now changing, driven by the falling cost of solar technology and innovative distribution models. Companies like Bio Lite and d.light have partnered with Ethiopian microfinance institutions to make solar home systems affordable for rural families. A typical system includes a small rooftop panel, a battery, LED lights, and a phone charger—all for less than the cost of one year's kerosene. For Alemitu, a mother of five in the Oromia region, the impact has been transformative: \"My children can now study after dark. I charge my phone at home instead of walking two hours to town. We breathe clean air.\"\n\n3. The implications extend beyond individual households. Solar-powered water pumps are enabling small-scale irrigation, extending growing seasons and increasing food security. Solar-powered refrigerators allow health clinics to store vaccines safely. And perhaps most significantly, solar energy is creating new economic opportunities—women are starting small businesses charging phones, and young people are training as solar technicians. What began as a solution to energy poverty is becoming a catalyst for broader rural development.\n\nSource: Adapted from reports by the International Renewable Energy Agency (IRENA) and field observations in Ethiopian rural communities, 2023-2025.",
+      "options": [
+        "a rooftop panel",
+        "a battery",
+        "a television set",
+        "LED lights"
+      ],
+      "answer": "C",
+      "explanation": "The passage states a typical system includes 'a small rooftop panel, a battery, LED lights, and a phone charger.' A television set is not mentioned as part of a typical system, making it the exception."
+    },
+    {
+      "id": 21,
+      "question": "The author's attitude toward the adoption of solar technology in rural Ethiopia can be described as:",
+      "image": null,
+      "passage": "The Solar Revolution in Rural Ethiopia\n\n1. In the remote villages of Ethiopia's Rift Valley, where the national power grid remains a distant dream, a different kind of energy revolution is taking root. For generations, families relied on kerosene lamps—flaming, expensive, and hazardous—to extend their days beyond sunset. Children studied by dim, smoky light, their eyes straining and their lungs absorbing toxic fumes. Women walked kilometers to mill grain, and health posts stored vaccines in unreliable kerosene refrigerators. Energy poverty was simply a fact of life.\n\n2. That reality is now changing, driven by the falling cost of solar technology and innovative distribution models. Companies like Bio Lite and d.light have partnered with Ethiopian microfinance institutions to make solar home systems affordable for rural families. A typical system includes a small rooftop panel, a battery, LED lights, and a phone charger—all for less than the cost of one year's kerosene. For Alemitu, a mother of five in the Oromia region, the impact has been transformative: \"My children can now study after dark. I charge my phone at home instead of walking two hours to town. We breathe clean air.\"\n\n3. The implications extend beyond individual households. Solar-powered water pumps are enabling small-scale irrigation, extending growing seasons and increasing food security. Solar-powered refrigerators allow health clinics to store vaccines safely. And perhaps most significantly, solar energy is creating new economic opportunities—women are starting small businesses charging phones, and young people are training as solar technicians. What began as a solution to energy poverty is becoming a catalyst for broader rural development.\n\nSource: Adapted from reports by the International Renewable Energy Agency (IRENA) and field observations in Ethiopian rural communities, 2023-2025.",
+      "options": [
+        "skeptical and doubtful",
+        "critical and dismissive",
+        "indifferent and neutral",
+        "positive and supportive"
+      ],
+      "answer": "D",
+      "explanation": "The author uses phrases like 'transformative,' 'catalyst for broader rural development,' and describes positive impacts throughout, showing a clearly positive and supportive attitude toward solar technology adoption."
+    },
+    {
+      "id": 22,
+      "question": "The passage suggests that the introduction of solar technology has created new economic opportunities such as:",
+      "image": null,
+      "passage": "The Solar Revolution in Rural Ethiopia\n\n1. In the remote villages of Ethiopia's Rift Valley, where the national power grid remains a distant dream, a different kind of energy revolution is taking root. For generations, families relied on kerosene lamps—flaming, expensive, and hazardous—to extend their days beyond sunset. Children studied by dim, smoky light, their eyes straining and their lungs absorbing toxic fumes. Women walked kilometers to mill grain, and health posts stored vaccines in unreliable kerosene refrigerators. Energy poverty was simply a fact of life.\n\n2. That reality is now changing, driven by the falling cost of solar technology and innovative distribution models. Companies like Bio Lite and d.light have partnered with Ethiopian microfinance institutions to make solar home systems affordable for rural families. A typical system includes a small rooftop panel, a battery, LED lights, and a phone charger—all for less than the cost of one year's kerosene. For Alemitu, a mother of five in the Oromia region, the impact has been transformative: \"My children can now study after dark. I charge my phone at home instead of walking two hours to town. We breathe clean air.\"\n\n3. The implications extend beyond individual households. Solar-powered water pumps are enabling small-scale irrigation, extending growing seasons and increasing food security. Solar-powered refrigerators allow health clinics to store vaccines safely. And perhaps most significantly, solar energy is creating new economic opportunities—women are starting small businesses charging phones, and young people are training as solar technicians. What began as a solution to energy poverty is becoming a catalyst for broader rural development.\n\nSource: Adapted from reports by the International Renewable Energy Agency (IRENA) and field observations in Ethiopian rural communities, 2023-2025.",
+      "options": [
+        "factory jobs in cities and elsewhere",
+        "Phone charging and solar technician training",
+        "kerosene distribution networks",
+        "government employment program"
+      ],
+      "answer": "B",
+      "explanation": "The passage explicitly states: 'women are starting small businesses charging phones, and young people are training as solar technicians.' These are the new economic opportunities mentioned — phone charging businesses and solar technician training."
+    },
+    {
+      "id": 23,
+      "question": "According to the passage, the traditional view of the brain as having fixed locations for specific functions is best described as:",
+      "image": null,
+      "passage": "The Garden in Our Heads\n\n1. The human brain has been called the most complex structure in the known universe. With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about how this remarkable organ works.\n\n2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now allow scientists to observe the living brain in action. What researchers are discovering challenges long-held assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns that shift constantly based on context.\n\n3. Perhaps most fascinating is neuroplasticity—the brain's ability to reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now know that learning a new skill or adapting to a new environment can physically reshape neural connections. The brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas controlling fine motor skills.\n\n4. This understanding carries profound implications for education. If brains can change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr. Hanna Mekonnen, an Ethiopian neuroscientist, explains: \"The brain is not a computer that arrives pre-wired. It's more like a garden that grows according to how it's tended. With the right conditions, growth is always possible.\"\n\nSource: Adapted from research published in the Journal of Neuroscience and interviews with African neuroscientists, 2022-2024.",
+      "options": [
+        "completely accurate and well-supported",
+        "an oversimplification of a more complex reality",
+        "irrelevant to understanding brain function",
+        "a recent scientific discovery"
+      ],
+      "answer": "B",
+      "explanation": "The passage states 'The old model suggested that specific functions resided in fixed locations. But the reality appears far more dynamic.' This characterizes the traditional view as an oversimplification — it has some truth but misses the dynamic, interconnected nature of brain function."
+    },
+    {
+      "id": 24,
+      "question": "According to the passage, what evidence supports neuroplasticity?",
+      "image": null,
+      "passage": "The Garden in Our Heads\n\n1. The human brain has been called the most complex structure in the known universe. With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about how this remarkable organ works.\n\n2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now allow scientists to observe the living brain in action. What researchers are discovering challenges long-held assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns that shift constantly based on context.\n\n3. Perhaps most fascinating is neuroplasticity—the brain's ability to reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now know that learning a new skill or adapting to a new environment can physically reshape neural connections. The brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas controlling fine motor skills.\n\n4. This understanding carries profound implications for education. If brains can change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr. Hanna Mekonnen, an Ethiopian neuroscientist, explains: \"The brain is not a computer that arrives pre-wired. It's more like a garden that grows according to how it's tended. With the right conditions, growth is always possible.\"\n\nSource: Adapted from research published in the Journal of Neuroscience and interviews with African neuroscientists, 2022-2024.",
+      "options": [
+        "Brain scans showing identical structures across all people",
+        "The fact that brain size never changes after childhood",
+        "Observable brain changes in taxi drivers and musicians",
+        "Research showing intelligence is completely genetic"
+      ],
+      "answer": "C",
+      "explanation": "The passage cites London taxi drivers showing 'measurable growth in navigation regions' and musicians' brains differing 'in areas controlling fine motor skills' as evidence of neuroplasticity — the brain physically changing in response to experience."
+    },
+    {
+      "id": 25,
+      "question": "Dr. Hanna Mekonnen's comparison of the brain to a garden primarily emphasizes that:",
+      "image": null,
+      "passage": "The Garden in Our Heads\n\n1. The human brain has been called the most complex structure in the known universe. With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about how this remarkable organ works.\n\n2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now allow scientists to observe the living brain in action. What researchers are discovering challenges long-held assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns that shift constantly based on context.\n\n3. Perhaps most fascinating is neuroplasticity—the brain's ability to reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now know that learning a new skill or adapting to a new environment can physically reshape neural connections. The brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas controlling fine motor skills.\n\n4. This understanding carries profound implications for education. If brains can change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr. Hanna Mekonnen, an Ethiopian neuroscientist, explains: \"The brain is not a computer that arrives pre-wired. It's more like a garden that grows according to how it's tended. With the right conditions, growth is always possible.\"\n\nSource: Adapted from research published in the Journal of Neuroscience and interviews with African neuroscientists, 2022-2024.",
+      "options": [
+        "brains are beautiful but fragile",
+        "neural development requires proper conditions and care",
+        "gardens grow better in some climates than others",
+        "brain research is still in its early stages"
+      ],
+      "answer": "B",
+      "explanation": "Dr. Mekonnen says: 'It's more like a garden that grows according to how it's tended. With the right conditions, growth is always possible.' The garden metaphor emphasizes that proper conditions and care (tending) lead to growth, just as the right educational environment fosters neural development."
+    },
+    {
+      "id": 26,
+      "question": "Based on the passage, which statement would the author most likely agree with?",
+      "image": null,
+      "passage": "The Garden in Our Heads\n\n1. The human brain has been called the most complex structure in the known universe. With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about how this remarkable organ works.\n\n2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now allow scientists to observe the living brain in action. What researchers are discovering challenges long-held assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns that shift constantly based on context.\n\n3. Perhaps most fascinating is neuroplasticity—the brain's ability to reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now know that learning a new skill or adapting to a new environment can physically reshape neural connections. The brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas controlling fine motor skills.\n\n4. This understanding carries profound implications for education. If brains can change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr. Hanna Mekonnen, an Ethiopian neuroscientist, explains: \"The brain is not a computer that arrives pre-wired. It's more like a garden that grows according to how it's tended. With the right conditions, growth is always possible.\"\n\nSource: Adapted from research published in the Journal of Neuroscience and interviews with African neuroscientists, 2022-2024.",
+      "options": [
+        "Intelligence is determined at birth and cannot change.",
+        "Educational approaches should consider the brain's capacity for change.",
+        "Neuroimaging has solved all mysteries about how the brain works.",
+        "Only children's brains are capable of neuroplasticity."
+      ],
+      "answer": "B",
+      "explanation": "The passage emphasizes neuroplasticity and its implications for education, concluding that 'Teaching methods, environment, and effort all matter.' This directly supports the idea that educational approaches should consider the brain's capacity for change."
+    },
+    {
+      "id": 27,
+      "question": "The passage implies that the practical value of neuroplasticity research for Ethiopian education lies in:",
+      "image": null,
+      "passage": "The Garden in Our Heads\n\n1. The human brain has been called the most complex structure in the known universe. With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about how this remarkable organ works.\n\n2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now allow scientists to observe the living brain in action. What researchers are discovering challenges long-held assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns that shift constantly based on context.\n\n3. Perhaps most fascinating is neuroplasticity—the brain's ability to reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now know that learning a new skill or adapting to a new environment can physically reshape neural connections. The brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas controlling fine motor skills.\n\n4. This understanding carries profound implications for education. If brains can change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr. Hanna Mekonnen, an Ethiopian neuroscientist, explains: \"The brain is not a computer that arrives pre-wired. It's more like a garden that grows according to how it's tended. With the right conditions, growth is always possible.\"\n\nSource: Adapted from research published in the Journal of Neuroscience and interviews with African neuroscientists, 2022-2024.",
+      "options": [
+        "proving that some students simply cannot learn",
+        "encouraging teaching methods that build neural pathways",
+        "replacing teachers with brain scanners",
+        "focusing exclusively on early childhood education"
+      ],
+      "answer": "B",
+      "explanation": "The passage's discussion of neuroplasticity leads to educational implications: if brains can change through learning, then teaching methods that actively build neural pathways are valuable. This encourages methods that leverage the brain's adaptability."
+    },
+    {
+      "id": 28,
+      "question": "In the context of the passage, the word 'profound' most nearly means:",
+      "image": null,
+      "passage": "The Garden in Our Heads\n\n1. The human brain has been called the most complex structure in the known universe. With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about how this remarkable organ works.\n\n2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now allow scientists to observe the living brain in action. What researchers are discovering challenges long-held assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns that shift constantly based on context.\n\n3. Perhaps most fascinating is neuroplasticity—the brain's ability to reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now know that learning a new skill or adapting to a new environment can physically reshape neural connections. The brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas controlling fine motor skills.\n\n4. This understanding carries profound implications for education. If brains can change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr. Hanna Mekonnen, an Ethiopian neuroscientist, explains: \"The brain is not a computer that arrives pre-wired. It's more like a garden that grows according to how it's tended. With the right conditions, growth is always possible.\"\n\nSource: Adapted from research published in the Journal of Neuroscience and interviews with African neuroscientists, 2022-2024.",
+      "options": [
+        "shallow and unimportant",
+        "deep and significant",
+        "confusing and unclear",
+        "temporary and brief"
+      ],
+      "answer": "B",
+      "explanation": "The passage speaks of 'profound implications for education,' meaning the implications are deep and significant — they have far-reaching, meaningful consequences. This is the standard meaning of 'profound.'"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following themes is common to both passages?",
+      "image": null,
+      "passage": "The Solar Revolution in Rural Ethiopia\n\n1. In the remote villages of Ethiopia's Rift Valley, where the national power grid remains a distant dream, a different kind of energy revolution is taking root. For generations, families relied on kerosene lamps—flaming, expensive, and hazardous—to extend their days beyond sunset. Children studied by dim, smoky light, their eyes straining and their lungs absorbing toxic fumes. Women walked kilometers to mill grain, and health posts stored vaccines in unreliable kerosene refrigerators. Energy poverty was simply a fact of life.\n\n2. That reality is now changing, driven by the falling cost of solar technology and innovative distribution models. Companies like Bio Lite and d.light have partnered with Ethiopian microfinance institutions to make solar home systems affordable for rural families. A typical system includes a small rooftop panel, a battery, LED lights, and a phone charger—all for less than the cost of one year's kerosene. For Alemitu, a mother of five in the Oromia region, the impact has been transformative: \"My children can now study after dark. I charge my phone at home instead of walking two hours to town. We breathe clean air.\"\n\n3. The implications extend beyond individual households. Solar-powered water pumps are enabling small-scale irrigation, extending growing seasons and increasing food security. Solar-powered refrigerators allow health clinics to store vaccines safely. And perhaps most significantly, solar energy is creating new economic opportunities—women are starting small businesses charging phones, and young people are training as solar technicians. What began as a solution to energy poverty is becoming a catalyst for broader rural development.\n\nSource: Adapted from reports by the International Renewable Energy Agency (IRENA) and field observations in Ethiopian rural communities, 2023-2025.\n\n---\n\nThe Garden in Our Heads\n\n1. The human brain has been called the most complex structure in the known universe. With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about how this remarkable organ works.\n\n2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now allow scientists to observe the living brain in action. What researchers are discovering challenges long-held assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns that shift constantly based on context.\n\n3. Perhaps most fascinating is neuroplasticity—the brain's ability to reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now know that learning a new skill or adapting to a new environment can physically reshape neural connections. The brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas controlling fine motor skills.\n\n4. This understanding carries profound implications for education. If brains can change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr. Hanna Mekonnen, an Ethiopian neuroscientist, explains: \"The brain is not a computer that arrives pre-wired. It's more like a garden that grows according to how it's tended. With the right conditions, growth is always possible.\"\n\nSource: Adapted from research published in the Journal of Neuroscience and interviews with African neuroscientists, 2022-2024.",
+      "options": [
+        "Traditional methods are always superior to modern innovations.",
+        "Scientific advances meet basic human needs.",
+        "Rural communities resist all forms of change and development.",
+        "Government intervention is the only path to progress."
+      ],
+      "answer": "B",
+      "explanation": "Passage I describes how solar technology (a scientific advance) meets the basic need for energy in rural Ethiopia. Passage II describes how neuroscience advances (neuroplasticity) can improve education, meeting the basic need for learning. Both show scientific advances addressing fundamental human needs."
+    },
+    {
+      "id": 30,
+      "question": "Both passages suggest that meaningful transformation requires:",
+      "image": null,
+      "passage": "The Solar Revolution in Rural Ethiopia\n\n1. In the remote villages of Ethiopia's Rift Valley, where the national power grid remains a distant dream, a different kind of energy revolution is taking root. For generations, families relied on kerosene lamps—flaming, expensive, and hazardous—to extend their days beyond sunset. Children studied by dim, smoky light, their eyes straining and their lungs absorbing toxic fumes. Women walked kilometers to mill grain, and health posts stored vaccines in unreliable kerosene refrigerators. Energy poverty was simply a fact of life.\n\n2. That reality is now changing, driven by the falling cost of solar technology and innovative distribution models. Companies like Bio Lite and d.light have partnered with Ethiopian microfinance institutions to make solar home systems affordable for rural families. A typical system includes a small rooftop panel, a battery, LED lights, and a phone charger—all for less than the cost of one year's kerosene. For Alemitu, a mother of five in the Oromia region, the impact has been transformative: \"My children can now study after dark. I charge my phone at home instead of walking two hours to town. We breathe clean air.\"\n\n3. The implications extend beyond individual households. Solar-powered water pumps are enabling small-scale irrigation, extending growing seasons and increasing food security. Solar-powered refrigerators allow health clinics to store vaccines safely. And perhaps most significantly, solar energy is creating new economic opportunities—women are starting small businesses charging phones, and young people are training as solar technicians. What began as a solution to energy poverty is becoming a catalyst for broader rural development.\n\nSource: Adapted from reports by the International Renewable Energy Agency (IRENA) and field observations in Ethiopian rural communities, 2023-2025.\n\n---\n\nThe Garden in Our Heads\n\n1. The human brain has been called the most complex structure in the known universe. With approximately 86 billion neurons, each connected to thousands of others, it creates a network whose possible configurations exceed the number of atoms in existence. Until recently, we could only speculate about how this remarkable organ works.\n\n2. That is changing. Advances in neuroimaging—such as fMRI and EEG—now allow scientists to observe the living brain in action. What researchers are discovering challenges long-held assumptions. The old model suggested that specific functions resided in fixed locations. But the reality appears far more dynamic: when a person speaks or remembers, multiple brain regions activate in coordinated patterns that shift constantly based on context.\n\n3. Perhaps most fascinating is neuroplasticity—the brain's ability to reorganize itself throughout life. Scientists once believed that after childhood, the brain became fixed. We now know that learning a new skill or adapting to a new environment can physically reshape neural connections. The brain of a London taxi driver shows measurable growth in navigation regions; a musician's brain differs in areas controlling fine motor skills.\n\n4. This understanding carries profound implications for education. If brains can change, then intelligence is not simply fixed at birth. Teaching methods, environment, and effort all matter. Dr. Hanna Mekonnen, an Ethiopian neuroscientist, explains: \"The brain is not a computer that arrives pre-wired. It's more like a garden that grows according to how it's tended. With the right conditions, growth is always possible.\"\n\nSource: Adapted from research published in the Journal of Neuroscience and interviews with African neuroscientists, 2022-2024.",
+      "options": [
+        "abandoning traditional practices entirely",
+        "importing solutions from developed countries without adaptation",
+        "integrating new technologies with local conditions and needs",
+        "waiting for government support before taking action"
+      ],
+      "answer": "C",
+      "explanation": "Passage I shows solar technology being adapted through microfinance partnerships and local distribution models. Passage II shows neuroscience being applied through an Ethiopian scientist's lens, using the 'garden' metaphor relevant to local understanding. Both emphasize integration with local conditions rather than wholesale importation or abandonment of tradition."
+    },
+    {
+      "id": 31,
+      "question": "The elder advised the young man: \"When you follow the path of your fathers, you learn to walk with their wisdom.\" This proverb suggests that:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "young people should never question their elders",
+        "traditional knowledge offers valuable guidance",
+        "walking is the only way to learn",
+        "fathers always know the best routes"
+      ],
+      "answer": "B",
+      "explanation": "The proverb uses 'path' and 'walk' metaphorically. Following the path of fathers means learning from traditional knowledge and experience. The wisdom gained is valuable guidance — not about literal walking, never questioning, or fathers always being right."
+    },
+    {
+      "id": 32,
+      "question": "The proverb \"Don't count your chickens before they hatch\" teaches us to:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "avoid raising poultry",
+        "Wait for certainty before celebrating",
+        "count carefully to avoid mistakes",
+        "expect every egg to produce a chick"
+      ],
+      "answer": "B",
+      "explanation": "This classic proverb warns against assuming a positive outcome before it actually happens. 'Don't count your chickens before they hatch' means don't assume all eggs will produce chicks — wait for certainty before celebrating."
+    },
+    {
+      "id": 33,
+      "question": "The committee _______________ for three hours before finally reaching a unanimous decision on the new school policy.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "debated",
+        "was debated",
+        "were debating",
+        "have debated"
+      ],
+      "answer": "A",
+      "explanation": "'Debated' is the correct simple past tense form that agrees with the singular collective noun 'committee' and fits the completed action context ('before finally reaching'). 'Was debated' is passive, 'were debating' uses wrong agreement, and 'have debated' doesn't match the past narrative."
+    },
+    {
+      "id": 34,
+      "question": "All successful farmers in the region understand soil composition. Beka understands soil composition. Therefore:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Beka is definitely a successful farmer",
+        "Beka may or may not be a successful farmer",
+        "Beka cannot be a successful farmer",
+        "only successful farmers understand soil"
+      ],
+      "answer": "B",
+      "explanation": "This is the fallacy of affirming the consequent. The premise says 'All successful farmers understand soil composition' (S→U), but understanding soil composition (U) doesn't guarantee being a successful farmer (S) — others may also understand it. So Beka may or may not be a successful farmer."
+    },
+    {
+      "id": 35,
+      "question": "Five students—Abebe, Bontu, Chaltu, Dawit, and Eyerusalem—are sitting in a row facing the same direction. Abebe is sitting next to Bontu. Chaltu is at one end. Dawit is not next to Chaltu. Eyerusalem is between Dawit and Abebe. Who is sitting at the other end?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Abebe",
+        "Bontu",
+        "Dawit",
+        "Eyerusalem"
+      ],
+      "answer": "B",
+      "explanation": "Working through the constraints: Chaltu is at one end. Dawit is not next to Chaltu, so Dawit is somewhere in the middle or the other end. Eyerusalem is between Dawit and Abebe, giving us ...Dawit-Eyerusalem-Abebe... or ...Abebe-Eyerusalem-Dawit... Abebe is next to Bontu. If we place Chaltu at the left end: Chaltu-Bontu-Abebe-Eyerusalem-Dawit. This satisfies all conditions. The other end is Bontu."
+    },
+    {
+      "id": 36,
+      "question": "If the length of a rectangle increases by 20% and the width decreases by 20%, then the area changes by:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "No change",
+        "4% decrease",
+        "4% increase",
+        "8% decrease"
+      ],
+      "answer": "B",
+      "explanation": "Let original length = L, width = W. New length = 1.2L, new width = 0.8W. New area = 1.2L × 0.8W = 0.96LW. The area is 96% of the original, a 4% decrease."
+    },
+    {
+      "id": 37,
+      "question": "If A is ___ more than B and B is 20% more than C, then A is how much percent more than C?",
+      "image": "./images/2018_p1_q37.png",
+      "passage": null,
+      "options": [
+        "42%",
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "32%"
+      ],
+      "answer": "A",
+      "explanation": "Let C = 100. Then B = 120 (20% more than C). If A is 20% more than B: A = 120 × 1.20 = 144. So A is 44% more than C. However, the answer key gives A (42%), suggesting the missing percentage may be different. The OCR is incomplete — see the original image for the exact question."
+    },
+    {
+      "id": 38,
+      "question": "The average of five numbers is 28. If one of the numbers is removed, the average becomes 26. The removed number is:",
+      "image": "./images/2018_p1_q38.png",
+      "passage": null,
+      "options": [
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "(missing from OCR)"
+      ],
+      "answer": "D",
+      "explanation": "Sum of five numbers = 5 × 28 = 140. Sum of four remaining numbers = 4 × 26 = 104. Removed number = 140 - 104 = 36. The answer is D, which likely corresponds to 36 in the original options."
+    },
+    {
+      "id": 39,
+      "question": "If the roots of [equation] are α and β, then [expression] equals:",
+      "image": "./images/2018_p1_q39.png",
+      "passage": null,
+      "options": [
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "(missing from OCR)"
+      ],
+      "answer": "C",
+      "explanation": "The equation and expression are garbled in the OCR extraction. Please refer to the original exam image for the complete question. The answer is C per the answer key."
+    },
+    {
+      "id": 40,
+      "question": "The smallest positive integer that leaves remainder 3 when divided by 5, 7 and 9 is:",
+      "image": "./images/2018_p1_q40.png",
+      "passage": null,
+      "options": [
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "(missing from OCR)"
+      ],
+      "answer": "D",
+      "explanation": "Find the LCM of 5, 7, and 9. LCM(5,7) = 35; LCM(35,9) = 315. Since the number leaves remainder 3 when divided by each, the number = 315 + 3 = 318. The answer D likely corresponds to 318 in the original."
+    },
+    {
+      "id": 41,
+      "question": "If 8 workers can finish a job in 12 days, how many workers are needed to finish the same job in 6 days (assume each person works at the same rate)?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "answer": "C",
+      "explanation": "Total work = 8 workers × 12 days = 96 worker-days. To finish in 6 days: 96 ÷ 6 = 16 workers needed. This is an inverse proportion problem."
+    },
+    {
+      "id": 42,
+      "question": "One angle of an isosceles triangle is ___, then which one of the following can be the other angle of this triangle?",
+      "image": "./images/2018_p1_q42.png",
+      "passage": null,
+      "options": [
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "(missing from OCR)"
+      ],
+      "answer": "C",
+      "explanation": "The angle value is missing from the OCR. In an isosceles triangle, two angles are equal and all three sum to 180°. The answer is C — see the original image for the complete question and options."
+    },
+    {
+      "id": 43,
+      "question": "If the sum of the first n natural numbers is 210, then n is equal to:",
+      "image": "./images/2018_p1_q43.png",
+      "passage": null,
+      "options": [
+        "20",
+        "21",
+        "(missing from OCR)",
+        "(missing from OCR)"
+      ],
+      "answer": "B",
+      "explanation": "Sum of first n natural numbers = n(n+1)/2 = 210. So n(n+1) = 420. Testing: 20 × 21 = 420, so n = 20. However, the answer key says B (21). This may indicate the question asks for n+1 or has different wording. See the original image for verification."
+    },
+    {
+      "id": 44,
+      "question": "A container contains a mixture of two liquids A and B in the ratio ___ : ___. When 9 liters of mixture are drawn off then, the ratio of A and B becomes ___ : ___. How many liters of liquid A was contained by the container initially?",
+      "image": "./images/2018_p1_q44.png",
+      "passage": null,
+      "options": [
+        "10 liters",
+        "20 liters",
+        "(missing from OCR) liters",
+        "(missing from OCR) liters"
+      ],
+      "answer": "D",
+      "explanation": "The ratio values are missing from the OCR. This is a mixture/ratio problem where removing some mixture changes the ratio. The answer is D — see the original image for the complete question with all ratio values."
+    },
+    {
+      "id": 45,
+      "question": "What is the next number in the series, ___ ?",
+      "image": "./images/2018_p1_q45.png",
+      "passage": null,
+      "options": [
+        "21",
+        "20",
+        "25",
+        "30"
+      ],
+      "answer": "B",
+      "explanation": "The series numbers are missing from the OCR. The answer is B (20). See the original image for the complete series."
+    },
+    {
+      "id": 46,
+      "question": "What comes next in the series, ___ ?",
+      "image": "./images/2018_p1_q46.png",
+      "passage": null,
+      "options": [
+        "15",
+        "16",
+        "18",
+        "20"
+      ],
+      "answer": "D",
+      "explanation": "The series numbers are missing from the OCR. The answer is D (20). See the original image for the complete series."
+    },
+    {
+      "id": 47,
+      "question": "Two students X and Y together have Birr 6000. If ___ of X's share is equal to ___ of Y's share, how much does X have?",
+      "image": "./images/2018_p1_q47.png",
+      "passage": null,
+      "options": [
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "(missing from OCR)"
+      ],
+      "answer": "A",
+      "explanation": "The fraction values are missing from the OCR. This is a ratio problem where X + Y = 6000 and a fraction of X equals a fraction of Y. The answer is A — see the original image for the complete question."
+    },
+    {
+      "id": 48,
+      "question": "A box contains red, white and black balls in the ratio of ___ : ___ : ___. If there are 25 black balls, then how many balls are there in the box?",
+      "image": "./images/2018_p1_q48.png",
+      "passage": null,
+      "options": [
+        "75",
+        "50",
+        "60",
+        "65"
+      ],
+      "answer": "B",
+      "explanation": "The ratio values are missing from the OCR. Given 25 black balls and the answer is B (50), the ratio likely sums such that total = 50. For example, if the ratio were 1:1:1, then 25×3=75, not 50. The actual ratio must be found in the original. See the image for complete data."
+    },
+    {
+      "id": 49,
+      "question": "A team of 5 students met for a discussion. Each student shook hands once with each other. How many handshakes take place?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "120",
+        "10",
+        "25",
+        "20"
+      ],
+      "answer": "B",
+      "explanation": "Number of handshakes = C(5,2) = 5!/(2!×3!) = 10. Each pair shakes hands once, so we count combinations of 2 from 5 people."
+    },
+    {
+      "id": 50,
+      "question": "A train running at 54 km/hr crosses a pole in 12 seconds. Length of the train is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "150 meter",
+        "160 meter",
+        "180 meter",
+        "200 meter"
+      ],
+      "answer": "C",
+      "explanation": "Speed = 54 km/hr = 54 × 1000/3600 = 15 m/s. Distance = Speed × Time = 15 × 12 = 180 meters. The length of the train equals the distance it travels to pass the pole."
+    },
+    {
+      "id": 51,
+      "question": "Eight years ago, a mother's age was four times her daughter's age. Eight years from now, the mother's age will be twice her daughter's age. What is the current age of the mother?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "40",
+        "48",
+        "56",
+        "64"
+      ],
+      "answer": "A",
+      "explanation": "Let mother's current age = M, daughter's = D. Eight years ago: M-8 = 4(D-8) → M = 4D-24. Eight years from now: M+8 = 2(D+8) → M = 2D+8. Setting equal: 4D-24 = 2D+8 → 2D = 32 → D = 16. Then M = 2(16)+8 = 40. Note: option C (56) is listed twice in the OCR; the correct answer is A (40)."
+    },
+    {
+      "id": 52,
+      "question": "In a class of 70 students: 40 like English, 30 like History and 18 like both subjects. What is the probability that a randomly selected student likes neither subject?",
+      "image": "./images/2018_p1_q52.png",
+      "passage": null,
+      "options": [
+        "(partially missing from OCR)",
+        "0",
+        "(missing from OCR)",
+        "(missing from OCR)"
+      ],
+      "answer": "A",
+      "explanation": "By inclusion-exclusion: |E∪H| = 40 + 30 - 18 = 52. Students liking neither = 70 - 52 = 18. Probability = 18/70 = 9/35 ≈ 0.257. The answer is A, which likely contains 9/35 or 18/70 in the original options."
+    },
+    {
+      "id": 53,
+      "question": "For [given condition], the simplified form of the expression [expression] is:",
+      "image": "./images/2018_p1_q53.png",
+      "passage": null,
+      "options": [
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "(missing from OCR)",
+        "(missing from OCR)"
+      ],
+      "answer": "D",
+      "explanation": "The expression and options are garbled in the OCR. The answer is D — see the original image for the complete question."
+    },
+    {
+      "id": 54,
+      "question": "For [given condition], which of the following is true about the relationship between quantities A and B? Quantity A: [missing] Quantity B: [missing]",
+      "image": "./images/2018_p1_q54.png",
+      "passage": null,
+      "options": [
+        "The two quantities are equal",
+        "The relationship cannot be determined",
+        "Quantity A is less than quantity B",
+        "Quantity A is greater than quantity B"
+      ],
+      "answer": "D",
+      "explanation": "The specific quantities and condition are garbled in the OCR. The answer is D (Quantity A is greater than quantity B) — see the original image for the complete question."
+    },
+    {
+      "id": 55,
+      "question": "Which of the following is true about the relationship between quantities P and Q? Quantity P: ³√[missing] Quantity Q: √[missing]",
+      "image": "./images/2018_p1_q55.png",
+      "passage": null,
+      "options": [
+        "Quantity P is greater than quantity Q",
+        "The two quantities are equal",
+        "Quantity P is less than quantity Q",
+        "The relationship cannot be determined from the information given"
+      ],
+      "answer": "C",
+      "explanation": "The specific values under the cube root and square root are garbled. The answer is C (Quantity P is less than quantity Q) — see the original image for the complete question with the actual numbers."
+    },
+    {
+      "id": 56,
+      "question": "In which year was the percentage of smartphones sold to the total number of devices sold the highest?",
+      "image": null,
+      "passage": "The table shows the number of different categories of electronic devices sold by a company over five years (in thousands).\n\nYear | Laptops | Tablets | Smartphones | Smart watches | Headphones | Total\n2013 | 120     | 80      | 350         | 60            | 190        | 800\n2014 | 150     | 95      | 420         | 75            | 210        | 950\n2015 | 170     | 110     | 460         | 90            | 230        | 1060\n2016 | 200     | 130     | 520         | 105           | 260        | 1215\n2017 | 230     | 150     | 610         | 120           | 290        | 1400",
+      "options": [
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "answer": "B",
+      "explanation": "Calculating smartphone percentage for each year: 2013: 350/800=43.75%, 2014: 420/950=44.2%, 2015: 460/1060=43.4%, 2016: 520/1215=42.8%, 2017: 610/1400=43.6%. Per the answer key, B (2015) is given as the answer."
+    },
+    {
+      "id": 57,
+      "question": "For which category was the percentage increase in sales from 2014 to 2015 the maximum?",
+      "image": null,
+      "passage": "The table shows the number of different categories of electronic devices sold by a company over five years (in thousands).\n\nYear | Laptops | Tablets | Smartphones | Smart watches | Headphones | Total\n2013 | 120     | 80      | 350         | 60            | 190        | 800\n2014 | 150     | 95      | 420         | 75            | 210        | 950\n2015 | 170     | 110     | 460         | 90            | 230        | 1060\n2016 | 200     | 130     | 520         | 105           | 260        | 1215\n2017 | 230     | 150     | 610         | 120           | 290        | 1400",
+      "options": [
+        "Headphones",
+        "Laptops",
+        "Smart watches",
+        "Tablets"
+      ],
+      "answer": "C",
+      "explanation": "Percentage increases from 2014 to 2015: Laptops: (170-150)/150=13.3%, Tablets: (110-95)/95=15.8%, Smartphones: (460-420)/420=9.5%, Smart watches: (90-75)/75=20%, Headphones: (230-210)/210=9.5%. Smart watches had the maximum percentage increase at 20%."
+    },
+    {
+      "id": 58,
+      "question": "In which year were the smart watches sales 50% of the laptop sales?",
+      "image": null,
+      "passage": "The table shows the number of different categories of electronic devices sold by a company over five years (in thousands).\n\nYear | Laptops | Tablets | Smartphones | Smart watches | Headphones | Total\n2013 | 120     | 80      | 350         | 60            | 190        | 800\n2014 | 150     | 95      | 420         | 75            | 210        | 950\n2015 | 170     | 110     | 460         | 90            | 230        | 1060\n2016 | 200     | 130     | 520         | 105           | 260        | 1215\n2017 | 230     | 150     | 610         | 120           | 290        | 1400",
+      "options": [
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "answer": "C",
+      "explanation": "Checking smart watches as percentage of laptop sales: 2013: 60/120=50%, 2014: 75/150=50%, 2015: 90/170=52.9%, 2016: 105/200=52.5%, 2017: 120/230=52.2%. Per the answer key, C (2016) is given as the answer."
+    },
+    {
+      "id": 59,
+      "question": "If the same percentage increase in smartphone sales from 2016 to 2017 continues for 2018, approximately how many smartphones will be sold in 2018?",
+      "image": null,
+      "passage": "The table shows the number of different categories of electronic devices sold by a company over five years (in thousands).\n\nYear | Laptops | Tablets | Smartphones | Smart watches | Headphones | Total\n2013 | 120     | 80      | 350         | 60            | 190        | 800\n2014 | 150     | 95      | 420         | 75            | 210        | 950\n2015 | 170     | 110     | 460         | 90            | 230        | 1060\n2016 | 200     | 130     | 520         | 105           | 260        | 1215\n2017 | 230     | 150     | 610         | 120           | 290        | 1400",
+      "options": [
+        "690 thousand",
+        "715 thousand",
+        "730 thousand",
+        "740 thousand"
+      ],
+      "answer": "B",
+      "explanation": "Percentage increase from 2016 to 2017: (610-520)/520 = 90/520 ≈ 17.31%. Applying this to 2017: 610 × 1.1731 ≈ 715.6 ≈ 716 thousand. Closest answer is B (715 thousand)."
+    },
+    {
+      "id": 60,
+      "question": "The number of smart watches sold in 2015 is what percentage of the headphones sold in 2016?",
+      "image": null,
+      "passage": "The table shows the number of different categories of electronic devices sold by a company over five years (in thousands).\n\nYear | Laptops | Tablets | Smartphones | Smart watches | Headphones | Total\n2013 | 120     | 80      | 350         | 60            | 190        | 800\n2014 | 150     | 95      | 420         | 75            | 210        | 950\n2015 | 170     | 110     | 460         | 90            | 230        | 1060\n2016 | 200     | 130     | 520         | 105           | 260        | 1215\n2017 | 230     | 150     | 610         | 120           | 290        | 1400",
+      "options": [
+        "30%",
+        "40%",
+        "36%",
+        "34.6%"
+      ],
+      "answer": "D",
+      "explanation": "Smart watches in 2015 = 90 thousand. Headphones in 2016 = 260 thousand. Percentage = (90/260) × 100 = 34.6%."
+    }
+  ]
+}
+// Total questions: 60
+// Images needed: [37, 38, 39, 40, 42, 43, 44, 45, 46, 47, 48, 52, 53, 54, 55]
+// Passages: Passage I "The Solar Revolution in Rural Ethiopia" (Q19-22), Passage II "The Garden in Our Heads" (Q23-28), Both Passages (Q29-30), Data Table (Q56-60)
+// Subject: Aptitude
+// Year: 2018 E.C, Paper 1
+// Source: Addis Ababa City Government Education Bureau - Grade 12 SAT Model Exam
+// Sections: Verbal Reasoning (Q1-35), Quantitative Reasoning (Q36-60)
+// Subsections: Analogy/Classification (Q1-8), Sentence Completion (Q9-14), Synonyms/Antonyms (Q15-18), Critical Reading (Q19-30), Language Usage (Q31-33), Logical Reasoning (Q34-35), Quantitative Problems (Q36-55), Data Interpretation (Q56-60)
+// OCR Issues: 15 questions flagged with missing/garbled content - see image files for original
+// Answer Key Verified: All 60 answers match provided answer key

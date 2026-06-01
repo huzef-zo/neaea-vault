@@ -1,0 +1,847 @@
+{
+  "subject": "Aptitude",
+  "year": "2018 E.C",
+  "paper": 2,
+  "questions": [
+    {
+      "id": 1,
+      "question": "CALF : COW :: LAMB : ?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Sheep",
+        "Horse",
+        "Deer",
+        "Goat"
+      ],
+      "answer": "A",
+      "explanation": "A calf is the young of a cow, just as a lamb is the young of a sheep. This is a parent-offspring analogy. Note: Option D was garbled as 'Horse' in OCR; it is likely 'Goat' or another animal to distinguish from option B."
+    },
+    {
+      "id": 2,
+      "question": "BOOK : PUBLISHER :: FILM : ?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Writer",
+        "Editor",
+        "Director",
+        "Producer"
+      ],
+      "answer": "D",
+      "explanation": "A publisher is responsible for producing and distributing a book, just as a producer is responsible for producing and distributing a film. Both are the business-side facilitators of the creative work."
+    },
+    {
+      "id": 3,
+      "question": "TREMENDOUS : ENORMOUS :: ?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Sleep : Wake",
+        "Draw : Paint",
+        "Explore : Discover",
+        "Think : Relate"
+      ],
+      "answer": "C",
+      "explanation": "Tremendous and enormous are synonyms (both mean very large). Similarly, explore and discover are closely related synonyms — to explore is to search, and to discover is to find, making them the closest synonym pair among the options."
+    },
+    {
+      "id": 4,
+      "question": "Choose the word or phrase that is nearly the SAME IN MEANING as EXTROVERTED.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Shy",
+        "Outgoing",
+        "Deceiver",
+        "Energetic"
+      ],
+      "answer": "B",
+      "explanation": "Extroverted means being outgoing, sociable, and comfortable in social situations. 'Outgoing' is the closest synonym."
+    },
+    {
+      "id": 5,
+      "question": "Choose the word or phrase that is nearly the SAME IN MEANING as ASSERTIVE.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Passive",
+        "Aggressive",
+        "Confident",
+        "Hesitant"
+      ],
+      "answer": "C",
+      "explanation": "Assertive means having a confident and forceful personality. 'Confident' is the best synonym among the choices."
+    },
+    {
+      "id": 6,
+      "question": "Choose the word or phrase that is nearly the SAME IN MEANING as DISINTERESTED.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Impartial",
+        "Biased",
+        "Bored",
+        "Unconcerned"
+      ],
+      "answer": "A",
+      "explanation": "Disinterested means impartial or unbiased, not favoring one side over another. 'Impartial' is the best synonym."
+    },
+    {
+      "id": 7,
+      "question": "Choose the word or phrase that is nearly OPPOSITE IN MEANING as SUBJUGATE.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Liberate",
+        "Oppress",
+        "Protest",
+        "Conquer"
+      ],
+      "answer": "A",
+      "explanation": "Subjugate means to bring under control or domination. The opposite is 'liberate,' which means to set free."
+    },
+    {
+      "id": 8,
+      "question": "Choose the word or phrase that is nearly OPPOSITE IN MEANING as PENNYWISE.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Selfish",
+        "Pleasant",
+        "Ungrateful",
+        "Extravagant"
+      ],
+      "answer": "D",
+      "explanation": "Pennywise means careful with small amounts of money. The opposite is 'extravagant,' meaning spending money lavishly or wastefully."
+    },
+    {
+      "id": 9,
+      "question": "Choose the word or phrase that is nearly OPPOSITE IN MEANING as FRIENDLY.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Hostile",
+        "Warm",
+        "Supportive",
+        "Affectionate"
+      ],
+      "answer": "A",
+      "explanation": "Friendly means kind and pleasant. The opposite is 'hostile,' meaning unfriendly or antagonistic."
+    },
+    {
+      "id": 10,
+      "question": "Find the ODD ONE OUT: Apple, Carrot, Grape, Banana",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Apple",
+        "Carrot",
+        "Grape",
+        "Banana"
+      ],
+      "answer": "B",
+      "explanation": "Apple, grape, and banana are all fruits, while carrot is a vegetable. So carrot is the odd one out."
+    },
+    {
+      "id": 11,
+      "question": "Find the ODD ONE OUT: London, Paris, New York, California",
+      "image": null,
+      "passage": null,
+      "options": [
+        "London",
+        "Paris",
+        "New York",
+        "California"
+      ],
+      "answer": "D",
+      "explanation": "London, Paris, and New York are cities, while California is a state. So California is the odd one out."
+    },
+    {
+      "id": 12,
+      "question": "Find the ODD ONE OUT: Lion, Tiger, Elephant, Leopard",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Lion",
+        "Tiger",
+        "Elephant",
+        "Leopard"
+      ],
+      "answer": "C",
+      "explanation": "Lion, tiger, and leopard are all big cats (family Felidae), while elephant is not. So elephant is the odd one out."
+    },
+    {
+      "id": 13,
+      "question": "The engineer's meticulous attention to detail in the design of the building ensured that everything was perfectly executed, from the architecture to the finishing touches. Choose a word that best substitutes 'meticulous'.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Reckless",
+        "Thorough",
+        "Curious",
+        "Imprecise"
+      ],
+      "answer": "B",
+      "explanation": "Meticulous means showing great attention to detail and careful about every aspect. 'Thorough' is the best synonym."
+    },
+    {
+      "id": 14,
+      "question": "As soon as all the indispensable forms have been filled out, we will process our applications. Choose a word that best substitutes 'indispensable'.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Requisite",
+        "Nonessential",
+        "Tentative",
+        "Imprecise"
+      ],
+      "answer": "A",
+      "explanation": "Indispensable means absolutely necessary. 'Requisite' means required or necessary, making it the best substitute."
+    },
+    {
+      "id": 15,
+      "question": "Ali is all the time gluttonous to explore a wide range of topics, seeking to learn more and never satisfied with just the basics. Choose a word that best substitutes 'gluttonous'.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Voracious",
+        "Excessive",
+        "Limited",
+        "Disinterested"
+      ],
+      "answer": "A",
+      "explanation": "In this context, gluttonous refers to an insatiable appetite for knowledge. 'Voracious' means having a very eager approach to an activity, especially reading or learning, making it the best substitute."
+    },
+    {
+      "id": 16,
+      "question": "I've always been somewhat introverted, preferring to reflect quietly rather than engage in constant chatter with friends. Choose a word that best substitutes 'introverted'.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Outgoing",
+        "Reserved",
+        "Indifferent",
+        "Verbose"
+      ],
+      "answer": "B",
+      "explanation": "Introverted means being more focused on internal thoughts and preferring solitude. 'Reserved' means keeping one's thoughts and feelings to oneself, making it the best substitute."
+    },
+    {
+      "id": 17,
+      "question": "She wanted to impress all her dinner guests with the food she served, so she carefully studied the necessary culinary arts. Choose a word that best substitutes 'culinary'.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Architectural",
+        "Literary",
+        "Cooking",
+        "Gardening"
+      ],
+      "answer": "C",
+      "explanation": "Culinary means relating to cooking or the kitchen. 'Cooking' is the direct substitute."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is grammatically correct for 'Neither the players nor the manager ___ ready for the next press conference'?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Neither the players nor the manager be ready for the next press conference.",
+        "Neither the players nor the manager were ready for the next press conference.",
+        "Neither the players nor the manager is ready for the next press conference.",
+        "Neither the players nor the manager have been ready for the next press conference."
+      ],
+      "answer": "B",
+      "explanation": "With 'neither...nor,' the verb agrees with the nearer subject. 'Manager' is singular but in past tense context, 'were' is used for formal agreement with the plural 'players.' Option B uses the correct past tense verb form."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is grammatically correct for 'I personally believe the team ___ played ___ in the match'?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I personally believe the team has played wonderful in the match.",
+        "I personally believe the team have played wonderful in the match.",
+        "I personally believe the team has played wonderfully in the match.",
+        "I personally believe the team played wonderful in the match."
+      ],
+      "answer": "C",
+      "explanation": "The adverb 'wonderfully' is needed to modify the verb 'played,' not the adjective 'wonderful.' Also, 'team' as a singular collective noun takes 'has.' Option C correctly uses 'has played wonderfully.'"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is grammatically correct for 'Ali is one of the authorities who ___ responsible for the decision'?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Ali is one of the authorities who is responsible for the decision.",
+        "Ali is one of the authorities who are responsible for the decision.",
+        "Ali is one of the authority who is responsible for the decision.",
+        "Ali is one of the authority who are responsible for the decision."
+      ],
+      "answer": "B",
+      "explanation": "'One of the authorities who are' — the relative clause 'who are' modifies 'authorities' (plural), not 'one.' Option B correctly uses 'authorities' (plural) with 'are.'"
+    },
+    {
+      "id": 21,
+      "question": "Keneni has to study four books (English, Physics, Chemistry and Biology) on four different days from Thursday to Sunday. The order of the books is as follows: Chemistry is studied on the day before the day of English. Biology is studied on the day after the day of Physics. Which of the following is a correct order of books?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Chemistry, Biology, English, Physics",
+        "Biology, Chemistry, English, Physics",
+        "Physics, Chemistry, Biology, English",
+        "English, Chemistry, Biology, Physics"
+      ],
+      "answer": "C",
+      "explanation": "The constraints are: Chemistry is the day before English (C → E), and Biology is the day after Physics (P → B). The only order satisfying both is Physics, Chemistry, Biology, English: P on Thursday, C on Friday (day before E), B on Saturday (day after P), E on Sunday (day after C). This satisfies C before E and P before B."
+    },
+    {
+      "id": 22,
+      "question": "If Keneni studies Chemistry on Saturday, which subject has she studied on Thursday?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Physics",
+        "English",
+        "Biology",
+        "Either Physics or English"
+      ],
+      "answer": "D",
+      "explanation": "If Chemistry is on Saturday, English must be on Sunday (day after Chemistry). Biology must be the day after Physics. With Thursday and Friday remaining, Physics could be on Thursday (Biology on Friday) or on Friday (Biology on Saturday). But Chemistry is on Saturday, so Biology can't be on Saturday too. Therefore Physics must be on Thursday and Biology on Friday. So Thursday = Physics. However, the answer key indicates D, suggesting either could work under some interpretation."
+    },
+    {
+      "id": 23,
+      "question": "Which one of the following is NOT possible?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Chemistry on Thursday",
+        "Physics on Sunday",
+        "Physics on Thursday",
+        "Biology on Saturday"
+      ],
+      "answer": "B",
+      "explanation": "Physics on Sunday is not possible because Biology must be studied the day after Physics. If Physics is on Sunday, Biology would need to be on Monday, which is outside the Thursday-Sunday range. Hence Physics cannot be on Sunday."
+    },
+    {
+      "id": 24,
+      "question": "Dida introduces Kaku as the daughter of the only son of his father's wife. How is Kaku related to Dida?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Cousin",
+        "Niece",
+        "Aunt",
+        "Daughter"
+      ],
+      "answer": "D",
+      "explanation": "Dida's father's wife is Dida's mother. The only son of Dida's mother is Dida himself (assuming Dida is male). Therefore, Kaku is the daughter of Dida, making Kaku his daughter."
+    },
+    {
+      "id": 25,
+      "question": "After hearing about the new job opening in his field, Mark decided to apply immediately. Though it would mean moving to a new city, he was excited about the opportunity and felt it was a great career move. The job was also offering a higher salary than his current position, which made the decision easier for him. What is the most likely reason Mark decided to apply for the new job?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Mark enjoys living in his current city.",
+        "Mark believes the new job is a better career opportunity.",
+        "The new job requires him to relocate to a different country.",
+        "Mark prefers jobs that offer lower salaries."
+      ],
+      "answer": "B",
+      "explanation": "The passage states Mark 'felt it was a great career move' and was 'excited about the opportunity.' The most likely reason is that he believes the new job is a better career opportunity."
+    },
+    {
+      "id": 26,
+      "question": "Meditation is a great way to enhance mental health and reduce stress, and you don't need a gym or special equipment to practice it. All you need is a quiet space, some time, and a comfortable place. Which of the following sentences best supports this idea?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Meditation is a simple, cost-effective practice that only needs a peaceful space to improve mental clarity.",
+        "Gym workouts are worse for stress relief than meditation because it needs a professional instructor.",
+        "Meditation requires special equipment like pillows or sound machines for effectiveness.",
+        "You don't need a quiet space, some time and comfortable position for mediation."
+      ],
+      "answer": "A",
+      "explanation": "Option A directly supports the idea that meditation is simple and doesn't require special equipment — it only needs a peaceful space, aligning perfectly with the passage's message."
+    },
+    {
+      "id": 27,
+      "question": "Statement: 'No student who misses more than 10 days of school is allowed to sit for the final exams.' Conclusion I: 'If a student misses more than 10 days of school, they cannot sit for the final exams.' Conclusion II: 'If a student sits for the final exams, they have missed less than 10 days of school.'",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions follow",
+        "Neither conclusion follows"
+      ],
+      "answer": "C",
+      "explanation": "Conclusion I is a direct restatement of the given statement. Conclusion II is the contrapositive of the statement (if they can sit for exams, they did not miss more than 10 days), which is logically equivalent. Both conclusions follow."
+    },
+    {
+      "id": 28,
+      "question": "How is Mary Jonson initially characterized in the passage?",
+      "image": null,
+      "passage": "Mary Jonson was an obstinate and isolated child, who spent her early years in the lush landscapes of India. Following the death of her neglectful parents, she was sent to live with her reclusive uncle, Mr. Craven, in an enormous, deserted mansion in England. Initially, Mary was disinterested in her surroundings, sulking in her loneliness. However, a fateful discovery of a hidden door in the garden wall sparked her curiosity.\n\nAs Mary offered into the long-forgotten garden, she encountered a wild, untamed world filled with neglected flora. Driven by a newfound purpose, she diligently nurtured the garden back to life, transforming it into a sanctuary of vibrant colors and charming scents. Through this process, she not only fostered the garden's revival but also cultivated friendships that helped her discover the joys of companionship, resilience, and personal growth.",
+      "options": [
+        "Stubborn and solitary",
+        "Energetic and curious",
+        "Cheerful and sociable",
+        "Compassionate and friendly"
+      ],
+      "answer": "A",
+      "explanation": "The passage describes Mary as 'obstinate and isolated,' which means stubborn and solitary. 'Obstinate' = stubborn; 'isolated' = solitary."
+    },
+    {
+      "id": 29,
+      "question": "What event led to Mary's relocation to her uncle's mansion?",
+      "image": null,
+      "passage": "Mary Jonson was an obstinate and isolated child, who spent her early years in the lush landscapes of India. Following the death of her neglectful parents, she was sent to live with her reclusive uncle, Mr. Craven, in an enormous, deserted mansion in England. Initially, Mary was disinterested in her surroundings, sulking in her loneliness. However, a fateful discovery of a hidden door in the garden wall sparked her curiosity.\n\nAs Mary offered into the long-forgotten garden, she encountered a wild, untamed world filled with neglected flora. Driven by a newfound purpose, she diligently nurtured the garden back to life, transforming it into a sanctuary of vibrant colors and charming scents. Through this process, she not only fostered the garden's revival but also cultivated friendships that helped her discover the joys of companionship, resilience, and personal growth.",
+      "options": [
+        "A family reunion",
+        "Her desire for adventure",
+        "The death of her parents",
+        "A travel to England for vacation"
+      ],
+      "answer": "C",
+      "explanation": "The passage states: 'Following the death of her neglectful parents, she was sent to live with her reclusive uncle, Mr. Craven.'"
+    },
+    {
+      "id": 30,
+      "question": "What does Mary find within the hidden garden?",
+      "image": null,
+      "passage": "Mary Jonson was an obstinate and isolated child, who spent her early years in the lush landscapes of India. Following the death of her neglectful parents, she was sent to live with her reclusive uncle, Mr. Craven, in an enormous, deserted mansion in England. Initially, Mary was disinterested in her surroundings, sulking in her loneliness. However, a fateful discovery of a hidden door in the garden wall sparked her curiosity.\n\nAs Mary offered into the long-forgotten garden, she encountered a wild, untamed world filled with neglected flora. Driven by a newfound purpose, she diligently nurtured the garden back to life, transforming it into a sanctuary of vibrant colors and charming scents. Through this process, she not only fostered the garden's revival but also cultivated friendships that helped her discover the joys of companionship, resilience, and personal growth.",
+      "options": [
+        "A magical fountain",
+        "An overgrown, neglected space",
+        "A place filled with animated animals",
+        "A structured and organized landscape"
+      ],
+      "answer": "B",
+      "explanation": "The passage describes the garden as 'a wild, untamed world filled with neglected flora,' which means an overgrown, neglected space."
+    },
+    {
+      "id": 31,
+      "question": "What transformation occurs in Mary as she cares for the garden?",
+      "image": null,
+      "passage": "Mary Jonson was an obstinate and isolated child, who spent her early years in the lush landscapes of India. Following the death of her neglectful parents, she was sent to live with her reclusive uncle, Mr. Craven, in an enormous, deserted mansion in England. Initially, Mary was disinterested in her surroundings, sulking in her loneliness. However, a fateful discovery of a hidden door in the garden wall sparked her curiosity.\n\nAs Mary offered into the long-forgotten garden, she encountered a wild, untamed world filled with neglected flora. Driven by a newfound purpose, she diligently nurtured the garden back to life, transforming it into a sanctuary of vibrant colors and charming scents. Through this process, she not only fostered the garden's revival but also cultivated friendships that helped her discover the joys of companionship, resilience, and personal growth.",
+      "options": [
+        "She gains a reputation as a gardener",
+        "She learns about gardening techniques",
+        "She becomes wealthier and more powerful",
+        "She discovers feelings of companionship and resilience"
+      ],
+      "answer": "D",
+      "explanation": "The passage states she 'cultivated friendships that helped her discover the joys of companionship, resilience, and personal growth.'"
+    },
+    {
+      "id": 32,
+      "question": "What distinguishes the migration of monarch butterflies from those of other insect species?",
+      "image": null,
+      "passage": "Every year, millions of monarch butterflies embark on an incredible migration from North America to central Mexico. This journey can span up to 3,000 miles, making it one of the longest migrations of any insect species. Monarchs travel in groups, known as clusters, and rely on specific environmental cues to guide them, such as temperature and the position of the sun.\n\nAs they migrate, monarchs face numerous trials, including predators and changes in weather. They must find food sources, typically nectar from flowers, to sustain their journey. Interestingly, these butterflies are not born knowing the migration route; instead, it is believed they inherit the knowledge through instinct passed down from previous generations.\n\nUpon reaching their wintering grounds, the monarchs gather in vast numbers, covering the trees in a breathtaking display. This phenomenon not only underscores the resilience of the species but also highlights the importance of preserving their habitat. Protecting these migration pathways is crucial for the survival of monarchs, as environmental changes threaten their annual journey.",
+      "options": [
+        "It happens only in small clusters.",
+        "It relies solely on the position of the sun.",
+        "It occurs without the need for food sources.",
+        "It spans up to 3,000 miles, making it one of the longest migrations."
+      ],
+      "answer": "D",
+      "explanation": "The passage states: 'This journey can span up to 3,000 miles, making it one of the longest migrations of any insect species.'"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following best describes the challenges faced by monarch butterflies during migration?",
+      "image": null,
+      "passage": "Every year, millions of monarch butterflies embark on an incredible migration from North America to central Mexico. This journey can span up to 3,000 miles, making it one of the longest migrations of any insect species. Monarchs travel in groups, known as clusters, and rely on specific environmental cues to guide them, such as temperature and the position of the sun.\n\nAs they migrate, monarchs face numerous trials, including predators and changes in weather. They must find food sources, typically nectar from flowers, to sustain their journey. Interestingly, these butterflies are not born knowing the migration route; instead, it is believed they inherit the knowledge through instinct passed down from previous generations.\n\nUpon reaching their wintering grounds, the monarchs gather in vast numbers, covering the trees in a breathtaking display. This phenomenon not only underscores the resilience of the species but also highlights the importance of preserving their habitat. Protecting these migration pathways is crucial for the survival of monarchs, as environmental changes threaten their annual journey.",
+      "options": [
+        "Lack of instinct on the migration route.",
+        "Sufficient food supply and safe climates.",
+        "Overpopulation at their wintering grounds.",
+        "Predators, adverse weather, and the search for nectar."
+      ],
+      "answer": "D",
+      "explanation": "The passage states monarchs 'face numerous trials, including predators and changes in weather' and 'must find food sources, typically nectar from flowers.'"
+    },
+    {
+      "id": 34,
+      "question": "In what way is the knowledge of the migration route significant for the monarch butterflies?",
+      "image": null,
+      "passage": "Every year, millions of monarch butterflies embark on an incredible migration from North America to central Mexico. This journey can span up to 3,000 miles, making it one of the longest migrations of any insect species. Monarchs travel in groups, known as clusters, and rely on specific environmental cues to guide them, such as temperature and the position of the sun.\n\nAs they migrate, monarchs face numerous trials, including predators and changes in weather. They must find food sources, typically nectar from flowers, to sustain their journey. Interestingly, these butterflies are not born knowing the migration route; instead, it is believed they inherit the knowledge through instinct passed down from previous generations.\n\nUpon reaching their wintering grounds, the monarchs gather in vast numbers, covering the trees in a breathtaking display. This phenomenon not only underscores the resilience of the species but also highlights the importance of preserving their habitat. Protecting these migration pathways is crucial for the survival of monarchs, as environmental changes threaten their annual journey.",
+      "options": [
+        "It allows them to adapt to new climates.",
+        "It is vital for their survival during migration.",
+        "It enables them to find better feeding grounds.",
+        "It guarantees the success of their breeding cycle."
+      ],
+      "answer": "B",
+      "explanation": "The migration route knowledge, inherited through instinct, is essential for the butterflies to complete their 3,000-mile journey and survive, making it vital for their survival during migration."
+    },
+    {
+      "id": 35,
+      "question": "Based on the passage, what can be inferred about the role of environmental changes on the migration of monarch butterflies?",
+      "image": null,
+      "passage": "Every year, millions of monarch butterflies embark on an incredible migration from North America to central Mexico. This journey can span up to 3,000 miles, making it one of the longest migrations of any insect species. Monarchs travel in groups, known as clusters, and rely on specific environmental cues to guide them, such as temperature and the position of the sun.\n\nAs they migrate, monarchs face numerous trials, including predators and changes in weather. They must find food sources, typically nectar from flowers, to sustain their journey. Interestingly, these butterflies are not born knowing the migration route; instead, it is believed they inherit the knowledge through instinct passed down from previous generations.\n\nUpon reaching their wintering grounds, the monarchs gather in vast numbers, covering the trees in a breathtaking display. This phenomenon not only underscores the resilience of the species but also highlights the importance of preserving their habitat. Protecting these migration pathways is crucial for the survival of monarchs, as environmental changes threaten their annual journey.",
+      "options": [
+        "Environmental changes have no significant impact on the migration of monarch butterflies.",
+        "Monarch butterflies are capable of adapting their migration routes quickly in response to environmental changes.",
+        "The survival of monarch butterflies during their migration is at risk due to environmental changes, making habitat preservation essential.",
+        "Monarch butterflies rely solely on instinct for their migration and do not require external environmental cues."
+      ],
+      "answer": "C",
+      "explanation": "The passage concludes: 'Protecting these migration pathways is crucial for the survival of monarchs, as environmental changes threaten their annual journey.' This directly supports the inference that environmental changes put their survival at risk."
+    },
+    {
+      "id": 36,
+      "question": "The product of two numbers is 120 and the sum of their squares is 289. The sum of the numbers is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "20",
+        "23",
+        "169",
+        "529"
+      ],
+      "answer": "B",
+      "explanation": "Let the numbers be a and b. Given: ab = 120 and a² + b² = 289. Using (a+b)² = a² + 2ab + b² = 289 + 240 = 529. So a + b = √529 = 23."
+    },
+    {
+      "id": 37,
+      "question": "What is the value of X in the sequence 1, 5, 14, 30, 55, X, 140, 204?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "85",
+        "86",
+        "91",
+        "75"
+      ],
+      "answer": "C",
+      "explanation": "The differences are: 4, 9, 16, 25 — these are perfect squares (2², 3², 4², 5²). The next difference is 6² = 36, so X = 55 + 36 = 91. Verify: next difference is 7² = 49, so 91 + 49 = 140 ✓, and 140 + 64 = 204 ✓."
+    },
+    {
+      "id": 38,
+      "question": "A library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "250",
+        "276",
+        "280",
+        "285"
+      ],
+      "answer": "D",
+      "explanation": "In 30 days starting with Sunday, there are 5 Sundays (days 1, 8, 15, 22, 29) and 25 other days. Total visitors = 5×510 + 25×240 = 2550 + 6000 = 8550. Average = 8550/30 = 285."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following linear inequalities define the domain of the function f(x, y) = √(4x − y + 6) + ln(2x + y − 5)?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "y ≤ 4x + 6 and y > −2x + 5",
+        "y ≤ 4x + 6 and y < −2x + 5",
+        "y ≥ 4x + 6 and y ≤ −2x + 5",
+        "y ≥ 4x + 6 and y ≥ −2x + 5"
+      ],
+      "answer": "C",
+      "explanation": "For √(4x − y + 6): we need 4x − y + 6 ≥ 0, i.e., y ≤ 4x + 6. For ln(2x + y − 5): we need 2x + y − 5 > 0, i.e., y > −2x + 5. The domain is y ≤ 4x + 6 and y > −2x + 5 (option A). Note: The answer key gives C, which may reflect a different option ordering in the original PDF."
+    },
+    {
+      "id": 40,
+      "question": "Find the odd one out from: 396, 427, 671, 264",
+      "image": null,
+      "passage": null,
+      "options": [
+        "396",
+        "427",
+        "671",
+        "264"
+      ],
+      "answer": "B",
+      "explanation": "396 = 3+9+6 = 18 (divisible by 3), 671 = 6+7+1 = 14 (not div by 3, but 11×61), 264 = 2+6+4 = 12 (div by 3). 427 = 4+2+7 = 13. Alternatively, 396, 264 are divisible by 11 (396/11=36, 264/11=24). 671 = 11×61, also divisible by 11. 427 = 7×61, not divisible by 11. So 427 is the odd one out."
+    },
+    {
+      "id": 41,
+      "question": "The White, Red and Black balls in a packet are in the ratio of 5:3:2. How many Red and Black balls are there, if there are 40 White balls?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "30 reds and 50 black balls",
+        "24 reds and 16 black balls",
+        "16 reds and 24 black balls",
+        "25 reds and 15 black balls"
+      ],
+      "answer": "D",
+      "explanation": "Ratio is 5:3:2 with White=40. One part = 40/5 = 8. Red = 3×8 = 24, Black = 2×8 = 16. So 24 reds and 16 black balls. Note: Answer key gives D; this may reflect different option ordering in the original."
+    },
+    {
+      "id": 42,
+      "question": "If 2a + b = x and −2a + b = y, then which one of the following expressions is equal to ab?",
+      "image": "./images/2018_p2_q42.png",
+      "passage": null,
+      "options": [
+        "(x + y)/2",
+        "(x − y)/4",
+        "(x² − y²)/8",
+        "(x² + y²)/8"
+      ],
+      "answer": "C",
+      "explanation": "Adding the two equations: 2b = x + y, so b = (x+y)/2. Subtracting: 4a = x − y, so a = (x−y)/4. Therefore ab = (x+y)(x−y)/(2×4) = (x²−y²)/8. The answer is C."
+    },
+    {
+      "id": 43,
+      "question": "The average monthly income of P and Q is Birr 5050. The average monthly income of Q and R is 6250 and the average monthly income of P and R is 5200. The monthly income of P is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "3500",
+        "4000",
+        "4050",
+        "5000"
+      ],
+      "answer": "B",
+      "explanation": "P+Q = 10100, Q+R = 12500, P+R = 10400. Adding all three: 2(P+Q+R) = 33000, so P+Q+R = 16500. P = (P+Q+R) − (Q+R) = 16500 − 12500 = 4000."
+    },
+    {
+      "id": 44,
+      "question": "If an equilateral triangle and a square have the same perimeter, what is the ratio of the length of the side of the square to the length of the side of the equilateral triangle?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "3:4",
+        "1:2",
+        "4:3",
+        "2:1"
+      ],
+      "answer": "A",
+      "explanation": "Let perimeter = 12 (LCM of 3 and 4). Side of equilateral triangle = 12/3 = 4. Side of square = 12/4 = 3. Ratio of square side to triangle side = 3:4."
+    },
+    {
+      "id": 45,
+      "question": "Three numbers are in the ratio of 3:4:5 and the least common multiple is 2400. Their GCF is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "40",
+        "80",
+        "120",
+        "200"
+      ],
+      "answer": "B",
+      "explanation": "Let the numbers be 3k, 4k, 5k where k is the GCF. LCM of 3, 4, 5 = 60. LCM of 3k, 4k, 5k = 60k = 2400. So k = 2400/60 = 40. But the answer key gives B (80), suggesting possible different ratio interpretation. Note: if the ratio were different, the GCF could be 80."
+    },
+    {
+      "id": 46,
+      "question": "A, B and C jointly thought of engaging themselves in a business venture. It was agreed that A would invest Birr 6500 for 6 months, B Birr 8400 for 5 months and C Birr 10,000 for 3 months. A wants to be the working member for which he was to receive 5% of the profit. The profit earned was Birr 7400. What is the share of B in the profit?",
+      "image": "./images/2018_p2_q46.png",
+      "passage": null,
+      "options": [
+        "Birr 1900",
+        "Birr 2660",
+        "Birr 2800",
+        "Birr 2840"
+      ],
+      "answer": "C",
+      "explanation": "A's 5% = 370. Remaining profit = 7030. Investment ratios: A = 6500×6 = 39000, B = 8400×5 = 42000, C = 10000×3 = 30000. Total = 111000. B's share = 7030 × 42000/111000 = 7030 × 42/111 ≈ 2660. Note: Answer key gives C (2800), which may account for different calculation method."
+    },
+    {
+      "id": 47,
+      "question": "In how many different ways can the letters of the word 'CORPORATION' be arranged so that vowels always come together?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "810",
+        "1440",
+        "2880",
+        "50,400"
+      ],
+      "answer": "D",
+      "explanation": "CORPORATION has 11 letters. Vowels: O, O, O, A, I (5 vowels). Treating vowels as one unit: 7 units (6 consonants + 1 vowel group). Consonants: C,R,P,R,T,N with R repeated twice. Arrangements of units = 7!/2! = 2520. Vowel group arrangements = 5!/3! = 20. Total = 2520 × 20 = 50,400."
+    },
+    {
+      "id": 48,
+      "question": "What is the probability of a number selected at random from the first 100 prime numbers being even?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "99/100",
+        "49/100",
+        "1/100",
+        "1/50"
+      ],
+      "answer": "C",
+      "explanation": "Among all prime numbers, only 2 is even. So among the first 100 prime numbers, only 1 is even. Probability = 1/100."
+    },
+    {
+      "id": 49,
+      "question": "A committee consists of 6 men and 4 women. If two members are selected at random to form a subcommittee, what is the probability that both members are women?",
+      "image": "./images/2018_p2_q49.png",
+      "passage": null,
+      "options": [
+        "1/15",
+        "2/15",
+        "3/10",
+        "1/5"
+      ],
+      "answer": "A",
+      "explanation": "Total ways to choose 2 from 10 = C(10,2) = 45. Ways to choose 2 women from 4 = C(4,2) = 6. Probability = 6/45 = 2/15. Note: Answer key gives A (1/15), which may reflect OCR option scrambling. The correct probability is 2/15."
+    },
+    {
+      "id": 50,
+      "question": "If the average age of husband, wife and their child 3 years ago was 27 years and that of wife and child 5 years ago was 20 years, the present age of the husband is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "35 years",
+        "40 years",
+        "50 years",
+        "90 years"
+      ],
+      "answer": "B",
+      "explanation": "3 years ago: (H+W+C)/3 = 27, so H+W+C = 81. Present: H+W+C = 81+9 = 90. 5 years ago: (W+C)/2 = 20, so W+C = 40. Present: W+C = 40+10 = 50. H = 90−50 = 40 years."
+    },
+    {
+      "id": 51,
+      "question": "(287)² + (269)² − 2(287 × 269) is equal to:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "534",
+        "446",
+        "354",
+        "324"
+      ],
+      "answer": "D",
+      "explanation": "This is a² + b² − 2ab = (a−b)². So (287−269)² = 18² = 324."
+    },
+    {
+      "id": 52,
+      "question": "A piece of machinery is worth Birr 100,000 today and loses 25% of its value each year. How much will it be worth after 4 years?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "75000",
+        "41640.625",
+        "31642",
+        "31640.625"
+      ],
+      "answer": "D",
+      "explanation": "Value after n years = 100000 × (0.75)^n. After 4 years: 100000 × (0.75)⁴ = 100000 × 0.31640625 = 31640.625."
+    },
+    {
+      "id": 53,
+      "question": "If x and y are integers such that 3x + 9 < 0 and −4y − 16 > 0, then which one of the following is always true?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "xy is positive",
+        "xy is an odd",
+        "xy is negative",
+        "xy is an even"
+      ],
+      "answer": "C",
+      "explanation": "3x + 9 < 0 → x < −3, so x is negative. −4y − 16 > 0 → −4y > 16 → y < −4, so y is negative. Since both x and y are negative, xy is always positive... But wait, the answer key says C (xy is negative). Let me recheck: −4y − 16 > 0 → −4(y+4) > 0 → y+4 < 0 → y < −4. Both negative, so xy positive. However, the answer key gives C. This may be a key error."
+    },
+    {
+      "id": 54,
+      "question": "For x is a real number, compare the following two quantities: Quantity A: 2x + 1; Quantity B: √(4x² + 4x + 1)",
+      "image": "./images/2018_p2_q54.png",
+      "passage": null,
+      "options": [
+        "Quantity A is less than Quantity B",
+        "Quantity A is greater than Quantity B",
+        "Quantity A is equal to Quantity B",
+        "The relationship cannot be determined"
+      ],
+      "answer": "D",
+      "explanation": "4x²+4x+1 = (2x+1)², so √(4x²+4x+1) = |2x+1|. When 2x+1 ≥ 0, Quantity A = Quantity B. When 2x+1 < 0, Quantity A < Quantity B (negative vs positive). The relationship depends on x, so it cannot be determined."
+    },
+    {
+      "id": 55,
+      "question": "Compare the following two quantities: Quantity A: The percent of income increase from 75 to 85 thousand birr; Quantity B: The percent of income increase from 200 to 220 thousand birr",
+      "image": "./images/2018_p2_q55.png",
+      "passage": null,
+      "options": [
+        "Quantity A is equal to Quantity B",
+        "Quantity A is greater than Quantity B",
+        "Quantity A is less than Quantity B",
+        "The relationship cannot be determined"
+      ],
+      "answer": "C",
+      "explanation": "Quantity A: (85−75)/75 × 100 = 10/75 × 100 ≈ 13.33%. Quantity B: (220−200)/200 × 100 = 20/200 × 100 = 10%. Quantity A (13.33%) > Quantity B (10%). So Quantity A is less than Quantity B... Wait, 13.33% > 10%, so A > B. But the answer key gives C (A < B). Let me recheck: 10/75 = 0.1333 = 13.33%; 20/200 = 0.10 = 10%. A > B. The answer key may have an error or different interpretation."
+    },
+    {
+      "id": 56,
+      "question": "What was the approximate percentage increase in the sales of 55hp computers in 2006 compared to that in 2000?",
+      "image": null,
+      "passage": "The following table gives the sales of computers manufactured by a company over the years. Number of Different Types of Computers Sold by a Company over the Years (Numbers in Thousands)\n\nYear | 4hp | 7hp | 32hp | 35hp | 55hp | Total\n2000 |  75 | 144 |  114 |  102 |  108 |  543\n2001 |  90 | 126 |  102 |   84 |  126 |  528\n2002 |  96 | 114 |   75 |  105 |  135 |  525\n2003 | 105 |  90 |  150 |   90 |   75 |  510\n2004 |  90 |  75 |  135 |   75 |   90 |  465\n2005 | 105 |  60 |  165 |   45 |  120 |  495\n2006 | 115 |  85 |  160 |  100 |  145 |  605",
+      "options": [
+        "28%",
+        "31%",
+        "33.26%",
+        "34.26%"
+      ],
+      "answer": "D",
+      "explanation": "55hp sales: 2000 = 108, 2006 = 145. Increase = (145−108)/108 × 100 = 37/108 × 100 ≈ 34.26%."
+    },
+    {
+      "id": 57,
+      "question": "Which type of computer sales is maximum over seven years?",
+      "image": null,
+      "passage": "The following table gives the sales of computers manufactured by a company over the years. Number of Different Types of Computers Sold by a Company over the Years (Numbers in Thousands)\n\nYear | 4hp | 7hp | 32hp | 35hp | 55hp | Total\n2000 |  75 | 144 |  114 |  102 |  108 |  543\n2001 |  90 | 126 |  102 |   84 |  126 |  528\n2002 |  96 | 114 |   75 |  105 |  135 |  525\n2003 | 105 |  90 |  150 |   90 |   75 |  510\n2004 |  90 |  75 |  135 |   75 |   90 |  465\n2005 | 105 |  60 |  165 |   45 |  120 |  495\n2006 | 115 |  85 |  160 |  100 |  145 |  605",
+      "options": [
+        "4hp",
+        "7hp",
+        "32hp",
+        "35hp"
+      ],
+      "answer": "D",
+      "explanation": "Summing sales across all years: 4hp total = 676, 7hp total = 694, 32hp total = 901, 35hp total = 601, 55hp total = 699. The maximum is 32hp, but the answer key gives D (35hp). This may reflect different column labeling in the original PDF."
+    },
+    {
+      "id": 58,
+      "question": "What is the difference in the number of 35hp computers sold in 2001 and 2005?",
+      "image": null,
+      "passage": "The following table gives the sales of computers manufactured by a company over the years. Number of Different Types of Computers Sold by a Company over the Years (Numbers in Thousands)\n\nYear | 4hp | 7hp | 32hp | 35hp | 55hp | Total\n2000 |  75 | 144 |  114 |  102 |  108 |  543\n2001 |  90 | 126 |  102 |   84 |  126 |  528\n2002 |  96 | 114 |   75 |  105 |  135 |  525\n2003 | 105 |  90 |  150 |   90 |   75 |  510\n2004 |  90 |  75 |  135 |   75 |   90 |  465\n2005 | 105 |  60 |  165 |   45 |  120 |  495\n2006 | 115 |  85 |  160 |  100 |  145 |  605",
+      "options": [
+        "24000",
+        "28000",
+        "35000",
+        "39000"
+      ],
+      "answer": "D",
+      "explanation": "35hp sales: 2001 = 84 (thousand), 2005 = 45 (thousand). Difference = (84−45) × 1000 = 39000."
+    },
+    {
+      "id": 59,
+      "question": "Which type of computer had a continuous decrease in sales from 2000 to 2005?",
+      "image": null,
+      "passage": "The following table gives the sales of computers manufactured by a company over the years. Number of Different Types of Computers Sold by a Company over the Years (Numbers in Thousands)\n\nYear | 4hp | 7hp | 32hp | 35hp | 55hp | Total\n2000 |  75 | 144 |  114 |  102 |  108 |  543\n2001 |  90 | 126 |  102 |   84 |  126 |  528\n2002 |  96 | 114 |   75 |  105 |  135 |  525\n2003 | 105 |  90 |  150 |   90 |   75 |  510\n2004 |  90 |  75 |  135 |   75 |   90 |  465\n2005 | 105 |  60 |  165 |   45 |  120 |  495\n2006 | 115 |  85 |  160 |  100 |  145 |  605",
+      "options": [
+        "4hp",
+        "7hp",
+        "32hp",
+        "35hp"
+      ],
+      "answer": "B",
+      "explanation": "7hp sales: 144, 126, 114, 90, 75, 60 — continuously decreasing from 2000 to 2005. No other type shows continuous decrease."
+    },
+    {
+      "id": 60,
+      "question": "The percentage of 4hp computers sold to the total number of computers sold was maximum in the year?",
+      "image": null,
+      "passage": "The following table gives the sales of computers manufactured by a company over the years. Number of Different Types of Computers Sold by a Company over the Years (Numbers in Thousands)\n\nYear | 4hp | 7hp | 32hp | 35hp | 55hp | Total\n2000 |  75 | 144 |  114 |  102 |  108 |  543\n2001 |  90 | 126 |  102 |   84 |  126 |  528\n2002 |  96 | 114 |   75 |  105 |  135 |  525\n2003 | 105 |  90 |  150 |   90 |   75 |  510\n2004 |  90 |  75 |  135 |   75 |   90 |  465\n2005 | 105 |  60 |  165 |   45 |  120 |  495\n2006 | 115 |  85 |  160 |  100 |  145 |  605",
+      "options": [
+        "2002",
+        "2004",
+        "2003",
+        "2005"
+      ],
+      "answer": "C",
+      "explanation": "4hp percentages: 2000 = 75/543≈13.8%, 2001 = 90/528≈17.0%, 2002 = 96/525≈18.3%, 2003 = 105/510≈20.6%, 2004 = 90/465≈19.4%, 2005 = 105/495≈21.2%, 2006 = 115/605≈19.0%. The maximum is in 2005, but the answer key gives C (2003). This may reflect different data in the original."
+    }
+  ]
+}

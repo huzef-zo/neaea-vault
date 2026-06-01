@@ -1,0 +1,847 @@
+{
+  "subject": "Aptitude",
+  "year": "2018 E.C",
+  "paper": 3,
+  "questions": [
+    {
+      "id": 1,
+      "question": "COURAGEOUS is to TIMID as STUNNING is to ________",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Graceful",
+        "Hideous",
+        "Frightful",
+        "Slothful"
+      ],
+      "answer": "B",
+      "explanation": "Courageous and timid are antonyms (opposites). Similarly, stunning (impressively beautiful) and hideous (extremely ugly) are antonyms."
+    },
+    {
+      "id": 2,
+      "question": "PROLOGUE is to INTRODUCTION as EPILOGUE is to ________",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Beginning",
+        "Ending",
+        "Chapter",
+        "Conclusion"
+      ],
+      "answer": "D",
+      "explanation": "A prologue is an introduction to a book, and an epilogue is a conclusion or afterword at the end. The relationship is that each term refers to a specific part of a book's structure."
+    },
+    {
+      "id": 3,
+      "question": "BOOK is to LIBRARY as ARTIFACT is to ________",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Church",
+        "Gallery",
+        "Museum",
+        "Warehouse"
+      ],
+      "answer": "C",
+      "explanation": "Books are housed/stored in a library, just as artifacts are housed/stored in a museum."
+    },
+    {
+      "id": 4,
+      "question": "PRECAUTION is to ACCIDENT as CLEANLINESS is to ________",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Garbage",
+        "Filthy",
+        "Treatment",
+        "Disease"
+      ],
+      "answer": "D",
+      "explanation": "A precaution helps prevent an accident, just as cleanliness helps prevent disease."
+    },
+    {
+      "id": 5,
+      "question": "Which word is most nearly similar in meaning to DILIGENT?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Hardworking",
+        "Lazy",
+        "Careless",
+        "Negligent"
+      ],
+      "answer": "A",
+      "explanation": "Diligent means showing careful and persistent effort; hardworking is its closest synonym."
+    },
+    {
+      "id": 6,
+      "question": "Which word is most nearly similar in meaning to EXORBITANT?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Moderate",
+        "Excessive",
+        "Reasonable",
+        "Cheap"
+      ],
+      "answer": "B",
+      "explanation": "Exorbitant means unreasonably high or excessive, especially in price or amount."
+    },
+    {
+      "id": 7,
+      "question": "Which word is most nearly similar in meaning to AUTONOMOUS?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Reliant",
+        "Intellectual",
+        "Worldly",
+        "Independent"
+      ],
+      "answer": "D",
+      "explanation": "Autonomous means self-governing or independent; able to make decisions without outside control."
+    },
+    {
+      "id": 8,
+      "question": "Which word is NEARLY OPPOSITE in meaning to LIGHTEN?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Transpose",
+        "Fortify",
+        "Exacerbate",
+        "Rectify"
+      ],
+      "answer": "B",
+      "explanation": "To lighten means to make less heavy or burdensome. Fortify means to strengthen, which is opposite in meaning."
+    },
+    {
+      "id": 9,
+      "question": "Which word is NEARLY OPPOSITE in meaning to PROFOUND?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Deep",
+        "Superficial",
+        "Serious",
+        "Thoughtful"
+      ],
+      "answer": "B",
+      "explanation": "Profound means having deep insight or understanding. Superficial, meaning shallow or lacking depth, is the opposite."
+    },
+    {
+      "id": 10,
+      "question": "Which word is NEARLY OPPOSITE in meaning to DARING?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Valiant",
+        "Cowardly",
+        "Nervous",
+        "Unpleasant"
+      ],
+      "answer": "B",
+      "explanation": "Daring means adventurous or brave. Cowardly, meaning lacking courage, is the opposite."
+    },
+    {
+      "id": 11,
+      "question": "Which word cannot be categorized under the same group? Reader, Publisher, Reporter, Writer",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Reader",
+        "Publisher",
+        "Reporter",
+        "Writer"
+      ],
+      "answer": "A",
+      "explanation": "Publisher, Reporter, and Writer are all professions in the publishing/journalism field. A Reader is a consumer, not a professional role in this context."
+    },
+    {
+      "id": 12,
+      "question": "Which word cannot be categorized under the same group? Violin, Drum, Piano, Guitar",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Violin",
+        "Drum",
+        "Piano",
+        "Guitar"
+      ],
+      "answer": "D",
+      "explanation": "Violin, Drum, and Piano are commonly used in orchestral settings, while Guitar is typically a non-orchestral instrument."
+    },
+    {
+      "id": 13,
+      "question": "Which word cannot be categorized under the same group? Albert Einstein, William Shakespeare, Chinua Achebe, Wole Soyinka",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Albert Einstein",
+        "William Shakespeare",
+        "Chinua Achebe",
+        "Wole Soyinka"
+      ],
+      "answer": "C",
+      "explanation": "Based on the answer key, Chinua Achebe is the odd one out. While Shakespeare and Soyinka are primarily playwrights/poets and Einstein is a scientist, Achebe is primarily a novelist — distinct from the other literary figures who are known for drama/poetry."
+    },
+    {
+      "id": 14,
+      "question": "The teacher admired the student's ____________ approach to research, showing diligence and critical thinking.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Scholarly",
+        "Uncaring",
+        "Negligent",
+        "Conventional"
+      ],
+      "answer": "A",
+      "explanation": "The clues 'diligence and critical thinking' point to 'scholarly,' which means academic and intellectually thorough."
+    },
+    {
+      "id": 15,
+      "question": "The researcher's conclusions were based on ___________ evidence collected over many years.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Erroneous",
+        "Substantial",
+        "Imaginary",
+        "Questionable"
+      ],
+      "answer": "B",
+      "explanation": "The phrase 'collected over many years' suggests solid, considerable evidence. 'Substantial' fits best."
+    },
+    {
+      "id": 16,
+      "question": "The diplomat handled the sensitive negotiations with ________, balancing multiple interests carefully.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Clumsiness",
+        "Partiality",
+        "Finesse",
+        "Recklessness"
+      ],
+      "answer": "C",
+      "explanation": "The clue 'balancing multiple interests carefully' indicates skillful handling. Finesse means delicate and skillful handling of a situation."
+    },
+    {
+      "id": 17,
+      "question": "The teacher praised the student for her ___________ response, which showed deep understanding of the topic.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Biased",
+        "Insightful",
+        "Reflective",
+        "Inflated"
+      ],
+      "answer": "B",
+      "explanation": "The clue 'deep understanding' points to 'insightful,' which means having or showing deep understanding."
+    },
+    {
+      "id": 18,
+      "question": "The artist's style is ___________, blending traditional and modern techniques seamlessly.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Uniform",
+        "Monotonous",
+        "Eclectic",
+        "Derivative"
+      ],
+      "answer": "C",
+      "explanation": "The clue 'blending traditional and modern techniques seamlessly' describes an eclectic style, which draws from diverse sources."
+    },
+    {
+      "id": 19,
+      "question": "Five seminars A, B, C, D, and E are scheduled from Monday to Friday, one each day. Conditions: A is scheduled before C. D is scheduled after B. E is scheduled on Wednesday. A is placed before Friday immediately after E. Which of the following is the correct order of seminars?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "B, D, E, A, C",
+        "D, B, E, A, C",
+        "B, E, A, D, C",
+        "E, B, D, A, C"
+      ],
+      "answer": "A",
+      "explanation": "E is on Wednesday, A is immediately after E (Thursday), and A is before Friday. Since A must be before C, C is on Friday. D is after B, so B is Monday and D is Tuesday. The order is B(Mon), D(Tue), E(Wed), A(Thu), C(Fri)."
+    },
+    {
+      "id": 20,
+      "question": "Based on the same seminar scheduling conditions, which of the following statements must be true?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "D is scheduled on Friday",
+        "C is scheduled on Thursday",
+        "B is scheduled on Monday",
+        "A is scheduled on Wednesday"
+      ],
+      "answer": "C",
+      "explanation": "Given the constraints, B must be on Monday (since D must follow B, and the only remaining slots before Wednesday are Monday and Tuesday)."
+    },
+    {
+      "id": 21,
+      "question": "Based on the same seminar scheduling conditions, which of the following is not possible?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "A on Thursday",
+        "C on Friday",
+        "E on Wednesday",
+        "D on Thursday"
+      ],
+      "answer": "A",
+      "explanation": "Based on the answer key, A on Thursday is considered not possible. Note: This answer may reflect a different interpretation of the conditions than the standard reading."
+    },
+    {
+      "id": 22,
+      "question": "Ali said, 'The man is the brother of my mother's only daughter.' How is the man related to Ali?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Nephew",
+        "Brother",
+        "Uncle",
+        "Cousin"
+      ],
+      "answer": "B",
+      "explanation": "Ali's mother's only daughter is Ali's sister. The brother of Ali's sister is Ali's brother. So the man is Ali's brother."
+    },
+    {
+      "id": 23,
+      "question": "Statement: 'No student who fails in mathematics can participate in the science fair.' Conclusion: I. If a student participates in the science fair, they have passed mathematics. II. If a student fails in mathematics, they cannot participate. III. All students who pass mathematics will participate in the science fair.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "All conclusions follow"
+      ],
+      "answer": "C",
+      "explanation": "Conclusion I is the contrapositive of the statement (logically equivalent), so it follows. Conclusion II restates the original condition directly. Conclusion III does not follow because passing math is necessary but not sufficient for participation."
+    },
+    {
+      "id": 24,
+      "question": "Statement: 'No person without a ticket is allowed inside the concert hall.' Conclusion: I. If a person is inside the concert hall, they must have a ticket. II. If a person has a ticket, they must enter. III. All ticket holders enter the concert hall.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusion I and II follow",
+        "All conclusions follow"
+      ],
+      "answer": "A",
+      "explanation": "Conclusion I is the contrapositive of the statement, so it follows. Conclusions II and III do not follow because having a ticket doesn't guarantee entry — it's a necessary but not sufficient condition."
+    },
+    {
+      "id": 25,
+      "question": "Which sentence is grammatically correct?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "No sooner did the meeting start than the power went off.",
+        "No sooner the meeting started than the power went off.",
+        "No sooner did the meeting start when the power went off.",
+        "No sooner had the meeting started than the power went off."
+      ],
+      "answer": "A",
+      "explanation": "The correct structure is 'No sooner did...than...' or 'No sooner had...than...'. Option A uses the correct 'did...than' form. Option D is also grammatically correct with 'had...than', but A is the preferred answer per the key."
+    },
+    {
+      "id": 26,
+      "question": "Which sentence is grammatically correct?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Having finished the assignment, John turned on the television.",
+        "Having been turned on the television, john finished the assignment.",
+        "Having been finished the assignment, John turned on the television.",
+        "Having finished the assignment, the television was turned on by John."
+      ],
+      "answer": "A",
+      "explanation": "Option A has the correct subject (John) matching the participial phrase 'Having finished the assignment.' In option D, 'the television' didn't finish the assignment, creating a dangling modifier."
+    },
+    {
+      "id": 27,
+      "question": "Which sentence is grammatically correct?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The teacher, along with the students, is attending the conference this week.",
+        "The teacher, along with the students, are attending the conference this week.",
+        "The teacher, along with the students, have attended the conference this week.",
+        "The teacher, along with the students, were attending the conference this week."
+      ],
+      "answer": "A",
+      "explanation": "'Along with' does not change the number of the subject. 'The teacher' is singular, so the verb must be singular: 'is attending.'"
+    },
+    {
+      "id": 28,
+      "question": "The main idea of the passage is:",
+      "image": null,
+      "passage": "Vision is a critical trait in leaders and innovators, providing a clear sense of direction and purpose. Those with vision anticipate future challenges, set ambitious goals, and inspire others to pursue shared objectives. Visionary thinking often drives breakthroughs in technology, business, and social reform.\n\nYet, vision alone is insufficient. Successful implementation requires strategic planning, collaboration, and adaptability to unforeseen obstacles. Overconfidence in visionary ideas can result in impractical projects or failed initiatives if execution is neglected.\n\nMoreover, vision must align with societal needs. Leaders who pursue personal ambition without considering ethical or social consequences risk alienating supporters and undermining long-term success. Effective vision balances ambition with responsibility.",
+      "options": [
+        "Vision is unnecessary for leadership.",
+        "Ambitious goals are always successful.",
+        "Leaders should prioritize personal ambition above all.",
+        "Vision must be coupled with strategy and ethics to be effective."
+      ],
+      "answer": "D",
+      "explanation": "The passage argues that while vision is important, it requires strategic planning and ethical consideration. The final sentence summarizes this: 'Effective vision balances ambition with responsibility.'"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following best describes a risk of visionary thinking?",
+      "image": null,
+      "passage": "Vision is a critical trait in leaders and innovators, providing a clear sense of direction and purpose. Those with vision anticipate future challenges, set ambitious goals, and inspire others to pursue shared objectives. Visionary thinking often drives breakthroughs in technology, business, and social reform.\n\nYet, vision alone is insufficient. Successful implementation requires strategic planning, collaboration, and adaptability to unforeseen obstacles. Overconfidence in visionary ideas can result in impractical projects or failed initiatives if execution is neglected.\n\nMoreover, vision must align with societal needs. Leaders who pursue personal ambition without considering ethical or social consequences risk alienating supporters and undermining long-term success. Effective vision balances ambition with responsibility.",
+      "options": [
+        "Encouraging social reform",
+        "Inspiring others to pursue goals",
+        "Failure from bad implementation",
+        "Predicting future challenges accurately"
+      ],
+      "answer": "C",
+      "explanation": "The passage states: 'Overconfidence in visionary ideas can result in impractical projects or failed initiatives if execution is neglected.' This directly describes failure from bad implementation."
+    },
+    {
+      "id": 30,
+      "question": "'Alienating' in paragraph 3 most nearly means:",
+      "image": null,
+      "passage": "Vision is a critical trait in leaders and innovators, providing a clear sense of direction and purpose. Those with vision anticipate future challenges, set ambitious goals, and inspire others to pursue shared objectives. Visionary thinking often drives breakthroughs in technology, business, and social reform.\n\nYet, vision alone is insufficient. Successful implementation requires strategic planning, collaboration, and adaptability to unforeseen obstacles. Overconfidence in visionary ideas can result in impractical projects or failed initiatives if execution is neglected.\n\nMoreover, vision must align with societal needs. Leaders who pursue personal ambition without considering ethical or social consequences risk alienating supporters and undermining long-term success. Effective vision balances ambition with responsibility.",
+      "options": [
+        "Uniting",
+        "Isolating",
+        "Motivating",
+        "Supporting"
+      ],
+      "answer": "B",
+      "explanation": "In context, leaders who ignore societal consequences risk 'alienating supporters,' meaning driving them away or isolating themselves from their support base."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is least consistent with the author's argument?",
+      "image": null,
+      "passage": "Vision is a critical trait in leaders and innovators, providing a clear sense of direction and purpose. Those with vision anticipate future challenges, set ambitious goals, and inspire others to pursue shared objectives. Visionary thinking often drives breakthroughs in technology, business, and social reform.\n\nYet, vision alone is insufficient. Successful implementation requires strategic planning, collaboration, and adaptability to unforeseen obstacles. Overconfidence in visionary ideas can result in impractical projects or failed initiatives if execution is neglected.\n\nMoreover, vision must align with societal needs. Leaders who pursue personal ambition without considering ethical or social consequences risk alienating supporters and undermining long-term success. Effective vision balances ambition with responsibility.",
+      "options": [
+        "Strategic planning strengthens visionary leadership.",
+        "Leaders who ignore societal impact risk losing support.",
+        "Ambition should be pursued regardless of ethical implications.",
+        "Adaptability is necessary for overcoming unforeseen obstacles."
+      ],
+      "answer": "C",
+      "explanation": "The author argues that vision must balance ambition with responsibility and ethical consideration. Claiming ambition should be pursued 'regardless of ethical implications' directly contradicts the passage. Note: In the original OCR, option C was missing from the visible text; it has been reconstructed based on the answer key."
+    },
+    {
+      "id": 32,
+      "question": "The primary purpose of the passage is:",
+      "image": null,
+      "passage": "Climate change presents one of the most urgent challenges of the 21st century. Rising global temperatures, melting ice caps, and extreme weather events threaten ecosystems, economies and human livelihoods. Scientific consensus indicates that anthropogenic greenhouse gas emissions are a primary driver of these changes.\n\nEfforts to mitigate climate change include transitioning to renewable energy, enhancing energy efficiency, and implementing sustainable agricultural practices. While progress has been made in some regions, global cooperation remains inconsistent, and political or economic interests often impede meaningful action.\n\nAdaptation is equally important. Communities must develop resilience to the impacts of climate change, from flood defenses to drought-resistant crops. The interplay between mitigation and adaptation determines humanity's ability to navigate an increasingly unstable climate system.",
+      "options": [
+        "To deny the existence of climate change",
+        "To explain why adaptation is unnecessary",
+        "To focus solely on renewable energy technologies",
+        "To highlight challenges and solutions related to climate change"
+      ],
+      "answer": "D",
+      "explanation": "The passage discusses both the challenges posed by climate change and the solutions (mitigation and adaptation), making D the best summary of its purpose."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is an alleviation strategy mentioned in the passage?",
+      "image": null,
+      "passage": "Climate change presents one of the most urgent challenges of the 21st century. Rising global temperatures, melting ice caps, and extreme weather events threaten ecosystems, economies and human livelihoods. Scientific consensus indicates that anthropogenic greenhouse gas emissions are a primary driver of these changes.\n\nEfforts to mitigate climate change include transitioning to renewable energy, enhancing energy efficiency, and implementing sustainable agricultural practices. While progress has been made in some regions, global cooperation remains inconsistent, and political or economic interests often impede meaningful action.\n\nAdaptation is equally important. Communities must develop resilience to the impacts of climate change, from flood defenses to drought-resistant crops. The interplay between mitigation and adaptation determines humanity's ability to navigate an increasingly unstable climate system.",
+      "options": [
+        "Practicing harmful agriculture",
+        "Using energy more efficiently",
+        "Relying on non-renewable energy",
+        "Overlooking greenhouse gas emissions"
+      ],
+      "answer": "B",
+      "explanation": "The passage mentions 'enhancing energy efficiency' as a mitigation strategy, which corresponds to using energy more efficiently."
+    },
+    {
+      "id": 34,
+      "question": "'Resilience' in paragraph 3 most nearly means:",
+      "image": null,
+      "passage": "Climate change presents one of the most urgent challenges of the 21st century. Rising global temperatures, melting ice caps, and extreme weather events threaten ecosystems, economies and human livelihoods. Scientific consensus indicates that anthropogenic greenhouse gas emissions are a primary driver of these changes.\n\nEfforts to mitigate climate change include transitioning to renewable energy, enhancing energy efficiency, and implementing sustainable agricultural practices. While progress has been made in some regions, global cooperation remains inconsistent, and political or economic interests often impede meaningful action.\n\nAdaptation is equally important. Communities must develop resilience to the impacts of climate change, from flood defenses to drought-resistant crops. The interplay between mitigation and adaptation determines humanity's ability to navigate an increasingly unstable climate system.",
+      "options": [
+        "Ignorance",
+        "Vulnerability",
+        "Resistance to change",
+        "Ability to recover and adapt to challenges"
+      ],
+      "answer": "D",
+      "explanation": "In context, communities must 'develop resilience to the impacts of climate change,' which means the ability to withstand, recover from, and adapt to challenges."
+    },
+    {
+      "id": 35,
+      "question": "Why does the author emphasize both mitigation and adaptation?",
+      "image": null,
+      "passage": "Climate change presents one of the most urgent challenges of the 21st century. Rising global temperatures, melting ice caps, and extreme weather events threaten ecosystems, economies and human livelihoods. Scientific consensus indicates that anthropogenic greenhouse gas emissions are a primary driver of these changes.\n\nEfforts to mitigate climate change include transitioning to renewable energy, enhancing energy efficiency, and implementing sustainable agricultural practices. While progress has been made in some regions, global cooperation remains inconsistent, and political or economic interests often impede meaningful action.\n\nAdaptation is equally important. Communities must develop resilience to the impacts of climate change, from flood defenses to drought-resistant crops. The interplay between mitigation and adaptation determines humanity's ability to navigate an increasingly unstable climate system.",
+      "options": [
+        "Because both focus only on short-term effects",
+        "Because both are needed to manage climate impacts",
+        "Because both try to solve climate change separately",
+        "Because both assume reducing emissions alone is enough"
+      ],
+      "answer": "B",
+      "explanation": "The passage states 'The interplay between mitigation and adaptation determines humanity's ability to navigate an increasingly unstable climate system,' emphasizing that both strategies together are essential."
+    },
+    {
+      "id": 36,
+      "question": "If the numerator and denominator of a proper fraction are increased by the same quantity, the resulting fraction is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Always greater than the original fraction",
+        "Always less than the original fraction",
+        "Always equal to the original fraction",
+        "Cannot be determined"
+      ],
+      "answer": "A",
+      "explanation": "For a proper fraction a/b where a < b, adding k to both numerator and denominator gives (a+k)/(b+k). Since a/b < (a+k)/(b+k) when a < b and k > 0, the new fraction is always greater."
+    },
+    {
+      "id": 37,
+      "question": "What number should replace X to continue the sequence 2, 6, 14, 30, 62, x?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "122",
+        "124",
+        "126",
+        "128"
+      ],
+      "answer": "C",
+      "explanation": "The differences are 4, 8, 16, 32 — doubling each time. The next difference is 64, so x = 62 + 64 = 126. Alternatively, each term = 2 × previous + 2."
+    },
+    {
+      "id": 38,
+      "question": "Last year, Heran saved 10% of her annual earnings. This year she earned 5% more than last year and she saved 12% of her annual earnings. The amount saved this year is what percent of the amount saved last year?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "123%",
+        "124%",
+        "125%",
+        "126%"
+      ],
+      "answer": "D",
+      "explanation": "Let last year's earnings = 100. Saved = 10. This year's earnings = 105. Saved = 12% × 105 = 12.6. Percentage = (12.6/10) × 100 = 126%."
+    },
+    {
+      "id": 39,
+      "question": "A telecom company provides an internet package that charges a service fee of Birr 700 per month plus Birr 0.75 per megabyte of data used. If a man uses 5000 megabytes of data in one month, how many birr will he pay to the telecom company for that month?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "4000",
+        "1500",
+        "4450",
+        "3750"
+      ],
+      "answer": "C",
+      "explanation": "Total = 700 + (0.75 × 5000) = 700 + 3750 = 4450 Birr."
+    },
+    {
+      "id": 40,
+      "question": "Average age of seven persons in a group is 30 years. The average age of five persons of this group is 31 years. What is the average age of the other two persons in the group?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "55 years",
+        "26 years",
+        "27.5 years",
+        "15 years"
+      ],
+      "answer": "C",
+      "explanation": "Total age of 7 = 7 × 30 = 210. Total age of 5 = 5 × 31 = 155. Total age of other 2 = 210 − 155 = 55. Average = 55/2 = 27.5 years."
+    },
+    {
+      "id": 41,
+      "question": "Three partners, Gemechu, Gurmu and Lemi start a business. Twice Gemechu's capital is equal to three times Gurmu's capital and Gurmu's capital is four times Lemi's capital. Out of a total profit of Birr 16500, what is the share of Gurmu?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Birr 1500",
+        "Birr 6000",
+        "Birr 4000",
+        "Birr 6600"
+      ],
+      "answer": "B",
+      "explanation": "Let Lemi's capital = x. Gurmu = 4x. 2 × Gemechu = 3 × 4x = 12x, so Gemechu = 6x. Total = 6x + 4x + x = 11x. Profit shared in ratio 6:4:1. Gurmu's share = (4/11) × 16500 = 6000 Birr."
+    },
+    {
+      "id": 42,
+      "question": "Two pipes, A and B, can fill a tank in 20 minutes and 30 minutes respectively. If both pipes are used together, how long will it take to fill the tank?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "12",
+        "15",
+        "25",
+        "5"
+      ],
+      "answer": "A",
+      "explanation": "Pipe A fills 1/20 per minute, pipe B fills 1/30 per minute. Together: 1/20 + 1/30 = 3/60 + 2/60 = 5/60 = 1/12. Time = 12 minutes."
+    },
+    {
+      "id": 43,
+      "question": "Which of the following fractions is the largest? 7/8, 13/16, 31/40, 63/80",
+      "image": "./images/2018_p3_q43.png",
+      "passage": null,
+      "options": [
+        "7/8",
+        "13/16",
+        "31/40",
+        "63/80"
+      ],
+      "answer": "D",
+      "explanation": "Converting to a common denominator of 80: 7/8 = 70/80, 13/16 = 65/80, 31/40 = 62/80, 63/80 = 63/80. The largest is 70/80 = 7/8, but per the answer key D (63/80) is given. Note: The fractions in the original OCR were partially garbled; the actual fractions may differ from what was reconstructed. See the original image for accuracy."
+    },
+    {
+      "id": 44,
+      "question": "The sum of the squares of three numbers is 138, and the sum of their products taken two at a time is 131. What is the sum of the three numbers?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "400",
+        "20",
+        "262",
+        "40"
+      ],
+      "answer": "B",
+      "explanation": "Using the identity: (a+b+c)² = a²+b²+c² + 2(ab+bc+ca) = 138 + 2(131) = 138 + 262 = 400. So a+b+c = √400 = 20."
+    },
+    {
+      "id": 45,
+      "question": "An observer 1.6m tall is 20√3 m away from a tower. The angle of elevation from his eye to the top of the tower is 30°. The height of the tower is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "21.6 m",
+        "23.2 m",
+        "24.7 m",
+        "20 m"
+      ],
+      "answer": "A",
+      "explanation": "Height above observer's eye = 20√3 × tan(30°) = 20√3 × (1/√3) = 20 m. Total tower height = 20 + 1.6 = 21.6 m."
+    },
+    {
+      "id": 46,
+      "question": "For any real number a, which of the following is always true?",
+      "image": "./images/2018_p3_q46.png",
+      "passage": null,
+      "options": [
+        "(a−1)³ / (a−1) = a² − 2a + 1",
+        "4 + (2a)² / (a² + 1) = 4",
+        "a^(−1/2) = 1/√a",
+        "a⁰ = 1"
+      ],
+      "answer": "C",
+      "explanation": "The mathematical expressions in the original were garbled by OCR. Option C (a^(-1/2) = 1/√a) is always true for positive real numbers a. See the original image for the precise expressions."
+    },
+    {
+      "id": 47,
+      "question": "A shop owner selling x pairs of shoes per day has a profit (in birr) expressed by the equation p(x) = −x² + 25x − 10. If the owner needs to obtain a profit of more than 140 birr per day, then the number of pairs of shoes the shop owner makes should range between:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "5 and 10",
+        "10 and 15",
+        "5 and 15",
+        "12 and 15"
+      ],
+      "answer": "B",
+      "explanation": "−x² + 25x − 10 > 140 → −x² + 25x − 150 > 0 → x² − 25x + 150 < 0 → (x−10)(x−15) < 0. So 10 < x < 15."
+    },
+    {
+      "id": 48,
+      "question": "Compare the two quantities: Quantity A = (−51)^16, Quantity B = (−57)^17",
+      "image": "./images/2018_p3_q48.png",
+      "passage": null,
+      "options": [
+        "Quantity A is less than quantity B",
+        "Quantity A is equal to quantity B",
+        "Quantity A is greater than quantity B",
+        "The relationship cannot be determined"
+      ],
+      "answer": "C",
+      "explanation": "Quantity A = (−51)^16 is a positive number (even exponent). Quantity B = (−57)^17 is a negative number (odd exponent of a negative number). Any positive number is greater than any negative number, so Quantity A > Quantity B."
+    },
+    {
+      "id": 49,
+      "question": "Consider the figure below. If PQ = RQ, compare the two quantities: Quantity A = PS, Quantity B = SR",
+      "image": "./images/2018_p3_q49.png",
+      "passage": null,
+      "options": [
+        "Quantity A is greater than quantity B",
+        "The two quantities are equal",
+        "The relation cannot be determined with the information",
+        "Quantity B is greater than A"
+      ],
+      "answer": "D",
+      "explanation": "Since PQ = RQ, triangle PQR is isosceles. Point S lies on PR such that PS < SR (based on the geometry of the figure). The answer key indicates Quantity B (SR) is greater than Quantity A (PS)."
+    },
+    {
+      "id": 50,
+      "question": "Three candidates contested an election and received 1136, 7636, and 11628 votes respectively. What percentage of the total votes did the winning candidate receive?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "57%",
+        "60%",
+        "65%",
+        "90%"
+      ],
+      "answer": "A",
+      "explanation": "Total votes = 1136 + 7636 + 11628 = 20400. Winner's percentage = (11628/20400) × 100 = 57%."
+    },
+    {
+      "id": 51,
+      "question": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "1/2",
+        "2/5",
+        "8/15",
+        "9/20"
+      ],
+      "answer": "D",
+      "explanation": "Multiples of 3 from 1–20: 3,6,9,12,15,18 (6 numbers). Multiples of 5 from 1–20: 5,10,15,20 (4 numbers). Common (LCM of 3,5): 15 (1 number). Total favorable = 6 + 4 − 1 = 9. Probability = 9/20."
+    },
+    {
+      "id": 52,
+      "question": "A mixture contains 120 litres of mango and avocado juice in the ratio 2:3. If the ratio is to be changed to 3:2, how many litres of avocado juice must be removed?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "40",
+        "48",
+        "78",
+        "20"
+      ],
+      "answer": "A",
+      "explanation": "Mango = (2/5) × 120 = 48 litres. Avocado = 72 litres. To change ratio to 3:2, keep mango at 48. New total = 48 × (5/3) = 80. New avocado = 32. Avocado removed = 72 − 32 = 40 litres."
+    },
+    {
+      "id": 53,
+      "question": "The general term of a sequence is aₙ = (2)^(1−n). Then which of the following is true about this sequence?",
+      "image": "./images/2018_p3_q53.png",
+      "passage": null,
+      "options": [
+        "Its terms are negative.",
+        "Its terms are natural numbers.",
+        "Its terms are odd numbers.",
+        "0 is one of its terms."
+      ],
+      "answer": "C",
+      "explanation": "The general term aₙ = 2^(1−n). For n=1: a₁=1, n=2: a₂=1/2, n=3: a₃=1/4, etc. The OCR-expressed formula may differ from the actual. Per the answer key, option C is correct. See the original image for the precise mathematical expression."
+    },
+    {
+      "id": 54,
+      "question": "If f(x) and g(x) are logarithmic functions whose bases are reciprocals of each other, then which one of the following statements is true?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "They have reciprocal values for all x.",
+        "There are some equal values of x for which both f(x) and g(x) are positive.",
+        "They have opposite signs for all x ≠ 1.",
+        "They can never have equal values for any x."
+      ],
+      "answer": "B",
+      "explanation": "If f(x) = log_a(x) and g(x) = log_(1/a)(x) = −log_a(x), then for both to be positive simultaneously requires f(x) > 0 and −f(x) > 0, which seems impossible for standard domains. Per the answer key, B is correct. The question may involve additional context about the base values."
+    },
+    {
+      "id": 55,
+      "question": "How many 4-letter words, with or without meaning, can be formed out of the letters of the word 'LOGARITHMS', if repetition of letters is not allowed?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "40",
+        "400",
+        "2540",
+        "5040"
+      ],
+      "answer": "D",
+      "explanation": "'LOGARITHMS' has 10 distinct letters. Number of 4-letter permutations = 10P4 = 10!/(10−4)! = 10 × 9 × 8 × 7 = 5040."
+    },
+    {
+      "id": 56,
+      "question": "[(469+174)² − (469−174)²] / (469 × 174) is equal to:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "2",
+        "4",
+        "295",
+        "643"
+      ],
+      "answer": "A",
+      "explanation": "Using the identity (a+b)² − (a−b)² = 4ab: [(469+174)² − (469−174)²] / (469×174) = 4 × 469 × 174 / (469 × 174) = 4. Note: The answer key gives A (2), which may indicate the expression has a different denominator than what was reconstructed from the OCR."
+    },
+    {
+      "id": 57,
+      "question": "If the total monthly income of the family is 12000 Birr, how much does the family spend on Rent?",
+      "image": "./images/2018_p3_q57.png",
+      "passage": null,
+      "options": [
+        "2000 Birr",
+        "2200 Birr",
+        "2400 Birr",
+        "2600 Birr"
+      ],
+      "answer": "C",
+      "explanation": "Rent is 20% of the total income. 20% of 12000 = 2400 Birr."
+    },
+    {
+      "id": 58,
+      "question": "A family spends 480 Birr on transport. Assuming the percentage distribution remains unchanged, what is the total expenditure?",
+      "image": "./images/2018_p3_q58.png",
+      "passage": null,
+      "options": [
+        "6000 Birr",
+        "4800 Birr",
+        "6400 Birr",
+        "5000 Birr"
+      ],
+      "answer": "B",
+      "explanation": "If transport is 10% of total expenditure, then total = 480/0.10 = 4800 Birr."
+    },
+    {
+      "id": 59,
+      "question": "If the family decides to reduce food spending by 10% and increase rent by 25%, which of the following statements is true?",
+      "image": "./images/2018_p3_q59.png",
+      "passage": null,
+      "options": [
+        "Food and Rent become equal",
+        "Food becomes the smallest expenditure",
+        "Rent becomes greater than food",
+        "Food remains greater than Rent"
+      ],
+      "answer": "D",
+      "explanation": "Original: Food = 30%, Rent = 20%. After reduction: Food = 30% − 10% of 30% = 27%. After increase: Rent = 20% + 25% of 20% = 25%. Food (27%) still exceeds Rent (25%)."
+    },
+    {
+      "id": 60,
+      "question": "If the family spends 1500 Birr on Food, what is the total monthly income?",
+      "image": "./images/2018_p3_q60.png",
+      "passage": null,
+      "options": [
+        "3500 Birr",
+        "4500 Birr",
+        "5550 Birr",
+        "5000 Birr"
+      ],
+      "answer": "D",
+      "explanation": "If Food represents 30% of total income, then total = 1500/0.30 = 5000 Birr."
+    }
+  ]
+}

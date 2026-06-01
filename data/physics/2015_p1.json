@@ -1,0 +1,112 @@
+{
+  "subject": "Physics",
+  "year": "2015 E.C",
+  "paper": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The SI unit of force is:",
+      "options": ["Joule", "Newton", "Pascal", "Watt"],
+      "answer": "B",
+      "explanation": "The SI unit of force is the Newton (N), defined as the force required to accelerate a 1 kg mass at 1 m/s^2. 1 N = 1 kg\u00b7m/s^2."
+    },
+    {
+      "id": 2,
+      "question": "The acceleration due to gravity on Earth is approximately:",
+      "options": ["8.9 m/s\u00b2", "9.8 m/s\u00b2", "10.8 m/s\u00b2", "11.8 m/s\u00b2"],
+      "answer": "B",
+      "explanation": "The standard acceleration due to gravity on Earth's surface is approximately 9.8 m/s^2, though it varies slightly with location and altitude."
+    },
+    {
+      "id": 3,
+      "question": "Which law states that for every action there is an equal and opposite reaction?",
+      "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Conservation of Energy"],
+      "answer": "C",
+      "explanation": "Newton's Third Law of Motion states that when one body exerts a force on another, the second body exerts an equal and opposite force on the first."
+    },
+    {
+      "id": 4,
+      "question": "The speed of light in vacuum is approximately:",
+      "options": ["3 x 10^6 m/s", "3 x 10^7 m/s", "3 x 10^8 m/s", "3 x 10^9 m/s"],
+      "answer": "C",
+      "explanation": "The speed of light in vacuum is approximately 3 x 10^8 m/s (299,792,458 m/s exactly). This is a fundamental constant in physics."
+    },
+    {
+      "id": 5,
+      "question": "The unit of electrical resistance is:",
+      "options": ["Volt", "Ampere", "Ohm", "Farad"],
+      "answer": "C",
+      "explanation": "The unit of electrical resistance is the Ohm (\u03a9). It is defined by Ohm's law: R = V/I, where V is voltage and I is current."
+    },
+    {
+      "id": 6,
+      "question": "Which type of wave requires a medium to travel?",
+      "options": ["Light wave", "Radio wave", "Sound wave", "X-ray"],
+      "answer": "C",
+      "explanation": "Sound waves are mechanical waves that require a medium (solid, liquid, or gas) to travel. Light, radio waves, and X-rays are electromagnetic waves that can travel through vacuum."
+    },
+    {
+      "id": 7,
+      "question": "The kinetic energy of a body of mass m moving with velocity v is:",
+      "options": ["mv", "mv^2", "1/2 mv", "1/2 mv^2"],
+      "answer": "D",
+      "explanation": "Kinetic energy KE = 1/2 mv^2, where m is mass and v is velocity. This is derived from the work-energy theorem."
+    },
+    {
+      "id": 8,
+      "question": "The image formed by a plane mirror is:",
+      "options": ["Real and inverted", "Virtual and inverted", "Real and upright", "Virtual and upright"],
+      "answer": "D",
+      "explanation": "A plane mirror always forms a virtual, upright image that is the same size as the object. The image appears to be the same distance behind the mirror as the object is in front."
+    },
+    {
+      "id": 9,
+      "question": "The specific heat capacity of water is:",
+      "options": ["100 J/(kg\u00b7K)", "418 J/(kg\u00b7K)", "4186 J/(kg\u00b7K)", "41860 J/(kg\u00b7K)"],
+      "answer": "C",
+      "explanation": "The specific heat capacity of water is 4186 J/(kg\u00b7K), which is relatively high. This means water can absorb or release large amounts of heat with small temperature changes."
+    },
+    {
+      "id": 10,
+      "question": "Ohm's law relates:",
+      "options": ["Force and acceleration", "Voltage, current, and resistance", "Work and energy", "Frequency and wavelength"],
+      "answer": "B",
+      "explanation": "Ohm's law states V = IR, relating voltage (V), current (I), and resistance (R) in an electrical circuit. It is one of the fundamental laws of electrical circuits."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a vector quantity?",
+      "options": ["Temperature", "Mass", "Velocity", "Speed"],
+      "answer": "C",
+      "explanation": "Velocity is a vector quantity because it has both magnitude (speed) and direction. Temperature, mass, and speed are scalar quantities with only magnitude."
+    },
+    {
+      "id": 12,
+      "question": "The power dissipated in a resistor can be calculated by:",
+      "options": ["P = V/I", "P = I^2 R", "P = V/R", "P = IR"],
+      "answer": "B",
+      "explanation": "The power dissipated in a resistor can be calculated using P = I^2 R (Joule's law), or equivalently P = V^2/R or P = VI."
+    },
+    {
+      "id": 13,
+      "question": "The period of a simple pendulum depends on:",
+      "options": ["Mass and length", "Length and gravity", "Mass and gravity", "Amplitude only"],
+      "answer": "B",
+      "explanation": "The period T = 2\u03c0\u221a(L/g) depends on the length of the pendulum (L) and the acceleration due to gravity (g). It does not depend on the mass of the bob."
+    },
+    {
+      "id": 14,
+      "question": "Total internal reflection occurs when light travels from:",
+      "options": ["A denser to a rarer medium beyond the critical angle", "A rarer to a denser medium", "Vacuum to any medium", "Any medium at any angle"],
+      "answer": "A",
+      "explanation": "Total internal reflection occurs when light traveling in a denser medium strikes the boundary with a rarer medium at an angle greater than the critical angle."
+    },
+    {
+      "id": 15,
+      "question": "The SI unit of work is:",
+      "options": ["Newton", "Watt", "Joule", "Pascal"],
+      "answer": "C",
+      "explanation": "The SI unit of work (and energy) is the Joule (J). One Joule equals the work done when a force of one Newton moves an object one meter in the direction of the force."
+    }
+  ]
+}

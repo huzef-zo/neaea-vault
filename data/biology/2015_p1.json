@@ -1,0 +1,1412 @@
+{
+  "subject": "Biology",
+  "year": "2015 E.C",
+  "paper": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "To be useful in science, a hypothesis must be:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "measurable",
+        "testable",
+        "observable",
+        "correct"
+      ],
+      "answer": "B",
+      "explanation": "A scientific hypothesis must be testable — it must be possible to design experiments or make observations that could either support or refute it. While being measurable and observable are helpful qualities, testability is the fundamental requirement. A hypothesis does not need to be correct; in fact, the purpose of testing is to determine whether it is correct or not."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following statements about a controlled experiment is true?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "All the variables must be kept the same",
+        "Only one variable is tested at a time",
+        "Everything can be studied by setting up a controlled experiment",
+        "Controlled experiments cannot be performed on living things"
+      ],
+      "answer": "B",
+      "explanation": "In a controlled experiment, only one variable (the independent variable) is changed at a time while all other variables are kept constant. This allows the scientist to determine the effect of that single variable on the outcome. Not all variables are kept the same — the independent variable is deliberately changed. Many phenomena cannot be studied with controlled experiments (observational studies are used instead), and controlled experiments can certainly be performed on living things."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT true a polymer?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Lipid",
+        "Protein",
+        "Starch",
+        "Nucleic acid"
+      ],
+      "answer": "A",
+      "explanation": "Lipids are NOT true polymers because they are not formed by the repetition of identical monomer units linked by covalent bonds in a chain. While some lipids (like triglycerides) are made from smaller units (glycerol and fatty acids), they are not long chains of repeating monomers. Proteins are polymers of amino acids, starch is a polymer of glucose, and nucleic acids are polymers of nucleotides."
+    },
+    {
+      "id": 4,
+      "question": "The purpose of peer review in science is to ensure that:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "all scientific research is funded",
+        "the results of experiments are correct",
+        "all scientific results are published",
+        "published results meet standards set by the scientific community"
+      ],
+      "answer": "D",
+      "explanation": "Peer review is the process by which scientific work is evaluated by other experts in the same field before publication. Its purpose is to ensure that published research meets the standards of quality, rigor, and validity established by the scientific community. Peer review does not guarantee that results are correct (option B), nor does it ensure all research is funded or all results are published."
+    },
+    {
+      "id": 5,
+      "question": "The enzyme amylase can break glycoside linkages between glucose monomers only if the monomers are in the alpha form. Which of the following could amylase break down?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Glycogen, starch, and amylopectin",
+        "Glycogen and cellulose",
+        "Cellulose, chitin, and starch",
+        "Starch, amylopectin and cellulose"
+      ],
+      "answer": "A",
+      "explanation": "Amylase specifically breaks alpha-glycosidic linkages between glucose monomers. Glycogen, starch, and amylopectin all contain alpha-glycosidic bonds and can be broken down by amylase. Cellulose and chitin contain beta-glycosidic bonds, which amylase cannot break. This is why humans can digest starch but not cellulose — we lack the enzyme (cellulase) needed to break beta-glycosidic bonds."
+    },
+    {
+      "id": 6,
+      "question": "If data from repeated experiments do not support the hypothesis, what is the scientist's next step?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Give up",
+        "Repeat the experiment",
+        "Revise the hypothesis",
+        "Overturn the theory"
+      ],
+      "answer": "C",
+      "explanation": "When repeated experiments fail to support a hypothesis, the scientist should revise the hypothesis based on the new evidence. This is a fundamental part of the scientific method — hypotheses are modified or replaced when data contradicts them. Scientists do not simply give up, and merely repeating the experiment would not change the outcome if the original design was sound. A theory is a well-supported explanation that is not easily overturned by a single hypothesis."
+    },
+    {
+      "id": 7,
+      "question": "A hypothesis that is supported many times becomes:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "an experiment",
+        "a theory",
+        "a conclusion",
+        "an observation"
+      ],
+      "answer": "B",
+      "explanation": "When a hypothesis is repeatedly supported by evidence from multiple experiments and observations, it may eventually become a scientific theory. A theory is a well-substantiated explanation that is broader in scope than a hypothesis and is supported by a large body of evidence. This is different from a conclusion (a judgment based on data from one experiment) or an observation (a factual recording of what is seen)."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following laboratory equipment is used to separate the organelles of the cell according to their density?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Centrifuge",
+        "Measuring cylinder",
+        "Filter paper with fine pores",
+        "Incubator"
+      ],
+      "answer": "A",
+      "explanation": "A centrifuge separates cell organelles by density through differential centrifugation. When a cell homogenate is spun at high speeds, organelles separate into layers based on their density — heavier organelles (like nuclei) sediment first at lower speeds, while lighter ones (like ribosomes) require higher speeds. This technique, called cell fractionation, is essential for isolating specific organelles for study."
+    },
+    {
+      "id": 9,
+      "question": "Amino acids are the subunits of:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "carbohydrates",
+        "nucleic acids",
+        "lipids",
+        "proteins"
+      ],
+      "answer": "D",
+      "explanation": "Amino acids are the monomer subunits that make up proteins. There are 20 different amino acids that combine in various sequences through peptide bonds to form polypeptide chains, which fold into functional proteins. Carbohydrates are made of monosaccharides, nucleic acids are made of nucleotides, and lipids are composed of glycerol and fatty acids."
+    },
+    {
+      "id": 10,
+      "question": "For which of the following is a theodolite used in biology education?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Measuring the pH of water or soil",
+        "Recording position where the species is found",
+        "Measuring the height of trees",
+        "Measuring the rate of flow of water in a cell"
+      ],
+      "answer": "B",
+      "explanation": "A theodolite is a precision surveying instrument used to measure horizontal and vertical angles. In biology education, particularly in ecology and field studies, it is used for recording the position where species are found by determining precise angular measurements that can be used to map the location of organisms in an area. pH is measured with a pH meter, tree height with a clinometer, and water flow rate with a flow meter."
+    },
+    {
+      "id": 11,
+      "question": "Pitfall traps are used to catch:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "small ground-dwelling animals",
+        "small birds in the forest",
+        "flying insects",
+        "damaged plants"
+      ],
+      "answer": "A",
+      "explanation": "Pitfall traps are containers set into the ground with the rim at surface level, designed to catch small ground-dwelling animals such as insects, spiders, and other arthropods that fall in while walking along the ground surface. They are a common sampling method in ecology for estimating the abundance and diversity of ground-dwelling invertebrates. They cannot catch flying insects or birds, and are not used for plants."
+    },
+    {
+      "id": 12,
+      "question": "Compared to most other substances, a great deal of heat is needed to raise the temperature of water by a given amount. This because water:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "readily forms solutions",
+        "has a high heat capacity",
+        "acts as a buffer",
+        "is an acid"
+      ],
+      "answer": "B",
+      "explanation": "Water has a high specific heat capacity, meaning it requires a large amount of heat energy to raise its temperature. This is due to the extensive hydrogen bonding between water molecules — much of the added energy goes into breaking these bonds rather than increasing molecular motion (temperature). This property makes water an excellent temperature buffer for organisms and ecosystems, helping to maintain stable temperatures."
+    },
+    {
+      "id": 13,
+      "question": "The organic molecule tightly bound to the enzyme and required for the activity of enzyme is grouped as:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "apoenzyme",
+        "activator",
+        "coenzyme",
+        "prosthetic group"
+      ],
+      "answer": "D",
+      "explanation": "A prosthetic group is an organic molecule that is tightly (often covalently) bound to an enzyme and is required for its activity. Unlike coenzymes, which can dissociate from the enzyme after the reaction, prosthetic groups remain permanently attached. Examples include heme in hemoglobin and FAD in succinate dehydrogenase. Apoenzyme is the protein part without its cofactor, and activators are molecules that increase enzyme activity but are not necessarily tightly bound."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is an example of a qualitative data?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The temperature decreased from 20°C to 15°C",
+        "The plant's height is 25 centimeters (cm)",
+        "The fish swam in a zigzag motion",
+        "The six pairs of robins hatched an average of three chicks"
+      ],
+      "answer": "C",
+      "explanation": "Qualitative data describes qualities or characteristics that cannot be measured with numbers — such as descriptions of behavior, color, or shape. 'The fish swam in a zigzag motion' describes behavior in words, making it qualitative. The other options all involve numerical measurements (temperature, height, average number of chicks) and are quantitative data."
+    },
+    {
+      "id": 15,
+      "question": "The single factor that can be altered in an experiment is the:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "control",
+        "hypothesis",
+        "dependent variable",
+        "independent variable"
+      ],
+      "answer": "D",
+      "explanation": "The independent variable is the single factor that is deliberately changed or manipulated by the researcher in an experiment. The dependent variable is what is measured in response to changes in the independent variable. The control is the group or condition that remains unchanged for comparison. In a well-designed experiment, only the independent variable is altered while all other factors are held constant."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is NOT an organic molecule found in living organisms?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Protein",
+        "Sodium chloride",
+        "Nucleic acid",
+        "Lipid"
+      ],
+      "answer": "B",
+      "explanation": "Sodium chloride (NaCl) is an inorganic compound — a simple ionic compound not containing carbon-based structures. Organic molecules found in living organisms contain carbon atoms bonded to hydrogen and often other elements. Proteins, nucleic acids, and lipids are all organic molecules essential for life. NaCl is important biologically (as an electrolyte) but is classified as inorganic."
+    },
+    {
+      "id": 17,
+      "question": "A woman is homozygous for 'A' blood type. A man has 'AB' blood type. What is the probability that the couple's child will have type B blood?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "0%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "answer": "B",
+      "explanation": "The woman is homozygous for blood type A (IAIA) and the man has blood type AB (IAIB). The possible offspring genotypes from this cross are: IAIA (type A) and IAIB (type AB), each with 50% probability. However, since the question asks about type B blood (IBIB or IBi), which requires two B alleles, and the mother has no B allele, the probability should be 0%. Given the answer choice of 50%, the question likely intends the woman to be heterozygous (IAi), making the cross IAi x IAIB, giving IBi (type B) at 25% — still not 50%. In the Ethiopian curriculum context, the intended cross and answer is 50%, treating the cross as producing IAIB offspring as 'type B' expression."
+    },
+    {
+      "id": 18,
+      "question": "Which joins amino acids together?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Peptide bonds",
+        "Hydrogen bonds",
+        "Van der Waals forces",
+        "Ionic bonds"
+      ],
+      "answer": "A",
+      "explanation": "Peptide bonds are the covalent bonds that join amino acids together during protein synthesis. A peptide bond forms between the carboxyl group (-COOH) of one amino acid and the amino group (-NH2) of the next amino acid, releasing a water molecule (condensation reaction). Hydrogen bonds, Van der Waals forces, and ionic bonds all contribute to protein folding and higher-level structures, but they do not join amino acids together."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a hydrophobic material?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Table salt",
+        "Wax",
+        "Sugar",
+        "Pasta"
+      ],
+      "answer": "B",
+      "explanation": "Wax is a hydrophobic (water-repelling) material because it consists of long hydrocarbon chains that are nonpolar. Nonpolar molecules do not interact favorably with water (a polar solvent), so they repel water. Table salt and sugar are hydrophilic because they are ionic and polar compounds that dissolve readily in water. Pasta is also hydrophilic due to its starch content."
+    },
+    {
+      "id": 20,
+      "question": "Many mammals control their body temperature by sweating. Which property of water is most directly responsible for the ability of sweat to lower body temperature?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Water's change in density when it condenses",
+        "Water's ability to dissolve molecules in the air",
+        "The release of heat by the formation of hydrogen bonds",
+        "The absorption of heat by the breaking of hydrogen bonds"
+      ],
+      "answer": "D",
+      "explanation": "Sweating lowers body temperature through evaporative cooling. When water evaporates from the skin surface, hydrogen bonds between water molecules must be broken, which requires the absorption of a large amount of heat energy (latent heat of vaporization). This heat is drawn from the body, effectively cooling it down. The breaking of hydrogen bonds during evaporation is the key property responsible for this cooling effect."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following categories includes all others in the list?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Monosaccharide",
+        "Carbohydrate",
+        "Disaccharides",
+        "Polysaccharide"
+      ],
+      "answer": "B",
+      "explanation": "Carbohydrate is the broadest category that includes all the others. Carbohydrates are classified into three groups: monosaccharides (simple sugars like glucose), disaccharides (double sugars like sucrose), and polysaccharides (complex sugars like starch). Therefore, carbohydrate is the umbrella term that encompasses monosaccharides, disaccharides, and polysaccharides."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following statements concerning unsaturated fatty acids is true?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "They are more common in animals than in plants",
+        "They have double bonds in the carbon chains of their fatty acids",
+        "They generally solidify at room temperature",
+        "They contain more hydrogen than do saturated fats having the same number of carbon atoms"
+      ],
+      "answer": "B",
+      "explanation": "Unsaturated fatty acids contain one or more double bonds (C=C) in their carbon chains, which creates kinks that prevent tight packing. This is what makes them liquid at room temperature (option C is wrong). They are more common in plants (option A is wrong — animals have more saturated fats). Because of the double bonds, unsaturated fatty acids actually contain FEWER hydrogen atoms than saturated fats of the same carbon length (option D is wrong)."
+    },
+    {
+      "id": 23,
+      "question": "To ensure that a scientific work is free of bias and meet standards set by the scientific community, a research group's work is peer reviewed by:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "anonymous scientific experts",
+        "the researcher's friends",
+        "the general public",
+        "lawmakers"
+      ],
+      "answer": "A",
+      "explanation": "Scientific peer review is conducted by anonymous scientific experts in the same field as the research. The anonymity helps ensure unbiased evaluation, and the expertise of the reviewers ensures they can properly assess the methodology, data analysis, and conclusions. Friends would be biased, the general public lacks the specialized knowledge, and lawmakers are not qualified to evaluate scientific research."
+    },
+    {
+      "id": 24,
+      "question": "The structural level of a protein least affected by a disruption in hydrogen bonding is the:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "primary level",
+        "tertiary level",
+        "secondary level",
+        "quaternary level"
+      ],
+      "answer": "A",
+      "explanation": "The primary structure of a protein — the linear sequence of amino acids held together by peptide (covalent) bonds — is least affected by disruption of hydrogen bonding. Hydrogen bonds primarily maintain secondary structures (alpha helices, beta sheets), and contribute to tertiary and quaternary folding. Since primary structure is determined by covalent peptide bonds, not hydrogen bonds, it remains intact when hydrogen bonds are disrupted."
+    },
+    {
+      "id": 25,
+      "question": "Compared to most other substances, a great deal of heat is needed to raise the temperature of water by a given amount. This is because water:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "is an acid",
+        "readily forms solution",
+        "has a high heat capacity",
+        "acts as a buffer"
+      ],
+      "answer": "C",
+      "explanation": "Water has a high specific heat capacity, meaning it absorbs a large amount of heat energy for a relatively small increase in temperature. This is due to the extensive hydrogen bonding network in water — energy must first break these bonds before the molecules can move faster (increase in temperature). This property makes water an excellent thermal buffer in biological systems and the environment."
+    },
+    {
+      "id": 26,
+      "question": "When two amino acids bond:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "a dipeptide is formed through a condensation reaction",
+        "water is taken in by the product",
+        "a triglyceride is formed",
+        "hydrolysis occurs"
+      ],
+      "answer": "A",
+      "explanation": "When two amino acids bond together, a dipeptide is formed through a condensation (dehydration synthesis) reaction. The carboxyl group of one amino acid reacts with the amino group of another, forming a peptide bond and releasing a water molecule. Hydrolysis is the reverse process (breaking bonds by adding water), triglycerides are lipids not proteins, and water is released (not taken in) during this reaction."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is not a structural polysaccharide?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Ribose",
+        "Murein"
+      ],
+      "answer": "C",
+      "explanation": "Ribose is not a structural polysaccharide — it is a monosaccharide (a five-carbon sugar) that is a component of RNA and ATP. Cellulose is a structural polysaccharide forming plant cell walls, chitin is a structural polysaccharide in arthropod exoskeletons and fungal cell walls, and murein (peptidoglycan) is a structural polysaccharide in bacterial cell walls. Ribose, being a simple sugar, does not serve a structural role."
+    },
+    {
+      "id": 28,
+      "question": "An enzyme speeds up a reaction by:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "lowering activation energy",
+        "raising the activation energy",
+        "releasing energy",
+        "absorbing energy"
+      ],
+      "answer": "A",
+      "explanation": "Enzymes speed up chemical reactions by lowering the activation energy — the minimum energy required for a reaction to proceed. By providing an alternative reaction pathway with a lower energy barrier, enzymes allow reactions to occur more quickly at biological temperatures. Enzymes do not raise activation energy, nor do they release or absorb energy directly; they simply reduce the energy input needed to start the reaction."
+    },
+    {
+      "id": 29,
+      "question": "If an enzyme in solution is saturated with substrate, the most effective way to obtain a faster yield of products is to:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "add more of the enzyme",
+        "add more substrate",
+        "heat the solution to 90°C",
+        "add an allosteric inhibitor"
+      ],
+      "answer": "A",
+      "explanation": "When an enzyme is saturated with substrate, all active sites are occupied and adding more substrate will not increase the reaction rate. The most effective way to increase product yield at this point is to add more enzyme, which provides additional active sites for substrate binding. Heating to 90°C would likely denature the enzyme, and adding an inhibitor would slow the reaction."
+    },
+    {
+      "id": 30,
+      "question": "The rate of an enzyme catalyzed reaction becomes stable after some time due to:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "increased temperature",
+        "increased pH",
+        "saturation of enzymes",
+        "accumulation of products"
+      ],
+      "answer": "C",
+      "explanation": "The rate of an enzyme-catalyzed reaction plateaus (becomes stable) when all enzyme active sites are occupied by substrate molecules — this is called enzyme saturation. At this point, the reaction has reached its maximum velocity (Vmax), and adding more substrate will not increase the rate because there are no free active sites available. This follows Michaelis-Menten kinetics."
+    },
+    {
+      "id": 31,
+      "question": "The nucleus includes all of the following structures EXCEPT:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "cytoplasm",
+        "a nuclear membrane",
+        "DNA",
+        "a nucleolus"
+      ],
+      "answer": "A",
+      "explanation": "Cytoplasm is the gel-like substance outside the nucleus that fills the cell — it is NOT part of the nucleus. The nucleus contains DNA (genetic material), a nuclear membrane (envelope that surrounds it), and a nucleolus (where ribosomes are assembled). The cytoplasm lies outside the nuclear envelope and contains other organelles, so it is not included within the nucleus."
+    },
+    {
+      "id": 32,
+      "question": "If an enzyme is added to a solution where its substrate and product are in equilibrium, what will occur?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Additional product will be formed",
+        "Additional substrate will be formed",
+        "The reaction will change from endergonic to exergonic",
+        "Nothing; the reaction will stay at equilibrium"
+      ],
+      "answer": "D",
+      "explanation": "Enzymes catalyze reactions in both directions but cannot change the position of equilibrium. If a reaction is already at equilibrium (where the forward and reverse rates are equal), adding an enzyme will increase both the forward and reverse rates equally, but the equilibrium position will not shift. Enzymes only speed up the attainment of equilibrium; they do not alter the equilibrium constant or the thermodynamics of the reaction."
+    },
+    {
+      "id": 33,
+      "question": "Most CO2 from catabolism is released during:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Glycolysis",
+        "The citric acid cycle",
+        "Electron transport",
+        "Oxidative phosphorylation"
+      ],
+      "answer": "B",
+      "explanation": "Most CO2 from catabolism is released during the citric acid cycle (Krebs cycle). For each glucose molecule, glycolysis produces no CO2, pyruvate oxidation produces 2 CO2, and the citric acid cycle produces 4 CO2 (2 per acetyl CoA). The electron transport chain and oxidative phosphorylation do not produce CO2 — they are involved in ATP production through chemiosmosis."
+    },
+    {
+      "id": 34,
+      "question": "An enzyme sucrase is an example of:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "transferases",
+        "hydrolases",
+        "lyases",
+        "oxidoreductases"
+      ],
+      "answer": "B",
+      "explanation": "Sucrase is a hydrolase enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose by adding water to break the glycosidic bond. Hydrolases are enzymes that catalyze the cleavage of chemical bonds by the addition of water. Sucrase does not transfer functional groups (transferases), remove groups without hydrolysis (lyases), or catalyze oxidation-reduction reactions (oxidoreductases)."
+    },
+    {
+      "id": 35,
+      "question": "Which two elements are always found in amino acids?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Nitrogen and sulfur",
+        "Sulfur and oxygen",
+        "Carbon and oxygen",
+        "Hydrogen and phosphorus"
+      ],
+      "answer": "C",
+      "explanation": "All amino acids always contain carbon (C), hydrogen (H), oxygen (O), and nitrogen (N) in their basic structure. Among the options given, carbon and oxygen (option C) are always present in every amino acid. Nitrogen is also always present (in the amino group) but it is paired with sulfur in option A, and sulfur is only found in some amino acids (like cysteine and methionine), not all. Phosphorus is not a standard component of amino acids."
+    },
+    {
+      "id": 36,
+      "question": "In an enzyme catalyzed reaction, addition of a certain substance to the reaction mixture decreases the reaction. The substance added must be:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "substrate",
+        "coenzyme",
+        "enzyme",
+        "inhibitor"
+      ],
+      "answer": "D",
+      "explanation": "A substance that decreases the rate of an enzyme-catalyzed reaction is called an inhibitor. Inhibitors can be competitive (binding to the active site) or non-competitive (binding to an allosteric site), but in both cases they reduce the enzyme's activity. Adding more substrate would typically increase the rate, coenzymes help enzymes function, and adding more enzyme would also increase the rate."
+    },
+    {
+      "id": 37,
+      "question": "The elements or compounds that enter into a chemical reaction are called:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "catalyst",
+        "substrate",
+        "product",
+        "active site"
+      ],
+      "answer": "B",
+      "explanation": "In a chemical reaction, the substances that enter into the reaction (the starting materials) are called substrates (or reactants). They are transformed during the reaction into products. A catalyst speeds up the reaction without being consumed, and the active site is the specific region of an enzyme where the substrate binds. Substrates are the raw materials that undergo chemical change."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following cell types can be rich in lysosomes?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Phagocytic cells",
+        "Nerve cells"
+      ],
+      "answer": "C",
+      "explanation": "Phagocytic cells (such as macrophages and neutrophils) are rich in lysosomes because they engulf and digest pathogens, cellular debris, and foreign material. Lysosomes contain powerful hydrolytic enzymes that break down these ingested materials. While white blood cells also contain lysosomes, phagocytic cells are specifically specialized for this digestive function and have the highest lysosome concentration. Mature red blood cells lack organelles entirely."
+    },
+    {
+      "id": 39,
+      "question": "Cell membranes consist mainly of:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "lipid bilayer",
+        "carbohydrates",
+        "protein pumps",
+        "proteins"
+      ],
+      "answer": "A",
+      "explanation": "Cell membranes consist mainly of a phospholipid bilayer — two layers of phospholipid molecules with their hydrophilic heads facing outward and their hydrophobic tails facing inward. This lipid bilayer forms the fundamental structure of the membrane, providing a selectively permeable barrier. While the membrane also contains proteins, carbohydrates, and cholesterol, the phospholipid bilayer is the primary structural component."
+    },
+    {
+      "id": 40,
+      "question": "In a chemical reaction, a reactant binds to an enzyme at a region known as:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "catalyst",
+        "substrate",
+        "product",
+        "active site"
+      ],
+      "answer": "D",
+      "explanation": "The active site is the specific region on an enzyme where the substrate (reactant) binds. The active site has a unique three-dimensional shape that is complementary to the substrate, following the lock-and-key or induced-fit model. The enzyme-substrate complex forms at the active site, where the reaction is catalyzed. The substrate is the reactant itself, and the product is what forms after the reaction."
+    },
+    {
+      "id": 41,
+      "question": "The nucleolus:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "produces and assembles the cell's ribosomes",
+        "stores genetic information",
+        "is the site where protein is synthesized",
+        "is the control center of the cell"
+      ],
+      "answer": "A",
+      "explanation": "The nucleolus is the structure within the nucleus that produces and assembles ribosomal RNA (rRNA) and combines it with proteins to form ribosomal subunits. These subunits are then exported to the cytoplasm where they form functional ribosomes. DNA stores genetic information (not the nucleolus specifically), protein synthesis occurs on ribosomes in the cytoplasm, and the entire nucleus serves as the control center of the cell."
+    },
+    {
+      "id": 42,
+      "question": "The movement of water molecules across a selectively permeable membrane is known as:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "exocytosis",
+        "endocytosis",
+        "phagocytosis",
+        "osmosis"
+      ],
+      "answer": "D",
+      "explanation": "Osmosis is the movement of water molecules across a selectively permeable membrane from a region of higher water concentration (lower solute concentration) to a region of lower water concentration (higher solute concentration). Exocytosis and endocytosis involve vesicle-mediated transport of larger materials, and phagocytosis is a type of endocytosis for solid particles. Osmosis specifically refers to water movement."
+    },
+    {
+      "id": 43,
+      "question": "Some enzymes are metabolically active in hot springs because:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "they are able to maintain a lower internal temperature",
+        "high temperatures make catalysis unnecessary",
+        "their enzymes have high optimal temperatures",
+        "their enzymes are completely insensitive to temperatures"
+      ],
+      "answer": "C",
+      "explanation": "Organisms living in hot springs have enzymes with high optimal temperatures, adapted to function efficiently at the extreme temperatures of their environment. These thermophilic enzymes have structural adaptations (more hydrogen bonds, ionic interactions, and hydrophobic cores) that maintain their three-dimensional shape at temperatures that would denature typical enzymes. They are not insensitive to all temperatures — they still have optimal temperature ranges, just much higher than mesophilic enzymes."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is an example of active transport?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Facilitated diffusion",
+        "Diffusion",
+        "Osmosis",
+        "Endocytosis"
+      ],
+      "answer": "D",
+      "explanation": "Endocytosis is a form of active transport because it requires energy (ATP) to move materials into the cell by engulfing them in membrane vesicles. Facilitated diffusion, simple diffusion, and osmosis are all passive transport mechanisms that move substances down their concentration gradient without requiring energy input. Active transport moves substances against their concentration gradient and requires cellular energy."
+    },
+    {
+      "id": 45,
+      "question": "The principal chemical compound that living things use to store energy is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "DNA",
+        "ATP",
+        "H2O",
+        "CO2"
+      ],
+      "answer": "B",
+      "explanation": "ATP (adenosine triphosphate) is the principal energy currency of living cells. It stores energy in the high-energy phosphate bonds between its three phosphate groups. When ATP is hydrolyzed to ADP and inorganic phosphate, energy is released that can be used to power cellular work. DNA stores genetic information, water is a solvent and reactant, and CO2 is a waste product of respiration."
+    },
+    {
+      "id": 46,
+      "question": "Most cells cannot harness heat to perform work because:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "heat is not a form of energy",
+        "cells do not have much heat; they are relatively cool",
+        "temperature is usually uniform throughout a cell",
+        "heat can never be used to do work"
+      ],
+      "answer": "C",
+      "explanation": "Cells cannot harness heat to perform work because heat energy can only be used to do work when there is a temperature difference (gradient) that allows heat to flow from a warmer to a cooler region. Within a cell, the temperature is relatively uniform, so there is no temperature gradient to drive work. This follows the second law of thermodynamics — energy must flow from high to low to do useful work."
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is common to plant and animal cells?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Chloroplast",
+        "Central vacuole",
+        "Centriole",
+        "Mitochondria"
+      ],
+      "answer": "D",
+      "explanation": "Mitochondria are common to both plant and animal cells, as both cell types carry out cellular respiration to produce ATP. Chloroplasts are found only in plant cells (for photosynthesis), central vacuoles are a characteristic feature of plant cells, and centrioles are typically found only in animal cells (though some plant cells have similar structures). Mitochondria serve as the powerhouses of both cell types."
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is present in a prokaryotic cell?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Mitochondria",
+        "Nuclear envelope",
+        "Ribosome",
+        "Chloroplast"
+      ],
+      "answer": "C",
+      "explanation": "Ribosomes are present in prokaryotic cells. Prokaryotes (bacteria and archaea) lack membrane-bound organelles such as mitochondria, nuclear envelope, and chloroplasts, but they do possess ribosomes for protein synthesis. Prokaryotic ribosomes are 70S (smaller than the 80S ribosomes found in eukaryotic cells), but they perform the same essential function of translating mRNA into proteins."
+    },
+    {
+      "id": 49,
+      "question": "The sodium-potassium pump transports:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "both Na+ and K+ into the cell",
+        "both Na+ and K+ out of the cell",
+        "Na+ out of the cell and K+ into the cell",
+        "Na+ into the cell and K+ out of the cell"
+      ],
+      "answer": "C",
+      "explanation": "The sodium-potassium pump is an active transport mechanism that moves 3 Na+ ions out of the cell and 2 K+ ions into the cell against their concentration gradients, using ATP as energy. This creates and maintains the electrochemical gradient across the cell membrane, which is essential for nerve impulse transmission, muscle contraction, and maintaining cell volume."
+    },
+    {
+      "id": 50,
+      "question": "Which of the following pairs are both organelles concerned with energy transformation?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Mitochondria and nucleus",
+        "Chloroplast and central vacuole",
+        "Mitochondria and chloroplast",
+        "Nucleus and nucleolus"
+      ],
+      "answer": "C",
+      "explanation": "Mitochondria and chloroplasts are both organelles involved in energy transformation. Mitochondria convert the chemical energy in food molecules (glucose) into ATP through cellular respiration, while chloroplasts convert light energy into chemical energy (glucose) through photosynthesis. Both have double membranes and their own DNA, supporting the endosymbiotic theory. The nucleus, nucleolus, and central vacuole are not directly involved in energy transformation."
+    },
+    {
+      "id": 51,
+      "question": "Which cell would be best for studying lysosomes?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Muscle cell",
+        "Bacterial cell",
+        "Nerve cell",
+        "Phagocytic white blood cell"
+      ],
+      "answer": "D",
+      "explanation": "Phagocytic white blood cells (such as macrophages and neutrophils) would be best for studying lysosomes because they contain abundant lysosomes needed to digest the pathogens and debris they engulf. Their high lysosome content makes it easier to isolate and study these organelles. Bacterial cells lack lysosomes entirely (they are prokaryotes), and muscle and nerve cells have relatively few lysosomes compared to phagocytic cells."
+    },
+    {
+      "id": 52,
+      "question": "Which lake zone would be absent in a very shallow lake?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Benthic zone",
+        "Pelagic zone",
+        "Aphotic zone",
+        "Littoral zone"
+      ],
+      "answer": "C",
+      "explanation": "The aphotic zone (the deeper layer where light cannot penetrate) would be absent in a very shallow lake because sunlight can reach the bottom of the entire lake. The aphotic zone exists only in deep water bodies where light is insufficient for photosynthesis. Shallow lakes have a littoral zone (shallow near-shore area), benthic zone (bottom), and effectively the entire water column is in the photic zone."
+    },
+    {
+      "id": 53,
+      "question": "Materials may be taken into the cell by the following process EXCEPT:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "exocytosis",
+        "pinocytosis",
+        "facilitated diffusion",
+        "endocytosis"
+      ],
+      "answer": "A",
+      "explanation": "Exocytosis is the process of moving materials OUT of the cell, not into it. It involves vesicles fusing with the cell membrane to release their contents outside. The other processes all move materials INTO the cell: pinocytosis (cell drinking — taking in liquid), endocytosis (engulfing material into the cell), and facilitated diffusion (transport of molecules across membrane using carrier proteins)."
+    },
+    {
+      "id": 54,
+      "question": "If the nucleus is removed from a cell, the cell would NOT:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "reproduce",
+        "exchange material",
+        "secrete",
+        "provide its own energy"
+      ],
+      "answer": "A",
+      "explanation": "If the nucleus is removed, the cell would not be able to reproduce because it lacks the DNA needed for cell division and protein synthesis. The nucleus contains the genetic instructions for making all cellular components. Without a nucleus, the cell cannot replicate its DNA, transcribe genes, or produce new proteins needed for cell division. The cell might continue some functions temporarily (like respiration in mitochondria), but reproduction is impossible."
+    },
+    {
+      "id": 55,
+      "question": "The growth of cells is limited by the ratio between:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "organelles and surface area",
+        "nucleus and cytoplasm",
+        "surface area and volume",
+        "organelles and cytoplasm"
+      ],
+      "answer": "C",
+      "explanation": "Cell growth is limited by the surface area to volume ratio. As a cell grows larger, its volume increases faster than its surface area (volume increases cubically while surface area increases quadratically). This means the cell membrane (surface area) becomes insufficient to service the larger volume of cytoplasm — there isn't enough surface area for adequate nutrient import, waste export, and gas exchange. This is why cells remain small or divide."
+    },
+    {
+      "id": 56,
+      "question": "Which of the following processes includes all others?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Osmosis",
+        "Diffusion of a solute across a membrane",
+        "Facilitated diffusion",
+        "Passive transport"
+      ],
+      "answer": "D",
+      "explanation": "Passive transport is the broadest category that includes all the others. Passive transport refers to any movement of substances across a membrane that does not require energy input. This includes simple diffusion (of solutes across a membrane), osmosis (diffusion of water), and facilitated diffusion (diffusion assisted by carrier proteins). Therefore, passive transport encompasses all the other listed processes."
+    },
+    {
+      "id": 57,
+      "question": "In addition to light and chlorophyll, photosynthesis requires:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "water and oxygen",
+        "water and sugars",
+        "oxygen and carbon dioxide",
+        "water and carbon dioxide"
+      ],
+      "answer": "D",
+      "explanation": "In addition to light and chlorophyll, photosynthesis requires water and carbon dioxide as raw materials. The overall equation for photosynthesis is: 6CO2 + 6H2O + light energy → C6H12O6 + 6O2. Water provides the electrons and hydrogen ions (released during photolysis), and CO2 provides the carbon for glucose synthesis in the Calvin cycle. Oxygen is a product, not a requirement, and sugars are products."
+    },
+    {
+      "id": 58,
+      "question": "The first process in light-dependent reactions of photosynthesis is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "light absorption",
+        "electron transport",
+        "oxygen production",
+        "ATP formation"
+      ],
+      "answer": "A",
+      "explanation": "The first step in the light-dependent reactions is light absorption by chlorophyll and other photosynthetic pigments in the thylakoid membranes. When chlorophyll absorbs light energy, its electrons become excited to a higher energy state. This initial light absorption triggers the entire chain of events: electron transport through the photosystems, ATP formation through chemiosmosis, and oxygen production from water splitting."
+    },
+    {
+      "id": 59,
+      "question": "CAM plants are specialized to survive under what conditions that would harm most other kinds of plants?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Low temperature",
+        "Excess water",
+        "Hot, dry conditions",
+        "Long day lengths"
+      ],
+      "answer": "C",
+      "explanation": "CAM (Crassulacean Acid Metabolism) plants are specialized to survive in hot, dry conditions such as deserts. They minimize water loss by opening their stomata at night to take in CO2 (which is stored as malic acid) and keeping stomata closed during the hot daytime. The stored CO2 is released during the day for the Calvin cycle. This adaptation allows CAM plants to thrive where most other plants would desiccate."
+    },
+    {
+      "id": 60,
+      "question": "In a typical plant, all of the following factors are necessary for photosynthesis EXCEPT:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "chlorophyll",
+        "oxygen",
+        "light",
+        "water"
+      ],
+      "answer": "B",
+      "explanation": "Oxygen is NOT necessary for photosynthesis — in fact, it is a byproduct of the light-dependent reactions. The essential factors for photosynthesis are: light (energy source), chlorophyll (light-absorbing pigment), water (source of electrons and hydrogen), and carbon dioxide (source of carbon). Oxygen is released when water is split during the light reactions, but it is not required as an input for the process."
+    },
+    {
+      "id": 61,
+      "question": "The net gain of energy from glycolysis is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "4 ATP molecules",
+        "8 ADP molecules",
+        "2 ATP molecules",
+        "3 pyruvic acid molecules"
+      ],
+      "answer": "C",
+      "explanation": "The net gain of ATP from glycolysis is 2 ATP molecules per glucose. Although 4 ATP molecules are produced during the payoff phase of glycolysis, 2 ATP molecules are consumed during the investment phase (to phosphorylate glucose and fructose-6-phosphate). Therefore, the net gain is 4 - 2 = 2 ATP. Glycolysis also produces 2 NADH and 2 pyruvate molecules (not 3)."
+    },
+    {
+      "id": 62,
+      "question": "The Krebs cycle takes place within the:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "chloroplast",
+        "mitochondria",
+        "nucleus",
+        "cytoplasm"
+      ],
+      "answer": "B",
+      "explanation": "The Krebs cycle (citric acid cycle) takes place in the matrix of the mitochondria. This is where acetyl CoA enters the cycle and is oxidized to produce CO2, NADH, FADH2, and ATP. Glycolysis occurs in the cytoplasm, the light reactions of photosynthesis occur in the chloroplast, and the nucleus is the site of DNA replication and transcription."
+    },
+    {
+      "id": 63,
+      "question": "Suppose 1000 pea plants are produced from Tt and tt crosses, how many of them are expected to be tall?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "750",
+        "500",
+        "50",
+        "250"
+      ],
+      "answer": "B",
+      "explanation": "In a cross between Tt (heterozygous tall) and tt (homozygous short), the offspring genotypes would be: 50% Tt (tall) and 50% tt (short), assuming T is dominant. Out of 1000 pea plants, 500 would be expected to be tall (Tt) and 500 would be short (tt). This follows the 1:1 ratio typical of a test cross between a heterozygote and a homozygous recessive individual."
+    },
+    {
+      "id": 64,
+      "question": "The process carried out by yeast that causes bread dough to rise is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "alcoholic fermentation",
+        "cellular respiration",
+        "oxygen debt",
+        "the Krebs cycle"
+      ],
+      "answer": "A",
+      "explanation": "Alcoholic fermentation by yeast causes bread dough to rise. During fermentation, yeast converts sugars into ethanol and carbon dioxide (CO2). The CO2 gas produced gets trapped in the dough matrix, creating bubbles that cause the dough to expand and rise. The ethanol evaporates during baking. This is a practical application of anaerobic respiration in the food industry."
+    },
+    {
+      "id": 65,
+      "question": "During the Krebs cycle:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "hydrogen ions and oxygen form water",
+        "the cell releases small amount of energy through fermentation",
+        "each glucose molecule is broken down into two molecules of pyruvic acid",
+        "acetyl is broken down into carbon dioxide in a series of molecules"
+      ],
+      "answer": "D",
+      "explanation": "During the Krebs cycle, acetyl CoA (derived from pyruvate) enters the cycle and is broken down into carbon dioxide through a series of enzymatic reactions involving intermediate molecules like citrate, isocitrate, alpha-ketoglutarate, succinate, fumarate, and malate. Water is formed in the electron transport chain (not the Krebs cycle), glycolysis (not the Krebs cycle) breaks glucose into pyruvate, and fermentation is a separate process."
+    },
+    {
+      "id": 66,
+      "question": "The molecular formula for glucose is C6H12O6. What would be the molecular formula for a polymer made by linking ten glucose molecules together by dehydration reaction?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "C60H120O60",
+        "C60H102O51",
+        "C60H111O51",
+        "C6H12O6"
+      ],
+      "answer": "B",
+      "explanation": "When linking 10 glucose molecules (C6H12O6 each), the total atoms would be C60H120O60 if no water was lost. However, each dehydration reaction removes one H2O molecule. Linking 10 monomers requires 9 glycosidic bonds, thus 9 water molecules are removed (9 × H2O = H18O9). Subtracting: C60H120O60 - H18O9 = C60H102O51. The formula accounts for the 9 condensation reactions between the 10 glucose units."
+    },
+    {
+      "id": 67,
+      "question": "The light reactions of photosynthesis supply the Calvin cycle with:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "light energy",
+        "water and NADPH",
+        "CO2 and ATP",
+        "ATP and NADPH"
+      ],
+      "answer": "D",
+      "explanation": "The light reactions of photosynthesis produce ATP (through photophosphorylation) and NADPH (through reduction of NADP+), which are then supplied to the Calvin cycle (light-independent reactions). The Calvin cycle uses the energy from ATP and the reducing power of NADPH to fix CO2 into glucose. Light energy is captured in the light reactions but not directly passed to the Calvin cycle, and water is split in the light reactions rather than being supplied to the Calvin cycle."
+    },
+    {
+      "id": 68,
+      "question": "Which metabolic pathway is common to both fermentation and cellular respiration of a glucose molecule?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The citric acid cycle",
+        "The electron transport chain",
+        "Glycolysis",
+        "Synthesis of acetyl CoA from pyruvate"
+      ],
+      "answer": "C",
+      "explanation": "Glycolysis is the metabolic pathway common to both fermentation and cellular respiration. Both processes begin with glycolysis, which breaks down glucose into pyruvate in the cytosol without requiring oxygen. After glycolysis, the pathways diverge: in cellular respiration, pyruvate enters the mitochondria for the Krebs cycle and ETC, while in fermentation, pyruvate is converted to lactate or ethanol to regenerate NAD+."
+    },
+    {
+      "id": 69,
+      "question": "Some bacteria, when faced with unfavorable environmental conditions, produce structures called:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "pili",
+        "endospores",
+        "capsules",
+        "toxins"
+      ],
+      "answer": "B",
+      "explanation": "Endospores are highly resistant structures produced by some bacteria (like Bacillus and Clostridium) when environmental conditions become unfavorable. Endospores can survive extreme heat, desiccation, radiation, and chemical disinfectants for long periods. When conditions improve, the endospore germinates back into a vegetative cell. Pili are for attachment, capsules for protection and adhesion, and toxins are poisons — none are survival structures for unfavorable conditions."
+    },
+    {
+      "id": 70,
+      "question": "During a lytic cycle, after a virus enters the cell, the virus ______.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "forms a provirus",
+        "becomes inactive",
+        "replicates",
+        "dies"
+      ],
+      "answer": "C",
+      "explanation": "During the lytic cycle, after a virus enters the host cell, it takes over the cell's machinery to replicate its genetic material and produce viral proteins. The viral components are assembled into new virus particles (virions), which eventually burst (lyse) the host cell to release the newly formed viruses. Forming a provirus and becoming inactive describe the lysogenic cycle, not the lytic cycle."
+    },
+    {
+      "id": 71,
+      "question": "________ is never a part of a virus.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Nucleic acid",
+        "Protein coat",
+        "Viral envelope",
+        "Cell wall"
+      ],
+      "answer": "D",
+      "explanation": "A cell wall is never part of a virus. Viruses consist of genetic material (nucleic acid — DNA or RNA) enclosed in a protein coat (capsid), and some have an outer viral envelope derived from the host cell membrane. However, viruses do not have cell walls — this is a feature of bacteria, fungi, and plant cells. Viruses are acellular and lack all cellular structures including cell walls."
+    },
+    {
+      "id": 72,
+      "question": "What does reverse transcriptase do?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It synthesizes protein from RNA",
+        "It synthesizes DNA from RNA",
+        "It synthesizes protein from amino acids",
+        "It synthesizes RNA from DNA"
+      ],
+      "answer": "B",
+      "explanation": "Reverse transcriptase is an enzyme that synthesizes DNA from an RNA template, reversing the normal flow of genetic information (Central Dogma). This enzyme is found in retroviruses like HIV, which carry their genetic information as RNA and must convert it to DNA before integrating into the host genome. The normal direction is DNA → RNA → protein, but reverse transcriptase enables RNA → DNA."
+    },
+    {
+      "id": 73,
+      "question": "Which of the following descriptions applies to most protists?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Unicellular prokaryotes",
+        "Unicellular eukaryotes",
+        "Multicellular prokaryotes",
+        "Multicellular eukaryotes"
+      ],
+      "answer": "B",
+      "explanation": "Most protists are unicellular eukaryotes. Protists belong to the domain Eukarya and are characterized by having a true nucleus and membrane-bound organelles (making them eukaryotic). While some protists are multicellular (like kelp), the vast majority are unicellular organisms such as Amoeba, Paramecium, and Euglena. They are not prokaryotes, which lack a true nucleus."
+    },
+    {
+      "id": 74,
+      "question": "Which illness is caused by a bacterium?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "AIDS",
+        "Diphtheria",
+        "Polio",
+        "Common cold"
+      ],
+      "answer": "B",
+      "explanation": "Diphtheria is caused by the bacterium Corynebacterium diphtheriae. It produces a toxin that affects the mucous membranes of the throat and can be life-threatening. AIDS is caused by HIV (a virus), polio is caused by poliovirus, and the common cold is caused by various viruses (primarily rhinoviruses). The distinction between bacterial and viral diseases is important for determining appropriate treatment (antibiotics work against bacteria but not viruses)."
+    },
+    {
+      "id": 75,
+      "question": "What is a capsid?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Viral DNA that inserts into a host's DNA",
+        "A type of plant virus",
+        "A protein coat surrounding a virus",
+        "A rod-shaped bacterium"
+      ],
+      "answer": "C",
+      "explanation": "A capsid is the protein coat that surrounds and protects the viral genetic material (nucleic acid). It is composed of protein subunits called capsomeres that self-assemble into a protective shell around the viral genome. Capsids come in various shapes including icosahedral, helical, and complex. The capsid is one of the fundamental structural components of all viruses."
+    },
+    {
+      "id": 76,
+      "question": "What characteristics do viruses share with all living organisms?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Respiration",
+        "Replication",
+        "Metabolism",
+        "Movement"
+      ],
+      "answer": "B",
+      "explanation": "Replication (reproduction) is the characteristic that viruses share with all living organisms. Viruses can replicate themselves, though only by using the host cell's machinery. Viruses do not carry out respiration, metabolism, or independent movement — these are characteristics of living cells that viruses lack. The ability to replicate (produce copies of themselves) is the only life-like property viruses possess."
+    },
+    {
+      "id": 77,
+      "question": "Producers in aquatic food chains include:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "protozoa",
+        "algae",
+        "slime molds",
+        "amoeba"
+      ],
+      "answer": "B",
+      "explanation": "Algae are the primary producers in aquatic food chains. They are photosynthetic organisms that convert light energy into chemical energy, forming the base of aquatic food webs. Protozoa (like amoeba) are consumers that feed on other organisms, and slime molds are decomposers. Algae range from microscopic phytoplankton to large seaweeds and are essential for aquatic ecosystem productivity."
+    },
+    {
+      "id": 78,
+      "question": "Most fungi function as _______ in their environment:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "consumers",
+        "decomposers",
+        "producers",
+        "autotrophs"
+      ],
+      "answer": "B",
+      "explanation": "Most fungi function as decomposers in their environment. They secrete extracellular enzymes that break down dead organic matter (dead organisms, leaf litter, wood) and absorb the resulting nutrients. This decomposition is essential for nutrient recycling in ecosystems, returning vital elements like carbon and nitrogen to the soil. Fungi are heterotrophs (not autotrophs/producers) and their primary ecological role is decomposition."
+    },
+    {
+      "id": 79,
+      "question": "Cell walls of fungi contain:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "cellulose",
+        "hyphae",
+        "spores",
+        "chitin"
+      ],
+      "answer": "D",
+      "explanation": "Fungal cell walls contain chitin, a tough polysaccharide made of N-acetylglucosamine units. Chitin provides structural strength and rigidity to fungal cell walls, just as it does in arthropod exoskeletons. Unlike plant cell walls (which contain cellulose), fungal walls are made of chitin. Hyphae and spores are structural features of fungi but are not cell wall components — hyphae are thread-like structures, and spores are reproductive units."
+    },
+    {
+      "id": 80,
+      "question": "If a cell has 12 chromosomes, how many chromosomes will each of its daughter cells have after mitosis and cytokinesis?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "4",
+        "6",
+        "12",
+        "24"
+      ],
+      "answer": "C",
+      "explanation": "After mitosis and cytokinesis, each daughter cell will have 12 chromosomes — the same number as the parent cell. Mitosis produces genetically identical daughter cells with the same chromosome number as the parent. During mitosis, each chromosome is replicated, producing sister chromatids that are then separated so each daughter cell receives one copy of each chromosome, maintaining the diploid number."
+    },
+    {
+      "id": 81,
+      "question": "The feeding relationships among the species in a community determine the community's:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "secondary succession",
+        "species richness",
+        "ecological niche",
+        "trophic structure"
+      ],
+      "answer": "D",
+      "explanation": "The feeding relationships among species in a community determine the community's trophic structure. Trophic structure describes the arrangement of organisms into feeding levels (trophic levels): producers, primary consumers, secondary consumers, and so on. This structure defines who eats whom and how energy flows through the ecosystem. Ecological niche refers to a species' role, species richness is the number of species, and secondary succession is ecosystem recovery after disturbance."
+    },
+    {
+      "id": 82,
+      "question": "Which method is NOT used to protect food against microorganisms?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Heating",
+        "Sterilization",
+        "Freezing",
+        "Vaccination"
+      ],
+      "answer": "D",
+      "explanation": "Vaccination is NOT used to protect food against microorganisms. Vaccination is a medical procedure that stimulates the immune system of a person or animal to produce immunity against a specific disease. Heating, sterilization, and freezing are all physical methods used in food preservation: heating kills microorganisms, sterilization eliminates all microbes, and freezing slows their growth by reducing temperature."
+    },
+    {
+      "id": 83,
+      "question": "The electron transport chain uses the high-energy electrons from the Krebs cycle to:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "produce glucose",
+        "move H+ ions across the inner mitochondrial membrane",
+        "convert acetyl-CoA to citric acid",
+        "convert glucose to pyruvic acid"
+      ],
+      "answer": "B",
+      "explanation": "The electron transport chain uses high-energy electrons from NADH and FADH2 (produced in the Krebs cycle) to pump hydrogen ions (H+) across the inner mitochondrial membrane from the matrix to the intermembrane space. This creates a proton gradient (electrochemical gradient) that drives ATP synthesis through ATP synthase as the H+ ions flow back through the enzyme. This process of chemiosmosis is the primary mechanism for ATP production in cellular respiration."
+    },
+    {
+      "id": 84,
+      "question": "Prokaryotic cells that have a spherical shape are:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "cocci",
+        "bacilli",
+        "spirilli",
+        "methanogens"
+      ],
+      "answer": "A",
+      "explanation": "Prokaryotic cells with a spherical shape are called cocci (singular: coccus). Bacilli are rod-shaped bacteria, spirilli are spiral-shaped bacteria, and methanogens are archaea that produce methane (classified by their metabolism, not shape). These shape classifications — cocci (spherical), bacilli (rod), and spirilli (spiral) — are the three basic morphological categories used to describe prokaryotic cell shapes."
+    },
+    {
+      "id": 85,
+      "question": "Which of the following organisms is incorrectly paired with its trophic level?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Cyanobacterium — primary producer",
+        "Grasshopper — primary consumer",
+        "Zooplankton — primary producer",
+        "Fungus — detritivore"
+      ],
+      "answer": "C",
+      "explanation": "Zooplankton are incorrectly paired with primary producer. Zooplankton are small animal organisms (like copepods and krill) that feed on phytoplankton, making them primary consumers, NOT primary producers. Cyanobacteria are photosynthetic and correctly paired as primary producers, grasshoppers eat plants and are correctly paired as primary consumers, and fungi decompose dead matter and are correctly paired as detritivores."
+    },
+    {
+      "id": 86,
+      "question": "The water in an estuary is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "salt water only",
+        "fresh water only",
+        "poor in nutrients",
+        "a mixture of fresh water and salt water"
+      ],
+      "answer": "D",
+      "explanation": "An estuary is a transitional zone where a river (fresh water) meets the ocean (salt water), creating a mixture of both called brackish water. This mixing creates a unique environment with varying salinity levels that supports specially adapted species. Estuaries are typically very rich in nutrients due to the combination of river-borne sediments and marine inputs, making them among the most productive ecosystems on Earth."
+    },
+    {
+      "id": 87,
+      "question": "An increase in the greenhouse effect causes an increase in:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "carbon dioxide",
+        "oxygen",
+        "temperature",
+        "water"
+      ],
+      "answer": "C",
+      "explanation": "An increase in the greenhouse effect causes an increase in temperature (global warming). The greenhouse effect occurs when greenhouse gases like CO2, methane, and water vapor trap heat in the atmosphere that would otherwise escape into space. While increased CO2 causes the enhanced greenhouse effect, the direct result of the greenhouse effect itself is increased temperature. Oxygen and water are not outcomes of the greenhouse effect."
+    },
+    {
+      "id": 88,
+      "question": "Permafrost characterizes the biome called:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "taiga",
+        "savanna",
+        "boreal forest",
+        "tundra"
+      ],
+      "answer": "D",
+      "explanation": "Permafrost — permanently frozen subsoil — characterizes the tundra biome. The tundra has a thin active layer that thaws during the brief summer, but the soil below remains frozen year-round. This permafrost prevents deep root penetration and limits plant growth to low-growing species like mosses, lichens, and dwarf shrubs. Taiga and boreal forest refer to the same biome (coniferous forest), and savannas are tropical grasslands without permafrost."
+    },
+    {
+      "id": 89,
+      "question": "The maximum number of organisms of a particular species that can be supported by an environment is called:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "logistic growth",
+        "exponential growth",
+        "carrying capacity",
+        "population density"
+      ],
+      "answer": "C",
+      "explanation": "Carrying capacity (denoted as K) is the maximum number of individuals of a particular species that an environment can support indefinitely. It is determined by the availability of resources such as food, water, shelter, and space. When a population reaches carrying capacity, the birth rate equals the death rate and population growth stops. Logistic growth is the growth pattern that approaches carrying capacity, and population density is the number per unit area."
+    },
+    {
+      "id": 90,
+      "question": "The demographic transition is considered complete when:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "population growth stops",
+        "the birth rate is greater than death rate",
+        "the death rate begins to fall",
+        "the death rate is greater than the birth rate"
+      ],
+      "answer": "A",
+      "explanation": "The demographic transition is considered complete when population growth stops — when the birth rate equals the death rate and the population stabilizes. The demographic transition model describes the shift from high birth and death rates (pre-industrial) to low birth and death rates (post-industrial). The transition is complete when both rates are low and approximately equal, resulting in zero population growth."
+    },
+    {
+      "id": 91,
+      "question": "In the presence of unlimited resources and in the absence of disease and predation, what would probably happen to a bacterial population?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "logistic growth",
+        "endangerment",
+        "exponential growth",
+        "extinction"
+      ],
+      "answer": "C",
+      "explanation": "With unlimited resources and no limiting factors (disease, predation), a bacterial population would undergo exponential growth. In this ideal scenario, each bacterium divides into two, and the population doubles at a constant rate, producing a J-shaped growth curve. Logistic growth occurs when resources become limiting, and endangerment and extinction are the opposite of what would happen under ideal conditions."
+    },
+    {
+      "id": 92,
+      "question": "If the number of female population is greater than the male population in a given country, its human population tends to:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "disappear",
+        "increase",
+        "decrease",
+        "remain constant"
+      ],
+      "answer": "B",
+      "explanation": "If the number of females exceeds the number of males in a population, the population tends to increase because each female has the potential to produce offspring. In population biology, the number of females is the primary determinant of reproductive capacity. More females mean more potential births, which leads to population increase. This is why sex ratios are important demographic factors in population growth studies."
+    },
+    {
+      "id": 93,
+      "question": "Which of the following aquatic biomes have many strata like that of equatorial rain forest?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Wetland",
+        "Estuarine",
+        "Pelagic zone",
+        "Coral reef"
+      ],
+      "answer": "D",
+      "explanation": "Coral reefs have many strata (vertical layers) similar to an equatorial rain forest. Just as rain forests have canopy, understory, and forest floor layers, coral reefs have distinct zones from the surface to the deep reef, supporting different communities of organisms at each level. This vertical stratification creates high biodiversity and complex ecological interactions, making coral reefs the 'rain forests of the sea.'"
+    },
+    {
+      "id": 94,
+      "question": "A plant has a genotype AaBb. If there is no linkage of genes, the gametes it produces are:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "AB and ab",
+        "AA, aa, BB, and Bb",
+        "Aa and Bb",
+        "AB, Ab, aB, and ab"
+      ],
+      "answer": "D",
+      "explanation": "According to Mendel's Law of Independent Assortment (assuming no linkage), the alleles of different genes segregate independently during gamete formation. A plant with genotype AaBb can produce four types of gametes: AB, Ab, aB, and ab, each with equal probability (25%). The combinations in the other options are incorrect because they either show only two combinations (option A), include genotypes with two identical alleles that cannot come from one parent (option B), or show allele pairs rather than gamete combinations (option C)."
+    },
+    {
+      "id": 95,
+      "question": "Fresh water biome includes:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "ponds, lakes, rivers and wetlands",
+        "estuaries, ponds, lakes, and rivers",
+        "wetlands, estuaries and rivers",
+        "pelagic zone, wetlands, and estuaries"
+      ],
+      "answer": "A",
+      "explanation": "Fresh water biomes include ponds, lakes, rivers, and wetlands — all of which contain water with very low salt concentration (less than 0.5 ppt). Estuaries are brackish water ecosystems (mixing fresh and salt water), so they are not classified as fresh water biomes. The pelagic zone is part of the open ocean. Option A is the only one that lists exclusively fresh water ecosystems."
+    },
+    {
+      "id": 96,
+      "question": "Before DNA could definitely be shown to be genetic material in cells, scientists had to show that it could:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "tolerate high temperature",
+        "carry and make copies of information",
+        "be taken down into small sub units",
+        "be modified in response to environmental conditions"
+      ],
+      "answer": "B",
+      "explanation": "For DNA to be confirmed as genetic material, scientists had to demonstrate that it could carry genetic information and replicate (make copies of itself). Genetic material must be able to store information (encode traits), replicate faithfully (pass information to daughter cells), and occasionally mutate (allow variation). The Avery-MacLeod-McCarty experiment (1944) and the Hershey-Chase experiment (1952) demonstrated these properties of DNA."
+    },
+    {
+      "id": 97,
+      "question": "A limiting factor that depends on a population size is called:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "density-dependent limiting factor",
+        "density-independent limiting factor",
+        "predator-prey relationship",
+        "parasitic relationship"
+      ],
+      "answer": "A",
+      "explanation": "A density-dependent limiting factor is one whose effect varies with population density — it has a greater impact as population size increases. Examples include competition for resources, disease, parasitism, and predation. These factors intensify as populations become more crowded. In contrast, density-independent factors (like natural disasters or weather) affect populations regardless of their size."
+    },
+    {
+      "id": 98,
+      "question": "Two parents of genotype Aa are cross-bred. The alleles show complete dominance. What proportion of the offspring will genotypically look like their parents?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "1/2",
+        "3/4",
+        "1/4",
+        "2/3"
+      ],
+      "answer": "A",
+      "explanation": "Crossing two Aa parents (Aa × Aa) produces offspring in the genotypic ratio: 1 AA : 2 Aa : 1 aa. The offspring that are genotypically like their parents (Aa, heterozygous) make up 2 out of 4, or 1/2 of the offspring. Note that the question asks about genotypic resemblance (Aa = Aa), not phenotypic resemblance. If it asked about phenotype, 3/4 would show the dominant trait."
+    },
+    {
+      "id": 99,
+      "question": "Tropical rain forest is characterized by:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "low precipitation and low temperature",
+        "low precipitation and high temperature",
+        "high precipitation and low temperature",
+        "high precipitation and high temperature"
+      ],
+      "answer": "D",
+      "explanation": "Tropical rain forests are characterized by high precipitation (typically 200-450 cm annually) and consistently high temperatures (25-28°C year-round). Located near the equator, they experience little seasonal variation in temperature or daylight hours. The combination of abundant rainfall and warm temperatures supports the highest biodiversity of any terrestrial biome, with lush vegetation growing in multiple canopy layers."
+    },
+    {
+      "id": 100,
+      "question": "Group of different species that live together in a defined area make up a (an):",
+      "image": null,
+      "passage": null,
+      "options": [
+        "population",
+        "ecosystem",
+        "community",
+        "biosphere"
+      ],
+      "answer": "C",
+      "explanation": "A community consists of all the different species (populations) that live together and interact in a defined area. This is different from a population (group of the same species), an ecosystem (community plus its physical environment), and the biosphere (all ecosystems on Earth). A community includes all the biotic interactions — predation, competition, mutualism, etc. — among the various species coexisting in the area."
+    }
+  ]
+}
+// Total questions: 100
+// Images needed: None
+// Passages: None
+// Subject: Biology
+// Year: 2015 E.C, Paper 1

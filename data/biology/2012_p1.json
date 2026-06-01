@@ -1,0 +1,1042 @@
+{
+  "subject": "Biology",
+  "year": "2012 E.C",
+  "paper": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which one of the following is used to find out the way in which life begin on earth from simple life form into more complex one?",
+      "image": null,
+      "passage": null,
+      "options": ["Paleontology", "Oncology", "Physiology", "Entomology"],
+      "answer": "A",
+      "explanation": "Paleontology is the study of fossils, which provides evidence for the evolution of life from simple to complex forms over geological time. Oncology studies cancer, physiology studies function, entomology studies insects."
+    },
+    {
+      "id": 2,
+      "question": "In scientific method, what is the importance of a background of research for a given problem?",
+      "image": null,
+      "passage": null,
+      "options": ["To make a prediction", "To prepare report of the result", "To formulate hypothesis", "To make a conclusion"],
+      "answer": "C",
+      "explanation": "Background research helps understand existing knowledge, identify gaps, and formulate a testable hypothesis. It precedes making predictions and conclusions."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following tools is used by biologist to study the internal anatomy of experimental animals?",
+      "image": null,
+      "passage": null,
+      "options": ["Dissecting kit", "Petri dish", "Hand lens", "Microscope"],
+      "answer": "A",
+      "explanation": "A dissecting kit (scalpels, scissors, forceps) is used to dissect animals and observe internal anatomy. Petri dishes culture microbes, hand lens gives low magnification, microscopes view cells/tissues but not whole organ anatomy directly without dissection."
+    },
+    {
+      "id": 4,
+      "question": "A straight line across an expanse of ground along with ecological measurements are taken continuously at a regular intervals is called",
+      "image": null,
+      "passage": null,
+      "options": ["quadrant", "pitfall traps", "flow meter", "transect"],
+      "answer": "D",
+      "explanation": "A transect is a line along which ecological measurements (species presence, abundance) are taken at regular intervals to study distribution patterns. Quadrat is a square area, pitfall traps capture ground-dwelling invertebrates, flow meter measures water flow."
+    },
+    {
+      "id": 5,
+      "question": "What is the independent variable, if we want to measure the effect of tutor on students' academic success?",
+      "image": null,
+      "passage": null,
+      "options": ["Academic success", "Class size", "Tutor", "Number of students"],
+      "answer": "C",
+      "explanation": "The independent variable is the factor manipulated by the researcher. Here, the presence/type of tutor is the independent variable; academic success is the dependent variable. Class size and number of students are potential confounding variables."
+    },
+    {
+      "id": 6,
+      "question": "Which one of the following is TRUE in relation to transmission electron microscope?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Show the three-dimensional surface of cell",
+        "Use beams of light to produce magnified images",
+        "Shows the inside details of a cell structure",
+        "It has less magnification and resolution power"
+      ],
+      "answer": "C",
+      "explanation": "Transmission electron microscope (TEM) uses electron beams to show internal details of cell structures at high magnification and resolution. It produces 2D images; scanning electron microscope shows 3D surfaces. TEM does not use light; it has very high magnification/resolution, not less."
+    },
+    {
+      "id": 7,
+      "question": "Suppose an experimenter conducts the effect of oxygen on seed germination and divided the seeds into two groups, supplied sufficient oxygen to group 'A' and absence of oxygen to group 'B'. What is group 'B' seed called?",
+      "image": null,
+      "passage": null,
+      "options": ["Test group", "Variable group", "Control group", "Experimental group"],
+      "answer": "C",
+      "explanation": "Group B receives no oxygen (the condition being tested for its effect). It is often called the control group (specifically negative control) because it lacks the experimental treatment. Group A is the experimental group. However, sometimes the untreated group is called control. In this context, group B is the control (absence of oxygen)."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a rarely clinical method to test for HIV infection?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Testing for human anti-HIV antibodies",
+        "Microscopic examination of the virus",
+        "Measuring the amount of hemoglobin",
+        "Counting the number of white blood cells"
+      ],
+      "answer": "B",
+      "explanation": "HIV is typically detected by antibody/antigen tests or PCR. Direct microscopic examination of the virus is rarely used because the virus is too small for light microscopy and requires specialized electron microscopy, which is not routine. Hemoglobin and WBC counts are non-specific."
+    },
+    {
+      "id": 9,
+      "question": "The asymptomatic period following the initial acute stage caused by HIV infection is characterized by:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The body is susceptible to opportunistic infection.",
+        "High level of HIV-antibodies.",
+        "The number of HIV in the blood is high.",
+        "High level of T-lymphocytes."
+      ],
+      "answer": "B",
+      "explanation": "During the clinical latency (asymptomatic) period, HIV antibodies are present at high levels (seropositive). Viral load is low but detectable, T-lymphocytes gradually decline, and opportunistic infections are not yet common. So high level of HIV-antibodies is correct."
+    },
+    {
+      "id": 10,
+      "question": "One of the following decreases the reliability of an experiment?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Repeat experiment many times",
+        "Working as quickly as possible",
+        "Minimizing personal judgment",
+        "Use the most appropriate apparatus"
+      ],
+      "answer": "B",
+      "explanation": "Working as quickly as possible may introduce errors, lack of precision, or incomplete data, decreasing reliability. Repeating experiments, minimizing bias, and using proper apparatus increase reliability."
+    },
+    {
+      "id": 11,
+      "question": "What are the two most abundant elements in the body of an organism?",
+      "image": null,
+      "passage": null,
+      "options": ["Hydrogen and Carbon", "Carbon and Oxygen", "Hydrogen and Oxygen", "Hydrogen and Nitrogen"],
+      "answer": "B",
+      "explanation": "In living organisms, the most abundant elements by mass are oxygen (about 65%) and carbon (about 18%). Hydrogen is third. So carbon and oxygen are the two most abundant."
+    },
+    {
+      "id": 12,
+      "question": "Which property of water allows organisms to resist change in temperature in cells and aquatic habitat?",
+      "image": null,
+      "passage": null,
+      "options": ["High surface tension", "Low density when frozen", "High specific heat", "Solvent property"],
+      "answer": "C",
+      "explanation": "Water's high specific heat capacity means it can absorb or release large amounts of heat with little temperature change, helping organisms and aquatic environments maintain stable temperatures."
+    },
+    {
+      "id": 13,
+      "question": "Which one of the following linkage, links glucose and fructose molecule in making sucrose?",
+      "image": null,
+      "passage": null,
+      "options": ["α-1,4 glycosidic bond", "α-1,2 glycosidic bond", "β-1,6 glycosidic bond", "β-1,4 glycosidic bond"],
+      "answer": "B",
+      "explanation": "Sucrose is formed by a glycosidic bond between the anomeric carbon of glucose (α) and the anomeric carbon of fructose (β), specifically α-1,2 glycosidic bond (since fructose is a ketose, the bond is between carbon 1 of glucose and carbon 2 of fructose)."
+    },
+    {
+      "id": 14,
+      "question": "In the process of condensation reaction making a double sugar, which one of the following happens?",
+      "image": null,
+      "passage": null,
+      "options": ["Water is used up", "Two oxygen molecules is released", "Carbon dioxide is released", "Water is released as byproduct"],
+      "answer": "D",
+      "explanation": "Condensation (dehydration synthesis) releases a water molecule when joining two monosaccharides to form a disaccharide."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following group of monosaccharides are all ketose?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Dihydroxy acetone, Fructose and Ribose",
+        "Glyceraldehyde, Ribose and Glucose",
+        "Dihydroxy acetone, Ribulose and Fructose",
+        "Glyceraldehyde, Ribulose and Glucose"
+      ],
+      "answer": "C",
+      "explanation": "Ketoses have a ketone group. Dihydroxyacetone (simplest ketose), ribulose, and fructose are all ketoses. Glyceraldehyde, ribose, and glucose are aldoses."
+    },
+    {
+      "id": 16,
+      "question": "What makes phospholipids molecules arrange themselves into bilayer in a water molecule?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The double bond of fatty acid",
+        "The length of fatty acid chain",
+        "The high solubility of water",
+        "The amphipathic nature of lipids"
+      ],
+      "answer": "D",
+      "explanation": "Phospholipids are amphipathic (hydrophilic heads and hydrophobic tails). In water, they spontaneously form bilayers with tails inward and heads outward, driven by hydrophobic interactions."
+    },
+    {
+      "id": 17,
+      "question": "What holds and stabilizes secondary structure of protein?",
+      "image": null,
+      "passage": null,
+      "options": ["Ionic bonding", "Hydrogen bonding", "Disulphide Bridge", "Hydrophobic interaction"],
+      "answer": "B",
+      "explanation": "Secondary structure (alpha helices, beta sheets) is stabilized primarily by hydrogen bonds between backbone amide and carbonyl groups. Disulfide bridges stabilize tertiary structure."
+    },
+    {
+      "id": 18,
+      "question": "One of the following is correct about tertiary structure of a protein.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Linear sequence of amino acid chain",
+        "Helical structure of protein",
+        "Three dimensional structure of protein",
+        "Sub unit structure of protein"
+      ],
+      "answer": "C",
+      "explanation": "Tertiary structure is the overall three-dimensional folding of a single polypeptide chain. Primary is linear sequence, secondary is local helices/sheets, quaternary is subunit arrangement."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following organic compound is most abundant in animal tissue?",
+      "image": null,
+      "passage": null,
+      "options": ["Carbohydrates", "Protein", "Lipids", "Nucleic acid"],
+      "answer": "B",
+      "explanation": "Proteins are the most abundant organic compounds in animal tissues (about 50-60% of dry mass). Carbohydrates and lipids vary; nucleic acids are less abundant."
+    },
+    {
+      "id": 20,
+      "question": "Which organic molecule in a cell is the constituent of gene?",
+      "image": null,
+      "passage": null,
+      "options": ["Nucleic acid", "Protein", "Lipids", "Carbohydrates"],
+      "answer": "A",
+      "explanation": "Genes are made of DNA (a nucleic acid). RNA is also nucleic acid. Proteins are gene products, not the genetic material itself."
+    },
+    {
+      "id": 21,
+      "question": "When enzyme is denatured by extreme temperature, which one of the following does it lose?",
+      "image": null,
+      "passage": null,
+      "options": ["The peptide bond", "Tertiary structure", "Primary structure", "Secondary structure"],
+      "answer": "B",
+      "explanation": "Denaturation usually disrupts tertiary (and often secondary) structure but not primary structure (peptide bonds remain intact). Loss of tertiary structure causes loss of function."
+    },
+    {
+      "id": 22,
+      "question": "Identify the statement that correctly explains why a small amount of enzyme can bring about a change in a large amount of its substrate.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Enzymes consumed during chemical reaction.",
+        "Enzymes reused over and over again.",
+        "Enzymes specific to their substrate.",
+        "Enzymes easily synthesized in the cell."
+      ],
+      "answer": "B",
+      "explanation": "Enzymes are catalysts that are not consumed in reactions; they can be used repeatedly, so a small amount can process a large amount of substrate."
+    },
+    {
+      "id": 23,
+      "question": "In which area of enzyme application invertase injected to sucrose paste in order to produce liquid chocolate?",
+      "image": null,
+      "passage": null,
+      "options": ["Detergent making industry", "Food processing industry", "Pulp and paper industry", "Pharmaceutical industry"],
+      "answer": "B",
+      "explanation": "Invertase hydrolyzes sucrose to glucose and fructose, used in food processing to produce invert sugar and liquid chocolate (to prevent crystallization)."
+    },
+    {
+      "id": 24,
+      "question": "In which of the following does the induced fit model of enzyme action differ from the lock and key model?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Enzymes lower the energy of activation",
+        "Substrate binds at the active site of the enzyme",
+        "During the reaction an enzyme substrate complex is formed",
+        "Active site moulded to a precise conformation"
+      ],
+      "answer": "D",
+      "explanation": "Induced fit model proposes that the active site moulds around the substrate, changing conformation. Lock and key has a rigid active site. The other options are common to both models."
+    },
+    {
+      "id": 25,
+      "question": "Which type of enzyme inhibition its effect is reversed by increasing substrate concentration?",
+      "image": null,
+      "passage": null,
+      "options": ["Allosteric inhibition", "Competitive inhibition", "Non-competitive inhibition", "End product inhibition"],
+      "answer": "B",
+      "explanation": "Competitive inhibitors bind reversibly to the active site, competing with substrate. Increasing substrate concentration outcompetes the inhibitor, reversing inhibition. Non-competitive inhibition cannot be reversed by adding substrate."
+    },
+    {
+      "id": 26,
+      "question": "What is the cause of tomato fruits to ripen much more slowly when kept in a refrigerator than on a table at room temperature?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Enzyme produce by bacteria normally inhibit ripening",
+        "Humidity accelerates enzyme activity and ripening process",
+        "Room temperature arrest the action of ripening enzymes",
+        "Low temperature slow the normal action of ripening enzymes"
+      ],
+      "answer": "D",
+      "explanation": "Enzymes involved in fruit ripening (e.g., polygalacturonase) have optimal activity at higher temperatures. Low temperature in the refrigerator slows enzyme activity, delaying ripening."
+    },
+    {
+      "id": 27,
+      "question": "If a cell fails to modify proteins and distributes them to the appropriate part of the cell, which one of its organelle is most likely not functioning?",
+      "image": null,
+      "passage": null,
+      "options": ["Ribosomes", "Golgi bodies", "Mitochondria", "Vacuole"],
+      "answer": "B",
+      "explanation": "The Golgi apparatus modifies, sorts, and packages proteins for transport to their destinations. Ribosomes synthesize proteins but do not modify/distribute them. Mitochondria produce energy, vacuoles store substances."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following organelle are likely to be more abundant in phagocytic white blood cells?",
+      "image": null,
+      "passage": null,
+      "options": ["Lysosomes", "Endoplasmic reticulum", "Mitochondria", "Vacuole"],
+      "answer": "A",
+      "explanation": "Phagocytic white blood cells (neutrophils, macrophages) contain abundant lysosomes filled with digestive enzymes to break down engulfed pathogens and debris."
+    },
+    {
+      "id": 29,
+      "question": "What is the importance of turgor pressure?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Prevent loss of water from plant",
+        "Helps the root to loss excess water",
+        "Make plant cells plasmolysis",
+        "Supporting young plant stems."
+      ],
+      "answer": "D",
+      "explanation": "Turgor pressure provides rigidity to non-woody plant tissues, supporting stems and leaves. It also helps maintain cell shape and drives cell expansion. It does not prevent water loss directly; plasmolysis is the opposite of turgor."
+    },
+    {
+      "id": 30,
+      "question": "If a homogenate of eukaryotic cells spun in a centrifuge, which of the cellular organelles settle out last?",
+      "image": null,
+      "passage": null,
+      "options": ["Chloroplast", "Ribosome", "Nucleus", "chloroplast"],
+      "answer": "B",
+      "explanation": "In differential centrifugation, larger and denser organelles (nucleus, chloroplasts) sediment first at lower speeds. Ribosomes are very small and require ultracentrifugation at very high speeds to sediment, so they settle out last."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following cell is an example of a cell formed by reduction division?",
+      "image": null,
+      "passage": null,
+      "options": ["Bone cell", "Egg cell", "Nerve cell", "Skin cell"],
+      "answer": "B",
+      "explanation": "Reduction division is meiosis, which produces haploid gametes (egg cells in females, sperm in males). Bone, nerve, and skin cells are somatic cells produced by mitosis."
+    },
+    {
+      "id": 32,
+      "question": "Suppose a cell was kept in a solution of unknown concentration and found to have lost its water content after an hour. Which of the following is correct explanation about the solution and the cell?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Cell is hypertonic to the solution",
+        "Solution is hypotonic to the cell",
+        "The cell is isotonic to solution",
+        "Solution is hypertonic to the cell"
+      ],
+      "answer": "D",
+      "explanation": "If the cell lost water, water moved out of the cell by osmosis. This happens when the external solution has higher solute concentration (hypertonic) than the cell. So solution is hypertonic to the cell."
+    },
+    {
+      "id": 33,
+      "question": "When athletes take a part in a short distance running, how do the cells generate most of the energy that is needed?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Oxidative phosphorylation in muscle cell",
+        "Lactate fermentation in muscle cell",
+        "Alcoholic fermentation in muscle cell",
+        "Aerobic respiration in muscle cell"
+      ],
+      "answer": "B",
+      "explanation": "During short bursts of intense activity (sprinting), oxygen supply is insufficient, so muscles rely on lactic acid fermentation (anaerobic) to produce ATP quickly, though less efficiently. Aerobic respiration is slower and used for endurance."
+    },
+    {
+      "id": 34,
+      "question": "Under normal condition as electron flow down the electron transport chain of mitochondria, one of the following could not happen?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "NAD and FAD are reduced",
+        "The electron lose free energy",
+        "Chemiosmosis synthesis of ATP",
+        "Proton chemical gradient is formed"
+      ],
+      "answer": "A",
+      "explanation": "In the electron transport chain, NADH and FADH2 are oxidized (lose electrons), not reduced. They donate electrons to the chain. The chain pumps protons, creating a gradient for chemiosmosis. So 'NAD and FAD are reduced' does not happen; they are already reduced before entering the chain."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following stages of respiration occur in the cytoplasm of the cell?",
+      "image": null,
+      "passage": null,
+      "options": ["Glycolysis", "Krebs cycle", "Acetyl CoA formation", "Electron transport chain"],
+      "answer": "A",
+      "explanation": "Glycolysis occurs in the cytoplasm. The Krebs cycle and link reaction (Acetyl CoA formation) occur in the mitochondrial matrix; electron transport chain occurs on the inner mitochondrial membrane."
+    },
+    {
+      "id": 36,
+      "question": "During aerobic respiration, from which process does most of the ATP molecule is produced?",
+      "image": null,
+      "passage": null,
+      "options": ["Krebs cycle.", "Substrate level phosphorylation.", "Conversion of glucose to pyruvate.", "Chemiosmotic phosphorylation."],
+      "answer": "D",
+      "explanation": "Most ATP (about 34 of 36-38) is produced by oxidative phosphorylation (chemiosmosis) via the electron transport chain. Substrate-level phosphorylation in glycolysis and Krebs cycle produces only 4 ATP per glucose."
+    },
+    {
+      "id": 37,
+      "question": "One of the following could happen in the Calvin-Benson cycle of photosynthesis?",
+      "image": null,
+      "passage": null,
+      "options": ["Photolysis of water", "ATP is synthesis", "NADP is reduced", "Carbon dioxide is reduced"],
+      "answer": "D",
+      "explanation": "The Calvin cycle (light-independent reactions) uses ATP and NADPH to reduce CO2 to sugars. Photolysis, ATP synthesis, and NADP+ reduction occur in light-dependent reactions."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following happen in both cyclic and non-cyclic phosphorylation?",
+      "image": null,
+      "passage": null,
+      "options": ["Water is splitting", "Formation of ATP", "NADP is the last electron acceptor", "Oxygen is evolved as by product"],
+      "answer": "B",
+      "explanation": "Both cyclic and non-cyclic photophosphorylation produce ATP. Water splitting, oxygen evolution, and NADP+ reduction occur only in non-cyclic."
+    },
+    {
+      "id": 39,
+      "question": "In which part of chloroplast does light dependent reaction of photosynthesis take place?",
+      "image": null,
+      "passage": null,
+      "options": ["In the inter membrane space", "In the stroma", "In the thylakoid", "On the inner membrane surface"],
+      "answer": "C",
+      "explanation": "Light-dependent reactions occur in the thylakoid membranes (where photosystems and ETC are located). The stroma is for Calvin cycle."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following is true about CAM plants such as cacti?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Carbon dioxide fixation takes place in bundle sheath cell",
+        "Photorespiration occur during high light intensity",
+        "Chloroplast of bundle sheath cell lack thylakoids",
+        "Carbon dioxide harvested during the night time"
+      ],
+      "answer": "D",
+      "explanation": "CAM plants fix CO2 at night (stomata open) to reduce water loss. They store malate and release CO2 during the day for Calvin cycle. The other options describe C4 plants or are false."
+    },
+    {
+      "id": 41,
+      "question": "Which of the following microorganism is not an example of protozoa?",
+      "image": null,
+      "passage": null,
+      "options": ["Amoeba", "Plasmodium", "Euglena", "Chlamydomonas"],
+      "answer": "D",
+      "explanation": "Chlamydomonas is a green alga (protist, but often classified as plant-like protist or algae), not a protozoan (animal-like protist). Amoeba, Plasmodium, and Euglena are protozoans (though Euglena has chloroplasts, it is often considered a protozoan/alga). Chlamydomonas is strictly a green alga."
+    },
+    {
+      "id": 42,
+      "question": "Surface appendages used by bacteria to attach to one another and to host organisms are",
+      "image": null,
+      "passage": null,
+      "options": ["cell wall.", "pili.", "flagella.", "capsule."],
+      "answer": "B",
+      "explanation": "Pili (or fimbriae) are hair-like appendages used for attachment to surfaces, host cells, and other bacteria. Flagella are for motility. Capsule is a sticky layer but not appendages. Cell wall is structural."
+    },
+    {
+      "id": 43,
+      "question": "Gram positive and Gram negative bacteria are differentially stained by Gram's stain due to the structure difference in their ____.",
+      "image": null,
+      "passage": null,
+      "options": ["cell membrane.", "ribosome.", "capsule.", "cell wall."],
+      "answer": "D",
+      "explanation": "Gram-positive bacteria have a thick peptidoglycan layer that retains crystal violet-iodine complex; Gram-negative have thin peptidoglycan and outer membrane that allows decolorization. The difference is in the cell wall structure."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following bacterial structure is found in all bacteria?",
+      "image": null,
+      "passage": null,
+      "options": ["Plasmid.", "DNA.", "capsule.", "flagella."],
+      "answer": "B",
+      "explanation": "All bacteria have DNA (genetic material) as a circular chromosome. Plasmids are not universal; capsules and flagella are present only in some species."
+    },
+    {
+      "id": 45,
+      "question": "What is the disease caused by pathogenic microorganisms?",
+      "image": null,
+      "passage": null,
+      "options": ["Degenerative", "Infectious", "Functional", "Human induced"],
+      "answer": "B",
+      "explanation": "Diseases caused by pathogens (bacteria, viruses, fungi, protozoa) are called infectious diseases. Degenerative diseases involve tissue deterioration (e.g., arthritis), functional disorders involve organ function without infection."
+    },
+    {
+      "id": 46,
+      "question": "Which of the following human disease is NOT correctly matched with its mode of transmission?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Sleeping sickness - Physical contact",
+        "Cholera - contaminated water",
+        "Malaria - vector born",
+        "Influenza - droplet infection"
+      ],
+      "answer": "A",
+      "explanation": "Sleeping sickness (African trypanosomiasis) is transmitted by tsetse fly bite (vector-borne), not by physical contact. The other pairs are correct."
+    },
+    {
+      "id": 47,
+      "question": "One of the following statements is true about Gram-positive bacteria?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "stained pink by Gram's stain.",
+        "have thick peptidoglycan in their cell walls.",
+        "Take the color of secondary stain safranin.",
+        "have a membrane outside the peptidoglycan."
+      ],
+      "answer": "B",
+      "explanation": "Gram-positive bacteria have a thick peptidoglycan layer and stain purple (crystal violet). They lack an outer membrane. They do not take safranin (secondary stain) because they retain the primary stain. So only B is true."
+    },
+    {
+      "id": 48,
+      "question": "'Farmer's lung' which results in an allergy in the lung is caused by ____.",
+      "image": null,
+      "passage": null,
+      "options": ["bacteria.", "fungus.", "virus.", "protozoa."],
+      "answer": "B",
+      "explanation": "Farmer's lung is a hypersensitivity pneumonitis caused by inhaling mold spores (fungi, e.g., Aspergillus, Micropolyspora) from moldy hay. It is a fungal allergy, not an infection."
+    },
+    {
+      "id": 49,
+      "question": "Which bacterial species is used to transfer recombinant DNA to plants?",
+      "image": null,
+      "passage": null,
+      "options": ["Escherichia coli", "Agrobacterium", "Nitrogen fixing bacteria", "Denitrifying bacteria"],
+      "answer": "B",
+      "explanation": "Agrobacterium tumefaciens is a natural genetic engineer used as a vector to transfer recombinant DNA into plant genomes. E. coli is used for cloning but not direct plant transfer (except via other vectors)."
+    },
+    {
+      "id": 50,
+      "question": "Which of the following can be taken as a good example of a cell that lacks nuclear membrane and mitochondria?",
+      "image": null,
+      "passage": null,
+      "options": ["Algal cell", "Fungal cell", "Bacterial cell", "Protozoan cells"],
+      "answer": "C",
+      "explanation": "Bacterial cells are prokaryotic, lacking a nucleus (nuclear membrane) and membrane-bound organelles like mitochondria. Algae, fungi, and protozoa are eukaryotic."
+    },
+    {
+      "id": 51,
+      "question": "Which statement is not true about bacteria? Bacteria have",
+      "image": null,
+      "passage": null,
+      "options": [
+        "circular DNA.",
+        "prokaryotic cells.",
+        "cell wall which made from peptidoglycan.",
+        "linear DNA in chromosome."
+      ],
+      "answer": "D",
+      "explanation": "Bacteria have a single circular chromosome, not linear DNA. The other statements are true: circular DNA, prokaryotic, peptidoglycan cell wall (most)."
+    },
+    {
+      "id": 52,
+      "question": "During Genetic engineering process, the genes that can be inserted into another DNA using:",
+      "image": null,
+      "passage": null,
+      "options": ["restriction endonucleases.", "vectors.", "ligase enzyme.", "polymerase enzyme."],
+      "answer": "B",
+      "explanation": "Vectors (plasmids, viruses) are used to carry and insert genes into target DNA. Restriction enzymes cut DNA, ligase seals, polymerase copies DNA. The insertion itself is done via vectors."
+    },
+    {
+      "id": 53,
+      "question": "In DNA cloning technology, which of the following molecules serves as a vector of gene of interest to be transferred to bacterial host?",
+      "image": null,
+      "passage": null,
+      "options": ["Bacterial DNA", "Plasmid DNA", "Nuclear DNA", "Mitochondrial DNA"],
+      "answer": "B",
+      "explanation": "Plasmid DNA is commonly used as a vector in DNA cloning to introduce foreign genes into bacterial host cells. Bacterial genomic DNA is not typically used as a vector."
+    },
+    {
+      "id": 54,
+      "question": "Which part of bacteriophage becomes incorporated into a bacterium and instructs the bacteria to produce more viruses?",
+      "image": null,
+      "passage": null,
+      "options": ["DNA", "RNA", "Envelope", "Peptidoglycan"],
+      "answer": "A",
+      "explanation": "Bacteriophages (most) have DNA that is injected into the bacterial cell. This DNA uses the host machinery to produce new phages. Some phages have RNA; but the genetic material (DNA or RNA) instructs virus production."
+    },
+    {
+      "id": 55,
+      "question": "HIV virus inserts its RNA into the host cell and converts its RNA into DNA by using",
+      "image": null,
+      "passage": null,
+      "options": ["reverse transcriptase.", "gp-120.", "restriction endonuclease.", "CD4."],
+      "answer": "A",
+      "explanation": "Reverse transcriptase is the enzyme that converts viral RNA into complementary DNA (cDNA) in retroviruses like HIV."
+    },
+    {
+      "id": 56,
+      "question": "In the stages of virus infection of cells, the replication in enveloped DNA virus takes place at",
+      "image": null,
+      "passage": null,
+      "options": ["nucleus.", "cytoplasm.", "cell membrane.", "mitochondria."],
+      "answer": "A",
+      "explanation": "Most DNA viruses (including enveloped ones like herpesvirus) replicate in the host cell nucleus because they use host DNA polymerase. Some exceptions (poxviruses) replicate in cytoplasm, but the statement refers to typical enveloped DNA viruses."
+    },
+    {
+      "id": 57,
+      "question": "Which of the following features makes human T-lymphocyte cells more vulnerable to HIV attack? The presence of",
+      "image": null,
+      "passage": null,
+      "options": ["cell membrane", "CD4 on the membrane surface", "DNA on the chromosomes surface", "pores in the cell membrane"],
+      "answer": "B",
+      "explanation": "HIV primarily infects CD4+ T cells because the virus's gp120 protein binds to CD4 receptors on the cell surface. This makes T-lymphocytes vulnerable."
+    },
+    {
+      "id": 58,
+      "question": "If a new anti-HIV drug is to be developed to prevent the virus from entering the host cell, which one of the following processes should the drug target?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Reverse transcription",
+        "Binding of Gp120 and CD4",
+        "Integration of viral DNA into host DNA",
+        "Assembly of viral parts into a whole virus"
+      ],
+      "answer": "B",
+      "explanation": "Viral entry requires binding of gp120 to CD4 receptor and a co-receptor. Targeting this binding would prevent entry. Reverse transcription, integration, and assembly occur after entry."
+    },
+    {
+      "id": 59,
+      "question": "Which one of the following principles are most of the anti-HIV drugs currently in use working?",
+      "image": null,
+      "passage": null,
+      "options": ["Inhibition of enzyme action", "Digesting of the viral particles", "Degradation of viral RNA", "Phagocytosis of the virus"],
+      "answer": "A",
+      "explanation": "Most current anti-HIV drugs (e.g., reverse transcriptase inhibitors, protease inhibitors) work by inhibiting specific viral enzymes. They do not directly digest or degrade viruses; phagocytosis is an immune function, not drug action."
+    },
+    {
+      "id": 60,
+      "question": "Which of the following is the major killer of AIDS patient?",
+      "image": null,
+      "passage": null,
+      "options": ["Pneumonia", "Anaemia", "Malnutrition", "Opportunistic infection"],
+      "answer": "D",
+      "explanation": "AIDS patients die from opportunistic infections (e.g., TB, Pneumocystis pneumonia, fungal infections) due to severely compromised immune system, not directly from HIV itself."
+    },
+    {
+      "id": 61,
+      "question": "One of the following is true about viruses except.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "all virions contain a protein shell or capsid.",
+        "all virions contain either DNA or RNA as the genetic material but no chromosomes.",
+        "all virions contain enzymes inside the capsid.",
+        "all viruses are obligate intracellular parasites."
+      ],
+      "answer": "C",
+      "explanation": "Not all viruses contain enzymes inside the capsid; many rely on host enzymes for replication. Some viruses carry their own polymerases, but it's not universal. All others are true."
+    },
+    {
+      "id": 62,
+      "question": "In nitrogen cycle, what is the bacteria that increase free nitrogen gas in the atmosphere?",
+      "image": null,
+      "passage": null,
+      "options": ["nitrogen-fixing bacteria.", "ammonifying bacteria.", "nitrifying bacteria.", "denitrifying bacteria."],
+      "answer": "D",
+      "explanation": "Denitrifying bacteria convert nitrates/nitrites back to nitrogen gas (N2), increasing atmospheric N2. Nitrogen-fixers reduce N2 to ammonia, decreasing atmospheric N2."
+    },
+    {
+      "id": 63,
+      "question": "During carbon cycle process, the amount of carbon dioxide in the atmosphere is reduced by.",
+      "image": null,
+      "passage": null,
+      "options": ["photosynthesis.", "respiration.", "fossilisation.", "combustion."],
+      "answer": "A",
+      "explanation": "Photosynthesis removes CO2 from the atmosphere to produce organic compounds. Respiration, fossilization (carbon storage but not atmospheric reduction), and combustion release CO2."
+    },
+    {
+      "id": 64,
+      "question": "What is the important role played by bacteria and fungi in the ecosystem?",
+      "image": null,
+      "passage": null,
+      "options": ["Antibiotic reproduction", "Recycling of nutrients", "Forming organic substances", "Supplying energy to the ecosystem"],
+      "answer": "B",
+      "explanation": "Bacteria and fungi act as decomposers, breaking down dead organic matter and recycling nutrients back into the ecosystem. They do not supply energy (energy comes from sun)."
+    },
+    {
+      "id": 65,
+      "question": "Which component of soil fertility is improved when farmers grow legumes in crop rotation?",
+      "image": null,
+      "passage": null,
+      "options": ["Phosphorus", "Nitrogen", "Sulphur", "Carbon"],
+      "answer": "B",
+      "explanation": "Legumes form symbiotic relationships with nitrogen-fixing bacteria (Rhizobium), increasing soil nitrogen content, which improves fertility for subsequent crops."
+    },
+    {
+      "id": 66,
+      "question": "Which form of nitrogen is absorbed from the soil by plants?",
+      "image": null,
+      "passage": null,
+      "options": ["Nitrite", "Nitrate", "Ammonia", "Protein"],
+      "answer": "B",
+      "explanation": "Plants absorb nitrate (NO3-) and ammonium (NH4+) from the soil. Nitrate is the most common form taken up. Ammonia is also absorbed but often converted. Protein is not absorbed directly."
+    },
+    {
+      "id": 67,
+      "question": "Which of the following microorganisms obtain their food from other dead or living organisms using extracellular digestion?",
+      "image": null,
+      "passage": null,
+      "options": ["Bacteria", "Fungi", "Viruses", "Protozoa"],
+      "answer": "B",
+      "explanation": "Fungi secrete enzymes externally to digest organic matter (extracellular digestion) and then absorb the nutrients. Bacteria may also perform extracellular digestion, but fungi are particularly known for this. However, the question asks 'which of the following' with multiple options. Fungi are the classic example. Bacteria can, but viruses do not, protozoa often use phagocytosis (intracellular). The best answer is B."
+    },
+    {
+      "id": 68,
+      "question": "Which one of the following has a unidirectional flow in an ecosystem?",
+      "image": null,
+      "passage": null,
+      "options": ["Nitrogen", "Carbon dioxide", "water", "Energy"],
+      "answer": "D",
+      "explanation": "Energy flows in one direction through trophic levels (sun → producers → consumers → heat loss). Matter cycles (nitrogen, carbon, water) are recycled. So energy is unidirectional."
+    },
+    {
+      "id": 69,
+      "question": "Which of the following plants would likely colonize bare land first?",
+      "image": null,
+      "passage": null,
+      "options": ["Annual herbs", "Mosses", "Lichens", "Perennial herbs"],
+      "answer": "C",
+      "explanation": "Lichens are pioneer species that colonize bare rock or soil first in primary succession. Mosses may follow. Annual/perennial herbs come later."
+    },
+    {
+      "id": 70,
+      "question": "Which of the following term is most appropriate to collectively refer to all the plants, animals and microorganisms found in Addis Ababa botanical garden forest?",
+      "image": null,
+      "passage": null,
+      "options": ["Ecology", "Ecosystem", "Population", "Community"],
+      "answer": "D",
+      "explanation": "A biological community consists of all populations of different species living in an area. This includes plants, animals, and microorganisms. Ecosystem includes abiotic factors; population is single species; ecology is the study."
+    },
+    {
+      "id": 71,
+      "question": "What is the term that refers to all parts of the earth where living things are found?",
+      "image": null,
+      "passage": null,
+      "options": ["Population", "Ecosystem", "Biosphere", "Environment"],
+      "answer": "C",
+      "explanation": "The biosphere is the global sum of all ecosystems, the zone of life on Earth. Population and ecosystem are smaller scales; environment includes non-living factors but not solely where life exists."
+    },
+    {
+      "id": 72,
+      "question": "What is the main reason for the high species richness of plants and animals observed in Ethiopia?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Efficient management of ecological resources",
+        "Presence of several biomes",
+        "Lack of disturbance",
+        "Lack of predators"
+      ],
+      "answer": "B",
+      "explanation": "Ethiopia's high biodiversity is largely due to its varied topography and climate, resulting in multiple biomes (highlands, lowlands, deserts, forests, wetlands). This creates diverse habitats for many species. Efficient management is not the main reason; disturbance and predators are natural."
+    },
+    {
+      "id": 73,
+      "question": "Suppose sites A, B, C and D have Simpson's index of diversity (d) values are 10, 8, 6 and 3 respectively, which site is High species diversity and stable ecosystem?",
+      "image": null,
+      "passage": null,
+      "options": ["site A", "site B", "site C", "site D"],
+      "answer": "A",
+      "explanation": "Simpson's diversity index (D) higher values indicate greater diversity. Site A has the highest value (10), so it has the highest species diversity and likely more stable ecosystem."
+    },
+    {
+      "id": 74,
+      "question": "Intera-specific competition is competition between members of",
+      "image": null,
+      "passage": null,
+      "options": [
+        "different species in the same ecosystem.",
+        "the same species in the same ecosystem.",
+        "the same species in the same habitat.",
+        "different species in the same habitat."
+      ],
+      "answer": "C",
+      "explanation": "Intraspecific competition is between individuals of the same species. 'Intera-specific' is likely a typo for 'intraspecific'. The correct definition: same species, same habitat."
+    },
+    {
+      "id": 75,
+      "question": "In which phase of population growth does population size increase rapidly due to plentiful resources and adaptation to the environment?",
+      "image": null,
+      "passage": null,
+      "options": ["Lag phase", "Stationary phase", "Log phase", "Decline phase"],
+      "answer": "C",
+      "explanation": "The log (exponential) phase is characterized by rapid population growth when resources are abundant and conditions are favorable. Lag phase is slow adaptation, stationary phase is plateau at carrying capacity, decline phase is decrease."
+    },
+    {
+      "id": 76,
+      "question": "Global human population increase or a decrease does not depend on:",
+      "image": null,
+      "passage": null,
+      "options": ["natality.", "mortality.", "access to contraception.", "migration."],
+      "answer": "C",
+      "explanation": "Population change depends on birth rate (natality), death rate (mortality), and migration (immigration/emigration). Access to contraception influences birth rates indirectly but is not a direct demographic factor. The question asks what it does not depend on directly; access to contraception is a social factor, not a demographic component. However, many might argue it affects natality. But the direct factors are natality, mortality, migration."
+    },
+    {
+      "id": 77,
+      "question": "Gregor Mendel concludes his results as:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "not all traits are determined by two factors.",
+        "linked genes do not assort independently",
+        "genes are not always dominant or recessive.",
+        "alleles separate when the gametes are formed"
+      ],
+      "answer": "D",
+      "explanation": "Mendel's law of segregation states that alleles separate during gamete formation. The other statements were later discoveries (incomplete dominance, linkage)."
+    },
+    {
+      "id": 78,
+      "question": "In which stages of meiosis crossing over occurs and genetic material is exchanged?",
+      "image": null,
+      "passage": null,
+      "options": ["Prophase I", "Anaphase II", "Metaphase I", "Anaphase I"],
+      "answer": "A",
+      "explanation": "Crossing over occurs during prophase I of meiosis when homologous chromosomes pair and exchange segments."
+    },
+    {
+      "id": 79,
+      "question": "A plant has a genotype AABb. There is no linkage of the genes. The gametes it will produce:",
+      "image": null,
+      "passage": null,
+      "options": ["AB & ab", "AB, Ab, AB & Ab", "Aa & Bb", "AB, Ab, aB & ab"],
+      "answer": "B",
+      "explanation": "Genotype AABb: A is homozygous, B is heterozygous. Gametes: AB and Ab. Each gamete gets one allele from each gene. Since A only has one type, all gametes have A. So possible: AB and Ab. Option B says 'AB, Ab, AB & Ab' meaning AB and Ab, each produced equally. So B is correct."
+    },
+    {
+      "id": 80,
+      "question": "In a cross between heterozygous, what proportion is expected to be homozygous recessive?",
+      "image": null,
+      "passage": null,
+      "options": ["25%", "50%", "75%", "100%"],
+      "answer": "A",
+      "explanation": "A cross between two heterozygotes (Aa × Aa) yields genotypic ratio 1 AA : 2 Aa : 1 aa. Homozygous recessive (aa) is 1/4 or 25%."
+    },
+    {
+      "id": 81,
+      "question": "Which of the following is not true about the gene called SRY?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Testes develop in its presence",
+        "It determine maleness",
+        "It is found on the Y-chromosome",
+        "Females have two copies of this gene"
+      ],
+      "answer": "D",
+      "explanation": "SRY (sex-determining region Y) is located on the Y chromosome. Females typically have no Y chromosome, so they have zero copies. The other statements are true."
+    },
+    {
+      "id": 82,
+      "question": "One of the four siblings is blood group A, the second is B, the third is O, and the fourth is AB. Their parents must have blood type is",
+      "image": null,
+      "passage": null,
+      "options": ["A and B", "AB and O", "AB and AB", "A and AB"],
+      "answer": "A",
+      "explanation": "For children to have all four blood types (A, B, AB, O), the parents must be heterozygous A (IAi) and heterozygous B (IBi). This cross yields IAIB (AB), IAi (A), IBi (B), ii (O). So parents are A and B (both heterozygous)."
+    },
+    {
+      "id": 83,
+      "question": "Before making crosses, which part of flower did Mendel remove to avoid self-pollination?",
+      "image": null,
+      "passage": null,
+      "options": ["Stigma", "Ovary", "Ovule", "Stamens"],
+      "answer": "D",
+      "explanation": "Mendel removed stamens (anthers) from pea flowers to prevent self-pollination, then manually cross-pollinated using pollen from another plant."
+    },
+    {
+      "id": 84,
+      "question": "Which of the following is not an example of codominance?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "A child of parents with blood type A and B, who has AB blood type",
+        "A calf of a red cow & a white cow, which has a roan coat consisting of red & white hairs",
+        "A child of a parent with blue eyes and a parent with brown eyes, who has brown eyes",
+        "A flower offspring of red and white flowers, which has both red white petals"
+      ],
+      "answer": "C",
+      "explanation": "Brown eyes dominant over blue is complete dominance, not codominance. The other examples show both alleles expressed equally (AB blood, roan coat, red and white petals)."
+    },
+    {
+      "id": 85,
+      "question": "Genes found only on the 'Y' chromosome determine:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "degenerative retinitis pigmentosa.",
+        "a gene controlling red-green colour blindness.",
+        "a gene controlling one form of haemophilia.",
+        "they are more common among males than in female."
+      ],
+      "answer": "D",
+      "explanation": "Y-linked genes are only present in males (since only males have Y). They determine male-specific traits (e.g., SRY) and are more common among males (only males). The other options are X-linked disorders."
+    },
+    {
+      "id": 86,
+      "question": "Suppose in monohybrid cross 200 F2 plants were produced, what is the number of plants that are expected to have the dominant and recessive phenotypes respectively?",
+      "image": null,
+      "passage": null,
+      "options": ["150 dominant, 50 recessive", "160 dominant, 40 recessive", "80 dominant, 120 recessive", "100 dominant, 100 recessive"],
+      "answer": "A",
+      "explanation": "Mendelian monohybrid cross (dominant:recessive) gives 3:1 ratio. 3/4 of 200 = 150 dominant, 1/4 = 50 recessive."
+    },
+    {
+      "id": 87,
+      "question": "DNA is a very stable molecule at normal temperatures due to:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "hydrogen bond and Phosphodiester bond.",
+        "hydrogen bond and glycosidic bond.",
+        "peptide bond and ionic bond.",
+        "single strand of nucleotides."
+      ],
+      "answer": "A",
+      "explanation": "DNA stability comes from hydrogen bonds between complementary bases (holding strands together) and phosphodiester bonds in the backbone. Glycosidic bonds link base to sugar, but phosphodiester and H-bonds are key for overall stability."
+    },
+    {
+      "id": 88,
+      "question": "If it is known that the total number of the purine bases account for 50% of a DNA molecule and if each of the remaining bases are known to have the same proportion, what proportion is accounted for by thymine alone in the same molecule?",
+      "image": null,
+      "passage": null,
+      "options": ["25%", "50%", "75%", "100%"],
+      "answer": "A",
+      "explanation": "Purines (A+G) = 50%, so pyrimidines (C+T) = 50%. Since C and T are equal (Chargaff's rule, A=T, G=C), T = half of 50% = 25%. Also A=25%."
+    },
+    {
+      "id": 89,
+      "question": "Which of the following is a recently developed active area of research in biology?",
+      "image": null,
+      "passage": null,
+      "options": ["Taxonomic study", "Study about the cell theory", "Ecological research", "Stem cell research"],
+      "answer": "D",
+      "explanation": "Stem cell research is a modern and active area. Taxonomy, cell theory, and general ecology are well-established older fields, though they continue to develop. Stem cell research is more recent (since late 20th century)."
+    },
+    {
+      "id": 90,
+      "question": "Which process produces mRNA during protein synthesis?",
+      "image": null,
+      "passage": null,
+      "options": ["Translation", "Replication", "Mutation", "Transcription"],
+      "answer": "D",
+      "explanation": "Transcription is the process of synthesizing mRNA from a DNA template. Translation uses mRNA to make protein. Replication copies DNA. Mutation is change in sequence."
+    },
+    {
+      "id": 91,
+      "question": "Which characteristic of RNA makes it suitable for moving out of the nucleus?",
+      "image": null,
+      "passage": null,
+      "options": ["Inability to replicate", "Absence of thymine", "Its unstable nature", "smallness of its size"],
+      "answer": "D",
+      "explanation": "RNA is single-stranded and smaller than DNA, allowing it to pass through nuclear pores. Its size is a key factor. Absence of thymine and instability are not directly related to nuclear export."
+    },
+    {
+      "id": 92,
+      "question": "If the genetic code on DNA triplets' base is GTA, what is the complementary codon on mRNA?",
+      "image": null,
+      "passage": null,
+      "options": ["CAT", "CUA", "CAU", "GUA"],
+      "answer": "C",
+      "explanation": "DNA template strand: GTA. Complementary mRNA: using base pairing (DNA A→U, T→A, G→C, C→G). So G→C, T→A, A→U gives CAU. So mRNA codon is CAU."
+    },
+    {
+      "id": 93,
+      "question": "If a cell having 80 chromosomes divides by meiosis, how many chromosomes are expected in the daughter cells?",
+      "image": null,
+      "passage": null,
+      "options": ["60", "30", "40", "30"],
+      "answer": "C",
+      "explanation": "Meiosis reduces chromosome number by half. 80 ÷ 2 = 40 chromosomes in haploid daughter cells."
+    },
+    {
+      "id": 94,
+      "question": "In DNA replication, enzyme breaks hydrogen bonds and 'unwinds' part of the helix of the DNA by:",
+      "image": null,
+      "passage": null,
+      "options": ["DNA helicase enzyme.", "DNA polymerase.", "ligase enzyme.", "transcriptase."],
+      "answer": "A",
+      "explanation": "DNA helicase unwinds the double helix by breaking hydrogen bonds between base pairs, creating replication forks. DNA polymerase synthesizes new strands, ligase joins fragments, transcriptase (RNA polymerase) is for transcription."
+    },
+    {
+      "id": 95,
+      "question": "Suppose the amino acid coding region in mRNA is 2400 nucleotides long. How long is the protein in terms of amino acid number?",
+      "image": null,
+      "passage": null,
+      "options": ["1200 amino acids", "600 amino acids", "800 amino acids", "400 amino acids"],
+      "answer": "C",
+      "explanation": "Each amino acid is coded by 3 nucleotides (codon). 2400 nucleotides / 3 = 800 amino acids."
+    },
+    {
+      "id": 96,
+      "question": "Which of the following is removed from eukaryotic mRNA during post transcriptional modification?",
+      "image": null,
+      "passage": null,
+      "options": ["Intron", "Transcriptase", "promoter", "Exon"],
+      "answer": "A",
+      "explanation": "Introns (non-coding sequences) are removed by splicing. Exons are retained. Promoter is not transcribed; transcriptase is an enzyme."
+    },
+    {
+      "id": 97,
+      "question": "Which of the following terms refers to the failure of sister chromatids to separate from one another during anaphase?",
+      "image": null,
+      "passage": null,
+      "options": ["Non-disjunction", "Replication", "Deletion", "Double inversion"],
+      "answer": "A",
+      "explanation": "Non-disjunction is the failure of homologous chromosomes or sister chromatids to separate properly during cell division, leading to aneuploidy. Deletion and inversion are types of mutations; replication is copying DNA."
+    },
+    {
+      "id": 98,
+      "question": "What is the process called when the plasmid is absorbed from a dead bacterium and exchange their genetic information?",
+      "image": null,
+      "passage": null,
+      "options": ["Conjugation", "Co-transformation", "Transformation", "Transduction"],
+      "answer": "C",
+      "explanation": "Transformation is the uptake of free DNA (including plasmids) from the environment by a bacterium. Conjugation requires direct cell-cell contact; transduction uses bacteriophages. Co-transformation is not a standard term for this."
+    },
+    {
+      "id": 99,
+      "question": "Which of the type of mutation is responsible for sickle cell Anaemia?",
+      "image": null,
+      "passage": null,
+      "options": ["Addition of a base pair", "Substitution a base pair", "Deletion a base pair", "Frameshift of genetic code"],
+      "answer": "B",
+      "explanation": "Sickle cell anemia is caused by a point mutation (substitution) where adenine is replaced by thymine in the β-globin gene, changing glutamic acid to valine (missense mutation)."
+    },
+    {
+      "id": 100,
+      "question": "What is the type of mutation that arises from a change in the nucleotide sequence of the DNA at a particular locus of the chromosome?",
+      "image": null,
+      "passage": null,
+      "options": ["Gene mutation", "numerical mutation", "structural mutation", "chromosomal mutation"],
+      "answer": "A",
+      "explanation": "Gene mutation (point mutation) involves a change in the nucleotide sequence at a specific locus. Chromosomal mutations involve larger structural changes (deletions, duplications, inversions, translocations). Numerical mutation changes chromosome number."
+    }
+  ]
+}

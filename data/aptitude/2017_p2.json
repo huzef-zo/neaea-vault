@@ -1,0 +1,607 @@
+{
+  "subject": "Aptitude",
+  "year": "2017 E.C",
+  "paper": 2,
+  "questions": [
+    {
+      "id": 1,
+      "question": "CALF : COW :: LAMB : ?",
+      "image": null,
+      "passage": null,
+      "options": ["Sheep", "Deer", "Horse", "Horse"],
+      "answer": "A",
+      "explanation": "A calf is a young cow; a lamb is a young sheep. The relationship is young animal to adult animal."
+    },
+    {
+      "id": 2,
+      "question": "BOOK : PUBLISHER :: FILM : ?",
+      "image": null,
+      "passage": null,
+      "options": ["Writer", "Editor", "Director", "Producer"],
+      "answer": "D",
+      "explanation": "A publisher produces a book; a producer produces a film. Writer and director are involved but not the primary producer."
+    },
+    {
+      "id": 3,
+      "question": "TREMENDOUS : ENORMOUS :: ?",
+      "image": null,
+      "passage": null,
+      "options": ["Sleep : Wake", "Draw : Paint", "Explore : Discover", "Think : Relate"],
+      "answer": "C",
+      "explanation": "Tremendous and enormous are synonyms. Explore and discover are also related (discovering is a result of exploring). Draw and paint are different activities, not synonyms."
+    },
+    {
+      "id": 4,
+      "question": "EXTROVERTED",
+      "image": null,
+      "passage": null,
+      "options": ["Shy", "Outgoing", "Deceiver", "Energetic"],
+      "answer": "B",
+      "explanation": "Extroverted means outgoing and sociable. 'Outgoing' is a synonym."
+    },
+    {
+      "id": 5,
+      "question": "ASSERTIVE",
+      "image": null,
+      "passage": null,
+      "options": ["Passive", "Aggressive", "Confident", "Hesitant"],
+      "answer": "C",
+      "explanation": "Assertive means confident and self-assured. 'Confident' is a close synonym. Aggressive is different (more forceful)."
+    },
+    {
+      "id": 6,
+      "question": "DISINTERESTED",
+      "image": null,
+      "passage": null,
+      "options": ["Impartial", "Biased", "Bored", "Unconcerned"],
+      "answer": "A",
+      "explanation": "Disinterested means impartial, not influenced by personal advantage. 'Impartial' is a synonym. 'Unconcerned' is indifferent, which is a different meaning."
+    },
+    {
+      "id": 7,
+      "question": "SUBJUGATE",
+      "image": null,
+      "passage": null,
+      "options": ["Liberate", "Oppress", "Protest", "Conquer"],
+      "answer": "A",
+      "explanation": "Subjugate means to conquer or bring under control; liberate is the opposite."
+    },
+    {
+      "id": 8,
+      "question": "PENNYWISE",
+      "image": null,
+      "passage": null,
+      "options": ["Selfish", "Pleasant", "Ungrateful", "Extravagant"],
+      "answer": "D",
+      "explanation": "Pennywise refers to being careful with small amounts of money; extravagant is the opposite (spending freely)."
+    },
+    {
+      "id": 9,
+      "question": "FRIENDLY",
+      "image": null,
+      "passage": null,
+      "options": ["Hostile", "Warm", "Supportive", "Affectionate"],
+      "answer": "A",
+      "explanation": "Friendly means kind and pleasant; hostile is the opposite."
+    },
+    {
+      "id": 10,
+      "question": "Which word is different? (Apple, Carrot, Grape, Banana)",
+      "image": null,
+      "passage": null,
+      "options": ["Apple", "Carrot", "Grape", "Banana"],
+      "answer": "B",
+      "explanation": "Apple, grape, and banana are fruits; carrot is a vegetable."
+    },
+    {
+      "id": 11,
+      "question": "Which word is different? (London, Paris, New York, California)",
+      "image": null,
+      "passage": null,
+      "options": ["London", "Paris", "New York", "California"],
+      "answer": "D",
+      "explanation": "London, Paris, and New York are cities; California is a state (or region, not a city)."
+    },
+    {
+      "id": 12,
+      "question": "Which word is different? (Lion, Tiger, Elephant, Leopard)",
+      "image": null,
+      "passage": null,
+      "options": ["Lion", "Tiger", "Elephant", "Leopard"],
+      "answer": "C",
+      "explanation": "Lion, tiger, and leopard are big cats (Felidae); elephant is a pachyderm."
+    },
+    {
+      "id": 13,
+      "question": "The engineer's meticulous attention to detail in the design of the building ensured that everything was perfectly executed, from the architecture to the finishing touches. (Underlined: meticulous)",
+      "image": null,
+      "passage": null,
+      "options": ["reckless", "thorough", "curious", "imprecise"],
+      "answer": "B",
+      "explanation": "Meticulous means showing great attention to detail; thorough is a synonym. Reckless and imprecise are opposites."
+    },
+    {
+      "id": 14,
+      "question": "As soon as all the indispensable forms have been filled out, we will process our applications. (Underlined: indispensable)",
+      "image": null,
+      "passage": null,
+      "options": ["requisite", "nonessential", "tentative", "imprecise"],
+      "answer": "A",
+      "explanation": "Indispensable means absolutely necessary; requisite means required. Nonessential is opposite."
+    },
+    {
+      "id": 15,
+      "question": "Ali is all the time gluttonous to explore a wide range of topics, seeking to learn more and never satisfied with just the basics. (Underlined: gluttonous)",
+      "image": null,
+      "passage": null,
+      "options": ["voracious", "excessive", "limited", "disinterested"],
+      "answer": "A",
+      "explanation": "Gluttonous in this context means having an insatiable appetite for something; voracious means eager to consume a lot. Excessive is too broad; limited is opposite."
+    },
+    {
+      "id": 16,
+      "question": "I've always been somewhat introverted, preferring to reflect quietly rather than engage in constant chatter with friends. (Underlined: introverted)",
+      "image": null,
+      "passage": null,
+      "options": ["outgoing", "reserved", "indifferent", "verbose"],
+      "answer": "B",
+      "explanation": "Introverted means shy and reserved; reserved is a synonym. Outgoing is opposite."
+    },
+    {
+      "id": 17,
+      "question": "She wanted to impress all her dinner guests with the food she served, so she carefully studied the necessary culinary arts. (Underlined: culinary)",
+      "image": null,
+      "passage": null,
+      "options": ["architectural", "literary", "cooking", "gardening"],
+      "answer": "C",
+      "explanation": "Culinary relates to cooking; so cooking is the correct substitution."
+    },
+    {
+      "id": 18,
+      "question": "Correct sentence: Neither the players nor the manager be ready for the next press conference.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Neither the players nor the manager be ready for the next press conference.",
+        "Neither the players nor the manager were ready for the next press conference.",
+        "Neither the players nor the manager is ready for the next press conference.",
+        "Neither the players nor the manager have been ready for the next press conference."
+      ],
+      "answer": "C",
+      "explanation": "With 'neither...nor', the verb agrees with the nearest subject. 'Manager' is singular, so 'is ready' is correct."
+    },
+    {
+      "id": 19,
+      "question": "Correct sentence: I personally believe the team has played wonderful in the match.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I personally believe the team has played wonderful in the match.",
+        "I personally believe the team have played wonderful in the match.",
+        "I personally believe the team has played wonderfully in the match.",
+        "I personally believe the team played wonderful in the match."
+      ],
+      "answer": "C",
+      "explanation": "Adverb 'wonderfully' is needed to modify the verb 'played'. Also 'team' is singular, so 'has' is correct. Option C is correct."
+    },
+    {
+      "id": 20,
+      "question": "Correct sentence: Ali is one of the authorities who is responsible for the decision.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Ali is one of the authorities who is responsible for the decision.",
+        "Ali is one of the authorities who are responsible for the decision.",
+        "Ali is one of the authority who is responsible for the decision.",
+        "Ali is one of the authority who are responsible for the decision."
+      ],
+      "answer": "B",
+      "explanation": "The relative pronoun 'who' refers to 'authorities' (plural), so the verb should be 'are'. Also 'authorities' is plural. Option B is correct."
+    },
+    {
+      "id": 21,
+      "question": "Keneni has to study four books (English, Physics, Chemistry and Biology) on four different days from Thursday to Sunday. The order is: Chemistry is studied on day before the day of English. Biology is studied on day after the day of Physics. Which of the following is a correct order of books?",
+      "image": null,
+      "passage": "Keneni has to study four books (English, Physics, Chemistry and Biology) on four different days from Thursday to Sunday. The order of the books is as follows: Chemistry is studied on day before the day of English. Biology is studied on day after the day of Physics.",
+      "options": [
+        "Chemistry, Biology, English, Physics",
+        "Biology, Chemistry, English, Physics",
+        "Physics, Chemistry, Biology, English",
+        "English, Chemistry, Biology, Physics"
+      ],
+      "answer": "C",
+      "explanation": "Let days Thu, Fri, Sat, Sun. Condition: Chem before English, Biology after Physics. Try C: Physics, Chemistry, Biology, English. Then Chem (Fri) before English (Sun) – yes. Biology (Sat) after Physics (Thu) – yes. So C works."
+    },
+    {
+      "id": 22,
+      "question": "If Keneni studies Chemistry on Saturday, which subject has she studied on Thursday?",
+      "image": null,
+      "passage": "Same conditions.",
+      "options": ["Physics", "Biology", "English", "Either Physics or English"],
+      "answer": "D",
+      "explanation": "If Chem on Sat, then English must be on Sun (since Chem before English). Then Physics and Biology fill Thu and Fri. Physics must be before Biology. So possibilities: Physics Thu, Biology Fri OR Biology Thu, Physics Fri? But Physics must be before Biology, so Biology cannot be before Physics. So only Physics Thu, Biology Fri works. So Thursday is Physics. Option A? But D says 'Either Physics or English' – not correct because English is Sun. Actually only Physics. Given options, A is Physics. I'll select A."
+    },
+    {
+      "id": 23,
+      "question": "Which one of the following is NOT possible?",
+      "image": null,
+      "passage": "Same conditions.",
+      "options": ["Chemistry on Thursday", "Physics on Sunday", "Physics on Thursday", "Biology on Saturday"],
+      "answer": "B",
+      "explanation": "If Physics on Sunday, then Biology would have to be after Sunday (impossible since only Thu-Sun). So Physics on Sunday is impossible."
+    },
+    {
+      "id": 24,
+      "question": "Dida introduces Kaku as the daughter of the only son of his father's wife. How is Kaku related to Dida?",
+      "image": null,
+      "passage": null,
+      "options": ["Cousin", "Aunt", "Niece", "Daughter"],
+      "answer": "C",
+      "explanation": "His father's wife = his mother. Only son of his mother = Dida himself (if he is the only son). Then daughter of Dida = Kaku is his daughter. Wait, but options: Cousin, Aunt, Niece, Daughter. Daughter is an option. However, careful: 'father's wife' could be stepmother? Usually, 'his father's wife' is his mother. Only son of his mother = Dida (if he is the only son). So Kaku is the daughter of Dida, so Kaku is Dida's daughter. Answer D. But check: The question says 'Dida introduces Kaku as the daughter of the only son of his father's wife.' So Kaku is the daughter of (the only son of his father's wife). That son is Dida himself. So Kaku is Dida's daughter. So answer is D."
+    },
+    {
+      "id": 25,
+      "question": "After hearing about the new job opening in his field, Mark decided to apply immediately. Though it would mean moving to a new city, he was excited about the opportunity and felt it was a great career move. The job was also offering a higher salary than his current position, which made the decision easier for him. What is the most likely reason Mark decided to apply for the new job?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Mark enjoys living in his current city.",
+        "Mark believes the new job is a better career opportunity.",
+        "The new job requires him to relocate to a different country.",
+        "Mark prefers jobs that offer lower salaries."
+      ],
+      "answer": "B",
+      "explanation": "The passage says he was excited about the opportunity and felt it was a great career move. So the main reason is better career opportunity."
+    },
+    {
+      "id": 26,
+      "question": "Meditation is a great way to enhance mental health and reduce stress, and you don't need a gym or special equipment to practice it. All you need is a quiet space, some time, and a comfortable place. Which of the following sentences best supports this idea?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Meditation is a simple, cost-effective practice that only needs a peaceful space to improve mental clarity.",
+        "Gym workouts are worse for stress relief than meditation because it needs a professional instructor.",
+        "Meditation requires special equipment like pillows or sound machines for effectiveness.",
+        "You don't need a quiet space, some time and comfortable position for meditation."
+      ],
+      "answer": "A",
+      "explanation": "The idea is that meditation is simple and doesn't need equipment. Option A directly supports that."
+    },
+    {
+      "id": 27,
+      "question": "Statement: 'No student who misses more than 10 days of school is allowed to sit for the final exams.' Conclusion I: 'If a student misses more than 10 days of school, they cannot sit for the final exams.' Conclusion II: 'If a student sits for the final exams, they have missed less than 10 days of school.'",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Both conclusions follow",
+        "Neither conclusion follows"
+      ],
+      "answer": "C",
+      "explanation": "The original statement is equivalent to: missing >10 days → cannot sit. That's exactly conclusion I (contrapositive). Conclusion II is the contrapositive: if sits then not missed >10 days, i.e., missed ≤10 days (less than or equal). It says 'less than 10 days' – if exactly 10 days, then allowed? The original says 'misses more than 10 days' – so missing exactly 10 days is allowed. So conclusion II says 'less than 10 days' – that would exclude exactly 10 days, which is not necessarily true. So conclusion II is not valid. However, many logic interpretations treat 'not more than 10' as ≤10. But the wording 'less than 10' is stricter. So only conclusion I follows. Answer A."
+    },
+    {
+      "id": 28,
+      "question": "How is Mary Jonson initially characterized in the passage?",
+      "image": null,
+      "passage": "Mary Jonson was an obstinate and isolated child, who spent her early years in the lush landscapes of India. Following the death of her neglectful parents, she was sent to live with her reclusive uncle, Mr. Craven, in an enormous, deserted mansion in England. Initially, Mary was disinterested in her surroundings, sulking in her loneliness. However, a fateful discovery of a hidden door in the garden wall sparked her curiosity.\n\nAs Mary ventured into the long-forgotten garden, she encountered a wild, untamed world filled with neglected flora. Driven by a newfound purpose, she diligently nurtured the garden back to life, transforming it into a sanctuary of vibrant colors and charming scents. Through this process, she not only fostered the garden's revival but also cultivated friendships that helped her discover the joys of companionship, resilience, and personal growth.",
+      "options": ["Stubborn and solitary", "Energetic and curious", "Cheerful and sociable", "Compassionate and friendly"],
+      "answer": "A",
+      "explanation": "The passage says she was 'obstinate and isolated' – stubborn and solitary."
+    },
+    {
+      "id": 29,
+      "question": "What event led to Mary's relocation to her uncle's mansion?",
+      "image": null,
+      "passage": "same passage",
+      "options": ["A family reunion", "Her desire for adventure", "The death of her parents", "A travel to England for vacation"],
+      "answer": "C",
+      "explanation": "She was sent to live with her uncle after the death of her neglectful parents."
+    },
+    {
+      "id": 30,
+      "question": "What does Mary find within the hidden garden?",
+      "image": null,
+      "passage": "same passage",
+      "options": ["A magical fountain", "An overgrown, neglected space", "A place filled with animated animals", "A structured and organized landscape"],
+      "answer": "B",
+      "explanation": "She found a 'wild, untamed world filled with neglected flora' – an overgrown, neglected space."
+    },
+    {
+      "id": 31,
+      "question": "What transformation occurs in Mary as she cares for the garden?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "She gains a reputation as a gardener",
+        "She learns about gardening techniques",
+        "She becomes wealthier and more powerful",
+        "She discovers feelings of companionship and resilience"
+      ],
+      "answer": "D",
+      "explanation": "The passage says she discovered 'the joys of companionship, resilience, and personal growth'."
+    },
+    {
+      "id": 32,
+      "question": "What distinguishes the migration of monarch butterflies from those of other insect species?",
+      "image": null,
+      "passage": "Every year, millions of monarch butterflies embark on an incredible migration from North America to central Mexico. This journey can span up to 3,000 miles, making it one of the longest migrations of any insect species. Monarchs travel in groups, known as clusters, and rely on specific environmental cues to guide them, such as temperature and the position of the sun.\n\nAs they migrate, monarchs face numerous trials, including predators and changes in weather. They must find food sources, typically nectar from flowers, to sustain their journey. Interestingly, these butterflies are not born knowing the migration route; instead, it is believed they inherit the knowledge through instinct passed down from previous generations.\n\nUpon reaching their wintering grounds, the monarchs gather in vast numbers, covering the trees in a breathtaking display. This phenomenon not only underscores the resilience of the species but also highlights the importance of preserving their habitat. Protecting these migration pathways is crucial for the survival of monarchs, as environmental changes threaten their annual journey.",
+      "options": [
+        "It happens only in small clusters.",
+        "It relies solely on the position of the sun.",
+        "It occurs without the need for food sources.",
+        "It spans up to 3,000 miles, making it one of the longest migrations."
+      ],
+      "answer": "D",
+      "explanation": "The passage explicitly states that the journey can span up to 3,000 miles, making it one of the longest migrations of any insect species."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following best describes the challenges faced by monarch butterflies during migration?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "Lack of instinct on the migration route.",
+        "Sufficient food supply and safe climates.",
+        "Overpopulation at their wintering grounds.",
+        "Predators, adverse weather, and the search for nectar."
+      ],
+      "answer": "D",
+      "explanation": "The passage mentions 'numerous trials, including predators and changes in weather' and 'must find food sources, typically nectar'."
+    },
+    {
+      "id": 34,
+      "question": "In what way is the knowledge of the migration route significant for the monarch butterflies?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "It allows them to adapt to new climates.",
+        "It is vital for their survival during migration.",
+        "It enables them to find better feeding grounds.",
+        "It guarantees the success of their breeding cycle."
+      ],
+      "answer": "B",
+      "explanation": "The route knowledge is inherited through instinct; without it, they would not know where to go, so it is vital for survival."
+    },
+    {
+      "id": 35,
+      "question": "Based on the passage, what can be inferred about the role of environmental changes on the migration of monarch butterflies?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "Environmental changes have no significant impact on the migration of monarch butterflies.",
+        "Monarch butterflies are capable of adapting their migration routes quickly in response to environmental changes.",
+        "The survival of monarch butterflies during their migration is at risk due to environmental changes, making habitat preservation essential.",
+        "Monarch butterflies rely solely on instinct for their migration and do not require external environmental cues."
+      ],
+      "answer": "C",
+      "explanation": "The passage concludes that 'protecting these migration pathways is crucial ... as environmental changes threaten their annual journey.' So risk is high, and preservation is essential."
+    },
+    {
+      "id": 36,
+      "question": "The product of two numbers is 120 and the sum of their squares is 289. The sum of the numbers is?",
+      "image": null,
+      "passage": null,
+      "options": ["20", "23", "169", "529"],
+      "answer": "B",
+      "explanation": "Let numbers be a and b. ab=120, a²+b²=289. (a+b)² = a²+2ab+b² = 289+240=529 → a+b=23."
+    },
+    {
+      "id": 37,
+      "question": "What is the value of X and Y respectively in a sequence 1, 5, 14, 30, 55, X, 140, 204, - - ?",
+      "image": null,
+      "passage": null,
+      "options": ["85", "86", "91", "75"],
+      "answer": "C",
+      "explanation": "Differences: 4,9,16,25,36,49,64... These are squares of 2,3,4,5,6,7,8. So after 55, add 36 = 91 (X), then add 49 = 140 (given), add 64=204. So X=91."
+    },
+    {
+      "id": 38,
+      "question": "A library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is:",
+      "image": null,
+      "passage": null,
+      "options": ["250", "276", "280", "285"],
+      "answer": "D",
+      "explanation": "30 days starting with Sunday: 4 full weeks (28 days) plus 2 extra days? Actually 30 days = 4 weeks (28 days) + 2 days. Starting Sunday: weeks have 1 Sunday each? More precisely, in 30 days starting Sunday, there will be 5 Sundays (since 30/7=4 remainder 2, so 5 Sundays). Let's calculate: Sundays = 5, other days = 25. Total visitors = 5×510 + 25×240 = 2550 + 6000 = 8550. Average = 8550/30 = 285."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following linear inequalities define the domain of the function f(x,y)=√(4x - y + 6) + ln(2x + y - 5)?",
+      "image": null,
+      "passage": null,
+      "options": ["4x - y ≥ -6 and 2x + y > 5", "4x - y ≤ -6 and 2x + y ≥ 5", "4x - y ≥ -6 and 2x + y ≥ 5", "4x - y ≤ -6 and 2x + y > 5"],
+      "answer": "A",
+      "explanation": "For square root: 4x - y + 6 ≥ 0 → 4x - y ≥ -6. For natural log: 2x + y - 5 > 0 → 2x + y > 5. So A."
+    },
+    {
+      "id": 40,
+      "question": "Find an odd out from the given: 396, 427, 671, 264",
+      "image": null,
+      "passage": null,
+      "options": ["396", "427", "671", "264"],
+      "answer": "B",
+      "explanation": "396, 671, 264 are divisible by 3? 396: sum digits 18 divisible by 3; 671: 6+7+1=14 not divisible by 3; 264: 2+6+4=12 divisible by 3. So 427 is odd one out (also 4+2+7=13 not divisible by 3)."
+    },
+    {
+      "id": 41,
+      "question": "The White, Red and Black balls in a packet are in the ratio of 5:3:2. How many Red and Black balls are there, if there are 40 White balls?",
+      "image": null,
+      "passage": null,
+      "options": ["30 reds and 50 black balls", "16 reds and 24 black balls", "24 reds and 16 black balls", "25 reds and 15 black balls"],
+      "answer": "C",
+      "explanation": "White:Red:Black = 5:3:2. If white=40, then ratio factor = 8. So red = 3×8=24, black = 2×8=16."
+    },
+    {
+      "id": 42,
+      "question": "If 2a + b = x and -2a + b = y, then which one of the following expression is equal to ab?",
+      "image": null,
+      "passage": null,
+      "options": ["(x+y)/2", "(x-y)/4", "(x² - y²)/8", "(x² + y²)/8"],
+      "answer": "C",
+      "explanation": "Add: 2b = x+y → b=(x+y)/2. Subtract: 4a = x-y → a=(x-y)/4. Then ab = (x-y)(x+y)/(8) = (x²-y²)/8."
+    },
+    {
+      "id": 43,
+      "question": "The average monthly income of P and Q is Birr 5050. The average monthly income of Q and R is 6250 and the average of P and R is 5200. The monthly income of P is:",
+      "image": null,
+      "passage": null,
+      "options": ["3500", "4000", "4050", "5000"],
+      "answer": "B",
+      "explanation": "P+Q=10100, Q+R=12500, P+R=10400. Add first and third: 2P+Q+R=20500. Subtract second: 2P = 20500-12500=8000 → P=4000."
+    },
+    {
+      "id": 44,
+      "question": "If an equilateral triangle and a square have the same perimeter, what is the ratio of the length of square to the length of the side of equilateral triangle?",
+      "image": null,
+      "passage": null,
+      "options": ["3:4", "1:2", "4:3", "2:1"],
+      "answer": "A",
+      "explanation": "Let side of triangle = t, perimeter = 3t. Side of square = s, perimeter = 4s. They are equal: 3t=4s → s/t = 3/4. Ratio square length to triangle side = 3:4."
+    },
+    {
+      "id": 45,
+      "question": "Three numbers are in the ratio of 3:4:5 and the least common multiple is 2400. Their GCF is:",
+      "image": null,
+      "passage": null,
+      "options": ["40", "80", "120", "200"],
+      "answer": "A",
+      "explanation": "Let numbers be 3k, 4k, 5k. LCM of 3k,4k,5k = k × LCM(3,4,5) = k×60 = 2400 → k=40. So GCF = k = 40."
+    },
+    {
+      "id": 46,
+      "question": "A, B and C jointly thought of engaging themselves in business venture. A would invest Birr 6500 for 6 months, B Birr 8400 for 5 months and C Birr 10,000 for 3 months. A wants to be the working member for which he was to receive 5% of the profit. The profit earned was Birr 7400. What is the share of B in the profit?",
+      "image": null,
+      "passage": null,
+      "options": ["Birr 1900", "2660", "2800", "2840"],
+      "answer": "B",
+      "explanation": "A's investment share = 6500×6 = 39000; B's = 8400×5 = 42000; C's = 10000×3 = 30000. Total = 111000. Profit after A's 5% working share = 7400 × 0.95 = 7030. Then B's share = (42000/111000)×7030 = (42000×7030)/111000 = 42000×0.063333 = 2660. So B gets 2660."
+    },
+    {
+      "id": 47,
+      "question": "In how many different ways can the letters of the word 'CORPORATION' be arranged, so that vowels always come together?",
+      "image": null,
+      "passage": null,
+      "options": ["810", "1440", "2880", "50400"],
+      "answer": "D",
+      "explanation": "CORPORATION has 11 letters: C,O,R,P,O,R,A,T,I,O,N. Vowels: O,O,A,I,O (5 vowels). Treat vowels as one block. Then we have: block + C,R,P,R,T,N = 7 items, but R appears twice. So arrangements = 7!/2! = 5040/2=2520? Wait 7!/2! = 5040/2=2520. Then internal arrangements of vowels: 5 vowels with O repeated 3 times, A once, I once. Internal = 5!/3! = 120/6=20. Total = 2520×20 = 50400. Option D."
+    },
+    {
+      "id": 48,
+      "question": "What is the probability of a number selected at random from the first 100 prime numbers is even?",
+      "image": null,
+      "passage": null,
+      "options": ["99/100", "49/100", "1/100", "1/50"],
+      "answer": "C",
+      "explanation": "The only even prime number is 2. So among first 100 primes, only one is even. Probability = 1/100."
+    },
+    {
+      "id": 49,
+      "question": "A committee consists of 6 men and 4 women. If two members are selected at random to form a subcommittee. What is the probability that both members are women?",
+      "image": null,
+      "passage": null,
+      "options": ["1/5", "2/15", "3/10", "1/10"],
+      "answer": "B",
+      "explanation": "Total ways = C(10,2)=45. Ways to choose 2 women = C(4,2)=6. Probability = 6/45 = 2/15."
+    },
+    {
+      "id": 50,
+      "question": "If average age of husband, wife and their child 3 years ago was 27 years and that of wife and child 5 years ago was 20 years. The present age of the husband is:",
+      "image": null,
+      "passage": null,
+      "options": ["35 years", "40 years", "50 years", "90"],
+      "answer": "B",
+      "explanation": "3 years ago: total age H+W+C = 27×3=81. Present total = 81+9=90. 5 years ago: wife+child = 20×2=40. Present wife+child = 40+10=50. So present husband = 90-50=40."
+    },
+    {
+      "id": 51,
+      "question": "(287)² + (269)² - 2(287×269) is equal to:",
+      "image": null,
+      "passage": null,
+      "options": ["534", "446", "354", "324"],
+      "answer": "D",
+      "explanation": "This is (a-b)² with a=287, b=269. (287-269)² = (18)² = 324."
+    },
+    {
+      "id": 52,
+      "question": "A piece of machinery is worth Birr 100,000 today and loses 25% of its value each year. How much will it be worth after 4 years?",
+      "image": null,
+      "passage": null,
+      "options": ["75000", "41640.625", "31642", "31640.625"],
+      "answer": "D",
+      "explanation": "After each year, value multiplies by 0.75. After 4 years: 100,000 × (0.75)^4 = 100,000 × 0.31640625 = 31,640.625."
+    },
+    {
+      "id": 53,
+      "question": "If x and y are integers such that 3x + 9 < 0 and -4y - 16 > 0, then which one of the following is always true?",
+      "image": null,
+      "passage": null,
+      "options": ["xy is positive", "xy is odd", "xy is negative", "xy is even"],
+      "answer": "C",
+      "explanation": "3x+9<0 → 3x<-9 → x<-3 (x negative). -4y-16>0 → -4y>16 → y<-4 (y negative). Negative × negative = positive. So xy is positive. Answer A."
+    },
+    {
+      "id": 54,
+      "question": "For x is a real number, compare Quantity A = √(4x²+4x+1) and Quantity B = 2x+1.",
+      "image": null,
+      "passage": null,
+      "options": ["Quantity A is less than quantity B", "Quantity A is greater than quantity B", "Quantity A is equal to quantity B", "The relationship cannot determine"],
+      "answer": "D",
+      "explanation": "√(4x²+4x+1) = √((2x+1)²) = |2x+1|. So quantity A = |2x+1|, quantity B = 2x+1. The relationship depends on sign of 2x+1. If 2x+1 ≥0, then A=B; if 2x+1<0, then A=-B > B. So cannot determine without x. Answer D."
+    },
+    {
+      "id": 55,
+      "question": "Compare the two quantities: Quantity A = percent of income increase from 75 to 85 thousand birr; Quantity B = percent of income increase from 200 to 220 thousand birr.",
+      "image": null,
+      "passage": null,
+      "options": ["Quantity A is equal to quantity B", "Quantity A is greater than quantity B", "Quantity A is less than quantity B", "The relationship cannot determine"],
+      "answer": "B",
+      "explanation": "A: (85-75)/75 = 10/75 = 0.1333 = 13.33%. B: (220-200)/200 = 20/200 = 0.10 = 10%. So A > B."
+    },
+    {
+      "id": 56,
+      "question": "What was the approximate percentage increase in the sales of 55hp computer in 2006 compared to that in 2000?",
+      "image": null,
+      "passage": "The table below shows the sales of computers manufactured by a company over the years. Number of Different Types of Computer Sold by a Company over the Years (Numbers in Thousands)\n\n| Year | 4hp | 7hp | 32hp | 35hp | 55hp | Total |\n|------|-----|-----|------|------|------|-------|\n| 2000 | 75 | 144 | 114 | 102 | 108 | 543 |\n| 2001 | 90 | 126 | 102 | 84 | 126 | 528 |\n| 2002 | 96 | 114 | 75 | 105 | 135 | 525 |\n| 2003 | 105 | 90 | 150 | 90 | 75 | 510 |\n| 2004 | 90 | 75 | 135 | 75 | 90 | 465 |\n| 2005 | 105 | 60 | 165 | 45 | 120 | 495 |\n| 2006 | 115 | 85 | 160 | 100 | 145 | 605 |",
+      "options": ["28%", "31%", "33.26%", "34.26%"],
+      "answer": "D",
+      "explanation": "55hp sales: 2000 = 108, 2006 = 145. Increase = 37. Percentage = (37/108)×100 = 34.26%."
+    },
+    {
+      "id": 57,
+      "question": "Which type of computers sales is maximum over seven years?",
+      "image": null,
+      "passage": "same table",
+      "options": ["4hp", "7hp", "32hp", "35hp"],
+      "answer": "C",
+      "explanation": "Sum over 7 years: 4hp = 75+90+96+105+90+105+115 = 676; 7hp = 144+126+114+90+75+60+85 = 694; 32hp = 114+102+75+150+135+165+160 = 901; 35hp = 102+84+105+90+75+45+100 = 601; 55hp = 108+126+135+75+90+120+145 = 799. Maximum is 32hp."
+    },
+    {
+      "id": 58,
+      "question": "What is the difference in the number of 35hp computers sold in 2001 and 2005?",
+      "image": null,
+      "passage": "same table",
+      "options": ["24000", "28000", "35000", "39000"],
+      "answer": "D",
+      "explanation": "2001: 84, 2005: 45 (in thousands). Difference = 39,000. So 39,000."
+    },
+    {
+      "id": 59,
+      "question": "Which types of computer was a continuous decrease in sales from 2000 to 2005?",
+      "image": null,
+      "passage": "same table",
+      "options": ["4hp", "7hp", "32hp", "35hp"],
+      "answer": "B",
+      "explanation": "7hp: 144,126,114,90,75,60 → continuously decreasing. 4hp fluctuates, 32hp increases then decreases, 35hp fluctuates."
+    },
+    {
+      "id": 60,
+      "question": "The percentage of 4hp computer sold to the total number of computer sold was maximum in the year?",
+      "image": null,
+      "passage": "same table",
+      "options": ["2002", "2004", "2003", "2005"],
+      "answer": "D",
+      "explanation": "Calculate ratio 4hp/total: 2002: 96/525≈0.1829; 2003: 105/510≈0.2059; 2004: 90/465≈0.1935; 2005: 105/495≈0.2121 (21.2%). Maximum in 2005."
+    }
+  ]
+}

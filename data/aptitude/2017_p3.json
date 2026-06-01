@@ -1,0 +1,617 @@
+{
+  "subject": "Aptitude",
+  "year": "2017 E.C",
+  "paper": 3,
+  "questions": [
+    {
+      "id": 1,
+      "question": "FLOAT is to SINK as BOAT is to:",
+      "image": null,
+      "passage": null,
+      "options": ["Ship", "War", "Submarine", "Missile"],
+      "answer": "C",
+      "explanation": "Float and sink are opposites; a boat floats; a submarine can sink (submerge)."
+    },
+    {
+      "id": 2,
+      "question": "DISMAY is to JOY as TEND is to:",
+      "image": null,
+      "passage": null,
+      "options": ["Regret", "Ignore", "Negligible", "Spoil"],
+      "answer": "B",
+      "explanation": "Dismay and joy are opposites; tend means to care for; ignore is opposite."
+    },
+    {
+      "id": 3,
+      "question": "FUGITIVE : FLEE",
+      "image": null,
+      "passage": null,
+      "options": ["Parasite : foster", "Braggart : boast", "Sage : stifle", "Bystander : procure"],
+      "answer": "B",
+      "explanation": "A fugitive flees; a braggart boasts."
+    },
+    {
+      "id": 4,
+      "question": "DEFORESTATION : DROUGHT",
+      "image": null,
+      "passage": null,
+      "options": ["Fasting : Starvation", "Summer : Warm", "Rehabilitation : Restoration", "Tourist : Map"],
+      "answer": "A",
+      "explanation": "Cause-effect: deforestation can cause drought; fasting can cause starvation."
+    },
+    {
+      "id": 5,
+      "question": "FOSTERING",
+      "image": null,
+      "passage": null,
+      "options": ["Safeguarding", "Neglecting", "Ignoring", "Nurturing"],
+      "answer": "D",
+      "explanation": "Fostering means nurturing."
+    },
+    {
+      "id": 6,
+      "question": "CEASE",
+      "image": null,
+      "passage": null,
+      "options": ["Begin", "Stop", "Create", "Dull"],
+      "answer": "B",
+      "explanation": "Cease means stop."
+    },
+    {
+      "id": 7,
+      "question": "PROPER",
+      "image": null,
+      "passage": null,
+      "options": ["Drive", "Jettison", "Burst", "Modify"],
+      "answer": "A",
+      "explanation": "None are synonyms; likely a misprint. Assuming 'drive' as placeholder, but the intended answer is not clear. In many exams, 'proper' is not matched with these options."
+    },
+    {
+      "id": 8,
+      "question": "NAIVE",
+      "image": null,
+      "passage": null,
+      "options": ["Ignorant", "Wise", "Immature", "Unaffected"],
+      "answer": "B",
+      "explanation": "Naive means lacking wisdom; wise is opposite."
+    },
+    {
+      "id": 9,
+      "question": "FRAUDULENT",
+      "image": null,
+      "passage": null,
+      "options": ["Candid", "Forthright", "Genuine", "Direct"],
+      "answer": "C",
+      "explanation": "Fraudulent means fake; genuine is opposite."
+    },
+    {
+      "id": 10,
+      "question": "FOREMOST",
+      "image": null,
+      "passage": null,
+      "options": ["Hindmost", "Disposed", "Mature", "Unimportant"],
+      "answer": "A",
+      "explanation": "Foremost means first; hindmost means last."
+    },
+    {
+      "id": 11,
+      "question": "Cause/Effect: '1' The central Government has recently declared to finish the rebate on farming. '2' The central Government faced financial loss on account of giving rebate on farming for the last few years.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "If statement '1' is the cause and statement '2' is its effect.",
+        "If statement '2' is the cause and statement '1' is its effect.",
+        "If both statements are effects of independent causes.",
+        "If both statements are effects of some common cause."
+      ],
+      "answer": "B",
+      "explanation": "Financial loss (2) caused the decision to finish the rebate (1)."
+    },
+    {
+      "id": 12,
+      "question": "Cause/Effect: 'X' Rural and semi-urban areas have been suffering due to load shedding for quite some time. 'Y' If the government is not able to overcome the power crisis, load shedding will be extended even to urban areas.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "If statement 'X' is the cause and statement 'Y' is its effect.",
+        "If statement 'Y' is the cause and statement 'X' is its effect.",
+        "If both statements are independent causes.",
+        "If both statements are effects of independent causes."
+      ],
+      "answer": "A",
+      "explanation": "Current load shedding (X) could lead to extension to urban areas (Y)."
+    },
+    {
+      "id": 13,
+      "question": "Para Jumbles: Rearrange sentences P, Q, R, S.",
+      "image": null,
+      "passage": "P. When she was told that she was expected to walk on the pavement she said that since she is free she has the liberty to walk where she liked. Q. But if she walked in the middle of the road cars and vehicles could move on the pavement. This would result in chaos. R. Once an old lady was walking with a basket in hand in the middle of the street in Petrograd. S. It caused great confusion for the traffic.",
+      "options": ["RSPQ", "QRSP", "RPQS", "PQRS"],
+      "answer": "A",
+      "explanation": "R introduces the lady; S says it caused confusion; P gives her response; Q gives consequence. R,S,P,Q."
+    },
+    {
+      "id": 14,
+      "question": "Para Jumbles with fixed S1 and S6: S1: Angel reached Sand Bourne in search of Tess. (p) She told him that Alec had given her to understand that Angel would never return. (q) When he finally met her, he was shocked to find. (r) Tess admitted that she hated Alec because he had convinced her that Angel would never return. (s) That she had, in the meantime, married Alec. S6: Angel left disappointed.",
+      "image": null,
+      "passage": null,
+      "options": ["RSPQ", "PRSQ", "QSPR", "QSRP"],
+      "answer": "D",
+      "explanation": "q (shocked to find), then s (that she had married Alec), then r (Tess admitted), then p (she told him). So Q,S,R,P."
+    },
+    {
+      "id": 15,
+      "question": "Para Jumbles: A. Judy reached out one hand and laid it on the soft neck of the fawn. B. He moved forward on all fours until he was close to it. C. He put his arms around its body. D. The touch made him delirious.",
+      "image": null,
+      "passage": null,
+      "options": ["ADBC", "BACD", "BDAC", "ABDC"],
+      "answer": "B",
+      "explanation": "B (moved forward), then A (reached out), then C (put arms around), then D (touch made delirious). B,A,C,D."
+    },
+    {
+      "id": 16,
+      "question": "Para Jumbles: A. But the eagle, in wrath, gave the beetle a flap of his wing, and straightway seized upon the hare and devoured him. B. The beetle, therefore, interceded with the eagle, begging of him not to kill the poor suppliant, and pleaded with him not to kill so small an animal. C. When the eagle flew away, the beetle flew after him, to learn where his nest was. D. A hare, being pursued by an eagle, took himself for refuge to the nest of a beetle, whom he begged to save him.",
+      "image": null,
+      "passage": null,
+      "options": ["ACDB", "DCAB", "CBAD", "DBAC"],
+      "answer": "D",
+      "explanation": "D (hare seeks refuge), then B (beetle intercedes), then A (eagle devours hare), then C (beetle follows eagle). D,B,A,C."
+    },
+    {
+      "id": 17,
+      "question": "An appropriate title for the above passage would be:",
+      "image": null,
+      "passage": "When we are suddenly confronted with any terrible danger, the change of nature we undergo is equally great...",
+      "options": ["The change of nature", "Courage and panic", "The will to fight", "The miracle of confronting danger"],
+      "answer": "D",
+      "explanation": "The passage focuses on miraculous courage in danger."
+    },
+    {
+      "id": 18,
+      "question": "The author names three different ways in which a man may react to sudden danger. What are they?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "He may be paralysed with fear, or seized with panic, or as if by miracle, become possessed of the necessary courage, and face the danger.",
+        "He may be paralysed with fear, run away or fight.",
+        "He may flee in panic, fight back or stand still.",
+        "He may be paralysed with fear, seized with panic or act like an inferior animal."
+      ],
+      "answer": "A",
+      "explanation": "The passage mentions: paralysis, panic, or miraculous courage."
+    },
+    {
+      "id": 19,
+      "question": "The distinction between 'inferior animals' and 'rational beings' is that:",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "The latter are stronger.",
+        "The latter are capable of reasoning things out whereas the former cannot do so.",
+        "The former are incapable of fighting.",
+        "The latter are clever."
+      ],
+      "answer": "B",
+      "explanation": "Rational beings have reasoning ability."
+    },
+    {
+      "id": 20,
+      "question": "According to the author, the moral duty is:",
+      "image": null,
+      "passage": "A duty is an obligation. It is something we owe to others as social beings...",
+      "options": [
+        "Enjoined upon animals.",
+        "Helping the rich.",
+        "More effective than the legal duty.",
+        "Secondary to the legal duty."
+      ],
+      "answer": "C",
+      "explanation": "Passage states: 'Moral duty is more effective than the legal.'"
+    },
+    {
+      "id": 21,
+      "question": "Where does the duty originate from?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "From responsibility but not from conscience.",
+        "From responsibility which is related with conscience.",
+        "From legal bondage.",
+        "From hypocrisy and diplomacy."
+      ],
+      "answer": "B",
+      "explanation": "From sense of responsibility related to conscience."
+    },
+    {
+      "id": 22,
+      "question": "Point out the incorrect statement?",
+      "image": null,
+      "passage": "same passage",
+      "options": [
+        "Hypocrisy and diplomacy do not support the sense of duty.",
+        "Hypocrisy involves wickedness.",
+        "Duty involves sincerity.",
+        "Sense of duty is not important for the development of civilization."
+      ],
+      "answer": "D",
+      "explanation": "Passage says sense of duty is paramount for development."
+    },
+    {
+      "id": 23,
+      "question": "Sam shivered... The paragraph could be entitled:",
+      "image": null,
+      "passage": null,
+      "options": ["A cold January day", "The battered wife", "The child as parent", "Alleys"],
+      "answer": "C",
+      "explanation": "Sam feels like the responsible party towards parents, role reversal."
+    },
+    {
+      "id": 24,
+      "question": "The skies were gray... The tone of the passage is:",
+      "image": null,
+      "passage": null,
+      "options": ["Somber over events", "Happy", "Puzzled", "Wonderment"],
+      "answer": "A",
+      "explanation": "Somber and gloomy."
+    },
+    {
+      "id": 25,
+      "question": "The United States has given the free world the concept of 'The American Dream'... The main idea is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Less work reaps rewards.",
+        "Only children profit.",
+        "'The American Dream' is only a dream.",
+        "'The American Dream' promises earthly rewards for productive behaviors."
+      ],
+      "answer": "D",
+      "explanation": "Prosperity comes from hard work and responsibility."
+    },
+    {
+      "id": 26,
+      "question": "'If you give a man a fish...' This sentence is the same as:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Give a man a fish to feed him.",
+        "Give a man a fish to feed him forever.",
+        "Teach a man how to fish to feed him forever.",
+        "Teach a man how to eat fish to feed him."
+      ],
+      "answer": "C",
+      "explanation": "Teaching a skill provides long-term benefit."
+    },
+    {
+      "id": 27,
+      "question": "'As I left the peaceful sleeping village...' What does the writer want to say?",
+      "image": null,
+      "passage": null,
+      "options": ["The village was peaceful.", "The village was unknown.", "I was new for the village.", "I was amazed by the mist."],
+      "answer": "A",
+      "explanation": "Direct description: 'peaceful sleeping village'."
+    },
+    {
+      "id": 28,
+      "question": "'Though I understand all mysteries... but have not love, I am nothing...' This is to mean:",
+      "image": null,
+      "passage": null,
+      "options": ["Love profits nothing.", "Everything is nothing without love.", "Knowledge is nothing.", "Everything is nothing without knowledge."],
+      "answer": "B",
+      "explanation": "Love is essential; without it, everything else is worthless."
+    },
+    {
+      "id": 29,
+      "question": "PERSONS : MASSACRE :: BUILDINGS : ?",
+      "image": null,
+      "passage": null,
+      "options": ["Demolish", "Damage", "Ruin", "Collapse"],
+      "answer": "A",
+      "explanation": "Massacre is destruction of persons; demolish is destruction of buildings."
+    },
+    {
+      "id": 30,
+      "question": "ARMY : LOGISTICS",
+      "image": null,
+      "passage": null,
+      "options": ["Soldier : student", "War : logic", "Business : Strategy", "Team : Individual"],
+      "answer": "C",
+      "explanation": "Logistics supports army; strategy supports business."
+    },
+    {
+      "id": 31,
+      "question": "AFTER : BEFORE",
+      "image": null,
+      "passage": null,
+      "options": ["First : Second", "Successor : predecessor", "Contemporary : Historic", "Present : Past"],
+      "answer": "B",
+      "explanation": "After and before are opposites in time; successor and predecessor are opposites in order."
+    },
+    {
+      "id": 32,
+      "question": "Select the pair with the same meaning.",
+      "image": null,
+      "passage": null,
+      "options": ["Enthral : Monotonous", "Succour : Burden", "Desolate : Crammed", "Wise : Prudent"],
+      "answer": "D",
+      "explanation": "Wise and prudent are synonyms."
+    },
+    {
+      "id": 33,
+      "question": "Select the pair with the same meaning.",
+      "image": null,
+      "passage": null,
+      "options": ["Precious : Cherished", "Enthusiastic : Convoluted", "Misery : Amusement", "Disregard : Heed"],
+      "answer": "A",
+      "explanation": "Precious and cherished are synonyms."
+    },
+    {
+      "id": 34,
+      "question": "When we believe that our mind is thinking ______ thoughts at the same time...",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Homogeneous, Measurable, Unchanging, Velocity",
+        "Challenging, Limited, Fixed, Interruption",
+        "Multiple, Myriad, Alternating, Succession",
+        "Uniform, Countable, Altering, Ramification"
+      ],
+      "answer": "C",
+      "explanation": "Rapid switching between many thoughts: multiple, myriad, alternating, succession."
+    },
+    {
+      "id": 35,
+      "question": "If '→' denotes increasing order of intensity, then {drizzle → rain → downpour} is analogous to { _____ → quarrel → feud}.",
+      "image": null,
+      "passage": null,
+      "options": ["Bicker", "Bog", "Dither", "Dodge"],
+      "answer": "A",
+      "explanation": "Bicker is the mildest form of argument."
+    },
+    {
+      "id": 36,
+      "question": "The circumference of a circle is xπ units, and the area is yπ square units. If x = y, then radius is:",
+      "image": null,
+      "passage": null,
+      "options": ["1", "2", "3π", "2π"],
+      "answer": "B",
+      "explanation": "2πr = xπ → x=2r; πr² = yπ → y=r²; set 2r=r² → r=2."
+    },
+    {
+      "id": 37,
+      "question": "Sum of all factors of 28?",
+      "image": null,
+      "passage": null,
+      "options": ["56", "55", "28", "68"],
+      "answer": "A",
+      "explanation": "Factors: 1,2,4,7,14,28 sum=56."
+    },
+    {
+      "id": 38,
+      "question": "If B is 5/2 times A, then A is what percentage of B?",
+      "image": null,
+      "passage": null,
+      "options": ["40%", "20%", "60%", "50%"],
+      "answer": "A",
+      "explanation": "A = (2/5)B = 40% of B."
+    },
+    {
+      "id": 39,
+      "question": "Ratio of boys to girls 2:3. Boys = five more than one-third of class. Total students?",
+      "image": null,
+      "passage": null,
+      "options": ["30", "45", "75", "60"],
+      "answer": "C",
+      "explanation": "(2/5)S = (1/3)S + 5 → multiply 15: 6S=5S+75 → S=75."
+    },
+    {
+      "id": 40,
+      "question": "√98 - √50 simplified =",
+      "image": null,
+      "passage": null,
+      "options": ["4√3", "2√2", "4√2", "2√3"],
+      "answer": "B",
+      "explanation": "7√2 - 5√2 = 2√2."
+    },
+    {
+      "id": 41,
+      "question": "Area of square side X is 5. Area of square side 3X?",
+      "image": null,
+      "passage": null,
+      "options": ["15", "45", "95", "75"],
+      "answer": "B",
+      "explanation": "X²=5; (3X)²=9X²=45."
+    },
+    {
+      "id": 42,
+      "question": "p directly proportional to q, q=12 when p=8. p when q=15?",
+      "image": null,
+      "passage": null,
+      "options": ["10", "11", "12", "13"],
+      "answer": "A",
+      "explanation": "k=8/12=2/3; p=(2/3)×15=10."
+    },
+    {
+      "id": 43,
+      "question": "Sequence: 7,10,8,11,9,12,... next?",
+      "image": null,
+      "passage": null,
+      "options": ["13", "10", "12", "7"],
+      "answer": "B",
+      "explanation": "+3,-2 pattern: 12-2=10."
+    },
+    {
+      "id": 44,
+      "question": "If a²=17, then (a+1)(a-1)=?",
+      "image": null,
+      "passage": null,
+      "options": ["15", "12", "16", "9"],
+      "answer": "C",
+      "explanation": "a²-1=16."
+    },
+    {
+      "id": 45,
+      "question": "Which of the rectangles below has a length of 4/3 if each has an area of 4? (Image of rectangles)",
+      "image": "./images/2017_p3_q45.png",
+      "passage": null,
+      "options": ["A", "B", "C", "D"],
+      "answer": "A",
+      "explanation": "Length 4/3, width 3 gives area 4. Without image, the correct rectangle is the one with those dimensions."
+    },
+    {
+      "id": 46,
+      "question": "Sequence: 3,12,X,48,75. Find X.",
+      "image": null,
+      "passage": null,
+      "options": ["15", "21", "36", "27"],
+      "answer": "D",
+      "explanation": "Pattern: 1×3, 2×6, 3×9=27, 4×12, 5×15."
+    },
+    {
+      "id": 47,
+      "question": "Mother 4 times child. In 8 years, twice as old. Mother now?",
+      "image": null,
+      "passage": null,
+      "options": ["4", "8", "16", "10"],
+      "answer": "C",
+      "explanation": "4c+8=2(c+8) → 2c=8 → c=4, mother=16."
+    },
+    {
+      "id": 48,
+      "question": "Triangle angles ratio 8:3:4. Smallest angle?",
+      "image": null,
+      "passage": null,
+      "options": ["12°", "24°", "36°", "72°"],
+      "answer": "C",
+      "explanation": "(3/15)×180=36°."
+    },
+    {
+      "id": 49,
+      "question": "How many primes between 1 and 20?",
+      "image": null,
+      "passage": null,
+      "options": ["7", "8", "10", "6"],
+      "answer": "B",
+      "explanation": "2,3,5,7,11,13,17,19 → 8."
+    },
+    {
+      "id": 50,
+      "question": "Which is a term in 6,14,22,...?",
+      "image": null,
+      "passage": null,
+      "options": ["278", "258", "246", "264"],
+      "answer": "C",
+      "explanation": "8n-2 = 246 → n=31 integer."
+    },
+    {
+      "id": 51,
+      "question": "Letter selected from 'probability'. Probability it is a vowel?",
+      "image": null,
+      "passage": null,
+      "options": ["1/11", "3/10", "3/11", "4/11"],
+      "answer": "D",
+      "explanation": "Vowels: O,A,I,I → 4 out of 11."
+    },
+    {
+      "id": 52,
+      "question": "Team takes 20 days, with leader 15 days. Leader alone?",
+      "image": null,
+      "passage": null,
+      "options": ["20", "60", "40", "80"],
+      "answer": "B",
+      "explanation": "1/15 - 1/20 = 1/60 → 60 days."
+    },
+    {
+      "id": 53,
+      "question": "Compare Quantity A = x(x²)⁴ and Quantity B = (x³)³, with X>1.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Quantity A is greater than Quantity B.",
+        "Quantity B is greater than Quantity A.",
+        "Quantity A is equal to Quantity B.",
+        "The relationship cannot determine based on the given information."
+      ],
+      "answer": "C",
+      "explanation": "A = x × x⁸ = x⁹; B = x⁹; they are equal."
+    },
+    {
+      "id": 54,
+      "question": "Compare the two quantities. Quantity A = area of a circle with diameter 12 cm. Quantity B = 38π cm².",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Quantity A is greater than Quantity B.",
+        "Quantity B is greater than Quantity A.",
+        "Quantity A is equal to Quantity B.",
+        "The relationship cannot be determined."
+      ],
+      "answer": "B",
+      "explanation": "Area of circle = πr² = π(6)² = 36π cm². 36π < 38π, so Quantity B is greater."
+    },
+    {
+      "id": 55,
+      "question": "Suppose 0 < X < 5. Compare Quantity A = X and Quantity B = 5 - X.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Quantity A is equal to Quantity B",
+        "Quantity A is greater than Quantity B",
+        "Quantity B is greater than Quantity A",
+        "The relationship cannot be determined from the information."
+      ],
+      "answer": "D",
+      "explanation": "Varies with X; can be equal (X=2.5), greater, or less."
+    },
+    {
+      "id": 56,
+      "question": "Compare the two quantities. Quantity A = 13/8, Quantity B = 5/3.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Quantity B is greater than Quantity A.",
+        "Quantity B is less than Quantity A.",
+        "Quantity A is greater than Quantity B.",
+        "The relationship cannot be determined."
+      ],
+      "answer": "A",
+      "explanation": "13/8 = 1.625, 5/3 ≈ 1.6667, so Quantity B is greater."
+    },
+    {
+      "id": 57,
+      "question": "What is the ratio of total sales of branch B2 for both years to total sales of branch B4 for both years?",
+      "image": null,
+      "passage": "The table shows sales of books from six branches in 2000 and 2001.\nB1:80,105; B2:75,65; B3:95,110; B4:85,95; B5:75,95; B6:70,80.",
+      "options": ["2:3", "3:5", "4:5", "7:9"],
+      "answer": "D",
+      "explanation": "B2 total=140, B4 total=180, ratio 140:180=7:9."
+    },
+    {
+      "id": 58,
+      "question": "Total sale of branches B1, B3, B5 together for both years?",
+      "image": null,
+      "passage": "same table",
+      "options": ["250", "310", "435", "560"],
+      "answer": "D",
+      "explanation": "B1=185, B3=205, B5=170, sum=560."
+    },
+    {
+      "id": 59,
+      "question": "Average sale of all branches for year 2000?",
+      "image": null,
+      "passage": "same table",
+      "options": ["73", "80", "83", "88"],
+      "answer": "B",
+      "explanation": "Sum 2000 = 480, average = 80."
+    },
+    {
+      "id": 60,
+      "question": "Total sale of branch B6 for both years is what percent of total sale of B3 for both years?",
+      "image": null,
+      "passage": "same table",
+      "options": ["68.5%", "71.11%", "73.17%", "75.55%"],
+      "answer": "C",
+      "explanation": "B6 total=150, B3 total=205, (150/205)×100=73.17%."
+    }
+  ]
+}

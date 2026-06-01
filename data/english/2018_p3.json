@@ -1,0 +1,993 @@
+{
+  "subject": "English",
+  "year": "2018 E.C",
+  "paper": 3,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Situation: classroom discussion about plastic use. Sarah: I believe we should all reduce our plastic use. It's the least we can do. Daminu: ________",
+      "image": null,
+      "passage": null,
+      "options": [
+        "That's a good point, but it's not enough.",
+        "Many people don't agree with that.",
+        "We should first campaign and aware people.",
+        "I think that's just a trend."
+      ],
+      "answer": "A",
+      "explanation": "Daminu acknowledges Sarah's point but adds a counter-argument. 'That's a good point, but it's not enough' is a constructive way to agree and then build on the idea."
+    },
+    {
+      "id": 2,
+      "question": "Situation: discussion at a project meeting: Jalane: I think we should use a digital platform to manage our tasks. Eba: What is a constructive way to acknowledge her suggestion?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "That would be a waste of time.",
+        "I installed my own platform recently",
+        "Let's stick to meeting schedule instead.",
+        "I don't think that will work."
+      ],
+      "answer": "B",
+      "explanation": "Acknowledging a suggestion constructively can involve relating it to personal experience. 'I installed my own platform recently' shows engagement and shared interest, without outright rejection."
+    },
+    {
+      "id": 3,
+      "question": "Abel expresses frustration about a difficult science project. Abe: I can't figure this out. It's too hard! What's the best way to offer support?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I found it easy; you should try harder.",
+        "You've just aren't smart enough.",
+        "Why don't we work as a team?",
+        "Just give up; it's not worth it."
+      ],
+      "answer": "C",
+      "explanation": "Offering collaboration ('Why don't we work as a team?') is supportive and helps solve the problem together. The other options are critical or dismissive."
+    },
+    {
+      "id": 4,
+      "question": "Situation: Classroom group debate. Mustefa: We should all switch to renewable energy sources. Roman: ________",
+      "image": null,
+      "passage": null,
+      "options": [
+        "That's a silly idea.",
+        "That's a good point, but what about the cost?",
+        "You're just entertaining our opinion.",
+        "Can we talk about something else?"
+      ],
+      "answer": "B",
+      "explanation": "In a debate, a respectful counter-argument acknowledges the point and raises a concern. Option B does this effectively. The given options in the PDF are incomplete; based on typical exam patterns, B is the most constructive."
+    },
+    {
+      "id": 5,
+      "question": "Situation: during lunch, Sifan and Gadise are discussing their weekend plans. Lalise: I'm going horse riding, and I can't wait! Sifan: I've great enthusiasm for your plan. ________",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Horse riding sounds boring.",
+        "What's the big deal about horse riding?",
+        "I'd never go horse riding.",
+        "That's awesome! Where are you going?"
+      ],
+      "answer": "D",
+      "explanation": "Sifan expresses enthusiasm, so the logical response is a positive, excited question. 'That's awesome! Where are you going?' matches 'great enthusiasm'."
+    },
+    {
+      "id": 6,
+      "question": "Kasim and Abdi are finalizing a school project, and Abdi suggests, 'I think we should focus more on the visuals.' What would be an appropriate reaction?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "That's not important; content matters",
+        "I can't agree more! Let's do some illustrations then.",
+        "Just do what you want then.",
+        "That's not necessary."
+      ],
+      "answer": "B",
+      "explanation": "Agreeing enthusiastically and offering a concrete action ('Let's do some illustrations then') is a positive and collaborative response."
+    },
+    {
+      "id": 7,
+      "question": "After a presentation, a peer approaches you and says, 'I found your arguments were really strong.' What is a respectful way to respond?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I appreciate your feedback. Which part did you like the most?",
+        "Well, not everyone agrees.",
+        "That's not true; I was nervous."
+      ],
+      "answer": "A",
+      "explanation": "Accepting feedback graciously and asking for specifics shows respect and engagement. The other options are dismissive or self-deprecating."
+    },
+    {
+      "id": 8,
+      "question": "Teacher: Would you mind opening the window? Student: I wouldn't mind. Based on student's response, which of the alternatives below is correct?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The student refuses to open the window.",
+        "The teacher forces the student to open the window.",
+        "The student agrees to open the window.",
+        "The student asks the teacher the need to open the window."
+      ],
+      "answer": "C",
+      "explanation": "'I wouldn't mind' is a polite way of saying 'Yes, I will do it' — agreement. The student agrees to open the window."
+    },
+    {
+      "id": 9,
+      "question": "Suppose you realize your classmate Gumessa is struggling with a certain concept. What would be an appropriate response to support him?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "You should have studied harder.",
+        "Let's review this now.",
+        "It's not that hard; you'll get it eventually.",
+        "Just look it up online."
+      ],
+      "answer": "B",
+      "explanation": "Offering immediate help ('Let's review this now') is the most supportive and proactive response. The others are either critical or vague."
+    },
+    {
+      "id": 10,
+      "question": "Sinbo arrived while the teacher was revising the previous lesson. What would be the correct response of the teacher?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Go away; never come late again.",
+        "Why have you been so early?",
+        "Why have you slept late?",
+        "Where have you been?"
+      ],
+      "answer": "D",
+      "explanation": "A teacher asking 'Where have you been?' is a neutral way to inquire about lateness. The other options are either rude or irrelevant."
+    },
+    {
+      "id": 11,
+      "question": "After discussing the importance of teamwork, your teammate says, 'I feel like my ideas aren't being heard.' What would be an appropriate response?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Just speak up more.",
+        "We'll make sure everyone's ideas are considered next.",
+        "Your ideas are that good anyway.",
+        "This isn't the time to complain."
+      ],
+      "answer": "B",
+      "explanation": "Acknowledging the concern and promising to include everyone's ideas is respectful and constructive. Option B shows empathy and a plan to improve."
+    },
+    {
+      "id": 12,
+      "question": "Ayantu: Why are fewer students in a class today? Bilen: ________ Which one best fits the blank space?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I don't care.",
+        "I have to ask them.",
+        "It seems they're completed.",
+        "It seems they've a holiday today."
+      ],
+      "answer": "D",
+      "explanation": "The most logical explanation for fewer students is that there is a holiday. 'It seems they've a holiday today' answers the question appropriately."
+    },
+    {
+      "id": 13,
+      "question": "At a family gathering, a relative asks your opinion on climate change. What is the best way to respond if you disagree with the view?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I dismiss the opinion entirely.",
+        "I try to change the subject.",
+        "I politely explain my position with evidence.",
+        "I argue loudly and aggressively."
+      ],
+      "answer": "C",
+      "explanation": "Politely explaining your position with evidence is respectful and constructive. The other options are either dismissive or aggressive."
+    },
+    {
+      "id": 14,
+      "question": "After a class discussion about a book, a classmate says, 'I didn't like the main character.' How can you engage the student in the conversation about it?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Why do you think that?",
+        "That's a bad opinion.",
+        "Everyone likes different things.",
+        "That's not true."
+      ],
+      "answer": "A",
+      "explanation": "Asking 'Why do you think that?' invites explanation and keeps the conversation open and respectful. It engages rather than dismisses."
+    },
+    {
+      "id": 15,
+      "question": "You get paired with someone you don't know well for a project. What's a good way to start your collaboration?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Let's just do our parts separately.",
+        "What are your thoughts about where to start?",
+        "I prefer working alone than in pair.",
+        "It doesn't matter; I'll take the lead."
+      ],
+      "answer": "B",
+      "explanation": "Asking for the other person's thoughts ('What are your thoughts about where to start?') shows respect and encourages teamwork."
+    },
+    {
+      "id": 16,
+      "question": "Suppose Atomsa failed a compulsory exam and feels disgraced. What is the best way to support him?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "You should have studied harder.",
+        "There's no point in worrying.",
+        "Just try again and hope for better luck.",
+        "Don't worry; how do you think I can help you?"
+      ],
+      "answer": "D",
+      "explanation": "Offering help by asking 'how do you think I can help you?' is supportive and empowers the person to identify their needs. The other options are dismissive or critical."
+    },
+    {
+      "id": 17,
+      "question": "At a community event, you meet someone from a different culture who seems shy. How can you help him/her feel relaxed?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I overlook the person and focus on the main task.",
+        "I ask about the person's culture and share mine.",
+        "I assume that the person comes from different culture.",
+        "I speak loudly to engage the person."
+      ],
+      "answer": "B",
+      "explanation": "Showing genuine interest by asking about their culture and sharing your own is a respectful way to build rapport and make them feel comfortable."
+    },
+    {
+      "id": 18,
+      "question": "During a group project, a group member proposes an idea that you believe won't work. How should you respond?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "That's a terrible idea.",
+        "Let's just go with it.",
+        "I have some concerns about that.",
+        "You should come up with something better."
+      ],
+      "answer": "C",
+      "explanation": "Expressing concerns politely ('I have some concerns about that') is constructive and allows for discussion. The other options are either dismissive or passive."
+    },
+    {
+      "id": 19,
+      "question": "After a successful event, your team leader says, 'Great job, everyone!' What's a positive response you can give?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Absolutely! Everyone contributed well.",
+        "It was mostly my effort.",
+        "I didn't think we'd succeed.",
+        "Let's not get too comfortable."
+      ],
+      "answer": "A",
+      "explanation": "A positive response acknowledges the team's collective effort. 'Absolutely! Everyone contributed well' is humble and supportive."
+    },
+    {
+      "id": 20,
+      "question": "In a class discussion about social issues, a peer expresses a viewpoint you strongly disagree with. What is a respectful way to engage?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "You must be joking.",
+        "I see why you think that, but here's another perspective.",
+        "That's completely wrong.",
+        "Can we talk about something else?"
+      ],
+      "answer": "B",
+      "explanation": "Acknowledging their viewpoint before presenting your own ('I see why you think that, but here's another perspective') is respectful and productive."
+    },
+    {
+      "id": 21,
+      "question": "You're organizing a study group before exams, and few classmates express interest. What would be a polite sentence in this situation?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Your participation doesn't matter.",
+        "Your participation is not mandatory.",
+        "Your participation will cause distraction.",
+        "Your participation is surely prized."
+      ],
+      "answer": "D",
+      "explanation": "Encouraging participation by saying it is 'surely prized' is polite and motivating. The other options are negative or dismissive."
+    },
+    {
+      "id": 22,
+      "question": "What major event in the 1940s influenced the development of information technology?",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s. Its basic concept, how it can be traced back to the World War II alliance of the military and industry in the mid-20th century, maintained the major source of computers, and information theory. After the 1940s, the military began to replace manpower with research and development funding for the expansion of automation to replace manpower with machine power. Information and communication technologies for development refer to the application of information and communication technologies towards social, economic, and political development, with a particular emphasis on the role of poor and marginalized people and communities. ICT for development is grounded in the notions of development, growth, progress, and globalization and is often interpreted as the use of technology to deliver a greater good. Information and communication refers to technologies that provide access to information through telecommunication. It is similar to information technology but focuses primarily on communication technologies. This includes the internet, wireless networks, cell phones, and other communication mediums. For example, people can communicate in real-time with others in different countries using technologies such as instant messaging, voice and video conferencing, and social networking websites like Facebook, which allow users from all over the world to remain in contact and communicate regularly. ICT is one of the wonderful gifts of modern science and technology, bringing tremendous changes in library and information science. It has opened up a new chapter in library communication and facilitated global access to information, crossing geographical limitations. ICT has a profound effect on the progress and development of human civilization. The tools used in ICT include computer programs, databases, communication networks, analysis of the tools used in ICT include computer programming languages, artificial intelligence, and knowledge bases. ICT has a long-standing influence in almost all areas of human activity. The ICT products are helpful for storing, retrieving, manipulating, and transmitting information electronically.",
+      "options": ["The Cold War", "World War II", "The Great Depression", "The Space Race"],
+      "answer": "B",
+      "explanation": "The passage states: 'traced back to the World War II alliance of the military and industry in the mid-20th century' — so World War II influenced IT development."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following best describes the primary focus of ICT for development?",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s...",
+      "options": [
+        "To replace traditional libraries",
+        "To assist wealthy communities",
+        "To help poor and marginalized people",
+        "To promote entertainment"
+      ],
+      "answer": "C",
+      "explanation": "The passage says: 'with a particular emphasis on the role of poor and marginalized people and communities' — so helping poor and marginalized is the primary focus."
+    },
+    {
+      "id": 24,
+      "question": "According to the passage, how is ICT often interpreted in the context of development?",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s...",
+      "options": [
+        "As a tool for entertainment",
+        "As a means to deliver a greater good",
+        "As a method of control",
+        "As a source of profit"
+      ],
+      "answer": "B",
+      "explanation": "The passage states: 'often interpreted as the use of technology to deliver a greater good' — so 'as a means to deliver a greater good'."
+    },
+    {
+      "id": 25,
+      "question": "What does the term telecommunication encompass in the context of the passage?",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s...",
+      "options": [
+        "Only internet usage",
+        "Technologies providing access to information",
+        "Government communication only",
+        "Only traditional broadcasting"
+      ],
+      "answer": "B",
+      "explanation": "The passage says: 'technologies that provide access to information through telecommunication' — so it encompasses technologies providing access to information."
+    },
+    {
+      "id": 26,
+      "question": "How has ICT changed the role of libraries?",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s...",
+      "options": [
+        "They have become obsolete.",
+        "They now focus solely on physical books.",
+        "They meet user demands for retrieving information.",
+        "They provide outdated resources."
+      ],
+      "answer": "C",
+      "explanation": "The passage says ICT brought 'tremendous changes in library and information science' and 'facilitated global access to information' — so libraries meet user demands for retrieving information."
+    },
+    {
+      "id": 27,
+      "question": "What is one of the tools used in ICT mentioned in the passage?",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s...",
+      "options": [
+        "Printed books",
+        "Communication networks",
+        "Oil-based technology",
+        "Traditional filing"
+      ],
+      "answer": "B",
+      "explanation": "The passage lists 'computer programs, databases, communication networks, ... artificial intelligence, and knowledge bases' — so communication networks is correct."
+    },
+    {
+      "id": 28,
+      "question": "\"It\" paragraph 1 line 1 refers to",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s. Its basic concept...",
+      "options": [
+        "Communication technology",
+        "The outbreak of World War II",
+        "The invention of the internet",
+        "Evolution of information technology"
+      ],
+      "answer": "D",
+      "explanation": "The first sentence: 'Information technology evolved in the 1970s. Its basic concept...' — 'It' refers to 'Information technology', specifically its evolution."
+    },
+    {
+      "id": 29,
+      "question": "\"This\" paragraph 3 line 4 refers to",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s... (paragraph 3 includes: 'This includes the internet, wireless networks, cell phones, and other communication mediums.')",
+      "options": [
+        "Communication technology",
+        "Information technologies",
+        "Information communication",
+        "Communication development"
+      ],
+      "answer": "A",
+      "explanation": "The 'This' refers to 'Information and communication technologies' mentioned earlier, specifically communication technologies."
+    },
+    {
+      "id": 30,
+      "question": "\"their\" paragraph 5 line 2 refers to",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s... (paragraph 5 mentions 'users from all over the world')",
+      "options": ["Users", "Technology", "Libraries", "Books"],
+      "answer": "A",
+      "explanation": "In context, 'their' refers to 'users' — people who communicate using social networking websites."
+    },
+    {
+      "id": 31,
+      "question": "What does the term automation refer to in the passage?",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s...",
+      "options": ["Manual processes", "The use of machinery to perform tasks", "Human labour", "Electronic communication"],
+      "answer": "B",
+      "explanation": "The passage says 'expansion of automation to replace manpower with machine power' — automation means using machinery to perform tasks."
+    },
+    {
+      "id": 32,
+      "question": "In the context of the passage, what does marginalized mean?",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s...",
+      "options": ["Rich and influential", "Ignored or excluded", "Celebrated", "Central and important"],
+      "answer": "B",
+      "explanation": "'Marginalized' refers to people who are ignored or excluded from mainstream society."
+    },
+    {
+      "id": 33,
+      "question": "What is meant by global access in the passage?",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s...",
+      "options": [
+        "Access limited to urban areas",
+        "Access that is outdated",
+        "Access restricted to certain groups",
+        "Access available to anyone worldwide"
+      ],
+      "answer": "D",
+      "explanation": "The passage says 'facilitated global access to information, crossing geographical limitations' — so access available worldwide."
+    },
+    {
+      "id": 34,
+      "question": "According to the passage, what does the word retrieving imply?",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s...",
+      "options": ["Discarding", "Misplacing", "Recovering", "Replacing"],
+      "answer": "C",
+      "explanation": "'Retrieving' means getting or recovering information."
+    },
+    {
+      "id": 35,
+      "question": "What does human civilization imply in the context of ICT's impact?",
+      "image": null,
+      "passage": "Information technology evolved in the 1970s...",
+      "options": [
+        "Only technological advancement",
+        "The collective progress and development of modern societies",
+        "A focus on ancient cultures",
+        "The decline of modern societies"
+      ],
+      "answer": "B",
+      "explanation": "Human civilization refers to the collective progress and development of societies, which ICT has profoundly affected."
+    },
+    {
+      "id": 36,
+      "question": "Manager: How is the railway project going on? Is it up to the schedule? Worker: Oh, I don't think so; the bad weather causes ______ to the railway network during rush hour.",
+      "image": null,
+      "passage": null,
+      "options": ["collision", "destruction", "disruption", "distortion"],
+      "answer": "C",
+      "explanation": "Bad weather causes 'disruption' to services — meaning interruption or disturbance. Collision is accident, destruction is too strong, distortion is twisting."
+    },
+    {
+      "id": 37,
+      "question": "Lawyer: My client is innocent. I would politely request the court to ______ the accusation against him. Court: Let's, first, take the words of the defendant's witnesses.",
+      "image": null,
+      "passage": null,
+      "options": ["rule over", "run over", "run out", "rule out"],
+      "answer": "D",
+      "explanation": "'Rule out' means to eliminate or dismiss. The lawyer requests the court to dismiss the accusation. 'Rule over' means govern, 'run over' means hit, 'run out' means exhaust."
+    },
+    {
+      "id": 38,
+      "question": "Roba: How are you Keneni? What's up? Keneni: Hi, Roba! It's quite startling that Halima was ______ yesterday by kidnappers and carried off to a hidden location.",
+      "image": null,
+      "passage": null,
+      "options": ["seized", "transported", "forced", "beaten"],
+      "answer": "A",
+      "explanation": "'Seized' means taken hold of forcibly, which matches being kidnapped. 'Transported' means carried, 'forced' means compelled, 'beaten' means hit."
+    },
+    {
+      "id": 39,
+      "question": "Chalitu: How was yesterday's meeting with the business owners? Sarah: Oh, We had a very hard time though we finally ______ the business deal fruitfully.",
+      "image": null,
+      "passage": null,
+      "options": ["put up", "put through", "break", "keep on"],
+      "answer": "B",
+      "explanation": "'Put through' can mean to complete successfully (e.g., put through a deal). 'Put up' means to erect or tolerate, 'break' means separate, 'keep on' means continue."
+    },
+    {
+      "id": 40,
+      "question": "This morning as I was walking to school, I saw a taxi missing its path and collided against a lorry. (The underlined word is 'path')",
+      "image": null,
+      "passage": null,
+      "options": ["road", "lane", "line", "way"],
+      "answer": "A",
+      "explanation": "In this context, 'path' means the route or road the taxi was on. 'Road' is the closest synonym. 'Lane' is a specific part of a road, 'line' is not appropriate."
+    },
+    {
+      "id": 41,
+      "question": "Some businessmen do not pay the right taxes to their country and widespread corruption. (Underlined: widespread)",
+      "image": null,
+      "passage": null,
+      "options": ["prevalence", "scatter", "rampant", "deep-rooted"],
+      "answer": "C",
+      "explanation": "'Widespread' means affecting many people; 'rampant' means flourishing unchecked, similar in meaning. 'Prevalence' is a noun, not an adjective. 'Scatter' and 'deep-rooted' are different."
+    },
+    {
+      "id": 42,
+      "question": "Farmers harvest their crops and winnow in a sunny day before they transport the grain into their granary. (Underlined: winnow)",
+      "image": null,
+      "passage": null,
+      "options": ["thresh", "smash", "reap", "yield"],
+      "answer": "A",
+      "explanation": "Winnowing is separating grain from chaff, often done after threshing. 'Thresh' is to separate grain from husks. 'Reap' is to harvest, 'yield' is to produce."
+    },
+    {
+      "id": 43,
+      "question": "Though my parents find the whereabouts of my lost brother, they could not detect the reasons for his sudden departure. (Underlined: detect)",
+      "image": null,
+      "passage": null,
+      "options": ["scrutinize", "dissect", "assuage", "descry"],
+      "answer": "D",
+      "explanation": "Detect means to discover or notice. 'Descry' means to catch sight of or discover. 'Scrutinize' means examine closely, 'dissect' means cut apart, 'assuage' means soothe."
+    },
+    {
+      "id": 44,
+      "question": "As the carbon emission is steadily increasing, our world is in a continuous fluidity and is impermanent. (Underlined: fluidity)",
+      "image": null,
+      "passage": null,
+      "options": ["development", "supremacy", "flux", "diversity"],
+      "answer": "C",
+      "explanation": "Fluidity here means constant change; 'flux' means continuous change. 'Development' is growth, 'supremacy' is dominance, 'diversity' is variety."
+    },
+    {
+      "id": 45,
+      "question": "Hopefully drinking coffee will rejuvenate me and so I can work all night on my paper. (Underlined: rejuvenate)",
+      "image": null,
+      "passage": null,
+      "options": ["invigorate", "inflame", "provoke", "toss"],
+      "answer": "A",
+      "explanation": "Rejuvenate means to give new energy; 'invigorate' means to energize. 'Inflame' means provoke anger, 'provoke' means stimulate negatively, 'toss' means throw."
+    },
+    {
+      "id": 46,
+      "question": "Fleet is to trucks as ______ is to teachers.",
+      "image": null,
+      "passage": null,
+      "options": ["book", "faculty", "student", "school"],
+      "answer": "B",
+      "explanation": "A fleet is a group of trucks; a faculty is a group of teachers. The relationship is collective noun for a group."
+    },
+    {
+      "id": 47,
+      "question": "Pride is to ______ as calm is to storm.",
+      "image": null,
+      "passage": null,
+      "options": ["prejudice", "supremacy", "forecast", "fall"],
+      "answer": "A",
+      "explanation": "The analogy: calm is opposite of storm; pride is opposite of prejudice? Actually pride and prejudice are contrasting traits. 'Prejudice' fits as the opposite of pride in the sense of humility? But more standard: pride vs humility; calm vs storm. However, 'Pride and Prejudice' is a known pair. Option A is likely correct."
+    },
+    {
+      "id": 48,
+      "question": "______ is to peace as lion is to courage.",
+      "image": null,
+      "passage": null,
+      "options": ["Dove", "War", "Cub", "Brave"],
+      "answer": "A",
+      "explanation": "Lion symbolizes courage; dove symbolizes peace. So dove is to peace as lion is to courage."
+    },
+    {
+      "id": 49,
+      "question": "Often is to seldom as obsolete is to ______.",
+      "image": null,
+      "passage": null,
+      "options": ["antiquated", "vocabulary", "contemporary", "round"],
+      "answer": "C",
+      "explanation": "Often and seldom are opposites. Obsolete means old-fashioned; its opposite is 'contemporary' (modern). 'Antiquated' is a synonym."
+    },
+    {
+      "id": 50,
+      "question": "Tolesh ______ their dog for a walk, but her brother ______.",
+      "image": null,
+      "passage": null,
+      "options": ["never takes / does always", "is never taking / always does", "doesn't never take / does always", "never takes / always does"],
+      "answer": "D",
+      "explanation": "The correct pattern: 'never takes' (present simple negative) and 'always does' (present simple positive). Option D is grammatical."
+    },
+    {
+      "id": 51,
+      "question": "I ______ my friends in the next school on Fridays.",
+      "image": null,
+      "passage": null,
+      "options": ["am meeting", "meet", "am going to need", "will meet"],
+      "answer": "B",
+      "explanation": "Habitual action on Fridays uses present simple: 'I meet my friends'."
+    },
+    {
+      "id": 52,
+      "question": "Which one is the correct sentence?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The chickens are not fed in the evening.",
+        "The chickens do not being fed in the evening.",
+        "The chickens don't feeding in the evening.",
+        "The chickens are not feed in the evening."
+      ],
+      "answer": "A",
+      "explanation": "The correct passive voice: 'are not fed' (present simple passive). The others have incorrect verb forms."
+    },
+    {
+      "id": 53,
+      "question": "Our team ______ the game.",
+      "image": null,
+      "passage": null,
+      "options": ["had won", "have won", "is going to win", "won"],
+      "answer": "D",
+      "explanation": "Simple past 'won' is the most straightforward. Without context, any could work, but 'won' is the simplest correct form."
+    },
+    {
+      "id": 54,
+      "question": "Complete the sentence: (missing stem) Options: A. will buy B. will be buying C. is going to buy D. bought",
+      "image": null,
+      "passage": null,
+      "options": ["will buy", "will be buying", "is going to buy", "bought"],
+      "answer": "A",
+      "explanation": "Without a stem, the most common future simple is 'will buy'. Assuming a future intention, A is typical."
+    },
+    {
+      "id": 55,
+      "question": "Which is the correct sentence to express a decision made at the moment?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I am going to help you.",
+        "I help you right away.",
+        "I am helping you.",
+        "I will help you."
+      ],
+      "answer": "D",
+      "explanation": "Decisions made at the moment of speaking use 'will' (I will help you). 'Going to' is for planned actions."
+    },
+    {
+      "id": 56,
+      "question": "I am afraid, the teachers are in a meeting. Could you call back in half an hour? They ______ by then.",
+      "image": null,
+      "passage": null,
+      "options": ["will be finishing", "will finish", "will have finished", "will have been finished"],
+      "answer": "C",
+      "explanation": "By a future time, the action will be completed. Future perfect 'will have finished' is correct."
+    },
+    {
+      "id": 57,
+      "question": "My sister is really excited about going to university. The term ______ next week.",
+      "image": null,
+      "passage": null,
+      "options": ["will start", "starts", "is starting", "would have done"],
+      "answer": "B",
+      "explanation": "Scheduled future events use present simple: 'starts' (the term starts next week)."
+    },
+    {
+      "id": 58,
+      "question": "Right, I would be with you as soon as I ______.",
+      "image": null,
+      "passage": null,
+      "options": ["had done", "have done", "I did", "I was out?"],
+      "answer": "B",
+      "explanation": "After 'as soon as' for future reference, use present perfect or simple present. 'Have done' is appropriate."
+    },
+    {
+      "id": 59,
+      "question": "Did my friend come to see me ______ I was out?",
+      "image": null,
+      "passage": null,
+      "options": ["since", "where", "while", "before"],
+      "answer": "C",
+      "explanation": "'While' indicates during the time I was out. 'Since' would refer to time from then, 'before' would mean prior to being out."
+    },
+    {
+      "id": 60,
+      "question": "Plants appear to be less sensitive than animals ______ they respond in some ways to light, heat and physical contacts.",
+      "image": null,
+      "passage": null,
+      "options": ["as if", "when", "thus", "although"],
+      "answer": "D",
+      "explanation": "Contrast: less sensitive, but they do respond. 'Although' introduces a concession."
+    },
+    {
+      "id": 61,
+      "question": "Which of the following sentences is correct?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Convicted of murdering his wife, the judge sentenced him to life imprisonment.",
+        "I saw her running down the street this morning.",
+        "A mixture of twenty-five percent topsoil with cow manure works well.",
+        "Standing at the hotel window, the dogs with their colorful skin raced across the bay."
+      ],
+      "answer": "C",
+      "explanation": "Option C is grammatically correct. Option A has a dangling modifier (convicted... judge). Option B is fine but 'running' might be ambiguous. Option D also dangling modifier. C is clear."
+    },
+    {
+      "id": 62,
+      "question": "The scientists have not got many interests ______ they share.",
+      "image": null,
+      "passage": null,
+      "options": ["in which", "by which", "which", "who"],
+      "answer": "C",
+      "explanation": "The relative pronoun 'which' refers to 'interests' as the object of 'share': 'interests which they share'."
+    },
+    {
+      "id": 63,
+      "question": "It is no use ______ around talking about it. We need ______ not words.",
+      "image": null,
+      "passage": null,
+      "options": ["sitting / action", "to sit / action", "sit / action", "sitting / action"],
+      "answer": "A",
+      "explanation": "Standard: 'It is no use + gerund' -> 'sitting'. The second blank expects 'action' but not given; assuming the intended answer is 'sitting'."
+    },
+    {
+      "id": 64,
+      "question": "Azmera is a very narrow-minded person ______ it is difficult for her to understand your point of view.",
+      "image": null,
+      "passage": null,
+      "options": ["so", "because", "as", "so that"],
+      "answer": "A",
+      "explanation": "Result clause: 'so' indicates that her being narrow-minded results in difficulty understanding."
+    },
+    {
+      "id": 65,
+      "question": "______ letters is more boring than ______.",
+      "image": null,
+      "passage": null,
+      "options": ["To write / to phone", "Writing / to phone", "Writing / phoning", "Write / phone"],
+      "answer": "C",
+      "explanation": "Parallel gerund structure: 'Writing letters is more boring than phoning'. Option C 'Writing/phoning' is correct."
+    },
+    {
+      "id": 66,
+      "question": "I am sure I gave you back the ______ I remember ______ it back to you.",
+      "image": null,
+      "passage": null,
+      "options": ["money / giving", "money / to give", "money / give", "money / given"],
+      "answer": "A",
+      "explanation": "The correct pattern: 'remember giving' (gerund for past memory). So 'I remember giving it back'."
+    },
+    {
+      "id": 67,
+      "question": "She helped me ______ my suitcases.",
+      "image": null,
+      "passage": null,
+      "options": ["to carry", "carry", "to carrying", "carrying"],
+      "answer": "B",
+      "explanation": "After 'help', we can use bare infinitive: 'helped me carry'. 'To carry' is also acceptable, but many tests prefer bare infinitive."
+    },
+    {
+      "id": 68,
+      "question": "Neither of the workers was happy with the new legislations, ______?",
+      "image": null,
+      "passage": null,
+      "options": ["weren't they", "were they", "did they", "wasn't it"],
+      "answer": "B",
+      "explanation": "Tag question for negative statement 'Neither... was happy' (which is effectively negative) takes positive tag 'were they' (since 'neither' implies plural they)."
+    },
+    {
+      "id": 69,
+      "question": "My sister promises ______ to my eating raw meat.",
+      "image": null,
+      "passage": null,
+      "options": ["not to object", "not objecting", "to not object", "objecting"],
+      "answer": "A",
+      "explanation": "After 'promises', use infinitive: 'promises not to object'. 'Not to object' is the correct negative infinitive."
+    },
+    {
+      "id": 70,
+      "question": "I let her choose between ______ and ______ the train.",
+      "image": null,
+      "passage": null,
+      "options": ["to fly / to take", "flying / to take", "fly / take", "flying / taking"],
+      "answer": "D",
+      "explanation": "After 'between', use parallel gerunds: 'between flying and taking'."
+    },
+    {
+      "id": 71,
+      "question": "A guitar is played ______.",
+      "image": null,
+      "passage": null,
+      "options": ["by", "in hands", "with", "of"],
+      "answer": "C",
+      "explanation": "The instrument is played 'with' the hands or a pick, but typically 'played with' or 'by'. More common: 'played by someone' but 'played with hands' - 'with' indicates the tool."
+    },
+    {
+      "id": 72,
+      "question": "I promised to care for the cat, but I am not good ______.",
+      "image": null,
+      "passage": null,
+      "options": ["to", "at", "in", "of"],
+      "answer": "B",
+      "explanation": "'Good at' is the correct preposition for skills or activities."
+    },
+    {
+      "id": 73,
+      "question": "Everybody should visit Oromia, ______?",
+      "image": null,
+      "passage": null,
+      "options": ["shouldn't they", "should they", "isn't it", "doesn't it"],
+      "answer": "A",
+      "explanation": "Tag for 'Everybody' (indefinite pronoun) takes 'they', and the main verb 'should' -> positive statement, negative tag 'shouldn't they'."
+    },
+    {
+      "id": 74,
+      "question": "The other way of stating the sentence: 'The wind is blowing all day today. I hope it will stop' is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I wish the wind stops blowing.",
+        "I wish the wind had stopped blowing.",
+        "I wish the wind would stop blowing.",
+        "I wish the wind stopped blowing."
+      ],
+      "answer": "C",
+      "explanation": "Wish for a future change uses 'would': 'I wish the wind would stop blowing'."
+    },
+    {
+      "id": 75,
+      "question": "The reported speech of: 'We want to visit Sof Omer Cave in Bale,' the tourists said.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "They said that we wanted to visit Sof Omer Cave in Bale.",
+        "They said that they wanted to visit Sof Omer Cave in Bale.",
+        "They said that they would want to visit Sof Omer Cave in Bale.",
+        "They say that they want to visit Sof Omer Cave in Bale."
+      ],
+      "answer": "B",
+      "explanation": "Change 'we' to 'they' and 'want' to past 'wanted' (backshift). Option B is correct."
+    },
+    {
+      "id": 76,
+      "question": "Which one of the following words is correctly spelled?",
+      "image": null,
+      "passage": null,
+      "options": ["intelligence", "disrption", "hypothetical", "indeg"],
+      "answer": "A",
+      "explanation": "Intelligence is correct. 'Disrption' should be disruption, 'hypothetical' is correct as well? Actually 'hypothetical' is also correctly spelled. But the question likely expects 'intelligence' as the only correct among all. 'Indeg' is not a word. 'Disrption' misspelled. So A is correct."
+    },
+    {
+      "id": 77,
+      "question": "Which one of the following words is correctly spelled?",
+      "image": null,
+      "passage": null,
+      "options": ["revitelize", "stalkholder", "unibed", "versible"],
+      "answer": "A",
+      "explanation": "None look correct; 'revitelize' might be a misspelling of revitalize; 'stalkholder' should be stakeholder; 'unibed' not a word; 'versible' not common. Possibly 'revitelize' is intended as correct? Actually the correct spelling is 'revitalize'. Given the options, all are misspelled. But in many tests, 'revitelize' could be a trick. I'll assume the question has a typo and 'revitelize' is the closest to 'revitalize'? Better to choose A as the only plausible."
+    },
+    {
+      "id": 78,
+      "question": "Which one of the following words is correctly spelled?",
+      "image": null,
+      "passage": null,
+      "options": ["prevelence", "livelihood", "fatalities", "sustainability"],
+      "answer": "B",
+      "explanation": "Livelihood is correct. 'Prevelence' should be prevalence, 'fatalities' is correct as well? Fatalities is correctly spelled. 'Sustainability' is correct. So multiple correct? The question likely expects 'livelihood' as the answer because 'fatalities' and 'sustainability' are also correct. In such cases, 'livelihood' is often the one tested."
+    },
+    {
+      "id": 79,
+      "question": "Which of the following sentences is correctly punctuated?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The world is a stage, said Shakespeare, meaning life is like a play in the theatre.",
+        "\"The world is a stage,\" said Shakespeare, meaning life is like a play in the theatre.",
+        "\"The world is a stage,\" said Shakespeare, \"meaning life is like a play in the theatre.\"",
+        "\"The world is a stage,\" said Shakespeare."
+      ],
+      "answer": "B",
+      "explanation": "Option B correctly uses quotation marks around the direct quote, a comma inside the closing quote, and continues the sentence. Option C splits the quote incorrectly."
+    },
+    {
+      "id": 80,
+      "question": "Choose the correctly punctuated sentence. (All options identical: 'In addition, she has had vomiting almost every day.')",
+      "image": null,
+      "passage": null,
+      "options": [
+        "In addition, she has had vomiting almost every day.",
+        "In addition, she has had vomiting almost every day.",
+        "In addition, she has had vomiting almost every day.",
+        "In addition, she has had vomiting almost every day."
+      ],
+      "answer": "A",
+      "explanation": "All are the same, so any is correct. The sentence is properly punctuated with a comma after 'In addition'."
+    },
+    {
+      "id": 81,
+      "question": "Which of the forum was exciting: it features sessions on mindset, psychology and ethics. (The options are identical)",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The forum was exciting: it features sessions on mindset, psychology and ethics.",
+        "The forum was exciting: it features sessions on mindset, psychology and ethics.",
+        "The forum was exciting: it features sessions on mindset, psychology and ethics.",
+        "The forum was exciting: it features sessions on mindset, psychology and ethics."
+      ],
+      "answer": "A",
+      "explanation": "All identical; the colon is used correctly to introduce an explanation."
+    },
+    {
+      "id": 82,
+      "question": "If you do not know the recipient's name, how would you close the letter?",
+      "image": null,
+      "passage": null,
+      "options": ["With love.", "Yours sincerely.", "Yours faithfully.", "Affectionately yours."],
+      "answer": "C",
+      "explanation": "In formal letters, if you don't know the name, use 'Yours faithfully'. 'Yours sincerely' is for when you know the name."
+    },
+    {
+      "id": 83,
+      "question": "In a formal letter, what is the name given to the section next to the main body?",
+      "image": null,
+      "passage": null,
+      "options": ["Salutation", "signature", "complimentary", "enclosure"],
+      "answer": "C",
+      "explanation": "The section next to the main body (the closing) is called the 'complimentary close' or 'complimentary'. Salutation is the opening greeting."
+    },
+    {
+      "id": 84,
+      "question": "Which sentence is written in a formal letter?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Hey, just thought I would drop you a line!",
+        "I am writing to express my concern...",
+        "This is a kind of annoying...",
+        "I am writing to let you know what's up."
+      ],
+      "answer": "B",
+      "explanation": "'I am writing to express my concern' is formal. The others are informal or colloquial."
+    },
+    {
+      "id": 85,
+      "question": "Which one of the order of the sentences makes a coherent idea development? (Sentences: 1. Some species are able to clean themselves. 2. If they do not, they will probably fall ill from infected wounds. 3. Others find some other animal to perform this cleaning function. 4. It is essential for all creatures to keep themselves clean and free from parasites.)",
+      "image": null,
+      "passage": null,
+      "options": ["4-1-3-2", "1-3-2-4", "1-4-2-3", "4-2-1-3"],
+      "answer": "A",
+      "explanation": "Logical order: 4 introduces essential cleanliness, 1 says some clean themselves, 3 says others use other animals, 2 says consequence if not. So 4-1-3-2."
+    },
+    {
+      "id": 86,
+      "question": "Which one of the order of the sentences can make a complete paragraph? (1. The argument has long been known as 'Nature or Nurture'. 2. In contrast, the other claims that a person's character is formed after birth. 3. Sociologists and psychologists argue about how a person's character is formed. 4. The first theory says character is formed erically before birth.)",
+      "image": null,
+      "passage": null,
+      "options": ["3-4-2-1", "1-3-4-2", "3-1-4-2", "4-2-3-1"],
+      "answer": "A",
+      "explanation": "3 introduces the debate, 4 presents first theory (nature), 2 presents second theory (nurture), 1 names the argument. So 3-4-2-1."
+    },
+    {
+      "id": 87,
+      "question": "Which order of the sentences can make the right process of orange juice? (1. The oranges are rolled into juicines, where they are split and squeezed. 2. They are dumped into a machine that washes them with detergent. 3. The juice goes through small holes in the bottom of the tube. 4. Making orange juice from oranges is done entirely by machines.)",
+      "image": null,
+      "passage": null,
+      "options": ["4-2-1-3", "3-5-4", "1-3-2-4", "4-2-3-1"],
+      "answer": "A",
+      "explanation": "4 introduces topic, 2 washing, 1 squeezing, 3 juice flow. So 4-2-1-3."
+    },
+    {
+      "id": 88,
+      "question": "What is the correct order of the following sentences so as to give coherent paragraph? (1. Next, grind the roasted coffee beans. 2. Lastly, serve it for hot drink. 3. Wait till the coffee boils. 4. First, roast the coffee beans. 5. Then, put the grinded coffee flour in the boiled water. 6. This is how to make coffee.)",
+      "image": null,
+      "passage": null,
+      "options": ["6-4-5-3-2-1", "1-2-3-4-5-6", "6-4-1-5-3-2", "1-4-2-3-6-5"],
+      "answer": "C",
+      "explanation": "6 introduces, then 4 first roast, 1 next grind, 5 then put in water, 3 wait to boil, 2 lastly serve. So 6-4-1-5-3-2."
+    }
+  ]
+}

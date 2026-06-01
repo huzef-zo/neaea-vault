@@ -1,0 +1,637 @@
+{
+  "subject": "Aptitude",
+  "year": "2017 E.C",
+  "paper": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "BAD-TEMPERED : ANGRY :: FLABBERGASTED : ?",
+      "image": null,
+      "passage": null,
+      "options": ["Pleased", "Agitated", "Astonished", "Annoyed"],
+      "answer": "C",
+      "explanation": "Bad-tempered means easily angered; angry is a related state. Flabbergasted means extremely surprised; astonished is a synonym. The relationship is synonym."
+    },
+    {
+      "id": 2,
+      "question": "DOG : BARK :: LION : ?",
+      "image": null,
+      "passage": null,
+      "options": ["Roar", "Bleet", "Scream", "Snort"],
+      "answer": "A",
+      "explanation": "A dog barks; a lion roars. This is animal-sound relationship."
+    },
+    {
+      "id": 3,
+      "question": "COBBLER : LEATHER :: CARPENTER : ?",
+      "image": null,
+      "passage": null,
+      "options": ["Furniture", "Wood", "Hammer", "Chair"],
+      "answer": "B",
+      "explanation": "A cobbler works with leather; a carpenter works with wood. Material-worker relationship."
+    },
+    {
+      "id": 4,
+      "question": "DISRUPTIVE",
+      "image": null,
+      "passage": null,
+      "options": ["Orderly", "Troublesome", "Peaceful", "Helpful"],
+      "answer": "B",
+      "explanation": "Disruptive means causing trouble or disturbance. Troublesome is a synonym."
+    },
+    {
+      "id": 5,
+      "question": "TIMID",
+      "image": null,
+      "passage": null,
+      "options": ["Honest", "Selfish", "Confident", "Fearful"],
+      "answer": "D",
+      "explanation": "Timid means shy and fearful. Fearful is a synonym."
+    },
+    {
+      "id": 6,
+      "question": "EXACERBATE",
+      "image": null,
+      "passage": null,
+      "options": ["Aggravate", "Alleviate", "Improve", "Calm"],
+      "answer": "A",
+      "explanation": "Exacerbate means to make worse. Aggravate is a synonym."
+    },
+    {
+      "id": 7,
+      "question": "DESTITUTE",
+      "image": null,
+      "passage": null,
+      "options": ["Prostitute", "Wealthy", "Healthy", "Generous"],
+      "answer": "B",
+      "explanation": "Destitute means extremely poor; wealthy is the opposite."
+    },
+    {
+      "id": 8,
+      "question": "PERMISSION",
+      "image": null,
+      "passage": null,
+      "options": ["Authorization", "Allowance", "Objection", "Consent"],
+      "answer": "C",
+      "explanation": "Permission means approval; objection is opposition (antonym)."
+    },
+    {
+      "id": 9,
+      "question": "BRAVE",
+      "image": null,
+      "passage": null,
+      "options": ["Cowardly", "Bold", "Robust", "Daring"],
+      "answer": "A",
+      "explanation": "Brave means courageous; cowardly is the opposite."
+    },
+    {
+      "id": 10,
+      "question": "Which word is different? (Options: Distant, Instant, Immediate, Urgent)",
+      "image": null,
+      "passage": null,
+      "options": ["Distant", "Instant", "Immediate", "Urgent"],
+      "answer": "A",
+      "explanation": "Distant means far away in time or space; the others mean prompt or very soon. So distant is the odd one."
+    },
+    {
+      "id": 11,
+      "question": "Which word is different? (Options: Mercury, Venus, Earth, Mars)",
+      "image": null,
+      "passage": null,
+      "options": ["Mercury", "Venus", "Earth", "Mars"],
+      "answer": "C",
+      "explanation": "All are planets, but Earth is the only one known to support life. In some classification, Earth is different as our home planet. Typically, odd one out is Earth because it has liquid water and life."
+    },
+    {
+      "id": 12,
+      "question": "Which word is different? (Options: Contented, Joyful, Cheerful, Miserable)",
+      "image": null,
+      "passage": null,
+      "options": ["Contented", "Joyful", "Cheerful", "Miserable"],
+      "answer": "D",
+      "explanation": "Miserable means very unhappy; the others are positive emotions."
+    },
+    {
+      "id": 13,
+      "question": "The movie was so suspenseful that we thought the _____ must have had a dramatic vision for the plot.",
+      "image": null,
+      "passage": null,
+      "options": ["producer", "screenwriter", "actor", "cameraman"],
+      "answer": "B",
+      "explanation": "The plot is written by the screenwriter; a dramatic vision for the plot is the screenwriter's role."
+    },
+    {
+      "id": 14,
+      "question": "Canine massage is a veterinary technique for calming dogs that are extremely _____.",
+      "image": null,
+      "passage": null,
+      "options": ["incompetent", "controlled", "agitated", "restrained"],
+      "answer": "C",
+      "explanation": "Calming is needed for dogs that are agitated (excited or disturbed)."
+    },
+    {
+      "id": 15,
+      "question": "The student's essay was full of _____ ideas, making it difficult to follow and understand.",
+      "image": null,
+      "passage": null,
+      "options": ["biased", "concise", "muddled", "factual"],
+      "answer": "C",
+      "explanation": "Muddled means confused or disordered; this would make an essay difficult to follow."
+    },
+    {
+      "id": 16,
+      "question": "Her _____ nature made her an excellent listener, as she always took the time to understand the concerns of others.",
+      "image": null,
+      "passage": null,
+      "options": ["empathetic", "dramatic", "apathetic", "optimistic"],
+      "answer": "A",
+      "explanation": "Empathetic means able to understand others' feelings; this fits with being an excellent listener."
+    },
+    {
+      "id": 17,
+      "question": "Despite her _____ as a public orator, in private, Sarah is _____, speaking rarely.",
+      "image": null,
+      "passage": null,
+      "options": ["ineptitude/hesitant", "competence/verbose", "fame/loquacious", "proficiency/actium"],
+      "answer": "A",
+      "explanation": "Given 'speaking rarely' means she is quiet/hesitant. Despite her ineptitude (lack of skill) in public, she is hesitant in private – this is a plausible contrast. Other options do not fit 'speaking rarely'."
+    },
+    {
+      "id": 18,
+      "question": "Correct sentence: No sooner the teacher arrived did the students start their presentation.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "No sooner the teacher arrived did the students start their presentation.",
+        "No sooner did the teacher arrive than the students start their presentation.",
+        "No sooner did the teacher arrive than the students started their presentation.",
+        "No sooner did the teacher arrived than the students started their presentation."
+      ],
+      "answer": "C",
+      "explanation": "Correct structure: 'No sooner did + subject + verb (base) + than + subject + verb (past)'. Option C has 'did the teacher arrive' and 'students started', which is correct."
+    },
+    {
+      "id": 19,
+      "question": "Correct sentence: The instructor requested the pupils submit their project on time.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The instructor requested the pupils submit their project on time.",
+        "The instructor requested that the pupils to submits their project on time.",
+        "The instructor requested that the pupils submitting their project on time.",
+        "The instructor requested that the pupils should submits their project on time."
+      ],
+      "answer": "A",
+      "explanation": "The verb 'request' can be followed by an object + bare infinitive: 'requested the pupils submit'. Option A is correct. The subjunctive form 'requested that the pupils submit' would also be correct but not listed."
+    },
+    {
+      "id": 20,
+      "question": "Correct sentence: Neither the director or the teachers are available for the meeting.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Neither the director or the teachers are available for the meeting.",
+        "Neither the director or the teachers was available for the meeting.",
+        "Neither the director nor the teachers was available for the meeting.",
+        "Neither the director nor the teachers were available for the meeting."
+      ],
+      "answer": "D",
+      "explanation": "Neither...nor is correct; verb agrees with the nearer subject (teachers plural) -> were. So D."
+    },
+    {
+      "id": 21,
+      "question": "Given conditions: Five friends attend different events Monday to Friday. Bob attends Football Match immediately before Emma's Book Reading. Alice attends Art Exhibition immediately after Music Concert. Charlie attends Movie Night on Wednesday. Which of the following is the correct order of events for the week?",
+      "image": null,
+      "passage": "There are five friends (Alice, Bob, Charlie, David, and Emma) who are attending different events on different days of the week from Monday to Friday. The events are: Music Concert, Movie Night, Art Exhibition, Football Match and Book Reading. The following conditions apply: Bob attends the Football Match immediately before Emma's Book Reading. Alice attends the Art Exhibition immediately after the Music Concert. Charlie attends the Movie Night on Wednesday.",
+      "options": [
+        "Music Concert, Book Reading, Art Exhibition, Football Match, Movie Night",
+        "Football Match, Book Reading, Movie Night, Music Concert, Art Exhibition",
+        "Football Match, Music Concert, Movie Night, Art Exhibition, Book Reading",
+        "Art Exhibition, Music Concert, Movie Night, Football Match, Book Reading"
+      ],
+      "answer": "B",
+      "explanation": "Let days be Mon-Fri. Charlie (Movie) on Wed. Order in B: Mon Football, Tue Book, Wed Movie, Thu Music, Fri Art. Bob (Football) on Mon, Emma (Book) on Tue – Mon is immediately before Tue. Alice (Art) after Music: Music Thu, Art Fri – immediately after. Conditions satisfied. So B is correct."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is not possible?",
+      "image": null,
+      "passage": "There are five friends (Alice, Bob, Charlie, David, and Emma) attending different events Monday to Friday. Events: Music Concert, Movie Night, Art Exhibition, Football Match, Book Reading. Conditions: Bob (Football) immediately before Emma (Book). Alice (Art) immediately after Music Concert. Charlie (Movie) on Wednesday.",
+      "options": [
+        "Charlie attends the Movie Night on Friday.",
+        "David attends the Music Concert on Friday.",
+        "Alice attends the Art Exhibition on Tuesday",
+        "Bob attends the Football Match on Thursday."
+      ],
+      "answer": "A",
+      "explanation": "Charlie is given to attend Movie Night on Wednesday. So Friday is not possible."
+    },
+    {
+      "id": 23,
+      "question": "If Emma attends the Book Reading on Friday, on which day does Bob attend Football Match?",
+      "image": null,
+      "passage": "Conditions: Bob (Football) immediately before Emma (Book).",
+      "options": ["Monday", "Tuesday", "Thursday", "Friday"],
+      "answer": "C",
+      "explanation": "If Emma on Friday, Bob must be on Thursday (immediately before)."
+    },
+    {
+      "id": 24,
+      "question": "Four friends are sharing a box of chocolates. They decided that the friend who finished their homework first would get the extra piece. Moti finished his homework 3 minutes before Sena, who finished 10 minutes after Jalane. Tola finished 5 minutes before Sena. Who should get the extra piece?",
+      "image": null,
+      "passage": null,
+      "options": ["Moti", "Sena", "Jalane", "Tola"],
+      "answer": "C",
+      "explanation": "Let Jalane's time = 0. Then Sena = 10, Moti = 7, Tola = 5. Order: Jalane (0), Tola (5), Moti (7), Sena (10). Jalane finished first."
+    },
+    {
+      "id": 25,
+      "question": "Pointing to a photograph of a boy, Mr. Tulu said, 'He is the son of the only son of my mother.' How is Mr. Tulu related to that boy?",
+      "image": null,
+      "passage": null,
+      "options": ["Brother", "Uncle", "Cousin", "Father"],
+      "answer": "D",
+      "explanation": "The only son of my mother = Mr. Tulu himself (if he is the only son). Then the boy is the son of Mr. Tulu. So Mr. Tulu is the father."
+    },
+    {
+      "id": 26,
+      "question": "Kaku lives in a busy city, while his friend Lami lives in a quiet town. Kaku has visited Lami a few times over the past three years, but Lami has never visited Kaku in the city. Which of the following sentences best supports this idea?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Kaku enjoys the calmness of the town more than Lami enjoys the busyness of the city.",
+        "Lami doesn't find the busy city interesting and prefers the quiet town.",
+        "Kaku visits Lami more because he loves him more than Lami does.",
+        "Kaku visits Lami more because he is older than Lami."
+      ],
+      "answer": "B",
+      "explanation": "If Lami doesn't like the busy city, that explains why he never visits. Option B directly supports this."
+    },
+    {
+      "id": 27,
+      "question": "Statement: 'All mathematicians are logical thinkers. Some logical thinkers are not philosophers.' Conclusions: I. Some mathematicians are not philosophers. II. All mathematicians are philosophers. III. Some logical thinkers are philosophers.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Only conclusion III follows",
+        "Neither conclusion follows"
+      ],
+      "answer": "D",
+      "explanation": "We cannot conclude I because mathematicians could be a subset of those logical thinkers who are philosophers. II is false. III is not necessarily true because 'some logical thinkers are not philosophers' does not guarantee existence of any who are philosophers. So none follow."
+    },
+    {
+      "id": 28,
+      "question": "Who is the implied audience?",
+      "image": null,
+      "passage": "Psychology and motivation are crucial in developmental classrooms. Many students enter these classes resentful, feeling they've been denied access to college-level courses. Some have struggled in previous academic settings, where they lacked support and found their classes ineffective. These students often expect little from themselves and their instructors, which leads to underperformance.\n\nTeachers must recognize these misaligned expectations and address them early. If students begin to opt out of assignments, miss classes, or submit work that isn't their best, it's important not to just mark down these failures. Instead, intervention is necessary. Teachers should engage students in a discussion to identify the causes of their lack of motivation or poor performance. This early intervention is key to helping students regain their footing and improve their work.\n\nBy addressing these issues early on, teachers can guide students to better engage with their assignments and make more progress. Ignoring these early signs of disengagement only allows the problem to grow, making it harder for students to succeed later. Helping students recognize their potential and offering timely support can motivate them to perform to the best of their ability.",
+      "options": ["Developmental teachers", "Developmental students", "High school teachers", "Parents of developmental students"],
+      "answer": "A",
+      "explanation": "The passage addresses teachers: 'Teachers must recognize...' So the implied audience is developmental teachers."
+    },
+    {
+      "id": 29,
+      "question": "Which of the following can be inferred from the passage?",
+      "image": null,
+      "passage": "Psychology and motivation are crucial in developmental classrooms. Many students enter these classes resentful, feeling they've been denied access to college-level courses. Some have struggled in previous academic settings, where they lacked support and found their classes ineffective. These students often expect little from themselves and their instructors, which leads to underperformance.\n\nTeachers must recognize these misaligned expectations and address them early. If students begin to opt out of assignments, miss classes, or submit work that isn't their best, it's important not to just mark down these failures. Instead, intervention is necessary. Teachers should engage students in a discussion to identify the causes of their lack of motivation or poor performance. This early intervention is key to helping students regain their footing and improve their work.\n\nBy addressing these issues early on, teachers can guide students to better engage with their assignments and make more progress. Ignoring these early signs of disengagement only allows the problem to grow, making it harder for students to succeed later. Helping students recognize their potential and offering timely support can motivate them to perform to the best of their ability.",
+      "options": [
+        "The writer dislikes developmental students.",
+        "The writer thinks all students should study psychology.",
+        "The writer thinks that teachers criticize students too much.",
+        "The writer wants to help developmental teachers understand students."
+      ],
+      "answer": "D",
+      "explanation": "The passage offers advice to teachers on how to handle students' lack of motivation. The writer wants to help teachers understand and intervene effectively."
+    },
+    {
+      "id": 30,
+      "question": "As presented in the first paragraph, a main challenge developmental students face is to:",
+      "image": null,
+      "passage": "Psychology and motivation are crucial in developmental classrooms. Many students enter these classes resentful, feeling they've been denied access to college-level courses. Some have struggled in previous academic settings, where they lacked support and found their classes ineffective. These students often expect little from themselves and their instructors, which leads to underperformance.\n\nTeachers must recognize these misaligned expectations and address them early. If students begin to opt out of assignments, miss classes, or submit work that isn't their best, it's important not to just mark down these failures. Instead, intervention is necessary. Teachers should engage students in a discussion to identify the causes of their lack of motivation or poor performance. This early intervention is key to helping students regain their footing and improve their work.\n\nBy addressing these issues early on, teachers can guide students to better engage with their assignments and make more progress. Ignoring these early signs of disengagement only allows the problem to grow, making it harder for students to succeed later. Helping students recognize their potential and offering timely support can motivate them to perform to the best of their ability.",
+      "options": [
+        "Overcome their hatred of teachers in general",
+        "Understand what will be expected of them in college",
+        "Stay motivated and do their assignments to the best of their ability",
+        "Manage their time so they can pass their classes despite work and family commitments"
+      ],
+      "answer": "C",
+      "explanation": "First paragraph says students have low expectations, leading to underperformance. The challenge is to stay motivated and do their best."
+    },
+    {
+      "id": 31,
+      "question": "The reason the author refers to students' opting out of assignments and missing classes is to:",
+      "image": null,
+      "passage": "Psychology and motivation are crucial in developmental classrooms. Many students enter these classes resentful, feeling they've been denied access to college-level courses. Some have struggled in previous academic settings, where they lacked support and found their classes ineffective. These students often expect little from themselves and their instructors, which leads to underperformance.\n\nTeachers must recognize these misaligned expectations and address them early. If students begin to opt out of assignments, miss classes, or submit work that isn't their best, it's important not to just mark down these failures. Instead, intervention is necessary. Teachers should engage students in a discussion to identify the causes of their lack of motivation or poor performance. This early intervention is key to helping students regain their footing and improve their work.\n\nBy addressing these issues early on, teachers can guide students to better engage with their assignments and make more progress. Ignoring these early signs of disengagement only allows the problem to grow, making it harder for students to succeed later. Helping students recognize their potential and offering timely support can motivate them to perform to the best of their ability.",
+      "options": [
+        "Warn developmental students not to lose motivation",
+        "Shame students for being slackers and not taking class seriously",
+        "Warn developmental teachers to take action to prevent students from failing",
+        "Give an example of which students should not be allowed to take college-level classes"
+      ],
+      "answer": "C",
+      "explanation": "The author mentions these behaviors as signs that teachers should intervene, not just mark failures. So to warn teachers to take action."
+    },
+    {
+      "id": 32,
+      "question": "Author's main argument about self-driving cars:",
+      "image": null,
+      "passage": "Today, even toasters can be voice-activated, so it's no surprise that cars are becoming fully automated. Self-driving cars can navigate without human intervention, scanning their surroundings to drive. While this technology offers convenience, the challenges it presents make it largely undesirable. The main issue is the lack of legal frameworks and regulations for autonomous vehicles, leaving room for disastrous risks, including cyber-attacks by hackers or terrorists.\n\nAlthough driver-assisted features like speed control or emergency braking offer clear benefits, they are fundamentally different from full automation. Automated systems are helpful, but the technology still requires addressing safety concerns and potential risks. As technology advances, it's important to draw a line and assert that humans, not computers, should be responsible for driving vehicles. Self-driving cars offer promise, but the unresolved problems make them less appealing at this stage.",
+      "options": [
+        "There are no laws that govern automated vehicles.",
+        "People have become too lazy if they can't even drive their own cars.",
+        "Although convenient, self-driving cars would lead to an increase in terrorism.",
+        "The potential dangers of self-driving cars are much greater than the advantages they offer."
+      ],
+      "answer": "D",
+      "explanation": "The author says challenges make them largely undesirable, unresolved problems make them less appealing, and safety concerns need addressing. So dangers outweigh advantages."
+    },
+    {
+      "id": 33,
+      "question": "What does the author suggest about the future of self-driving cars?",
+      "image": null,
+      "passage": "Today, even toasters can be voice-activated, so it's no surprise that cars are becoming fully automated. Self-driving cars can navigate without human intervention, scanning their surroundings to drive. While this technology offers convenience, the challenges it presents make it largely undesirable. The main issue is the lack of legal frameworks and regulations for autonomous vehicles, leaving room for disastrous risks, including cyber-attacks by hackers or terrorists.\n\nAlthough driver-assisted features like speed control or emergency braking offer clear benefits, they are fundamentally different from full automation. Automated systems are helpful, but the technology still requires addressing safety concerns and potential risks. As technology advances, it's important to draw a line and assert that humans, not computers, should be responsible for driving vehicles. Self-driving cars offer promise, but the unresolved problems make them less appealing at this stage.",
+      "options": [
+        "They will eventually replace all human-driven vehicles",
+        "They are completely safe and ready for widespread use",
+        "They offer convenience, but there are still major unresolved issues",
+        "They are not yet technologically advanced enough to be implemented"
+      ],
+      "answer": "C",
+      "explanation": "Author says 'self-driving cars offer promise, but the unresolved problems make them less appealing' – so convenience exists but major issues remain."
+    },
+    {
+      "id": 34,
+      "question": "Author's stance on the role of humans in driving vehicles:",
+      "image": null,
+      "passage": "Today, even toasters can be voice-activated, so it's no surprise that cars are becoming fully automated. Self-driving cars can navigate without human intervention, scanning their surroundings to drive. While this technology offers convenience, the challenges it presents make it largely undesirable. The main issue is the lack of legal frameworks and regulations for autonomous vehicles, leaving room for disastrous risks, including cyber-attacks by hackers or terrorists.\n\nAlthough driver-assisted features like speed control or emergency braking offer clear benefits, they are fundamentally different from full automation. Automated systems are helpful, but the technology still requires addressing safety concerns and potential risks. As technology advances, it's important to draw a line and assert that humans, not computers, should be responsible for driving vehicles. Self-driving cars offer promise, but the unresolved problems make them less appealing at this stage.",
+      "options": [
+        "Humans should only drive in emergencies",
+        "Humans should be responsible for driving, not computers",
+        "Humans should stop driving and let computers take control",
+        "Humans should only be allowed to drive on certain roads"
+      ],
+      "answer": "B",
+      "explanation": "Author says 'it's important to assert that humans, not computers, should be responsible for driving vehicles.'"
+    },
+    {
+      "id": 35,
+      "question": "Main difference between driver-assisted technology and full automation:",
+      "image": null,
+      "passage": "Today, even toasters can be voice-activated, so it's no surprise that cars are becoming fully automated. Self-driving cars can navigate without human intervention, scanning their surroundings to drive. While this technology offers convenience, the challenges it presents make it largely undesirable. The main issue is the lack of legal frameworks and regulations for autonomous vehicles, leaving room for disastrous risks, including cyber-attacks by hackers or terrorists.\n\nAlthough driver-assisted features like speed control or emergency braking offer clear benefits, they are fundamentally different from full automation. Automated systems are helpful, but the technology still requires addressing safety concerns and potential risks. As technology advances, it's important to draw a line and assert that humans, not computers, should be responsible for driving vehicles. Self-driving cars offer promise, but the unresolved problems make them less appealing at this stage.",
+      "options": [
+        "Full automation is more expensive",
+        "Full automation has more safety features",
+        "Driver-assisted technology can handle emergencies better",
+        "Driver-assisted technology still requires human intervention, while full automation does not"
+      ],
+      "answer": "D",
+      "explanation": "Driver-assisted features (like speed control) still require human oversight; full automation does not require human intervention."
+    },
+    {
+      "id": 36,
+      "question": "The integers x and y are greater than 1. If (4x)(7y) = 756, what is the value of x + y?",
+      "image": null,
+      "passage": null,
+      "options": ["9", "27", "12", "15"],
+      "answer": "C",
+      "explanation": "4x * 7y = 28xy = 756 → xy = 27. Since x,y >1 integers, possible pairs (3,9) or (9,3). x+y=12."
+    },
+    {
+      "id": 37,
+      "question": "Heran is scheduled to get a raise of 200 birr every 6 month during her first year on the job. If her starting salary is Birr 30000 per year. What is her annual salary at the end of 3 year?",
+      "image": null,
+      "passage": null,
+      "options": ["30400", "31200", "34200", "30800"],
+      "answer": "A",
+      "explanation": "Raise of 200 birr every 6 months means annual raise of 400 birr? But the problem says 'during her first year', so only the first year's raises count. Starting 30000. After first 6 months: +200, after second 6 months: another +200, so by end of first year her annual salary becomes 30400. For the next two years, no further raises mentioned, so salary remains 30400. End of 3 years: 30400. Answer A."
+    },
+    {
+      "id": 38,
+      "question": "Which one of the following number is different from the other",
+      "image": null,
+      "passage": null,
+      "options": ["47", "79", "97", "77"],
+      "answer": "D",
+      "explanation": "47, 79, 97 are prime numbers; 77 is composite (7×11). So 77 is different."
+    },
+    {
+      "id": 39,
+      "question": "What is the product root of quadratic equation (4/5)x² - (43/60)x - 1/6 = 0?",
+      "image": null,
+      "passage": null,
+      "options": ["-5/24", "43/48", "-5/28", "-14/15"],
+      "answer": "A",
+      "explanation": "For ax²+bx+c=0, product of roots = c/a. Here a=4/5, c=-1/6. Product = (-1/6)/(4/5)=(-1/6)*(5/4)= -5/24."
+    },
+    {
+      "id": 40,
+      "question": "From a group of 7men and 6women, five persons are to be selected to form a committee so that at least 3men are there in the committee. In how many ways can it be done?",
+      "image": null,
+      "passage": null,
+      "options": ["564", "645", "735", "756"],
+      "answer": "D",
+      "explanation": "Ways = (3 men,2 women) + (4 men,1 woman) + (5 men,0 women) = C(7,3)C(6,2)+C(7,4)C(6,1)+C(7,5)C(6,0)=35×15+35×6+21×1=525+210+21=756."
+    },
+    {
+      "id": 41,
+      "question": "In an election between two candidates, one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got, was:",
+      "image": null,
+      "passage": null,
+      "options": ["2700", "2900", "3000", "3100"],
+      "answer": "A",
+      "explanation": "Total valid votes = 80% of 7500 = 6000. One candidate got 55% of valid = 0.55×6000=3300. Other got 6000-3300=2700."
+    },
+    {
+      "id": 42,
+      "question": "Suppose you have a right triangle where the shorter leg is 13cm less than the longer leg. The hypotenuse is 13cm longer than the larger leg. What is the length of hypotenuse?",
+      "image": null,
+      "passage": null,
+      "options": ["48cm", "65cm", "45cm", "47cm"],
+      "answer": "B",
+      "explanation": "Let longer leg = a, shorter = a-13, hypotenuse = a+13. Pythagoras: (a-13)² + a² = (a+13)² → a²-26a+169+a² = a²+26a+169 → a² -52a=0 → a=52. Hypotenuse = 65."
+    },
+    {
+      "id": 43,
+      "question": "In the sequence 1, 4, 11, 22, 37, 56, X, 96, _ _ _ , what is the value of X?",
+      "image": null,
+      "passage": null,
+      "options": ["79", "75", "71", "66"],
+      "answer": "A",
+      "explanation": "Differences: 3,7,11,15,19,... each increases by 4. Next difference 23, so X = 56+23 = 79. Then next difference 27 gives 106, but they have 96 after X? Possibly a typo, but 79 fits the pattern."
+    },
+    {
+      "id": 44,
+      "question": "A person plans to open a new savings account at three different banks: Bank A, Bank B, and Bank C. Each bank offers an interest rate of 2.44%, but the compounding frequencies are different: Bank A compounds annually, Bank B compounds semi-annually, and Bank C compounds monthly. Which bank is offering the highest effective interest rate?",
+      "image": null,
+      "passage": null,
+      "options": ["Bank A", "Bank B", "Bank C", "A and B"],
+      "answer": "C",
+      "explanation": "More frequent compounding yields higher effective annual rate. Monthly (Bank C) gives the highest."
+    },
+    {
+      "id": 45,
+      "question": "In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?",
+      "image": null,
+      "passage": null,
+      "options": ["1/3", "2/4", "7/19", "8/21"],
+      "answer": "A",
+      "explanation": "Neither red nor green = blue. Total balls = 21, blue = 7, probability = 7/21 = 1/3."
+    },
+    {
+      "id": 46,
+      "question": "Saron has Birr 15,000 to invest. She plans to invest part of it in a savings account that offers 6% annual interest and the rest in a bond that offers 7.5% annual interest. She wants to earn a total of Birr 975 in interest each year. How much should she invest in each option?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Birr 9000 at 6%, Birr 6000 at 7.5%",
+        "Birr 11000 at 6%, Birr 4000 at 7.5%",
+        "Birr 10000 at 6%, Birr 5000 at 7.5%",
+        "Birr 7500 at 6%, Birr 7500 at 7.5%"
+      ],
+      "answer": "C",
+      "explanation": "Let x at 6%, then 15000-x at 7.5%. 0.06x + 0.075(15000-x)=975 → 0.06x+1125-0.075x=975 → -0.015x=-150 → x=10000. So 10000 at 6%, 5000 at 7.5%."
+    },
+    {
+      "id": 47,
+      "question": "If the degree measure of each interior angle of a regular polygon is 140 degrees, how many sides does the polygon have?",
+      "image": null,
+      "passage": null,
+      "options": ["9", "6", "8", "12"],
+      "answer": "A",
+      "explanation": "Interior angle = (n-2)×180/n = 140 → 180n-360=140n → 40n=360 → n=9."
+    },
+    {
+      "id": 48,
+      "question": "Which one of the following is not in the term of sequence 3,6,12,24...?",
+      "image": null,
+      "passage": null,
+      "options": ["84", "384", "192", "768"],
+      "answer": "A",
+      "explanation": "Sequence doubles: 3,6,12,24,48,96,192,384,768,... 84 is not a term."
+    },
+    {
+      "id": 49,
+      "question": "The sum of the present ages of a father and his son is 60 years. Six years ago, father's age was five times the age of the son. After 6 years, son's age will be:",
+      "image": null,
+      "passage": null,
+      "options": ["12 years", "14 years", "18 years", "20 years"],
+      "answer": "D",
+      "explanation": "Let f+s=60. f-6=5(s-6) → f-6=5s-30 → f=5s-24. Substitute: 5s-24+s=60 → 6s=84 → s=14. After 6 years, son=20."
+    },
+    {
+      "id": 50,
+      "question": "Abdisa, Hawai and Wariyo combined their money to purchase a laptop. Together they paid a total of 49000 birr for laptop including VAT. Abdisa paid 5000 birr more than Hawai paid and Hawai paid twice as much as Wariyo paid. How much abdisa paid?",
+      "image": null,
+      "passage": null,
+      "options": ["17600", "8800", "22600", "10800"],
+      "answer": "C",
+      "explanation": "Let Wariyo = x, Hawai = 2x, Abdisa = 2x+5000. Total = x+2x+2x+5000 = 5x+5000 = 49000 → 5x=44000 → x=8800. Abdisa = 2*8800+5000 = 17600+5000 = 22600."
+    },
+    {
+      "id": 51,
+      "question": "When the integer y is divided by 17, the quotient is p and the remainder is 5, when y is divide by 23, the quotient is q and the remainder is 14. Which one of the following is true?",
+      "image": null,
+      "passage": null,
+      "options": ["23p + 17q = 19", "17p - 23q = 9", "14p - 5q = 6", "5p - 14q = 6"],
+      "answer": "B",
+      "explanation": "y = 17p+5 = 23q+14 → 17p - 23q = 14-5 = 9. So B is correct."
+    },
+    {
+      "id": 52,
+      "question": "Which one of the following is not true about the graph of f(x)=log₂x?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The domain is the set of positive real number",
+        "The X-intercept of the function is 1",
+        "It is an increasing function",
+        "The domain of the function is the set of rear number"
+      ],
+      "answer": "D",
+      "explanation": "Domain of log₂x is x>0, not all real numbers. So D is false."
+    },
+    {
+      "id": 53,
+      "question": "A product is sold for 1500 birr, and the seller gains a 25% profit. What should be the selling price to gain a 40% profit?",
+      "image": null,
+      "passage": null,
+      "options": ["1200", "1600", "1680", "1800"],
+      "answer": "C",
+      "explanation": "Cost price = 1500 / 1.25 = 1200. For 40% profit, SP = 1200 × 1.4 = 1680."
+    },
+    {
+      "id": 54,
+      "question": "Suppose that 0 < X < 1. Compare the following two quantities. Quantity A: X², Quantity B: X³.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Quantity A is equal to quantity B",
+        "The relationship cannot determine from information's",
+        "Quantity A is greater than quantity B",
+        "Quantity B is greater than A"
+      ],
+      "answer": "C",
+      "explanation": "For 0<X<1, X² > X³ because multiplying by X (fraction) makes smaller. So A > B."
+    },
+    {
+      "id": 55,
+      "question": "Suppose ΔXYZ is an equilateral triangle and point P lie on segment XY. Compare XP and PY.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Quantity A is greater than B",
+        "The relation cannot determine",
+        "The two quantities are equal",
+        "Quantity B is greater than A"
+      ],
+      "answer": "B",
+      "explanation": "P is any point on XY, so XP and PY can vary; cannot determine without additional information."
+    },
+    {
+      "id": 56,
+      "question": "What will be the approximate number of females below standard level of line in M if the students of town M is 6000?",
+      "image": null,
+      "passage": "Town: M. Percentage below standard: 26%. Proportion below M:F = 2:3.",
+      "options": ["870", "936", "780", "970"],
+      "answer": "B",
+      "explanation": "Total below = 26% of 6000 = 1560. Ratio M:F = 2:3, so females = (3/5)×1560 = 936."
+    },
+    {
+      "id": 57,
+      "question": "What will be the approximate number of females above standard level of line in town O if it is known that the students of town O is 5500?",
+      "image": null,
+      "passage": "Town O: percentage below = 16%, so above = 84%. Above M:F = 3:2.",
+      "options": ["1848", "1843", "1484", "1578"],
+      "answer": "A",
+      "explanation": "Above standard = 84% of 5500 = 4620. Ratio M:F = 3:2, so females = (2/5)×4620 = 1848."
+    },
+    {
+      "id": 58,
+      "question": "If the male students above standard level line for town R is 5400, then what is the total students of town R?",
+      "image": null,
+      "passage": "Town R: below = 18%, above = 82%. Above M:F = 5:7.",
+      "options": ["14500", "15000", "15805", "1250"],
+      "answer": "C",
+      "explanation": "Above standard males = 5400, ratio M:F = 5:7, so above total = (12/5)×5400 = 12960. This is 82% of total. Total = 12960 / 0.82 = 15804.88 ≈ 15805."
+    },
+    {
+      "id": 59,
+      "question": "If the male students below standard level line for town A is 3000, then what is the students of females above standard level of line in that town?",
+      "image": null,
+      "passage": "Town A: below = 36%, above = 64%. Below M:F = 4:5; above M:F = 2:3.",
+      "options": ["6400", "6800", "6200", "7200"],
+      "answer": "D",
+      "explanation": "Below males = 3000, ratio 4:5, so total below = (9/4)×3000 = 6750. This is 36% of total, so total = 6750/0.36 = 18750. Above = 64% of 18750 = 12000. Ratio above M:F = 2:3, so females above = (3/5)×12000 = 7200."
+    },
+    {
+      "id": 60,
+      "question": "What will be the approximate sum of students in town O, R and M score in above the standard level of the line if the total students in each town are 4000,5000 and 8000 respectively?",
+      "image": null,
+      "passage": "Town O: above 84%; Town R: above 82%; Town M: above 74% (since below 26%).",
+      "options": ["13380", "12280", "14480", "13330"],
+      "answer": "A",
+      "explanation": "O: 84% of 4000 = 3360; R: 82% of 5000 = 4100; M: 74% of 8000 = 5920; sum = 3360+4100+5920 = 13380."
+    }
+  ]
+}

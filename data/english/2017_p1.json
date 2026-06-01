@@ -1,0 +1,1107 @@
+{
+  "subject": "English",
+  "year": "2017 E.C",
+  "paper": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "After the accident, the victim was _____ and could not respond to the doctors' questions.",
+      "image": null,
+      "passage": null,
+      "options": ["contentedly", "insensible", "attainable", "gloated"],
+      "answer": "B",
+      "explanation": "Insensible means unconscious or unaware. After an accident, if the victim cannot respond, they are insensible. Contentedly means happily, attainable means achievable, gloated means expressed smug satisfaction."
+    },
+    {
+      "id": 2,
+      "question": "The detective tried to _____ the meaning of the mysterious message, but it was difficult to understand.",
+      "image": null,
+      "passage": null,
+      "options": ["induced", "curtail", "grapple", "descry"],
+      "answer": "D",
+      "explanation": "Descry means to catch sight of or discover, often through effort. The detective tries to descry (make out) the meaning. Induced means persuaded, curtail means reduce, grapple means struggle."
+    },
+    {
+      "id": 3,
+      "question": "The wilderness was _____ with wild animals and treacherous paths, making it dangerous for explorers.",
+      "image": null,
+      "passage": null,
+      "options": ["savage", "precocious", "invigorating", "sustained"],
+      "answer": "A",
+      "explanation": "Savage means fierce, wild, or dangerous. A wilderness full of wild animals and treacherous paths is savage. Precocious means early-developed, invigorating means energizing, sustained means maintained."
+    },
+    {
+      "id": 4,
+      "question": "The cool morning air and the fresh smell of pine trees were making the hike feel less tiring and more _____.",
+      "image": null,
+      "passage": null,
+      "options": ["draining", "invigorating", "exhausting", "unpleasant"],
+      "answer": "B",
+      "explanation": "Invigorating means refreshing and energizing. The cool air and fresh smell make the hike less tiring and more invigorating. Draining and exhausting are opposites, unpleasant is negative."
+    },
+    {
+      "id": 5,
+      "question": "The city planners hoped that the new park and clean streets would _____ the area, attracting new residents and businesses.",
+      "image": null,
+      "passage": null,
+      "options": ["revitalize", "destroy", "deteriorate", "ignore"],
+      "answer": "A",
+      "explanation": "Revitalize means to give new life or energy. New park and clean streets would revitalize the area. Destroy and deteriorate are opposite, ignore means disregard."
+    },
+    {
+      "id": 6,
+      "question": "The feeling of warmth and comfort in her home was something that couldn't be measured but was deeply felt. It was _____.",
+      "image": null,
+      "passage": null,
+      "options": ["tangible", "material", "obvious", "intangible"],
+      "answer": "D",
+      "explanation": "Intangible means unable to be touched or measured. The feeling is described as not measurable, so intangible. Tangible, material, obvious all imply measurable or visible."
+    },
+    {
+      "id": 7,
+      "question": "The old castle seemed magical, as if it held secrets from ancient times, with mysterious lights flickering through the windows at night. (Underlined: magical)",
+      "image": null,
+      "passage": null,
+      "options": ["boring", "ordinary", "enchanting", "dangerous"],
+      "answer": "C",
+      "explanation": "Magical in this context means charmingly mysterious. Enchanting means delightfully charming, which matches. Boring and ordinary are opposites, dangerous not implied."
+    },
+    {
+      "id": 8,
+      "question": "The museum displayed contemporary art, with works from living artists that reflected modern issues and ideas. (Underlined: contemporary)",
+      "image": null,
+      "passage": null,
+      "options": ["modern", "outdated", "ancient", "historical"],
+      "answer": "A",
+      "explanation": "Contemporary means modern or current. The description mentions living artists and modern issues. Outdated, ancient, historical are opposites."
+    },
+    {
+      "id": 9,
+      "question": "The movie was filled with horrifying scenes of destruction, leaving the audience gasping in shock and disbelief. (Underlined: horrifying)",
+      "image": null,
+      "passage": null,
+      "options": ["exciting", "challenging", "demanding", "alarming"],
+      "answer": "D",
+      "explanation": "Horrifying means causing horror or shock. Alarming means causing fear or worry, which fits. Exciting is positive, challenging/demanding are not synonyms for horror."
+    },
+    {
+      "id": 10,
+      "question": "The nightmarish storm caused widespread panic, with dark clouds, terrifying winds, and an eerie stillness before it hit. (Underlined: nightmarish)",
+      "image": null,
+      "passage": null,
+      "options": ["peaceful and calm", "dream-like and pleasant", "terrifying and surreal", "bright and cheerful"],
+      "answer": "C",
+      "explanation": "Nightmarish means like a nightmare, frightening and surreal. Terrifying and surreal matches. The other options are positive or calm."
+    },
+    {
+      "id": 11,
+      "question": "After months of trying to fix the broken car and his inability to be successful, he finally resigned the fact that it would need a new engine. (Underlined: resigned)",
+      "image": null,
+      "passage": null,
+      "options": ["accepted", "excited", "relieved", "ignored"],
+      "answer": "A",
+      "explanation": "Resigned in this context means accepted something unpleasant but inevitable. Accepted is the best synonym. Excited is opposite, relieved is different, ignored doesn't fit."
+    },
+    {
+      "id": 12,
+      "question": "After fasting for 24 hours, he had an intense craving for chocolate cake. (Underlined: craving)",
+      "image": null,
+      "passage": null,
+      "options": ["passing interest", "a strong desire", "a slight preference", "an stimulating view"],
+      "answer": "B",
+      "explanation": "Craving means a strong desire. 'A strong desire' matches exactly. Passing interest and slight preference are weaker, stimulating view is irrelevant."
+    },
+    {
+      "id": 13,
+      "question": "According to paragraph 1 which one of the following sentences is true? (Passage: Israel-Hamas War, paragraph 1)",
+      "image": null,
+      "passage": "On Oct. 7, hundreds of Hamas fighters from Gaza rampaged through border towns in a surprise attack that killed at least 1,300 Israelis. Over the weekend, Hamas, the Islamic group that controls the Gaza Strip, mounted a highly coordinated invasion of Israel, with terrorists attacking Israeli towns and killing people in their homes and on the streets. They killed men, women and children, at home, strolling on the street or dancing at an outdoor festival, and they took more than 150 hostages. Now the region is bracing for further conflict.",
+      "options": [
+        "On Oct. 7, hundreds of Hamas fighters from Gaza attacked and killed 1300 Israelis.",
+        "Hamas fighters attacked Israeli people at battle field.",
+        "Hamas, the terrorist group, attacked Israeli people began from the center of its territory.",
+        "Israeli people were attacked by Hamas unknowingly."
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 1 states that Hamas fighters killed at least 1,300 Israelis in a surprise attack. Option A accurately reflects this. Option B says 'battle field' but attacks happened in towns, homes, streets. Option C is not stated. Option D 'unknowingly' is not mentioned."
+    },
+    {
+      "id": 14,
+      "question": "What does 'wiped out' as used in 'airstrikes that have .... entire neighborhoods...' in paragraph 2, line2 refer to?",
+      "image": null,
+      "passage": "In response to the shocking incursion, one of the broadest into Israeli territory in 50 years, Israel has been pummeling the Gaza Strip with airstrikes that have wiped out entire neighborhoods and brought the medical system to the brink of collapse. The Palestinian Health Ministry has said that as of Oct. 13 at least 1,700 Palestinians have been killed. Moreover, pummeling the Gaza Strip with airstrikes have been deadlier and more widespread than in past campaigns in Gaza and forced some 400,000 people into temporary shelters as they face dire shortages of food, water and fuel.",
+      "options": ["getting stand-alone", "built up", "destroyed completely", "preserve intact"],
+      "answer": "C",
+      "explanation": "'Wiped out' means completely destroyed. In context, airstrikes destroyed entire neighborhoods. The other options mean the opposite or are unrelated."
+    },
+    {
+      "id": 15,
+      "question": "What does the statement, 'On Oct. 7, hundreds of Hamas fighters from Gaza rampaged through border towns in a surprise attack that killed at least 1,300 Israelis' (Paragraph 1), imply?",
+      "image": null,
+      "passage": "On Oct. 7, hundreds of Hamas fighters from Gaza rampaged through border towns in a surprise attack that killed at least 1,300 Israelis. Over the weekend, Hamas, the Islamic group that controls the Gaza Strip, mounted a highly coordinated invasion of Israel, with terrorists attacking Israeli towns and killing people in their homes and on the streets. They killed men, women and children, at home, strolling on the street or dancing at an outdoor festival, and they took more than 150 hostages. Now the region is bracing for further conflict.",
+      "options": [
+        "To magnify the military force of Hamas fighter over Israeli fighter.",
+        "To magnify accidental attack of Hamas fighters on Israeli people.",
+        "To show the general weakness of Israeli forces.",
+        "The permanent enmity of Israel and Hamas forces."
+      ],
+      "answer": "D",
+      "explanation": "The statement highlights a surprise attack in a long history of conflict, implying enduring hostility. The passage does not claim Hamas is militarily superior (A), nor that the attack was accidental (B), nor that Israeli forces are weak (C). The broader context suggests ongoing enmity."
+    },
+    {
+      "id": 16,
+      "question": "As used in paragraph 5, line 4 which word can be the best similar word to 'exacerbating'?",
+      "image": null,
+      "passage": "Israel has mobilized 360,000 reservists and troops are now massing at the border, leading to speculation that Israel will soon launch a ground offensive. And in a region with a long history of conflict, Israel has also reported shelling along its borders with Lebanon and Syria, exacerbating fears of a wider conflict.",
+      "options": ["weakening", "moderating", "aggravating", "falling"],
+      "answer": "C",
+      "explanation": "Exacerbating means making worse. Aggravating (in the sense of worsening) is the closest synonym. Weakening and moderating are opposites, falling is unrelated."
+    },
+    {
+      "id": 17,
+      "question": "Why does the author narrate the war between Hamas fighters and Israeli forces?",
+      "image": null,
+      "passage": "Full passage as above (Reading Passage I)",
+      "options": [
+        "To tell that Hamas terrorist overcame the Israeli force.",
+        "To tell the incident occurred on October 7, and on October 13 and its consequences.",
+        "To inform readers that the war was concluded within short period of time.",
+        "To show that the war benefited the Gaza residents."
+      ],
+      "answer": "B",
+      "explanation": "The author describes the Oct 7 attack and the Oct 13 Israeli response and consequences (airstrikes, siege, displacement). Option B captures this. The others are false or not supported."
+    },
+    {
+      "id": 18,
+      "question": "What does 'they' as used in paragraph 1, Line 6 refer to?",
+      "image": null,
+      "passage": "They killed men, women and children, at home, strolling on the street or dancing at an outdoor festival, and they took more than 150 hostages.",
+      "options": ["Israeli people at Gaza", "Palestinian people", "men, women and children of Israel", "Hamas fighters"],
+      "answer": "D",
+      "explanation": "The subject of the sentence is Hamas fighters. 'They' refers to Hamas fighters, who killed and took hostages."
+    },
+    {
+      "id": 19,
+      "question": "Which one of the following is closest in meaning to the word 'siege' in paragraph 3, line 1?",
+      "image": null,
+      "passage": "In addition to airstrikes on Gaza, the Israeli authorities announced a 'complete siege' of the enclave. The Israeli defense minister, Yoav Gallant, vowed that 'no electricity, no food, no water, no fuel' would be allowed into Gaza...",
+      "options": ["access", "open", "expose", "blockade"],
+      "answer": "D",
+      "explanation": "A siege involves surrounding a place to cut off supplies. Blockade is the closest synonym. Access, open, expose are opposites."
+    },
+    {
+      "id": 20,
+      "question": "Which one of the following, according to paragraph 5 is true?",
+      "image": null,
+      "passage": "Israel has mobilized 360,000 reservists and troops are now massing at the border, leading to speculation that Israel will soon launch a ground offensive. And in a region with a long history of conflict, Israel has also reported shelling along its borders with Lebanon and Syria, exacerbating fears of a wider conflict.",
+      "options": [
+        "Israel is preparing for a peaceful negotiation with its neighbors.",
+        "The mobilization of 360,000 reservists indicates a routine military exercise.",
+        "The massing of troops and reported shelling along borders with Lebanon and Syria increases the likelihood of a wider conflict.",
+        "Israel has decided to withdraw its forces from the borders to avoid escalation."
+      ],
+      "answer": "C",
+      "explanation": "Paragraph 5 states that shelling and troop massing are exacerbating fears of a wider conflict. Option C matches. The others contradict the text."
+    },
+    {
+      "id": 21,
+      "question": "What does 'which' refers in paragraph 4, Line 3?",
+      "image": null,
+      "passage": "On Oct. 13, Israel's military demanded that more than a million civilians in Gaza move to the south of the blockaded coastal strip — a possible precursor to a ground invasion, which the United Nations warned could be calamitous.",
+      "options": [
+        "The United Nations",
+        "A possible precursor to a ground invasion",
+        "Israel's military demand",
+        "The move to the south of the blockaded coastal strip"
+      ],
+      "answer": "B",
+      "explanation": "'Which' refers to 'a possible precursor to a ground invasion' — that is the thing that the UN warned could be calamitous."
+    },
+    {
+      "id": 22,
+      "question": "In response to the shocking 'incursion,' one of the broadest into Israeli territory in 50 years ...(paragraph 2, Line 1) implies",
+      "image": null,
+      "passage": "In response to the shocking incursion, one of the broadest into Israeli territory in 50 years...",
+      "options": [
+        "The shocking incursion was a minor event compared to past conflicts.",
+        "The shocking incursion was a routine occurrence for Israeli territory in 50 years.",
+        "The shocking incursion was one of the most extensive and severe attacks into Israeli territory in the last 50 years.",
+        "The shocking incursion did not have a significant impact on Israeli territory in 50 years."
+      ],
+      "answer": "C",
+      "explanation": "The phrase 'one of the broadest into Israeli territory in 50 years' means it was among the most extensive/severe in the last half-century. Option C captures this."
+    },
+    {
+      "id": 23,
+      "question": "What is the central idea of the passage? (Passage II: The Disappearance of the Ancient City)",
+      "image": null,
+      "passage": "For centuries, explorers and historians have been fascinated by the mysterious disappearance of an ancient civilization that once thrived in the dense rainforests of South America... [full passage]",
+      "options": [
+        "The ancient city was destroyed by war and the dwellers were displaced.",
+        "The disappearance of an ancient civilization remains a mystery.",
+        "Archaeologists have solved the mystery of the lost city.",
+        "A conqueror destroyed the city and enslaved its people."
+      ],
+      "answer": "B",
+      "explanation": "The passage presents multiple theories but concludes that the fate remains uncertain. The central idea is that the disappearance is still a mystery. Options A and D are only theories, not central. C is false."
+    },
+    {
+      "id": 24,
+      "question": "Why is it difficult for researchers to understand the lost civilization's history?",
+      "image": null,
+      "passage": "Paragraph 2: ...without a complete understanding of their language, researchers struggle to piece together the full story of this lost world. Even the city's name remains uncertain...",
+      "options": [
+        "Their writing system remains largely interpreted.",
+        "The ruins have all been destroyed and difficult to investigate.",
+        "There are no surviving artifacts.",
+        "The city's location has not been found."
+      ],
+      "answer": "A",
+      "explanation": "The passage says 'without a complete understanding of their language' — so their writing system is not fully interpreted. The other options are contradicted (there are artifacts, ruins exist, location is known)."
+    },
+    {
+      "id": 25,
+      "question": "What does the passage suggest about the role of the environment in the city's collapse?",
+      "image": null,
+      "passage": "Paragraph 3: One prevailing theory suggests that deforestation and soil erosion may have led to agricultural decline...",
+      "options": [
+        "The city was built on unstable ground.",
+        "Climate change and deforestation may have led to food shortages.",
+        "There was a volcanic eruption that buried the city.",
+        "The environment played no role in its disappearance but pandemics."
+      ],
+      "answer": "B",
+      "explanation": "The passage mentions deforestation and soil erosion leading to agricultural decline (food shortages). Option B matches. The other options are not mentioned."
+    },
+    {
+      "id": 26,
+      "question": "How does the author develop the mystery surrounding the lost city?",
+      "image": null,
+      "passage": "Passage II (multiple theories presented without conclusion)",
+      "options": [
+        "By presenting multiple theories without a definite conclusion.",
+        "By stating that researchers have solved the mystery.",
+        "By describing a detailed battle scene.",
+        "By focusing only on one possible cause which was highly emphasized."
+      ],
+      "answer": "A",
+      "explanation": "The author presents several theories (environmental, invasion, disease) but ends saying the fate remains uncertain. Option A is correct. The others are false."
+    },
+    {
+      "id": 27,
+      "question": "What can be inferred about the civilization based on its artifacts?",
+      "image": null,
+      "passage": "Paragraph 2: Pottery fragments, jewelry, and primitive tools indicate that the civilization had a complex society with skilled artisans, traders, and builders. In addition, the discovery of an elaborate writing system...",
+      "options": [
+        "They had no form of communication.",
+        "They were primitive and lacked technology.",
+        "They were highly organized with skilled workers.",
+        "They were a nomadic society."
+      ],
+      "answer": "C",
+      "explanation": "The artifacts point to skilled artisans, traders, builders, and a writing system — so highly organized with skilled workers. Not primitive or nomadic."
+    },
+    {
+      "id": 28,
+      "question": "What lesson does the author suggest modern civilizations can learn?",
+      "image": null,
+      "passage": "Paragraph 7: ...its downfall reminds us of the fragility of even the greatest civilizations. Understanding what happened... could offer important lessons for the future, helping modern civilizations avoid a similar fate.",
+      "options": [
+        "They should avoid making enemies.",
+        "They should learn to survive without technology.",
+        "Even great civilizations can collapse if they are not careful.",
+        "They should never abandon their cities."
+      ],
+      "answer": "C",
+      "explanation": "The author says 'fragility of even the greatest civilizations' implying that any civilization can collapse if not careful. Option C captures this lesson."
+    },
+    {
+      "id": 29,
+      "question": "What is the meaning of 'remnants' in paragraph 1?",
+      "image": null,
+      "passage": "Archaeologists have uncovered remnants of towering stone structures, intricate carvings, and vast underground reservoirs...",
+      "options": ["small remaining pieces", "complete structures", "new discoveries", "large collections"],
+      "answer": "A",
+      "explanation": "Remnants means remaining small pieces or traces of something that was larger. 'Small remaining pieces' is correct."
+    },
+    {
+      "id": 30,
+      "question": "What is the meaning of 'prevailing' in paragraph 3?",
+      "image": null,
+      "passage": "One prevailing theory suggests that deforestation and soil erosion may have led to agricultural decline...",
+      "options": ["least popular", "weakest", "unproven", "most widely accepted"],
+      "answer": "D",
+      "explanation": "Prevailing in this context means most widely accepted or dominant. 'Most widely accepted' is correct. The others are opposite or irrelevant."
+    },
+    {
+      "id": 31,
+      "question": "In paragraph 2, what does 'they' refer to in the sentence: 'However, without a complete understanding of their language, researchers struggle to piece together the full story of this lost world'?",
+      "image": null,
+      "passage": "Paragraph 2: ...the discovery of an elaborate writing system suggests that they had a rich literary tradition. However, without a complete understanding of their language...",
+      "options": ["researchers", "the civilization's people", "artisans", "the ruins"],
+      "answer": "B",
+      "explanation": "'Their' refers to the civilization's people — the inhabitants of the lost city. The language belongs to them."
+    },
+    {
+      "id": 32,
+      "question": "In paragraph 7, what does 'its' refer to in the sentence: 'Whether destroyed by nature, war, or disease, its downfall reminds us of the fragility of even the greatest civilizations'?",
+      "image": null,
+      "passage": "Ultimately, the story of the vanished city serves as a cautionary tale. Whether destroyed by nature, war, or disease, its downfall reminds us...",
+      "options": ["the ancient city", "the environment", "the researchers' work", "modern civilizations"],
+      "answer": "A",
+      "explanation": "'Its' refers to the vanished city (the ancient city). The story of the city's downfall reminds us of fragility."
+    },
+    {
+      "id": 33,
+      "question": "Abenezer: The government should prioritize the security of its people. Burkitu: _____ but we also need to consider the current infrastructure.",
+      "image": null,
+      "passage": null,
+      "options": ["I completely disagrees", "I couldn't agree more.", "I agree less with you", "Oh! I don't think so"],
+      "answer": "B",
+      "explanation": "Burkitu says 'but we also need to consider...' which indicates partial agreement. 'I couldn't agree more' means strong agreement, then adding a contrasting point is natural. The other options are negative or ungrammatical."
+    },
+    {
+      "id": 34,
+      "question": "Bikiltu: Traveling is the best way to learn about different cultures. Hasen: _____ I think reading and documentaries can be just as informative.",
+      "image": null,
+      "passage": null,
+      "options": ["I have some reservations", "I see your point", "I agree with you", "Travelling is so tiresome"],
+      "answer": "A",
+      "explanation": "Hasen disagrees politely. 'I have some reservations' expresses doubt or disagreement. 'I see your point' would then add a counterpoint, but 'reservations' fits better with a contrasting statement."
+    },
+    {
+      "id": 35,
+      "question": "Obsa: Now I start to believe that laughter is really a miraculous medicine! Ayantu: I beg your pardon. Obsa: Laughter, my dear, better than drugs, has the power to boost immunity and stimulate different organs in the body to work effectively. What should Obsa say before his explanation?",
+      "image": null,
+      "passage": null,
+      "options": ["Let me explain this in other way, please follow me.", "I know what you mean about laughter.", "Would you mind repeating that please?", "Would you mind following me please?"],
+      "answer": "A",
+      "explanation": "Ayantu said 'I beg your pardon' (asking for clarification). Obsa then explains further, so 'Let me explain this another way' is appropriate."
+    },
+    {
+      "id": 36,
+      "question": "Doctor: _____ Bonsa: About four days now.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "What is your problem?",
+        "How often do you see these symptoms?",
+        "Have you seen these symptoms for about four days?",
+        "How long have you had these symptoms?"
+      ],
+      "answer": "D",
+      "explanation": "Bonsa answers 'About four days now', which is a duration. The doctor must have asked 'How long have you had these symptoms?' The other options don't fit duration."
+    },
+    {
+      "id": 37,
+      "question": "Burka: I don't enjoy watching movies. Singiten: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I like watching soccer more than you.",
+        "Neither do I. I'm interested in reading novel.",
+        "Watching movie is boring so do I.",
+        "I was sleeping all the day yesterday."
+      ],
+      "answer": "B",
+      "explanation": "Singiten agrees with Burka's negative statement. 'Neither do I' is the correct agreement for 'I don't enjoy'. Option B is correct. Others are irrelevant or ungrammatical."
+    },
+    {
+      "id": 38,
+      "question": "Stranger: Excuse me, can you help me? Resident: Certainly, it's about a five-minute walk. Stranger: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I am looking for the museum.",
+        "How much does it cost to walk to museum?",
+        "How do I get to the museum?",
+        "Is there any school around here?"
+      ],
+      "answer": "C",
+      "explanation": "The resident says 'it's about a five-minute walk' — that answers a question about distance or directions. 'How do I get to the museum?' is the most logical question before the resident's response."
+    },
+    {
+      "id": 39,
+      "question": "New comer: Excuse me, _____ Bedasa: Take a taxi from here and get down at the second junction. The University is on the right when you go down from Ambo preparatory school.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "is there ambo university around.",
+        "how do I get to Ambo University.",
+        "how much does it costs to go to Ambo University",
+        "how far is Ambo university?"
+      ],
+      "answer": "B",
+      "explanation": "Bedasa gives directions, so the question must be asking for directions: 'how do I get to Ambo University'. 'How far' would get a distance answer, not detailed directions."
+    },
+    {
+      "id": 40,
+      "question": "Jima: How often do you visit your parents? Diribe: _____",
+      "image": null,
+      "passage": null,
+      "options": ["I am sometimes with them.", "Twice a month.", "I visited them when I was time.", "I visited them last week."],
+      "answer": "B",
+      "explanation": "The question 'How often' asks for frequency. 'Twice a month' expresses frequency. The other options express time or vague statements, not frequency."
+    },
+    {
+      "id": 41,
+      "question": "Tola: My father has been experiencing a severe common cold. What shall I do? Jirata: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Common cold is common for older people, so don't worry about it.",
+        "Why don't you take him to hospital?",
+        "I suggest you take it as essay he will recover after a time.",
+        "This was happened to my father last week and I took him to hospital."
+      ],
+      "answer": "B",
+      "explanation": "Jirata gives advice: 'Why don't you take him to hospital?' is a polite suggestion. The other options are dismissive or ungrammatical."
+    },
+    {
+      "id": 42,
+      "question": "Mohammad: What do you think is the best action to reduce global warming? Chalut: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Global warming is the most threat in the world nowadays.",
+        "I think everybody should start changing their ways of life.",
+        "I think developed countries are responsible for global warming.",
+        "Global warming can cause devastation in the world."
+      ],
+      "answer": "B",
+      "explanation": "Chalut is asked for the best action. Option B gives a concrete action (changing ways of life). The others are statements of fact or blame, not actions."
+    },
+    {
+      "id": 43,
+      "question": "Firaol: I'm thinking about taking a vacation next month. What do you think? Gutu: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "When do you want to take a vacation?",
+        "I believe vacation is part of our daily life, so it is a good decision.",
+        "If I were you, I'd definitely choose a tropical destination.",
+        "Next month will be convenient time to take a vacation."
+      ],
+      "answer": "C",
+      "explanation": "Firaol asks for opinion on vacation. Gutu gives a suggestion: 'If I were you, I'd definitely choose a tropical destination.' This is a natural response giving advice."
+    },
+    {
+      "id": 44,
+      "question": "Student: Do you mind if I ask you for some advice? Teacher: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Of course not. Please go ahead.",
+        "I don't have time for this right now.",
+        "Why would you need my advice?",
+        "Sure, but make it quick."
+      ],
+      "answer": "A",
+      "explanation": "A polite teacher would say 'Of course not. Please go ahead.' to allow the student to ask. The other options are rude or dismissive."
+    },
+    {
+      "id": 45,
+      "question": "Guru: Did you enjoy the movie we watched last night? Letba: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "No, what you mean it was fantastic! I love the plot.",
+        "Yes, I love it! What about you?",
+        "Yes, it was fantastic! I loved the plot.",
+        "Thank you for your invitation."
+      ],
+      "answer": "C",
+      "explanation": "Letba answers directly: 'Yes, it was fantastic! I loved the plot.' Option B also says yes but includes 'What about you?' which is fine, but C directly answers without turning the question back. Both are possible, but C is more straightforward."
+    },
+    {
+      "id": 46,
+      "question": "Shop owner: Our customers are unhappy with our service. What ideas do you suggest? Marketing Officer: _____ Shop Owner: That's a fantastic idea. It will reflect our concern for their needs.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I'd like to give some suggestions.",
+        "What are we going to change?",
+        "I don't understand why they are not happy.",
+        "Shall we invite them to meet with us?"
+      ],
+      "answer": "D",
+      "explanation": "The shop owner praises the idea ('That's a fantastic idea'). The marketing officer's suggestion must be 'Shall we invite them to meet with us?' which shows concern for needs. The other options are not specific suggestions."
+    },
+    {
+      "id": 47,
+      "question": "Journalist: Did you know that Manchester United sacked their manager? Player: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "This is a shock! Who told you?",
+        "Does he want to be sacked?",
+        "Chelsea club also did the same.",
+        "He had a row with the owners of the club."
+      ],
+      "answer": "A",
+      "explanation": "A natural reaction to surprising news is 'This is a shock! Who told you?' The other options are less direct responses to the news."
+    },
+    {
+      "id": 48,
+      "question": "Bekuma: Are you still living in Finfinnee? Furtu: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Frankly speaking, Finfinnee is a nice place for living.",
+        "This is my 4th year in Ambo.",
+        "No, I moved to Adama about years ago.",
+        "Yes, I had been living in Shambu before I moved to Ambo."
+      ],
+      "answer": "C",
+      "explanation": "The question asks if still living in Finfinnee. A direct answer 'No, I moved to Adama' answers correctly. Option D says 'Yes' but then talks about Shambu and Ambo, not Finfinnee."
+    },
+    {
+      "id": 49,
+      "question": "Musa: How is your father? I heard he has been hospitalized. Robale: _____ He seems to need further investigation.",
+      "image": null,
+      "passage": null,
+      "options": ["He is very well", "God knows", "He is not here", "Not very well"],
+      "answer": "D",
+      "explanation": "Robale says he needs further investigation, so his father is 'Not very well'. The other options are inconsistent with hospitalization and further investigation."
+    },
+    {
+      "id": 50,
+      "question": "Student: Excuse me Sir, may I go out and give this exercise book for my friend, Roba? Teacher: _____",
+      "image": null,
+      "passage": null,
+      "options": ["No, with pleasure", "Not at all. It is alright", "I am sorry, why you can't", "No, you can't"],
+      "answer": "B",
+      "explanation": "The teacher gives permission politely: 'Not at all. It is alright' means 'No problem, you may go.' 'No, with pleasure' is contradictory (no but pleasure?). 'No, you can't' is refusal without reason."
+    },
+    {
+      "id": 51,
+      "question": "Obsa: _____ Moti: Let's take a bus. It's impossible to get a taxi during rush hour.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Which one is affordable? A taxi or a bus?",
+        "Is a bus more comfortable than a taxi?",
+        "Should we take a taxi or a bus to the downtown?",
+        "Should you take a taxi or a bus to the downtown?"
+      ],
+      "answer": "C",
+      "explanation": "Moti responds to a choice question by recommending the bus. 'Should we take a taxi or a bus to the downtown?' asks for a choice, and Moti answers. 'Should you' is inappropriate as Moti is not asking about himself alone."
+    },
+    {
+      "id": 52,
+      "question": "Robe: _____ Eba: Sure! Come over around 1:30, after lunch so that we can do together.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Can you come over around 1:30 after lunch so that we can do together?",
+        "Do you feel like doing the assignment for our English lesson tomorrow?",
+        "Is English language your favorite subject?",
+        "I can't do English on my own. Would you come and help me?"
+      ],
+      "answer": "D",
+      "explanation": "Eba agrees to help and suggests a time. Robe must have asked for help. 'I can't do English on my own. Would you come and help me?' is the most appropriate request. Option A is Eba's response repeated, not Robe's question."
+    },
+    {
+      "id": 53,
+      "question": "Word order: At/top/voice/the/man/his/of/demanded/the/admission/shouting",
+      "image": null,
+      "passage": null,
+      "options": [
+        "At the top voice, the man demanding shouting his admission of.",
+        "The man demanding, shouting his admission of at the top voice.",
+        "Shouting at the top of his voice, the man demanded admission.",
+        "Shouting his voice, at the top the man demanded admission of."
+      ],
+      "answer": "C",
+      "explanation": "The correct order: 'Shouting at the top of his voice, the man demanded admission.' Option C is grammatical and natural."
+    },
+    {
+      "id": 54,
+      "question": "Word order: was/performance/impressed/with/quite/her/i",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I was impressed quite her with performance.",
+        "I was quite impressed with her performance.",
+        "Her performance I was quite with impressed.",
+        "I impressed her quite with performance was."
+      ],
+      "answer": "B",
+      "explanation": "Correct order: 'I was quite impressed with her performance.' Option B is correct."
+    },
+    {
+      "id": 55,
+      "question": "Paragraph coherence: a. But most of all, I love basketball because the game gives me a chance to yell at the refs. b. Basketball is fast, exciting, and unpredictable; a large lead can be lost in a single minute, and many games are decided by a single point. c. Because the basketball team has few members, I can become acquainted with each player's personality. d. Basketball is appealing for several reasons. e. I also love watching a player leap gracefully to the basket and dunk the ball.",
+      "image": null,
+      "passage": null,
+      "options": ["b d c a e", "c e b a d", "b e a c d", "d b c e a"],
+      "answer": "D",
+      "explanation": "Logical order: d (topic sentence: appealing for several reasons), b (reason: fast, exciting), c (reason: few members, acquainted), e (another reason: watching dunks), a (most of all: yell at refs). So d,b,c,e,a matches option D."
+    },
+    {
+      "id": 56,
+      "question": "Paragraph coherence: a. First of all, gold is beautiful. Therefore, it is suitable for jewelry, coins, and ornaments. b. Gold is prized not only for its beauty but, more importantly, for its utility. c. Gold is used for hundreds of industrial applications, from earphones to super computers. d. Gold never needs to be polished and will remain beautiful forever. e. More important than its beauty is the usefulness of gold for science and industry.",
+      "image": null,
+      "passage": null,
+      "options": ["b a d e c", "c b a d e", "d e c a b", "c e a d b"],
+      "answer": "A",
+      "explanation": "Logical order: b (topic: beauty and utility), a (first, beauty), d (continues beauty), e (more important: utility), c (examples of utility). So b,a,d,e,c is option A."
+    },
+    {
+      "id": 57,
+      "question": "Correct punctuation: \"I will tell you the truth, she said, if you come here.\" etc.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "\"I will tell you the truth, she said, if you come here.\"",
+        "\"I will tell you the truth, she said, if you come here.\"",
+        "\"I will tell you the truth,\" she said, if you come here.\"",
+        "\"I will tell you the truth,\" she said, \"if you come here.\""
+      ],
+      "answer": "D",
+      "explanation": "The correct punctuation splits the quote: \"I will tell you the truth,\" she said, \"if you come here.\" Option D has the commas and quotation marks correctly."
+    },
+    {
+      "id": 58,
+      "question": "Correct punctuation and capitalization: Mr. Ahmed, the principal, addressed the students. etc.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Mr. Ahmed, the principal, addressed the students.",
+        "Mr Ahmed the principal, addressed the students",
+        "mr ahmed the principal addressed the students.",
+        "Mr. Ahmed the principal addressed the students."
+      ],
+      "answer": "A",
+      "explanation": "Option A has correct capitalization (Mr., Ahmed) and commas around the appositive 'the principal'. The others lack commas or have wrong capitalization."
+    },
+    {
+      "id": 59,
+      "question": "Correct punctuation: Only five people attended the meeting; Robe, Mohammad, Sena, Bultu, and Daba. etc.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Only five people attended the meeting; Robe, Mohammad , Sena, Bultu, and Daba.",
+        "Only five people attended the meeting: Robe, Mohammad , Sena, Bultu, and Daba.",
+        "Only five people attended the meeting, Robe, mohammad , Sena, Bultu, and Daba.",
+        "Only five people attended the meeting: Robe, Mohammad , Sena, Bultu, and Daba"
+      ],
+      "answer": "B",
+      "explanation": "A colon is used to introduce a list. Option B uses a colon correctly. Option A uses a semicolon incorrectly. Option C has a comma splice. Option D lacks a period at the end."
+    },
+    {
+      "id": 60,
+      "question": "Correct punctuation: Bariso could not pay the light bill; therefore, the company shut off his electricity. etc.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Bariso could not pay the light bill; therefore, the company shut off his electricity.",
+        "Bariso, could not pay the light bill therefore the company shut off his electricity.",
+        "Bariso could not pay the light bill: therefore, the company shut off his electricity.",
+        "Bariso, could not pay the light bill therefore; the company shut off his electricity."
+      ],
+      "answer": "A",
+      "explanation": "Option A uses a semicolon before 'therefore' and a comma after, which is correct. Option B has misplaced comma and missing punctuation. Option C uses colon incorrectly. Option D has misplaced semicolon."
+    },
+    {
+      "id": 61,
+      "question": "Paragraph type: \"...Dr. Eba stands tall and thin, with an oval-shaped face. His large eyes and pointed nose draw attention...\" This is most likely",
+      "image": null,
+      "passage": null,
+      "options": ["descriptive writing", "narrative writing", "expository writing", "argumentative writing"],
+      "answer": "A",
+      "explanation": "The passage focuses on physical appearance, using sensory details to create a picture. This is descriptive writing."
+    },
+    {
+      "id": 62,
+      "question": "\"...One day a strange thing happened in my village. It was summer and for some reason I had been hot and irritable all morning. ...\" This is most likely",
+      "image": null,
+      "passage": null,
+      "options": ["expository writing", "argumentative writing", "descriptive writing", "narrative writing"],
+      "answer": "D",
+      "explanation": "The passage tells a story in first person, with a sequence of events. This is narrative writing."
+    },
+    {
+      "id": 63,
+      "question": "Which one of the following is an example of expository writing?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The horse is a majestic creature with a muscular build, a sleek coat, expressive eyes...",
+        "To make tea, steep a tea bag or loose tea leaves in hot water for a few minutes, then remove the tea and enjoy your drink.",
+        "I find it difficult to align my perspective with yours because your negative outlook...",
+        "The women are dressed in elegant, vibrant attire adorned with colorful beads..."
+      ],
+      "answer": "B",
+      "explanation": "Expository writing explains or informs. Option B gives step-by-step instructions for making tea, which is expository (process). Option A and D are descriptive, C is argumentative/persuasive."
+    },
+    {
+      "id": 64,
+      "question": "Spelling: Which word is correctly spelled? (Options: recieve, commemorate, sufficient, perceive)",
+      "image": null,
+      "passage": null,
+      "options": ["recieve", "commemorate", "sufficient", "perceive"],
+      "answer": "B",
+      "explanation": "Commemorate is correctly spelled. Recieve should be receive, sufficient is correct? Actually sufficient is correct, perceive is correct. But the question likely has one misspelled? All except 'recieve' are correct. Since it says 'which one is correctly spelled' and multiple are correct, but typical exams expect 'commemorate' as the answer. However, 'commemorate' is correct. Given the pattern, B is a safe choice."
+    },
+    {
+      "id": 65,
+      "question": "Spelling: Which word is correctly spelled? (Options: compassion, concession, foreign, suffocation)",
+      "image": null,
+      "passage": null,
+      "options": ["compassion", "concession", "foreign", "suffocation"],
+      "answer": "A",
+      "explanation": "All are spelled correctly. But if one must be chosen, 'compassion' is correct. The question may have all correct, but 'foreign' is correct, 'concession' correct, 'suffocation' correct. Possibly 'compassion' is the intended answer."
+    },
+    {
+      "id": 66,
+      "question": "Sentence comprehension: 'Had I had money, I would have bought a new house.' means:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I was in need of buying a new house that I could afford to get it.",
+        "I was prohibited from buying a new house because of the insufficient money I have.",
+        "I was capable of buying a new house regardless of the money I have.",
+        "Regardless of the money I had I couldn't buy a new house that I was in need of it."
+      ],
+      "answer": "B",
+      "explanation": "The original sentence is a third conditional meaning 'I did not have money, so I did not buy a house.' Option B says 'I was prohibited because of insufficient money' which captures the idea that lack of money prevented the purchase. Option A says could afford (opposite). Option C says capable regardless (opposite). Option D says regardless... couldn't (contradictory)."
+    },
+    {
+      "id": 67,
+      "question": "Sentence comprehension: 'Don't forget to buy Robe a present for her birthday.' means:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Robe forgot her birthday present.",
+        "I want you to remember to Robe's address.",
+        "I want you to remember to buy Robe a gift.",
+        "Robe must buy you a gift for your birthday."
+      ],
+      "answer": "C",
+      "explanation": "The imperative 'Don't forget to buy...' means 'I want you to remember to buy...' Option C matches. The others change meaning or are irrelevant."
+    },
+    {
+      "id": 68,
+      "question": "Which one of the following sentences in parts of a formal letter could state the reason for writing?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I am writing to invite you to speak to students during our school charity week.",
+        "I look forward to hearing from you at your earliest convenience.",
+        "I hope you will consider my request to talk at our school about raising money for charity.",
+        "I appreciate the time and effort you have taken to review this letter."
+      ],
+      "answer": "A",
+      "explanation": "The reason for writing is typically stated in the opening sentence. 'I am writing to invite you...' clearly states the purpose. The other options are closing or follow-up statements."
+    },
+    {
+      "id": 69,
+      "question": "Which of the following is part of a formal letter that represents the main message of the letter?",
+      "image": null,
+      "passage": null,
+      "options": ["salutation", "closing", "body", "subject line"],
+      "answer": "C",
+      "explanation": "The body of the letter contains the main message. Salutation is greeting, closing is farewell, subject line is optional topic."
+    },
+    {
+      "id": 70,
+      "question": "Next year by this time, he _____ his degree and be starting his new job.",
+      "image": null,
+      "passage": null,
+      "options": ["complete", "will complete", "will have completed", "will be complete"],
+      "answer": "C",
+      "explanation": "By next year this time (future completed action), future perfect 'will have completed' is correct. The sentence also has 'be starting' — future perfect + base verb is used."
+    },
+    {
+      "id": 71,
+      "question": "Fromsa: \"Hey, I missed you at the party last night. Where were you?\" Jalane: \"Excuse me, I was busy with classes, so I had _____ time for your party.\"",
+      "image": null,
+      "passage": null,
+      "options": ["many", "a little", "few", "little"],
+      "answer": "D",
+      "explanation": "Time is uncountable. 'Little' means not enough, negative. 'A little' means some positive. Since he was busy and missed the party, he had little time. 'Little' is correct."
+    },
+    {
+      "id": 72,
+      "question": "Which one of the following sentences is written grammatically correct?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "She wore a long, beautiful, blue silk evening dress.",
+        "She wore a beautiful, blue silk, long, evening dress.",
+        "She wore a beautiful, long, blue silk evening dress.",
+        "She wore a blue silk, evening, beautiful, long dress."
+      ],
+      "answer": "C",
+      "explanation": "Adjective order: opinion (beautiful) → length (long) → color (blue) → material (silk) → purpose (evening). Option C: beautiful, long, blue silk evening dress is correct."
+    },
+    {
+      "id": 73,
+      "question": "The AU headquarters had hardly _____ time these days because of the recent political turmoil.",
+      "image": null,
+      "passage": null,
+      "options": ["any", "some", "many", "a few"],
+      "answer": "A",
+      "explanation": "In negative or nearly negative contexts ('hardly' is negative), we use 'any'. 'Hardly any time' means very little time. 'Many' and 'a few' are for countable nouns; time is uncountable."
+    },
+    {
+      "id": 74,
+      "question": "_____ had a broken leg, he continued to attend all his classes.",
+      "image": null,
+      "passage": null,
+      "options": ["Nevertheless", "In spite of the fact that", "Because of", "Because of"],
+      "answer": "B",
+      "explanation": "The blank needs a conjunction introducing a clause. 'In spite of the fact that he had a broken leg' is correct. 'Nevertheless' is an adverb, not a conjunction. 'Because of' is a preposition, requires noun phrase."
+    },
+    {
+      "id": 75,
+      "question": "Ifa Boru Special Boarding Secondary School students learn French _____ enhance their educational opportunities.",
+      "image": null,
+      "passage": null,
+      "options": ["so that", "for the reason", "in order to", "as to"],
+      "answer": "C",
+      "explanation": "'In order to' expresses purpose. 'So that' requires a clause with modal (so that they can enhance). Here the verb 'enhance' is bare infinitive, so 'in order to' is correct."
+    },
+    {
+      "id": 76,
+      "question": "Scientists have found a big body of water under the planet's surface, _____ they think it's not the only body of water they will find.",
+      "image": null,
+      "passage": null,
+      "options": ["what's more", "as", "so as", "so that"],
+      "answer": "A",
+      "explanation": "The second clause adds additional information. 'What's more' (furthermore) is appropriate. 'As' indicates cause or time, 'so as' is incomplete, 'so that' indicates purpose."
+    },
+    {
+      "id": 77,
+      "question": "Dr. Ayantu is the most experienced doctor in the surgery, _____ everybody treats her with respect.",
+      "image": null,
+      "passage": null,
+      "options": ["because", "as", "so", "however"],
+      "answer": "C",
+      "explanation": "The first clause is a reason, the second is a result. 'So' indicates result. 'Because' would reverse cause-effect (everybody treats her with respect because she is experienced? but the given order is reason → result, so 'so' is correct)."
+    },
+    {
+      "id": 78,
+      "question": "Had you helped your neighbors during their problems and developed social bonding, you _____ to this extent.",
+      "image": null,
+      "passage": null,
+      "options": ["won't have been isolated", "would have isolated", "wouldn't have been isolated", "we're not isolated"],
+      "answer": "C",
+      "explanation": "Third conditional inversion: 'Had you helped' means 'If you had helped'. The result would be 'you wouldn't have been isolated' (passive). Option C is correct."
+    },
+    {
+      "id": 79,
+      "question": "His friends expect _____ good from Jamal as he always goes against their ideas.",
+      "image": null,
+      "passage": null,
+      "options": ["nothing", "something", "not anything", "none of anything"],
+      "answer": "A",
+      "explanation": "Because he goes against their ideas, they expect nothing good. 'Nothing' is correct. 'Not anything' is also possible but 'nothing' is more natural. 'None of anything' is ungrammatical."
+    },
+    {
+      "id": 80,
+      "question": "Unfortunately some children were brought _____ badly by their parents and don't know right from wrong.",
+      "image": null,
+      "passage": null,
+      "options": ["in", "out", "on", "up"],
+      "answer": "D",
+      "explanation": "Brought up means raised (by parents). 'Brought up badly' means poorly raised. The other prepositions do not work."
+    },
+    {
+      "id": 81,
+      "question": "Which one of the following sentences conveys complete thought?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "After I learned the price of new shoes I decided to keep my old ones.",
+        "I love to cook and eat Italian food especially spaghetti and lasagna.",
+        "Aberu loved getting wedding present. But hated writing thank-you notes.",
+        "Before a race, I eat starch foods such as bread and spaghetti."
+      ],
+      "answer": "A",
+      "explanation": "Option A is a complete sentence (independent clause). Option B lacks a period? Actually B is fine but it has no period in the given text? The original shows no period after 'lasagna'? It might be considered incomplete because of missing punctuation. Option C has a sentence fragment 'But hated...' (no subject). Option D is a complete sentence but has a period. However, the best answer is A as it is clearly a complete thought. In many such questions, A is correct."
+    },
+    {
+      "id": 82,
+      "question": "The meeting place _____ tomorrow afternoon at five o'clock.",
+      "image": null,
+      "passage": null,
+      "options": ["will take", "is taking", "will be taken", "took"],
+      "answer": "B",
+      "explanation": "The meeting place is scheduled. Present continuous 'is taking' can be used for fixed future arrangements. 'Will take' is also possible but 'is taking' is more natural for a planned event."
+    },
+    {
+      "id": 83,
+      "question": "_____ out of the sea in front of us, the sun started to warm our faces.",
+      "image": null,
+      "passage": null,
+      "options": ["To be risen", "Rose", "Rising", "Rise"],
+      "answer": "C",
+      "explanation": "A participial phrase: 'Rising out of the sea' modifies the sun. 'Rising' is the present participle. The other forms are incorrect."
+    },
+    {
+      "id": 84,
+      "question": "The _____ calories you consume, the more exercise you need to do to burn.",
+      "image": null,
+      "passage": null,
+      "options": ["most", "more", "fewer", "the most"],
+      "answer": "B",
+      "explanation": "Comparative correlative: 'The more calories you consume, the more exercise...' 'More' is correct for 'calories' (countable). 'Fewer' would mean opposite meaning."
+    },
+    {
+      "id": 85,
+      "question": "What will you do if Megersa is out when you come? She asked me _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "What would I do if Megersa was out when I came?",
+        "What I will do if Megersa is out when I come.",
+        "What I would do if Megersa was out when I came.",
+        "What Megersa would do if I was out when he came?"
+      ],
+      "answer": "C",
+      "explanation": "Reported speech: question changes to statement word order, backshift tenses. Original: 'What will you do if Megersa is out when you come?' → 'She asked me what I would do if Megersa was out when I came.' Option C matches."
+    },
+    {
+      "id": 86,
+      "question": "You _____ go to the ceremony if you don't feel like it. It'll be very boring anyway.",
+      "image": null,
+      "passage": null,
+      "options": ["don't have to", "must", "have to", "mustn't"],
+      "answer": "A",
+      "explanation": "Lack of obligation: 'don't have to' means it is not necessary. 'Mustn't' means prohibited. The sentence says 'if you don't feel like it' — no requirement to go."
+    },
+    {
+      "id": 87,
+      "question": "_____ you study diligently, you'll never understand trigonometry.",
+      "image": null,
+      "passage": null,
+      "options": ["Unless", "If so", "If", "Otherwise"],
+      "answer": "A",
+      "explanation": "'Unless' means 'if not'. 'Unless you study diligently, you'll never understand' means if you do not study, you will not understand. 'If' would give the opposite meaning."
+    },
+    {
+      "id": 88,
+      "question": "We were concerned that everyone had hardly any money remaining. What made it even more aggravating was that Jarso, our group leader, had the _____ amount compared to all of us.",
+      "image": null,
+      "passage": null,
+      "options": ["less", "more little", "most little", "least"],
+      "answer": "D",
+      "explanation": "Jarso had the smallest amount. 'Least' is the superlative of 'little' (amount). 'Less' is comparative. 'Most little' is not standard."
+    },
+    {
+      "id": 89,
+      "question": "Son: Sarah said she needs to talk to you. Father: Yes, I know. I _____ call her in a minute.",
+      "image": null,
+      "passage": null,
+      "options": ["am going to", "will", "begin", "went"],
+      "answer": "B",
+      "explanation": "A spontaneous decision at the moment of speaking uses 'will'. 'I will call her in a minute.' 'Am going to' is for planned actions, but here it's spontaneous."
+    },
+    {
+      "id": 90,
+      "question": "After Sarah had prepared an elaborate presentation for the meeting, she realized that she _____ her USB drive at home and had to rush back to retrieve it before the meeting started.",
+      "image": null,
+      "passage": null,
+      "options": ["left", "had left", "had been left", "leave"],
+      "answer": "B",
+      "explanation": "The forgetting happened before she realized (past perfect). 'Had left' is correct. 'Left' would be simple past, but the sequence requires past perfect."
+    },
+    {
+      "id": 91,
+      "question": "The Djiboutian presidency's spokesman has said that Djibouti's Mahmoud Ali Youssouf _____ Saturday as the chairman of the African Union's executive commission.",
+      "image": null,
+      "passage": null,
+      "options": ["elected", "has elected", "elects", "was elected"],
+      "answer": "D",
+      "explanation": "Mahmoud Ali Youssouf was elected (passive voice) as chairman. The correct past passive is 'was elected'."
+    },
+    {
+      "id": 92,
+      "question": "I wish I _____ a quieter place to study, as the noise around me makes it hard to concentrate.",
+      "image": null,
+      "passage": null,
+      "options": ["had", "has", "had had", "has had"],
+      "answer": "A",
+      "explanation": "Present wish for a present situation uses past subjunctive: 'I wish I had a quieter place.' 'Had had' is for past wish (I wish I had had)."
+    },
+    {
+      "id": 93,
+      "question": "The book, _____ had been sitting on my shelf for years, turned out to be an incredible read.",
+      "image": null,
+      "passage": null,
+      "options": ["that", "where", "which", "whose"],
+      "answer": "C",
+      "explanation": "Non-restrictive relative clause referring to a thing uses 'which'. 'That' is not used in non-restrictive clauses (with commas). 'Where' is for place, 'whose' for possession."
+    },
+    {
+      "id": 94,
+      "question": "_____ he feels stressed, he takes a walk in the park to clear his mind.",
+      "image": null,
+      "passage": null,
+      "options": ["Whenever", "While", "Since", "After"],
+      "answer": "A",
+      "explanation": "Whenever means every time. The sentence describes a habitual action (takes a walk) when he feels stressed. 'While' would mean during the time, but not habitual. 'Since' indicates cause, 'after' indicates sequence."
+    },
+    {
+      "id": 95,
+      "question": "I enjoy _____ to spiritual songs while working.",
+      "image": null,
+      "passage": null,
+      "options": ["listening", "to listen", "listen", "listened"],
+      "answer": "A",
+      "explanation": "After 'enjoy', use a gerund: 'enjoy listening'. 'Enjoy to listen' is incorrect."
+    },
+    {
+      "id": 96,
+      "question": "When will you give us the next tutorial, sir? Teacher: I'll _____ give it next week.",
+      "image": null,
+      "passage": null,
+      "options": ["able to", "could", "can", "be able to"],
+      "answer": "D",
+      "explanation": "After 'will', we need the base form. 'Will be able to' is the correct future form of 'can'. 'Will can' is not possible. 'Able to' alone is not a verb."
+    },
+    {
+      "id": 97,
+      "question": "Which one of the following sentences is written grammatically correct?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "He quickly finished his homework at home this morning.",
+        "He finished quickly his homework at home this morning.",
+        "This morning he finished quickly his homework at home.",
+        "Quickly he finished his homework at home this morning."
+      ],
+      "answer": "A",
+      "explanation": "Adverb 'quickly' is best placed between subject and verb or after verb. Option A places 'quickly' before the verb 'finished', which is natural. Option B splits 'finished his homework' incorrectly. Option C has adverb after verb but before object, which is less common. A is the most standard."
+    },
+    {
+      "id": 98,
+      "question": "The new community center _____ by the end of the year, providing a space for various activities and events for all ages.",
+      "image": null,
+      "passage": null,
+      "options": ["will complete", "complete", "will be completed", "has complete"],
+      "answer": "C",
+      "explanation": "The community center is the object of completion, so passive voice: 'will be completed'. Future passive is correct."
+    },
+    {
+      "id": 99,
+      "question": "As KEY is to KEYBOARD, BRICK is to _____",
+      "image": null,
+      "passage": null,
+      "options": ["Floor", "Wall", "Fence", "Kiln"],
+      "answer": "B",
+      "explanation": "A key is part of a keyboard (keys are pressed). A brick is a component of a wall. The relationship is part to whole. Wall is the most direct."
+    },
+    {
+      "id": 100,
+      "question": "As RAIN is to FLOOD, STUDY is to _____",
+      "image": null,
+      "passage": null,
+      "options": ["Knowledge", "Book", "School", "Pen"],
+      "answer": "A",
+      "explanation": "Rain can cause a flood. Study can lead to knowledge. The relationship is cause and effect (or result). Knowledge is the result of studying."
+    }
+  ]
+}

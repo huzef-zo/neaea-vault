@@ -3,7 +3,7 @@
    Cache-first strategy for full offline support
    ============================================ */
 
-const CACHE_NAME = 'neaea-vault-v23';
+const CACHE_NAME = 'neaea-vault-v24';
 
 // Core app shell
 const APP_SHELL = [

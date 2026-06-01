@@ -1,0 +1,1122 @@
+{
+  "subject": "English",
+  "year": "2016 E.C",
+  "paper": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Despite promising myself that I would start working on my project early, my tendency toward _____ led me to delay it until the last possible moment.",
+      "image": null,
+      "passage": null,
+      "options": ["diligence", "procrastination", "promptness", "efficiency"],
+      "answer": "B",
+      "explanation": "Procrastination means delaying or postponing something. The sentence says the speaker delayed the project, so 'procrastination' fits perfectly. Diligence, promptness, and efficiency are opposites of delaying."
+    },
+    {
+      "id": 2,
+      "question": "At the start of interview sessions, she often feels nervous, but as time passes, she becomes _____ and returns to a normal state.",
+      "image": null,
+      "passage": null,
+      "options": ["Stable", "Settled", "calm", "fit"],
+      "answer": "C",
+      "explanation": "The contrast is between feeling nervous and then becoming 'calm' — a normal, relaxed state. 'Stable' and 'settled' could work, but 'calm' is the most direct opposite of nervous in this context."
+    },
+    {
+      "id": 3,
+      "question": "She has applied for the job vacancy that the new organization announced recently, but I am not interested in her application because the _____ of the job is unclear, with no guarantees of future growth or stability.",
+      "image": null,
+      "passage": null,
+      "options": ["prospects", "outline", "legality", "formality"],
+      "answer": "A",
+      "explanation": "Prospects refer to the potential for future success, growth, or opportunities. The sentence mentions no guarantees of future growth or stability, so 'prospects' is the best fit."
+    },
+    {
+      "id": 4,
+      "question": "Different research findings and long living evidences show clearly that with hard work and determination, success is _____ for anyone willing to put in the effort.",
+      "image": null,
+      "passage": null,
+      "options": ["induced", "practical", "sensible", "attainable"],
+      "answer": "D",
+      "explanation": "Attainable means achievable or reachable. The sentence says with hard work and determination, success can be achieved by anyone, so 'attainable' is correct."
+    },
+    {
+      "id": 5,
+      "question": "There isn't much time left for the article to be put on air, so the writer had to submit the article before the _____ set by the editor.",
+      "image": null,
+      "passage": null,
+      "options": ["vacation", "deadline", "extension", "start date"],
+      "answer": "B",
+      "explanation": "A deadline is the time by which something must be completed. The editor sets a deadline for submitting the article. 'Vacation' and 'extension' are not relevant here."
+    },
+    {
+      "id": 6,
+      "question": "As infectious diseases are transmitted from person to person through physical contact and proximity, the doctor advised us to _____ from patients when supporting them.",
+      "image": null,
+      "passage": null,
+      "options": ["keep about", "get down", "keep away", "get along"],
+      "answer": "C",
+      "explanation": "'Keep away' means to maintain distance. To avoid infection, the doctor advises keeping distance from patients. 'Keep about' is not a standard phrase; 'get down' means descend; 'get along' means have a good relationship."
+    },
+    {
+      "id": 7,
+      "question": "If you go to visit deserts around the world, you come across the desolate landscape stretched for miles, with no signs of life or civilization, just barren earth and empty skies.",
+      "image": null,
+      "passage": null,
+      "options": ["uninhabited", "luxurious", "crowded", "unrestricted"],
+      "answer": "A",
+      "explanation": "'Desolate' means deserted, empty, without people. 'Uninhabited' means no one lives there, which matches the description. 'Luxurious' and 'crowded' are opposites."
+    },
+    {
+      "id": 8,
+      "question": "The forest was enchanting, filled with the sounds of rustling leaves and birds singing, as sunlight filtered through the trees.",
+      "image": null,
+      "passage": null,
+      "options": ["boring and annoying", "magical and captivating", "dark and depressing", "loud and chaotic"],
+      "answer": "B",
+      "explanation": "'Enchanting' means delightfully charming or magical. 'Magical and captivating' is the closest synonym. The other options have negative or different meanings."
+    },
+    {
+      "id": 9,
+      "question": "The rugged mountains were difficult to climb, with jagged rocks and steep cliffs that tested the strength and endurance of even the most experienced hikers.",
+      "image": null,
+      "passage": null,
+      "options": ["smooth and flat", "easy to climb", "rough and uneven", "soft and comfortable"],
+      "answer": "C",
+      "explanation": "'Rugged' means rough, uneven, and difficult to traverse. 'Rough and uneven' directly matches. The other options describe the opposite."
+    },
+    {
+      "id": 10,
+      "question": "We haven't reached on the conclusion regarding why of the case yet, but the stock market is in a constant state of flux, with prices rising and falling throughout the day.",
+      "image": null,
+      "passage": null,
+      "options": ["instability", "improvement", "revolving", "uncontrollability"],
+      "answer": "A",
+      "explanation": "'Flux' means continuous change or instability. 'Instability' is the best synonym. 'Improvement' suggests positive change only, which is not implied."
+    },
+    {
+      "id": 11,
+      "question": "It is very difficult in the year of globalization to keep once own and countries security because in today's world, digital technology is omnipresent, affecting nearly every aspect of our lives.",
+      "image": null,
+      "passage": null,
+      "options": ["centralized", "all rounded", "encompassing", "everywhere"],
+      "answer": "D",
+      "explanation": "'Omnipresent' means present everywhere at the same time. 'Everywhere' is the simplest and most accurate synonym. 'Centralized' means concentrated in one place, which is opposite."
+    },
+    {
+      "id": 12,
+      "question": "During the meeting, she decided to bring up the issue of budget cuts for discussion because it was a sensitive issue that everybody was waiting for.",
+      "image": null,
+      "passage": null,
+      "options": ["monopolize", "emphasize", "generalize", "raise"],
+      "answer": "D",
+      "explanation": "'Bring up' means to introduce or raise a topic for discussion. 'Raise' has the same meaning. 'Monopolize' means take over, 'emphasize' means stress, 'generalize' means make broad statements."
+    },
+    {
+      "id": 13,
+      "question": "As WARRIOR is to SWORD, TAILOR is to _____",
+      "image": null,
+      "passage": null,
+      "options": ["Textile", "Cloth", "Needle", "Garment"],
+      "answer": "C",
+      "explanation": "A warrior uses a sword as a tool. Similarly, a tailor uses a needle as a tool. Textile and cloth are materials, and garment is the product, not the primary tool."
+    },
+    {
+      "id": 14,
+      "question": "As SCIENTIST is to LABORATORY, PAINTER is to _____",
+      "image": null,
+      "passage": null,
+      "options": ["Photograph", "Design", "Gallery", "Theatre"],
+      "answer": "C",
+      "explanation": "A scientist works in a laboratory. A painter works in a studio, but among the options, 'gallery' is where paintings are displayed or where painters may work. 'Gallery' is the closest match. Theatre is for actors."
+    },
+    {
+      "id": 15,
+      "question": "The twins resemble each other so much that I can never tell which is which.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Although the twins do not look like each other I cannot name them easily.",
+        "I cannot tell the twins apart because I don't know them well enough.",
+        "I can never tell the twins anything as they like each other so much.",
+        "I can't identify the twins because they look so alike."
+      ],
+      "answer": "D",
+      "explanation": "The original sentence means the twins look very similar, making it impossible to distinguish them. Option D captures this exactly. Option B mentions not knowing them well, which is not stated."
+    },
+    {
+      "id": 16,
+      "question": "But for my neighbor's timely help, the thief would have run away with my jewels.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "As my neighbor came in time, the thief could run away with my jewels.",
+        "My neighbor came in time and, so my jewels were not lost.",
+        "My neighbor timely coming made my jewels run away.",
+        "As soon as my neighbor helped, the thief run away."
+      ],
+      "answer": "B",
+      "explanation": "'But for' means 'without'. So without the neighbor's help, the thief would have escaped with the jewels. Therefore, because the neighbor helped in time, the jewels were saved. Option B correctly states this."
+    },
+    {
+      "id": 17,
+      "question": "What does the term 'creative destruction' in Paragraph 2, line 2 primarily refer to?",
+      "image": null,
+      "passage": "1. Innovation has long been celebrated as the driving force behind societal progress. From the advent of the printing press to the rise of artificial intelligence, groundbreaking ideas have consistently reshaped industries, economies, and human lifestyles. Yet, this transformative power often comes with unintended consequences that challenge its celebrated status.\n\n2. One of the paradoxes of innovation is its dual capacity to create and destroy. Schumpeter's concept of 'creative destruction' illustrates this, where new technologies render existing systems and jobs obsolete. For instance, the proliferation of e-commerce has revolutionized shopping but led to the decline of traditional retail stores, affecting thousands of jobs and local economies.\n\n3. Furthermore, innovation can exacerbate social inequalities. The rapid development of cutting-edge technologies often benefits those with the education and resources to access them, leaving others behind. This 'digital divide' was starkly evident during the COVID-19 pandemic, where students in underserved communities struggled with online learning due to limited access to devices and high-speed internet.\n\n4. Environmental concerns also complicate the narrative of progress. While renewable energy technologies promise a sustainable future, the production and disposal of solar panels, wind turbines, and batteries generate significant environmental waste. Similarly, the convenience of single-use plastics, once heralded as an innovation, has become a major ecological challenge.\n\n5. Despite these drawbacks, innovation remains a necessity for addressing global challenges. Breakthroughs in medicine, for instance, have eradicated diseases like smallpox and extended human lifespans. Similarly, advancements in artificial intelligence hold promise for solving problems ranging from climate modeling to personalized education.\n\n6. However, the ethical implications of innovation cannot be overlooked. Technologies like facial recognition and genetic engineering raise questions about privacy, consent, and the boundaries of human intervention. As society grapples with these issues, the need for regulatory frameworks becomes increasingly evident.\n\n7. Collaboration between governments, industries, and communities is essential to harness innovation responsibly. Policies that promote equitable access to technology, investments in sustainable practices, and ethical guidelines can mitigate the adverse effects of progress. History shows that innovation thrives in environments that balance creativity with accountability.\n\n8. Ultimately, the paradox of innovation lies in its power to both uplift and unsettle. While it offers unprecedented opportunities to advance humanity, it also demands vigilance to ensure that its benefits are widely shared and its costs are minimized. Navigating this delicate balance is perhaps the greatest challenge of the modern era.",
+      "options": [
+        "The unintended environmental consequences of technological advances.",
+        "The simultaneous creation of new technologies and decline of old ones.",
+        "The rapid increase in technological innovation during crises.",
+        "The destruction of natural resources for the sake of progress."
+      ],
+      "answer": "B",
+      "explanation": "The passage explains 'creative destruction' as new technologies making existing systems and jobs obsolete. This means new things are created while old ones decline. Option B captures this duality."
+    },
+    {
+      "id": 18,
+      "question": "How does the passage illustrate the impact of innovation on social inequality?",
+      "image": null,
+      "passage": "1. Innovation has long been celebrated as the driving force behind societal progress. From the advent of the printing press to the rise of artificial intelligence, groundbreaking ideas have consistently reshaped industries, economies, and human lifestyles. Yet, this transformative power often comes with unintended consequences that challenge its celebrated status.\n\n2. One of the paradoxes of innovation is its dual capacity to create and destroy. Schumpeter's concept of 'creative destruction' illustrates this, where new technologies render existing systems and jobs obsolete. For instance, the proliferation of e-commerce has revolutionized shopping but led to the decline of traditional retail stores, affecting thousands of jobs and local economies.\n\n3. Furthermore, innovation can exacerbate social inequalities. The rapid development of cutting-edge technologies often benefits those with the education and resources to access them, leaving others behind. This 'digital divide' was starkly evident during the COVID-19 pandemic, where students in underserved communities struggled with online learning due to limited access to devices and high-speed internet.\n\n4. Environmental concerns also complicate the narrative of progress. While renewable energy technologies promise a sustainable future, the production and disposal of solar panels, wind turbines, and batteries generate significant environmental waste. Similarly, the convenience of single-use plastics, once heralded as an innovation, has become a major ecological challenge.\n\n5. Despite these drawbacks, innovation remains a necessity for addressing global challenges. Breakthroughs in medicine, for instance, have eradicated diseases like smallpox and extended human lifespans. Similarly, advancements in artificial intelligence hold promise for solving problems ranging from climate modeling to personalized education.\n\n6. However, the ethical implications of innovation cannot be overlooked. Technologies like facial recognition and genetic engineering raise questions about privacy, consent, and the boundaries of human intervention. As society grapples with these issues, the need for regulatory frameworks becomes increasingly evident.\n\n7. Collaboration between governments, industries, and communities is essential to harness innovation responsibly. Policies that promote equitable access to technology, investments in sustainable practices, and ethical guidelines can mitigate the adverse effects of progress. History shows that innovation thrives in environments that balance creativity with accountability.\n\n8. Ultimately, the paradox of innovation lies in its power to both uplift and unsettle. While it offers unprecedented opportunities to advance humanity, it also demands vigilance to ensure that its benefits are widely shared and its costs are minimized. Navigating this delicate balance is perhaps the greatest challenge of the modern era.",
+      "options": [
+        "By referencing the challenges of the digital divide during the COVID-19 pandemic",
+        "By discussing the environmental waste from renewable energy technologies.",
+        "By emphasizing the rise of facial recognition technologies.",
+        "By highlighting the benefits of medical advancements."
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 3 directly mentions the 'digital divide' during COVID-19, where underserved students lacked devices and internet, showing how innovation can worsen inequality. The other options are not about social inequality."
+    },
+    {
+      "id": 19,
+      "question": "In Paragraph 4, why are renewable energy technologies described as 'complicated'?",
+      "image": null,
+      "passage": "1. Innovation has long been celebrated as the driving force behind societal progress. From the advent of the printing press to the rise of artificial intelligence, groundbreaking ideas have consistently reshaped industries, economies, and human lifestyles. Yet, this transformative power often comes with unintended consequences that challenge its celebrated status.\n\n2. One of the paradoxes of innovation is its dual capacity to create and destroy. Schumpeter's concept of 'creative destruction' illustrates this, where new technologies render existing systems and jobs obsolete. For instance, the proliferation of e-commerce has revolutionized shopping but led to the decline of traditional retail stores, affecting thousands of jobs and local economies.\n\n3. Furthermore, innovation can exacerbate social inequalities. The rapid development of cutting-edge technologies often benefits those with the education and resources to access them, leaving others behind. This 'digital divide' was starkly evident during the COVID-19 pandemic, where students in underserved communities struggled with online learning due to limited access to devices and high-speed internet.\n\n4. Environmental concerns also complicate the narrative of progress. While renewable energy technologies promise a sustainable future, the production and disposal of solar panels, wind turbines, and batteries generate significant environmental waste. Similarly, the convenience of single-use plastics, once heralded as an innovation, has become a major ecological challenge.\n\n5. Despite these drawbacks, innovation remains a necessity for addressing global challenges. Breakthroughs in medicine, for instance, have eradicated diseases like smallpox and extended human lifespans. Similarly, advancements in artificial intelligence hold promise for solving problems ranging from climate modeling to personalized education.\n\n6. However, the ethical implications of innovation cannot be overlooked. Technologies like facial recognition and genetic engineering raise questions about privacy, consent, and the boundaries of human intervention. As society grapples with these issues, the need for regulatory frameworks becomes increasingly evident.\n\n7. Collaboration between governments, industries, and communities is essential to harness innovation responsibly. Policies that promote equitable access to technology, investments in sustainable practices, and ethical guidelines can mitigate the adverse effects of progress. History shows that innovation thrives in environments that balance creativity with accountability.\n\n8. Ultimately, the paradox of innovation lies in its power to both uplift and unsettle. While it offers unprecedented opportunities to advance humanity, it also demands vigilance to ensure that its benefits are widely shared and its costs are minimized. Navigating this delicate balance is perhaps the greatest challenge of the modern era.",
+      "options": [
+        "They fail to reduce environmental waste.",
+        "They lack efficiency compared to traditional energy sources.",
+        "They are insufficiently accessible to underserved communities.",
+        "Their production and disposal generate unintended ecological consequences."
+      ],
+      "answer": "D",
+      "explanation": "Paragraph 4 states that while renewable energy promises sustainability, the production and disposal of solar panels, wind turbines, and batteries generate significant waste. This is the complication."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following statements best captures the main idea of Paragraph 6?",
+      "image": null,
+      "passage": "1. Innovation has long been celebrated as the driving force behind societal progress. From the advent of the printing press to the rise of artificial intelligence, groundbreaking ideas have consistently reshaped industries, economies, and human lifestyles. Yet, this transformative power often comes with unintended consequences that challenge its celebrated status.\n\n2. One of the paradoxes of innovation is its dual capacity to create and destroy. Schumpeter's concept of 'creative destruction' illustrates this, where new technologies render existing systems and jobs obsolete. For instance, the proliferation of e-commerce has revolutionized shopping but led to the decline of traditional retail stores, affecting thousands of jobs and local economies.\n\n3. Furthermore, innovation can exacerbate social inequalities. The rapid development of cutting-edge technologies often benefits those with the education and resources to access them, leaving others behind. This 'digital divide' was starkly evident during the COVID-19 pandemic, where students in underserved communities struggled with online learning due to limited access to devices and high-speed internet.\n\n4. Environmental concerns also complicate the narrative of progress. While renewable energy technologies promise a sustainable future, the production and disposal of solar panels, wind turbines, and batteries generate significant environmental waste. Similarly, the convenience of single-use plastics, once heralded as an innovation, has become a major ecological challenge.\n\n5. Despite these drawbacks, innovation remains a necessity for addressing global challenges. Breakthroughs in medicine, for instance, have eradicated diseases like smallpox and extended human lifespans. Similarly, advancements in artificial intelligence hold promise for solving problems ranging from climate modeling to personalized education.\n\n6. However, the ethical implications of innovation cannot be overlooked. Technologies like facial recognition and genetic engineering raise questions about privacy, consent, and the boundaries of human intervention. As society grapples with these issues, the need for regulatory frameworks becomes increasingly evident.\n\n7. Collaboration between governments, industries, and communities is essential to harness innovation responsibly. Policies that promote equitable access to technology, investments in sustainable practices, and ethical guidelines can mitigate the adverse effects of progress. History shows that innovation thrives in environments that balance creativity with accountability.\n\n8. Ultimately, the paradox of innovation lies in its power to both uplift and unsettle. While it offers unprecedented opportunities to advance humanity, it also demands vigilance to ensure that its benefits are widely shared and its costs are minimized. Navigating this delicate balance is perhaps the greatest challenge of the modern era.",
+      "options": [
+        "The development of new technologies should prioritize speed over ethics",
+        "Ethical dilemmas are an unavoidable aspect of technological progress.",
+        "Privacy and consent are the only concerns with genetic engineering.",
+        "Regulatory frameworks often hinder innovation."
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 6 discusses ethical implications of innovation (facial recognition, genetic engineering) and the need for regulatory frameworks. It implies that ethical dilemmas are part of progress. Option B captures this."
+    },
+    {
+      "id": 21,
+      "question": "According to the passage, what role do governments and communities play in responsible innovation?",
+      "image": null,
+      "passage": "1. Innovation has long been celebrated as the driving force behind societal progress. From the advent of the printing press to the rise of artificial intelligence, groundbreaking ideas have consistently reshaped industries, economies, and human lifestyles. Yet, this transformative power often comes with unintended consequences that challenge its celebrated status.\n\n2. One of the paradoxes of innovation is its dual capacity to create and destroy. Schumpeter's concept of 'creative destruction' illustrates this, where new technologies render existing systems and jobs obsolete. For instance, the proliferation of e-commerce has revolutionized shopping but led to the decline of traditional retail stores, affecting thousands of jobs and local economies.\n\n3. Furthermore, innovation can exacerbate social inequalities. The rapid development of cutting-edge technologies often benefits those with the education and resources to access them, leaving others behind. This 'digital divide' was starkly evident during the COVID-19 pandemic, where students in underserved communities struggled with online learning due to limited access to devices and high-speed internet.\n\n4. Environmental concerns also complicate the narrative of progress. While renewable energy technologies promise a sustainable future, the production and disposal of solar panels, wind turbines, and batteries generate significant environmental waste. Similarly, the convenience of single-use plastics, once heralded as an innovation, has become a major ecological challenge.\n\n5. Despite these drawbacks, innovation remains a necessity for addressing global challenges. Breakthroughs in medicine, for instance, have eradicated diseases like smallpox and extended human lifespans. Similarly, advancements in artificial intelligence hold promise for solving problems ranging from climate modeling to personalized education.\n\n6. However, the ethical implications of innovation cannot be overlooked. Technologies like facial recognition and genetic engineering raise questions about privacy, consent, and the boundaries of human intervention. As society grapples with these issues, the need for regulatory frameworks becomes increasingly evident.\n\n7. Collaboration between governments, industries, and communities is essential to harness innovation responsibly. Policies that promote equitable access to technology, investments in sustainable practices, and ethical guidelines can mitigate the adverse effects of progress. History shows that innovation thrives in environments that balance creativity with accountability.\n\n8. Ultimately, the paradox of innovation lies in its power to both uplift and unsettle. While it offers unprecedented opportunities to advance humanity, it also demands vigilance to ensure that its benefits are widely shared and its costs are minimized. Navigating this delicate balance is perhaps the greatest challenge of the modern era.",
+      "options": [
+        "They ensure equitable access to technology and establish ethical guidelines.",
+        "They drive advancements in artificial intelligence and climate modeling.",
+        "They regulate the speed at which new technologies are adopted.",
+        "They mitigate the environmental costs of single-use plastics."
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 7 says: 'Policies that promote equitable access to technology, investments in sustainable practices, and ethical guidelines' — this is the role of governments and communities working together."
+    },
+    {
+      "id": 22,
+      "question": "Which statement best explains the author's perspective on innovation?",
+      "image": null,
+      "passage": "1. Innovation has long been celebrated as the driving force behind societal progress. From the advent of the printing press to the rise of artificial intelligence, groundbreaking ideas have consistently reshaped industries, economies, and human lifestyles. Yet, this transformative power often comes with unintended consequences that challenge its celebrated status.\n\n2. One of the paradoxes of innovation is its dual capacity to create and destroy. Schumpeter's concept of 'creative destruction' illustrates this, where new technologies render existing systems and jobs obsolete. For instance, the proliferation of e-commerce has revolutionized shopping but led to the decline of traditional retail stores, affecting thousands of jobs and local economies.\n\n3. Furthermore, innovation can exacerbate social inequalities. The rapid development of cutting-edge technologies often benefits those with the education and resources to access them, leaving others behind. This 'digital divide' was starkly evident during the COVID-19 pandemic, where students in underserved communities struggled with online learning due to limited access to devices and high-speed internet.\n\n4. Environmental concerns also complicate the narrative of progress. While renewable energy technologies promise a sustainable future, the production and disposal of solar panels, wind turbines, and batteries generate significant environmental waste. Similarly, the convenience of single-use plastics, once heralded as an innovation, has become a major ecological challenge.\n\n5. Despite these drawbacks, innovation remains a necessity for addressing global challenges. Breakthroughs in medicine, for instance, have eradicated diseases like smallpox and extended human lifespans. Similarly, advancements in artificial intelligence hold promise for solving problems ranging from climate modeling to personalized education.\n\n6. However, the ethical implications of innovation cannot be overlooked. Technologies like facial recognition and genetic engineering raise questions about privacy, consent, and the boundaries of human intervention. As society grapples with these issues, the need for regulatory frameworks becomes increasingly evident.\n\n7. Collaboration between governments, industries, and communities is essential to harness innovation responsibly. Policies that promote equitable access to technology, investments in sustainable practices, and ethical guidelines can mitigate the adverse effects of progress. History shows that innovation thrives in environments that balance creativity with accountability.\n\n8. Ultimately, the paradox of innovation lies in its power to both uplift and unsettle. While it offers unprecedented opportunities to advance humanity, it also demands vigilance to ensure that its benefits are widely shared and its costs are minimized. Navigating this delicate balance is perhaps the greatest challenge of the modern era.",
+      "options": [
+        "Innovation is largely harmful and should be limited.",
+        "Innovation's ethical challenges outweigh its benefits.",
+        "Innovation certainly unavoidable leads to greater inequalities.",
+        "Innovation is vital but requires careful and responsible action."
+      ],
+      "answer": "D",
+      "explanation": "The author acknowledges both benefits and drawbacks of innovation, concluding that it is necessary but requires vigilance and responsible management (paragraphs 7-8). This matches option D."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following questions is NOT directly addressed in the passage?",
+      "image": null,
+      "passage": "1. Innovation has long been celebrated as the driving force behind societal progress. From the advent of the printing press to the rise of artificial intelligence, groundbreaking ideas have consistently reshaped industries, economies, and human lifestyles. Yet, this transformative power often comes with unintended consequences that challenge its celebrated status.\n\n2. One of the paradoxes of innovation is its dual capacity to create and destroy. Schumpeter's concept of 'creative destruction' illustrates this, where new technologies render existing systems and jobs obsolete. For instance, the proliferation of e-commerce has revolutionized shopping but led to the decline of traditional retail stores, affecting thousands of jobs and local economies.\n\n3. Furthermore, innovation can exacerbate social inequalities. The rapid development of cutting-edge technologies often benefits those with the education and resources to access them, leaving others behind. This 'digital divide' was starkly evident during the COVID-19 pandemic, where students in underserved communities struggled with online learning due to limited access to devices and high-speed internet.\n\n4. Environmental concerns also complicate the narrative of progress. While renewable energy technologies promise a sustainable future, the production and disposal of solar panels, wind turbines, and batteries generate significant environmental waste. Similarly, the convenience of single-use plastics, once heralded as an innovation, has become a major ecological challenge.\n\n5. Despite these drawbacks, innovation remains a necessity for addressing global challenges. Breakthroughs in medicine, for instance, have eradicated diseases like smallpox and extended human lifespans. Similarly, advancements in artificial intelligence hold promise for solving problems ranging from climate modeling to personalized education.\n\n6. However, the ethical implications of innovation cannot be overlooked. Technologies like facial recognition and genetic engineering raise questions about privacy, consent, and the boundaries of human intervention. As society grapples with these issues, the need for regulatory frameworks becomes increasingly evident.\n\n7. Collaboration between governments, industries, and communities is essential to harness innovation responsibly. Policies that promote equitable access to technology, investments in sustainable practices, and ethical guidelines can mitigate the adverse effects of progress. History shows that innovation thrives in environments that balance creativity with accountability.\n\n8. Ultimately, the paradox of innovation lies in its power to both uplift and unsettle. While it offers unprecedented opportunities to advance humanity, it also demands vigilance to ensure that its benefits are widely shared and its costs are minimized. Navigating this delicate balance is perhaps the greatest challenge of the modern era.",
+      "options": [
+        "Why do certain innovations widen social inequalities?",
+        "How does innovation contribute to environmental degradation?",
+        "What specific technologies can prevent ethical dilemmas in innovation?",
+        "What measures can governments take to regulate technology responsibly?"
+      ],
+      "answer": "C",
+      "explanation": "The passage discusses social inequalities (digital divide), environmental degradation (renewable waste), and government measures (policies, ethical guidelines). It does NOT list specific technologies that prevent ethical dilemmas."
+    },
+    {
+      "id": 24,
+      "question": "The phrase 'navigating this delicate balance' in Paragraph 8 most likely refers to:",
+      "image": null,
+      "passage": "1. Innovation has long been celebrated as the driving force behind societal progress. From the advent of the printing press to the rise of artificial intelligence, groundbreaking ideas have consistently reshaped industries, economies, and human lifestyles. Yet, this transformative power often comes with unintended consequences that challenge its celebrated status.\n\n2. One of the paradoxes of innovation is its dual capacity to create and destroy. Schumpeter's concept of 'creative destruction' illustrates this, where new technologies render existing systems and jobs obsolete. For instance, the proliferation of e-commerce has revolutionized shopping but led to the decline of traditional retail stores, affecting thousands of jobs and local economies.\n\n3. Furthermore, innovation can exacerbate social inequalities. The rapid development of cutting-edge technologies often benefits those with the education and resources to access them, leaving others behind. This 'digital divide' was starkly evident during the COVID-19 pandemic, where students in underserved communities struggled with online learning due to limited access to devices and high-speed internet.\n\n4. Environmental concerns also complicate the narrative of progress. While renewable energy technologies promise a sustainable future, the production and disposal of solar panels, wind turbines, and batteries generate significant environmental waste. Similarly, the convenience of single-use plastics, once heralded as an innovation, has become a major ecological challenge.\n\n5. Despite these drawbacks, innovation remains a necessity for addressing global challenges. Breakthroughs in medicine, for instance, have eradicated diseases like smallpox and extended human lifespans. Similarly, advancements in artificial intelligence hold promise for solving problems ranging from climate modeling to personalized education.\n\n6. However, the ethical implications of innovation cannot be overlooked. Technologies like facial recognition and genetic engineering raise questions about privacy, consent, and the boundaries of human intervention. As society grapples with these issues, the need for regulatory frameworks becomes increasingly evident.\n\n7. Collaboration between governments, industries, and communities is essential to harness innovation responsibly. Policies that promote equitable access to technology, investments in sustainable practices, and ethical guidelines can mitigate the adverse effects of progress. History shows that innovation thrives in environments that balance creativity with accountability.\n\n8. Ultimately, the paradox of innovation lies in its power to both uplift and unsettle. While it offers unprecedented opportunities to advance humanity, it also demands vigilance to ensure that its benefits are widely shared and its costs are minimized. Navigating this delicate balance is perhaps the greatest challenge of the modern era.",
+      "options": [
+        "Ensuring innovation remains sustainable while avoiding creative destruction",
+        "Balancing the opportunities and challenges posed by innovative technology.",
+        "Deciding which innovations should be prioritized for global development",
+        "Encouraging faster technological progress to address urgent issues"
+      ],
+      "answer": "B",
+      "explanation": "The 'delicate balance' refers to managing the dual nature of innovation: its opportunities (benefits) and challenges (drawbacks). Option B captures this balance precisely."
+    },
+    {
+      "id": 25,
+      "question": "What is the meaning of 'advent' in paragraph 1, line 2?",
+      "image": null,
+      "passage": "1. Innovation has long been celebrated as the driving force behind societal progress. From the advent of the printing press to the rise of artificial intelligence, groundbreaking ideas have consistently reshaped industries, economies, and human lifestyles. Yet, this transformative power often comes with unintended consequences that challenge its celebrated status.\n\n2. One of the paradoxes of innovation is its dual capacity to create and destroy. Schumpeter's concept of 'creative destruction' illustrates this, where new technologies render existing systems and jobs obsolete. For instance, the proliferation of e-commerce has revolutionized shopping but led to the decline of traditional retail stores, affecting thousands of jobs and local economies.\n\n3. Furthermore, innovation can exacerbate social inequalities. The rapid development of cutting-edge technologies often benefits those with the education and resources to access them, leaving others behind. This 'digital divide' was starkly evident during the COVID-19 pandemic, where students in underserved communities struggled with online learning due to limited access to devices and high-speed internet.\n\n4. Environmental concerns also complicate the narrative of progress. While renewable energy technologies promise a sustainable future, the production and disposal of solar panels, wind turbines, and batteries generate significant environmental waste. Similarly, the convenience of single-use plastics, once heralded as an innovation, has become a major ecological challenge.\n\n5. Despite these drawbacks, innovation remains a necessity for addressing global challenges. Breakthroughs in medicine, for instance, have eradicated diseases like smallpox and extended human lifespans. Similarly, advancements in artificial intelligence hold promise for solving problems ranging from climate modeling to personalized education.\n\n6. However, the ethical implications of innovation cannot be overlooked. Technologies like facial recognition and genetic engineering raise questions about privacy, consent, and the boundaries of human intervention. As society grapples with these issues, the need for regulatory frameworks becomes increasingly evident.\n\n7. Collaboration between governments, industries, and communities is essential to harness innovation responsibly. Policies that promote equitable access to technology, investments in sustainable practices, and ethical guidelines can mitigate the adverse effects of progress. History shows that innovation thrives in environments that balance creativity with accountability.\n\n8. Ultimately, the paradox of innovation lies in its power to both uplift and unsettle. While it offers unprecedented opportunities to advance humanity, it also demands vigilance to ensure that its benefits are widely shared and its costs are minimized. Navigating this delicate balance is perhaps the greatest challenge of the modern era.",
+      "options": ["progress", "development", "beginning", "advancement"],
+      "answer": "C",
+      "explanation": "'Advent' means the arrival or beginning of something important. In context, 'the advent of the printing press' means the time when the printing press first appeared. 'Beginning' is the best synonym."
+    },
+    {
+      "id": 26,
+      "question": "In paragraph 5, line 1 what does 'these drawbacks' refers to in the sentence: 'Despite these drawbacks, innovation remains a necessity for addressing global challenges'?",
+      "image": null,
+      "passage": "1. Innovation has long been celebrated as the driving force behind societal progress. From the advent of the printing press to the rise of artificial intelligence, groundbreaking ideas have consistently reshaped industries, economies, and human lifestyles. Yet, this transformative power often comes with unintended consequences that challenge its celebrated status.\n\n2. One of the paradoxes of innovation is its dual capacity to create and destroy. Schumpeter's concept of 'creative destruction' illustrates this, where new technologies render existing systems and jobs obsolete. For instance, the proliferation of e-commerce has revolutionized shopping but led to the decline of traditional retail stores, affecting thousands of jobs and local economies.\n\n3. Furthermore, innovation can exacerbate social inequalities. The rapid development of cutting-edge technologies often benefits those with the education and resources to access them, leaving others behind. This 'digital divide' was starkly evident during the COVID-19 pandemic, where students in underserved communities struggled with online learning due to limited access to devices and high-speed internet.\n\n4. Environmental concerns also complicate the narrative of progress. While renewable energy technologies promise a sustainable future, the production and disposal of solar panels, wind turbines, and batteries generate significant environmental waste. Similarly, the convenience of single-use plastics, once heralded as an innovation, has become a major ecological challenge.\n\n5. Despite these drawbacks, innovation remains a necessity for addressing global challenges. Breakthroughs in medicine, for instance, have eradicated diseases like smallpox and extended human lifespans. Similarly, advancements in artificial intelligence hold promise for solving problems ranging from climate modeling to personalized education.\n\n6. However, the ethical implications of innovation cannot be overlooked. Technologies like facial recognition and genetic engineering raise questions about privacy, consent, and the boundaries of human intervention. As society grapples with these issues, the need for regulatory frameworks becomes increasingly evident.\n\n7. Collaboration between governments, industries, and communities is essential to harness innovation responsibly. Policies that promote equitable access to technology, investments in sustainable practices, and ethical guidelines can mitigate the adverse effects of progress. History shows that innovation thrives in environments that balance creativity with accountability.\n\n8. Ultimately, the paradox of innovation lies in its power to both uplift and unsettle. While it offers unprecedented opportunities to advance humanity, it also demands vigilance to ensure that its benefits are widely shared and its costs are minimized. Navigating this delicate balance is perhaps the greatest challenge of the modern era.",
+      "options": [
+        "Challenges associated with innovations",
+        "Waste products released to the environment",
+        "The timely increasing global challenges",
+        "The production and disposal of solar panel"
+      ],
+      "answer": "A",
+      "explanation": "'These drawbacks' refers back to the problems discussed in previous paragraphs: job obsolescence, social inequality, and environmental waste — all challenges associated with innovations. Option A is the broadest and most accurate."
+    },
+    {
+      "id": 27,
+      "question": "According to paragraph 1, what has Ethiopia's government been aiming to address through its comprehensive macroeconomic reform policy following the political change in 2018?",
+      "image": null,
+      "passage": "1. Ethiopia has embarked on a comprehensive macroeconomic reform policy aimed at addressing longstanding economic structural problems. Following the political change in 2018, the government has been implementing numerous economic reforms to tackle issues such as debt burden, inflation, unemployment, slow economic structural change, low sector productivity, poor performance of development projects, and resource mismanagement. These reforms have brought new hope for the economy to transition to a more stable macroeconomic environment.\n\n2. The first phase of the Home-Grown Economic Reform Program (HGER), introduced in the 2019 fiscal year, included various policy ideas ranging from macro-financial to structural and sectoral reforms. Through the implementation of HGER, Ethiopia has achieved significant economic objectives and goals, such as correcting macroeconomic imbalances, alleviating debt burden, increasing domestic production capacity, expanding sources of economic growth, creating job opportunities, and addressing structural bottlenecks. Additionally, the government's ability to collect tax revenue has improved, contributing to Ethiopia's robust economic growth.\n\n3. Ethiopia's economic reforms have also focused on liberalizing the economy, promoting private sector investment, and improving the business environment. Key areas of reform include financial sector development, trade and investment liberalization, and infrastructure investment. The government has implemented measures such as the liberalization of foreign exchange, loosening restrictions on interest rates, and the development of new financial instruments and institutions. These changes have the potential to boost economic growth, create jobs, and reduce poverty in the country.\n\n4. One of the notable aspects of Ethiopia's macroeconomic reforms is the shift towards a market-based exchange rate. This move is intended to alleviate the country's foreign exchange crunch and improve overall economic stability. However, the reforms come with inherent risks, such as the recent 30% depreciation of the birr following the implementation of a flexible exchange rate.\n\n5. Despite the challenges, the International Monetary Fund (IMF) has played a supportive role in Ethiopia's reform efforts, approving a program of nearly US$3 billion to assist the government in its Homegrown Economic Reform Program. This backing underscores the international community's recognition of the importance of these reforms for Ethiopia's economic future. The success of these reforms will ultimately depend on the ability to balance economic liberalization with social stability and political cohesion.\n\n6. In conclusion, Ethiopia's macroeconomic reforms represent a critical juncture in the country's economic development. While the potential for growth and stability is significant, the path forward is fraught with challenges that require careful management and sustained commitment from both the government and its international partners. The government's efforts to implement structural reforms and create a more stable and sustainable economic environment are crucial for Ethiopia's future prosperity.",
+      "options": [
+        "Tackling debt, inflation, unemployment, slow growth, and resource mismanagement.",
+        "Enhancing digital technology and internet connectivity in rural areas",
+        "Strengthening the healthcare system and medical research capabilities",
+        "Improving in tourism and cultural heritage management"
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 1 lists: 'debt burden, inflation, unemployment, slow economic structural change, low sector productivity, poor performance of development projects, and resource mismanagement.' Option A summarizes these."
+    },
+    {
+      "id": 28,
+      "question": "What is the main idea of paragraph 2?",
+      "image": null,
+      "passage": "1. Ethiopia has embarked on a comprehensive macroeconomic reform policy aimed at addressing longstanding economic structural problems. Following the political change in 2018, the government has been implementing numerous economic reforms to tackle issues such as debt burden, inflation, unemployment, slow economic structural change, low sector productivity, poor performance of development projects, and resource mismanagement. These reforms have brought new hope for the economy to transition to a more stable macroeconomic environment.\n\n2. The first phase of the Home-Grown Economic Reform Program (HGER), introduced in the 2019 fiscal year, included various policy ideas ranging from macro-financial to structural and sectoral reforms. Through the implementation of HGER, Ethiopia has achieved significant economic objectives and goals, such as correcting macroeconomic imbalances, alleviating debt burden, increasing domestic production capacity, expanding sources of economic growth, creating job opportunities, and addressing structural bottlenecks. Additionally, the government's ability to collect tax revenue has improved, contributing to Ethiopia's robust economic growth.\n\n3. Ethiopia's economic reforms have also focused on liberalizing the economy, promoting private sector investment, and improving the business environment. Key areas of reform include financial sector development, trade and investment liberalization, and infrastructure investment. The government has implemented measures such as the liberalization of foreign exchange, loosening restrictions on interest rates, and the development of new financial instruments and institutions. These changes have the potential to boost economic growth, create jobs, and reduce poverty in the country.\n\n4. One of the notable aspects of Ethiopia's macroeconomic reforms is the shift towards a market-based exchange rate. This move is intended to alleviate the country's foreign exchange crunch and improve overall economic stability. However, the reforms come with inherent risks, such as the recent 30% depreciation of the birr following the implementation of a flexible exchange rate.\n\n5. Despite the challenges, the International Monetary Fund (IMF) has played a supportive role in Ethiopia's reform efforts, approving a program of nearly US$3 billion to assist the government in its Homegrown Economic Reform Program. This backing underscores the international community's recognition of the importance of these reforms for Ethiopia's economic future. The success of these reforms will ultimately depend on the ability to balance economic liberalization with social stability and political cohesion.\n\n6. In conclusion, Ethiopia's macroeconomic reforms represent a critical juncture in the country's economic development. While the potential for growth and stability is significant, the path forward is fraught with challenges that require careful management and sustained commitment from both the government and its international partners. The government's efforts to implement structural reforms and create a more stable and sustainable economic environment are crucial for Ethiopia's future prosperity.",
+      "options": [
+        "Ethiopia aimed to boost its tourism sector through HGER policies.",
+        "The government focused on improving the healthcare system in 2019.",
+        "The primary goal was to enhance digital technology and internet connectivity.",
+        "Ethiopia introduced HGER in 2019 to achieve significant economic reforms and growth."
+      ],
+      "answer": "D",
+      "explanation": "Paragraph 2 describes the Home-Grown Economic Reform Program (HGER) introduced in 2019 and its achievements in correcting imbalances, reducing debt, increasing production, etc. Option D captures the main idea."
+    },
+    {
+      "id": 29,
+      "question": "What does the word 'bottlenecks' as used in paragraph 2, line 6 mean?",
+      "image": null,
+      "passage": "1. Ethiopia has embarked on a comprehensive macroeconomic reform policy aimed at addressing longstanding economic structural problems. Following the political change in 2018, the government has been implementing numerous economic reforms to tackle issues such as debt burden, inflation, unemployment, slow economic structural change, low sector productivity, poor performance of development projects, and resource mismanagement. These reforms have brought new hope for the economy to transition to a more stable macroeconomic environment.\n\n2. The first phase of the Home-Grown Economic Reform Program (HGER), introduced in the 2019 fiscal year, included various policy ideas ranging from macro-financial to structural and sectoral reforms. Through the implementation of HGER, Ethiopia has achieved significant economic objectives and goals, such as correcting macroeconomic imbalances, alleviating debt burden, increasing domestic production capacity, expanding sources of economic growth, creating job opportunities, and addressing structural bottlenecks. Additionally, the government's ability to collect tax revenue has improved, contributing to Ethiopia's robust economic growth.\n\n3. Ethiopia's economic reforms have also focused on liberalizing the economy, promoting private sector investment, and improving the business environment. Key areas of reform include financial sector development, trade and investment liberalization, and infrastructure investment. The government has implemented measures such as the liberalization of foreign exchange, loosening restrictions on interest rates, and the development of new financial instruments and institutions. These changes have the potential to boost economic growth, create jobs, and reduce poverty in the country.\n\n4. One of the notable aspects of Ethiopia's macroeconomic reforms is the shift towards a market-based exchange rate. This move is intended to alleviate the country's foreign exchange crunch and improve overall economic stability. However, the reforms come with inherent risks, such as the recent 30% depreciation of the birr following the implementation of a flexible exchange rate.\n\n5. Despite the challenges, the International Monetary Fund (IMF) has played a supportive role in Ethiopia's reform efforts, approving a program of nearly US$3 billion to assist the government in its Homegrown Economic Reform Program. This backing underscores the international community's recognition of the importance of these reforms for Ethiopia's economic future. The success of these reforms will ultimately depend on the ability to balance economic liberalization with social stability and political cohesion.\n\n6. In conclusion, Ethiopia's macroeconomic reforms represent a critical juncture in the country's economic development. While the potential for growth and stability is significant, the path forward is fraught with challenges that require careful management and sustained commitment from both the government and its international partners. The government's efforts to implement structural reforms and create a more stable and sustainable economic environment are crucial for Ethiopia's future prosperity.",
+      "options": ["progresses", "opportunities", "pathways", "obstacles"],
+      "answer": "D",
+      "explanation": "A 'bottleneck' is a point of congestion or blockage that slows progress. In economics, structural bottlenecks are obstacles to growth. 'Obstacles' is the best synonym here."
+    },
+    {
+      "id": 30,
+      "question": "According to the passage, what specific measures has the Ethiopian government taken to liberalize the foreign exchange market in the country?",
+      "image": null,
+      "passage": "1. Ethiopia has embarked on a comprehensive macroeconomic reform policy aimed at addressing longstanding economic structural problems. Following the political change in 2018, the government has been implementing numerous economic reforms to tackle issues such as debt burden, inflation, unemployment, slow economic structural change, low sector productivity, poor performance of development projects, and resource mismanagement. These reforms have brought new hope for the economy to transition to a more stable macroeconomic environment.\n\n2. The first phase of the Home-Grown Economic Reform Program (HGER), introduced in the 2019 fiscal year, included various policy ideas ranging from macro-financial to structural and sectoral reforms. Through the implementation of HGER, Ethiopia has achieved significant economic objectives and goals, such as correcting macroeconomic imbalances, alleviating debt burden, increasing domestic production capacity, expanding sources of economic growth, creating job opportunities, and addressing structural bottlenecks. Additionally, the government's ability to collect tax revenue has improved, contributing to Ethiopia's robust economic growth.\n\n3. Ethiopia's economic reforms have also focused on liberalizing the economy, promoting private sector investment, and improving the business environment. Key areas of reform include financial sector development, trade and investment liberalization, and infrastructure investment. The government has implemented measures such as the liberalization of foreign exchange, loosening restrictions on interest rates, and the development of new financial instruments and institutions. These changes have the potential to boost economic growth, create jobs, and reduce poverty in the country.\n\n4. One of the notable aspects of Ethiopia's macroeconomic reforms is the shift towards a market-based exchange rate. This move is intended to alleviate the country's foreign exchange crunch and improve overall economic stability. However, the reforms come with inherent risks, such as the recent 30% depreciation of the birr following the implementation of a flexible exchange rate.\n\n5. Despite the challenges, the International Monetary Fund (IMF) has played a supportive role in Ethiopia's reform efforts, approving a program of nearly US$3 billion to assist the government in its Homegrown Economic Reform Program. This backing underscores the international community's recognition of the importance of these reforms for Ethiopia's economic future. The success of these reforms will ultimately depend on the ability to balance economic liberalization with social stability and political cohesion.\n\n6. In conclusion, Ethiopia's macroeconomic reforms represent a critical juncture in the country's economic development. While the potential for growth and stability is significant, the path forward is fraught with challenges that require careful management and sustained commitment from both the government and its international partners. The government's efforts to implement structural reforms and create a more stable and sustainable economic environment are crucial for Ethiopia's future prosperity.",
+      "options": [
+        "Developed new financial instruments and institutions",
+        "Eased restrictions on currency exchange",
+        "Reduced taxes on foreign exchange",
+        "Restricted foreign exchange further"
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 3 mentions 'liberalization of foreign exchange, loosening restrictions on interest rates' — easing restrictions on currency exchange is the key measure. Option B directly states this."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following issues is NOT mentioned as a target of Ethiopia's economic reforms?",
+      "image": null,
+      "passage": "1. Ethiopia has embarked on a comprehensive macroeconomic reform policy aimed at addressing longstanding economic structural problems. Following the political change in 2018, the government has been implementing numerous economic reforms to tackle issues such as debt burden, inflation, unemployment, slow economic structural change, low sector productivity, poor performance of development projects, and resource mismanagement. These reforms have brought new hope for the economy to transition to a more stable macroeconomic environment.\n\n2. The first phase of the Home-Grown Economic Reform Program (HGER), introduced in the 2019 fiscal year, included various policy ideas ranging from macro-financial to structural and sectoral reforms. Through the implementation of HGER, Ethiopia has achieved significant economic objectives and goals, such as correcting macroeconomic imbalances, alleviating debt burden, increasing domestic production capacity, expanding sources of economic growth, creating job opportunities, and addressing structural bottlenecks. Additionally, the government's ability to collect tax revenue has improved, contributing to Ethiopia's robust economic growth.\n\n3. Ethiopia's economic reforms have also focused on liberalizing the economy, promoting private sector investment, and improving the business environment. Key areas of reform include financial sector development, trade and investment liberalization, and infrastructure investment. The government has implemented measures such as the liberalization of foreign exchange, loosening restrictions on interest rates, and the development of new financial instruments and institutions. These changes have the potential to boost economic growth, create jobs, and reduce poverty in the country.\n\n4. One of the notable aspects of Ethiopia's macroeconomic reforms is the shift towards a market-based exchange rate. This move is intended to alleviate the country's foreign exchange crunch and improve overall economic stability. However, the reforms come with inherent risks, such as the recent 30% depreciation of the birr following the implementation of a flexible exchange rate.\n\n5. Despite the challenges, the International Monetary Fund (IMF) has played a supportive role in Ethiopia's reform efforts, approving a program of nearly US$3 billion to assist the government in its Homegrown Economic Reform Program. This backing underscores the international community's recognition of the importance of these reforms for Ethiopia's economic future. The success of these reforms will ultimately depend on the ability to balance economic liberalization with social stability and political cohesion.\n\n6. In conclusion, Ethiopia's macroeconomic reforms represent a critical juncture in the country's economic development. While the potential for growth and stability is significant, the path forward is fraught with challenges that require careful management and sustained commitment from both the government and its international partners. The government's efforts to implement structural reforms and create a more stable and sustainable economic environment are crucial for Ethiopia's future prosperity.",
+      "options": ["debt burden", "slow economic structural change", "inflation", "population growth"],
+      "answer": "D",
+      "explanation": "The passage mentions debt, inflation, slow structural change, unemployment, etc. Population growth is not listed as a target of the economic reforms. It may be a concern, but not directly addressed as a reform target."
+    },
+    {
+      "id": 32,
+      "question": "... Ethiopia's macroeconomic reforms represent a critical juncture... in Paragraph 6, line1 juncture mean?",
+      "image": null,
+      "passage": "1. Ethiopia has embarked on a comprehensive macroeconomic reform policy aimed at addressing longstanding economic structural problems. Following the political change in 2018, the government has been implementing numerous economic reforms to tackle issues such as debt burden, inflation, unemployment, slow economic structural change, low sector productivity, poor performance of development projects, and resource mismanagement. These reforms have brought new hope for the economy to transition to a more stable macroeconomic environment.\n\n2. The first phase of the Home-Grown Economic Reform Program (HGER), introduced in the 2019 fiscal year, included various policy ideas ranging from macro-financial to structural and sectoral reforms. Through the implementation of HGER, Ethiopia has achieved significant economic objectives and goals, such as correcting macroeconomic imbalances, alleviating debt burden, increasing domestic production capacity, expanding sources of economic growth, creating job opportunities, and addressing structural bottlenecks. Additionally, the government's ability to collect tax revenue has improved, contributing to Ethiopia's robust economic growth.\n\n3. Ethiopia's economic reforms have also focused on liberalizing the economy, promoting private sector investment, and improving the business environment. Key areas of reform include financial sector development, trade and investment liberalization, and infrastructure investment. The government has implemented measures such as the liberalization of foreign exchange, loosening restrictions on interest rates, and the development of new financial instruments and institutions. These changes have the potential to boost economic growth, create jobs, and reduce poverty in the country.\n\n4. One of the notable aspects of Ethiopia's macroeconomic reforms is the shift towards a market-based exchange rate. This move is intended to alleviate the country's foreign exchange crunch and improve overall economic stability. However, the reforms come with inherent risks, such as the recent 30% depreciation of the birr following the implementation of a flexible exchange rate.\n\n5. Despite the challenges, the International Monetary Fund (IMF) has played a supportive role in Ethiopia's reform efforts, approving a program of nearly US$3 billion to assist the government in its Homegrown Economic Reform Program. This backing underscores the international community's recognition of the importance of these reforms for Ethiopia's economic future. The success of these reforms will ultimately depend on the ability to balance economic liberalization with social stability and political cohesion.\n\n6. In conclusion, Ethiopia's macroeconomic reforms represent a critical juncture in the country's economic development. While the potential for growth and stability is significant, the path forward is fraught with challenges that require careful management and sustained commitment from both the government and its international partners. The government's efforts to implement structural reforms and create a more stable and sustainable economic environment are crucial for Ethiopia's future prosperity.",
+      "options": ["last stage", "stalemate", "turning point", "standstill"],
+      "answer": "C",
+      "explanation": "A 'critical juncture' means an important point in time where decisions or changes will determine future outcomes — a turning point. It is not a final stage or standstill."
+    },
+    {
+      "id": 33,
+      "question": "Based on paragraph 3, which of the following can be inferred as a primary reason behind Ethiopia's focus on promoting private sector investment and improving the business environment?",
+      "image": null,
+      "passage": "1. Ethiopia has embarked on a comprehensive macroeconomic reform policy aimed at addressing longstanding economic structural problems. Following the political change in 2018, the government has been implementing numerous economic reforms to tackle issues such as debt burden, inflation, unemployment, slow economic structural change, low sector productivity, poor performance of development projects, and resource mismanagement. These reforms have brought new hope for the economy to transition to a more stable macroeconomic environment.\n\n2. The first phase of the Home-Grown Economic Reform Program (HGER), introduced in the 2019 fiscal year, included various policy ideas ranging from macro-financial to structural and sectoral reforms. Through the implementation of HGER, Ethiopia has achieved significant economic objectives and goals, such as correcting macroeconomic imbalances, alleviating debt burden, increasing domestic production capacity, expanding sources of economic growth, creating job opportunities, and addressing structural bottlenecks. Additionally, the government's ability to collect tax revenue has improved, contributing to Ethiopia's robust economic growth.\n\n3. Ethiopia's economic reforms have also focused on liberalizing the economy, promoting private sector investment, and improving the business environment. Key areas of reform include financial sector development, trade and investment liberalization, and infrastructure investment. The government has implemented measures such as the liberalization of foreign exchange, loosening restrictions on interest rates, and the development of new financial instruments and institutions. These changes have the potential to boost economic growth, create jobs, and reduce poverty in the country.\n\n4. One of the notable aspects of Ethiopia's macroeconomic reforms is the shift towards a market-based exchange rate. This move is intended to alleviate the country's foreign exchange crunch and improve overall economic stability. However, the reforms come with inherent risks, such as the recent 30% depreciation of the birr following the implementation of a flexible exchange rate.\n\n5. Despite the challenges, the International Monetary Fund (IMF) has played a supportive role in Ethiopia's reform efforts, approving a program of nearly US$3 billion to assist the government in its Homegrown Economic Reform Program. This backing underscores the international community's recognition of the importance of these reforms for Ethiopia's economic future. The success of these reforms will ultimately depend on the ability to balance economic liberalization with social stability and political cohesion.\n\n6. In conclusion, Ethiopia's macroeconomic reforms represent a critical juncture in the country's economic development. While the potential for growth and stability is significant, the path forward is fraught with challenges that require careful management and sustained commitment from both the government and its international partners. The government's efforts to implement structural reforms and create a more stable and sustainable economic environment are crucial for Ethiopia's future prosperity.",
+      "options": [
+        "To reduce the country's dependency on international aid",
+        "To reduce the overall expenditures and financial outlays of the government.",
+        "To stimulate economic growth and address poverty through market-driven initiatives",
+        "To place restrictions on and minimize the influx of investments from foreign entities."
+      ],
+      "answer": "C",
+      "explanation": "Paragraph 3 says these changes 'have the potential to boost economic growth, create jobs, and reduce poverty.' This is a market-driven approach. Option C matches this inference."
+    },
+    {
+      "id": 34,
+      "question": "The word 'This' (Para.4, line 2) refers to:",
+      "image": null,
+      "passage": "1. Ethiopia has embarked on a comprehensive macroeconomic reform policy aimed at addressing longstanding economic structural problems. Following the political change in 2018, the government has been implementing numerous economic reforms to tackle issues such as debt burden, inflation, unemployment, slow economic structural change, low sector productivity, poor performance of development projects, and resource mismanagement. These reforms have brought new hope for the economy to transition to a more stable macroeconomic environment.\n\n2. The first phase of the Home-Grown Economic Reform Program (HGER), introduced in the 2019 fiscal year, included various policy ideas ranging from macro-financial to structural and sectoral reforms. Through the implementation of HGER, Ethiopia has achieved significant economic objectives and goals, such as correcting macroeconomic imbalances, alleviating debt burden, increasing domestic production capacity, expanding sources of economic growth, creating job opportunities, and addressing structural bottlenecks. Additionally, the government's ability to collect tax revenue has improved, contributing to Ethiopia's robust economic growth.\n\n3. Ethiopia's economic reforms have also focused on liberalizing the economy, promoting private sector investment, and improving the business environment. Key areas of reform include financial sector development, trade and investment liberalization, and infrastructure investment. The government has implemented measures such as the liberalization of foreign exchange, loosening restrictions on interest rates, and the development of new financial instruments and institutions. These changes have the potential to boost economic growth, create jobs, and reduce poverty in the country.\n\n4. One of the notable aspects of Ethiopia's macroeconomic reforms is the shift towards a market-based exchange rate. This move is intended to alleviate the country's foreign exchange crunch and improve overall economic stability. However, the reforms come with inherent risks, such as the recent 30% depreciation of the birr following the implementation of a flexible exchange rate.\n\n5. Despite the challenges, the International Monetary Fund (IMF) has played a supportive role in Ethiopia's reform efforts, approving a program of nearly US$3 billion to assist the government in its Homegrown Economic Reform Program. This backing underscores the international community's recognition of the importance of these reforms for Ethiopia's economic future. The success of these reforms will ultimately depend on the ability to balance economic liberalization with social stability and political cohesion.\n\n6. In conclusion, Ethiopia's macroeconomic reforms represent a critical juncture in the country's economic development. While the potential for growth and stability is significant, the path forward is fraught with challenges that require careful management and sustained commitment from both the government and its international partners. The government's efforts to implement structural reforms and create a more stable and sustainable economic environment are crucial for Ethiopia's future prosperity.",
+      "options": [
+        "Shift towards a market-based exchange rate",
+        "The country's foreign exchange crunch.",
+        "Ethiopia introduces economic reform.",
+        "Microeconomic reform in general"
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 4: 'One of the notable aspects... is the shift towards a market-based exchange rate. This move is intended to alleviate...' So 'This' refers to the shift towards a market-based exchange rate."
+    },
+    {
+      "id": 35,
+      "question": "What does 'its' as used in paragraph 5, Line 3 refers to?",
+      "image": null,
+      "passage": "1. Ethiopia has embarked on a comprehensive macroeconomic reform policy aimed at addressing longstanding economic structural problems. Following the political change in 2018, the government has been implementing numerous economic reforms to tackle issues such as debt burden, inflation, unemployment, slow economic structural change, low sector productivity, poor performance of development projects, and resource mismanagement. These reforms have brought new hope for the economy to transition to a more stable macroeconomic environment.\n\n2. The first phase of the Home-Grown Economic Reform Program (HGER), introduced in the 2019 fiscal year, included various policy ideas ranging from macro-financial to structural and sectoral reforms. Through the implementation of HGER, Ethiopia has achieved significant economic objectives and goals, such as correcting macroeconomic imbalances, alleviating debt burden, increasing domestic production capacity, expanding sources of economic growth, creating job opportunities, and addressing structural bottlenecks. Additionally, the government's ability to collect tax revenue has improved, contributing to Ethiopia's robust economic growth.\n\n3. Ethiopia's economic reforms have also focused on liberalizing the economy, promoting private sector investment, and improving the business environment. Key areas of reform include financial sector development, trade and investment liberalization, and infrastructure investment. The government has implemented measures such as the liberalization of foreign exchange, loosening restrictions on interest rates, and the development of new financial instruments and institutions. These changes have the potential to boost economic growth, create jobs, and reduce poverty in the country.\n\n4. One of the notable aspects of Ethiopia's macroeconomic reforms is the shift towards a market-based exchange rate. This move is intended to alleviate the country's foreign exchange crunch and improve overall economic stability. However, the reforms come with inherent risks, such as the recent 30% depreciation of the birr following the implementation of a flexible exchange rate.\n\n5. Despite the challenges, the International Monetary Fund (IMF) has played a supportive role in Ethiopia's reform efforts, approving a program of nearly US$3 billion to assist the government in its Homegrown Economic Reform Program. This backing underscores the international community's recognition of the importance of these reforms for Ethiopia's economic future. The success of these reforms will ultimately depend on the ability to balance economic liberalization with social stability and political cohesion.\n\n6. In conclusion, Ethiopia's macroeconomic reforms represent a critical juncture in the country's economic development. While the potential for growth and stability is significant, the path forward is fraught with challenges that require careful management and sustained commitment from both the government and its international partners. The government's efforts to implement structural reforms and create a more stable and sustainable economic environment are crucial for Ethiopia's future prosperity.",
+      "options": [
+        "Ethiopia's Homegrown Economic Reform Program.",
+        "the supportive role of International Monetary Fund (IMF)",
+        "Ethiopian's reform policy on political and economic policy",
+        "Country's dependency on international aid"
+      ],
+      "answer": "A",
+      "explanation": "Paragraph 5: 'IMF... approving a program... to assist the government in its Homegrown Economic Reform Program.' 'Its' refers to Ethiopia's program. The possessive 'its' matches the country's reform program."
+    },
+    {
+      "id": 36,
+      "question": "According to the passage, what is the primary goal behind Ethiopia's efforts to implement structural reforms and establish a more stable and sustainable economic environment?",
+      "image": null,
+      "passage": "1. Ethiopia has embarked on a comprehensive macroeconomic reform policy aimed at addressing longstanding economic structural problems. Following the political change in 2018, the government has been implementing numerous economic reforms to tackle issues such as debt burden, inflation, unemployment, slow economic structural change, low sector productivity, poor performance of development projects, and resource mismanagement. These reforms have brought new hope for the economy to transition to a more stable macroeconomic environment.\n\n2. The first phase of the Home-Grown Economic Reform Program (HGER), introduced in the 2019 fiscal year, included various policy ideas ranging from macro-financial to structural and sectoral reforms. Through the implementation of HGER, Ethiopia has achieved significant economic objectives and goals, such as correcting macroeconomic imbalances, alleviating debt burden, increasing domestic production capacity, expanding sources of economic growth, creating job opportunities, and addressing structural bottlenecks. Additionally, the government's ability to collect tax revenue has improved, contributing to Ethiopia's robust economic growth.\n\n3. Ethiopia's economic reforms have also focused on liberalizing the economy, promoting private sector investment, and improving the business environment. Key areas of reform include financial sector development, trade and investment liberalization, and infrastructure investment. The government has implemented measures such as the liberalization of foreign exchange, loosening restrictions on interest rates, and the development of new financial instruments and institutions. These changes have the potential to boost economic growth, create jobs, and reduce poverty in the country.\n\n4. One of the notable aspects of Ethiopia's macroeconomic reforms is the shift towards a market-based exchange rate. This move is intended to alleviate the country's foreign exchange crunch and improve overall economic stability. However, the reforms come with inherent risks, such as the recent 30% depreciation of the birr following the implementation of a flexible exchange rate.\n\n5. Despite the challenges, the International Monetary Fund (IMF) has played a supportive role in Ethiopia's reform efforts, approving a program of nearly US$3 billion to assist the government in its Homegrown Economic Reform Program. This backing underscores the international community's recognition of the importance of these reforms for Ethiopia's economic future. The success of these reforms will ultimately depend on the ability to balance economic liberalization with social stability and political cohesion.\n\n6. In conclusion, Ethiopia's macroeconomic reforms represent a critical juncture in the country's economic development. While the potential for growth and stability is significant, the path forward is fraught with challenges that require careful management and sustained commitment from both the government and its international partners. The government's efforts to implement structural reforms and create a more stable and sustainable economic environment are crucial for Ethiopia's future prosperity.",
+      "options": ["To boost foreign loans", "To achieve future prosperity", "To lower population growth", "To cut down tax revenue"],
+      "answer": "B",
+      "explanation": "The last sentence of the passage: 'The government's efforts to implement structural reforms and create a more stable and sustainable economic environment are crucial for Ethiopia's future prosperity.' So the goal is future prosperity."
+    },
+    {
+      "id": 37,
+      "question": "Gurnessa: ______\nDureti: Can you put me through Jamila on extension 348?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Sorry, Jamila is not around at the moment.",
+        "Can you help me to speak to Jamila?",
+        "Do you want Jamila, please?",
+        "Whom do you want to speak to?"
+      ],
+      "answer": "D",
+      "explanation": "Dureti is asking to be connected to Jamila. The most appropriate response from Gurnessa (as the person answering the phone) is to ask whom the caller wants to speak to. 'Whom do you want to speak to?' is standard and polite."
+    },
+    {
+      "id": 38,
+      "question": "Roba: How much will that be?\nShopkeeper: It is 115 birr.\nRoba: Oh, yes! I almost forgot. I need a kilo of garlic, too.\nShopkeeper: ______",
+      "image": null,
+      "passage": null,
+      "options": [
+        "What did you forget?",
+        "Are you happy with our price?",
+        "Do you need anything else?",
+        "Will you come again?"
+      ],
+      "answer": "C",
+      "explanation": "After Roba adds another item (garlic), the shopkeeper would likely ask if that is all or if anything else is needed. 'Do you need anything else?' is the most natural and helpful response."
+    },
+    {
+      "id": 39,
+      "question": "Sinbo: I've got terrible pain with my tooth. I should do something about it. What do you advise me to do?\nChaltu: ______\nChaltu: You had better go there as soon as possible.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I have got the same pain last week and got dentist.",
+        "I'm sorry to hear that, it is horrific.",
+        "Why don't you go to the dentist?",
+        "Don't worry it happens sometimes."
+      ],
+      "answer": "C",
+      "explanation": "Sinbo asks for advice. Chaltu first suggests going to the dentist ('Why don't you go to the dentist?') and then emphasizes going soon. Option C fits the dialogue flow."
+    },
+    {
+      "id": 40,
+      "question": "Jirata: Doesn't the bride look beautiful in that wedding dress?\nAyantu: ______",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Yes. She looks amazing. So does the groom.",
+        "Yes. He looks amazing. So does the bride.",
+        "Yes. She looks amazing. So does the bride.",
+        "Yes. He looks amazing. So does the groom."
+      ],
+      "answer": "A",
+      "explanation": "Jirata asks about the bride (she). Ayantu agrees and adds that the groom also looks amazing. 'So does the groom' is correct because 'groom' is masculine. Option A is correct."
+    },
+    {
+      "id": 41,
+      "question": "Doctor: Take this medicine for a week and you'll start to feel better.\nPatient: ______\nDoctor: Are you sure? It's the best on the market.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "What shall I do if unexpected side effects arise?",
+        "What is the ideal dosage for my weight?",
+        "No, it's too early to prescribe another medicine.",
+        "But I've used it before and it did not help at all."
+      ],
+      "answer": "D",
+      "explanation": "The doctor's response 'Are you sure?' indicates the patient expressed doubt. The most logical doubt is that the patient has used the medicine before without success. Option D fits perfectly."
+    },
+    {
+      "id": 42,
+      "question": "Roba: ______\nIftu: Why do you think so?\nRoba: Whenever we meet, she pretends not to see me.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It seems that Martha is still angry with me.",
+        "Martha will never make a good manager.",
+        "I have never seen a smarter woman than Martha.",
+        "One thing that I especially like about Martha is her sincerity."
+      ],
+      "answer": "A",
+      "explanation": "Roba's second sentence gives evidence (pretends not to see me) that supports the idea that Martha is angry. Option A is the claim that Martha is angry, which Iftu then questions."
+    },
+    {
+      "id": 43,
+      "question": "Mohmmad: ______\nBilise: She is tall and beautiful.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "How long is your sister?",
+        "Your sister fond of playing tennis?",
+        "Is your sister a beautiful girl?",
+        "What is your sister looks like?"
+      ],
+      "answer": "D",
+      "explanation": "Bilise describes physical appearance (tall and beautiful). So Mohmmad must have asked about her sister's appearance. Option D, though slightly ungrammatical ('What does your sister look like?' is standard), is the intended choice among the options."
+    },
+    {
+      "id": 44,
+      "question": "Guest: Excuse me officer, I think I am lost. Can you help me find my hotel, please?\nOfficer: Certainly, ______\nGuest: It's the Skylight Hotel.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Go to the next floor and turn to the right.",
+        "What's the name of your hotel?",
+        "Where have you been still?",
+        "I am sorry I can't."
+      ],
+      "answer": "B",
+      "explanation": "The officer agrees to help and then needs to know which hotel. Asking 'What's the name of your hotel?' is logical. The guest then answers 'It's the Skylight Hotel.'"
+    },
+    {
+      "id": 45,
+      "question": "Desta: These two jackets are equally beautiful to me.\nMasa: ______\nMasa: You should go for the barn-red one. I think it fits you better.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "What shall I do I am confused?",
+        "I don't like long sleeved jackets",
+        "Which one do you think I should buy?",
+        "I like both jackets but I can't afford them."
+      ],
+      "answer": "C",
+      "explanation": "Desta expresses that both jackets are beautiful. Then Desta would likely ask for an opinion on which to buy. Masa then gives advice. Option C is the question that prompts Masa's advice."
+    },
+    {
+      "id": 46,
+      "question": "Talile: I went to the cinema last night.\nBuraka: What a coincidence. ______",
+      "image": null,
+      "passage": null,
+      "options": ["So I was", "So did I", "Neither did I", "So went I"],
+      "answer": "B",
+      "explanation": "Buraka says 'What a coincidence' meaning he also went. The correct structure for agreement with 'I went' (past simple) is 'So did I'. 'So did I' means 'I also went.'"
+    },
+    {
+      "id": 47,
+      "question": "Customer: The product I received is damaged. It's not what I expected.\nCustomer Service: ______",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I apologize for the inconvenience. Let me arrange for a replacement or a refund.",
+        "It's a common issue. You should have checked it earlier.",
+        "You'll need to pay for the shipping to return it.",
+        "It's not our fault that it was damaged."
+      ],
+      "answer": "A",
+      "explanation": "Good customer service involves apologizing and offering a solution (replacement or refund). The other options are unhelpful or blame the customer, which is inappropriate."
+    },
+    {
+      "id": 48,
+      "question": "Tourist: How do I get to the nearest ATM?\nLocal: ______",
+      "image": null,
+      "passage": null,
+      "options": [
+        "You should go to the bank to find an ATM, but it's closed right now.",
+        "I think the nearest ATM is a few miles away.",
+        "There's an ATM service everywhere in this town.",
+        "Sorry, I don't know where the nearest ATM is."
+      ],
+      "answer": "B",
+      "explanation": "The tourist asks for directions. The local should provide helpful information. Option B gives an approximate location. Option D is possible but less helpful; B is the best answer among the choices."
+    },
+    {
+      "id": 49,
+      "question": "Jabessa: Would you mind giving me your lecture notes?\nUrge: ______\nUrge: I would be happy to share my lecture notes with you. Here you are.",
+      "image": null,
+      "passage": null,
+      "options": ["No, I don't mind", "Yes, I do mind", "I am sorry, my note is not with me.", "No, I can't"],
+      "answer": "A",
+      "explanation": "'Would you mind...?' is answered with 'No, I don't mind' to agree. Then Urge happily shares the notes. Option A is the polite agreement."
+    },
+    {
+      "id": 50,
+      "question": "Mary: Why didn't you go to the cinema with us, Meti?\nMeti: ______",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I couldn't continue writing.",
+        "Thanks to you. I've got into the theatre.",
+        "I still believe him in spite of everything.",
+        "I had to stay at home yesterday."
+      ],
+      "answer": "D",
+      "explanation": "Mary asks for a reason for not going. Meti explains she had to stay at home. That is a valid reason. The other options do not answer 'why didn't you go' appropriately."
+    },
+    {
+      "id": 51,
+      "question": "Employee: I didn't receive the materials I need for this project, and it's causing delays.\nManager: ______",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I'll make sure to get the materials to you as soon as possible.",
+        "You should remind me this problem later on.",
+        "It's not a big issue; just work with what you have.",
+        "You need to figure it out on your own."
+      ],
+      "answer": "A",
+      "explanation": "A good manager addresses the problem and offers a solution. Option A shows responsibility and action. The other options dismiss the employee's concern or are unhelpful."
+    },
+    {
+      "id": 52,
+      "question": "Obse: Let's eat out, shall we?\nChaltu: ______\nObse: Don't worry about it. It's my treat.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "You know I have just moved here, so I am unfamiliar with the places.",
+        "Alright, let's do it! But... the neighbors next door will call in tonight.",
+        "I'm broke. I've gone through my paycheck for the week already.",
+        "It would be great, but I really have to finish the project until tomorrow."
+      ],
+      "answer": "C",
+      "explanation": "Obse offers to treat (pay). Chaltu's objection must be about money. Option C says she is broke, which Obse then counters by saying 'It's my treat.' The other options don't lead to that response."
+    },
+    {
+      "id": 53,
+      "question": "Baredu: I think we should buy pink curtains for our study room.\nGuyassa: ______\nGuyassa: If you think that color fits the room best, let's buy it.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "I don't know what we do",
+        "I don't agree less",
+        "I have no objections",
+        "I don't think so"
+      ],
+      "answer": "C",
+      "explanation": "Guyassa agrees to buy the curtains. 'I have no objections' means she agrees. The following sentence confirms agreement. Option C is positive. 'I don't think so' would disagree."
+    },
+    {
+      "id": 54,
+      "question": "Gobane: ______\nSimbo: Yes, I'm packing because I'm going to catch a plane to New York in three hours' time.\nGobane: Lucky girl! How long are you staying in New York?\nSimbo: For a fortnight.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "What were you doing, Simbo?",
+        "Where were you going, Simbo?",
+        "Have you already done everything, Simbo?",
+        "Are you doing anything at the moment, Simbo?"
+      ],
+      "answer": "D",
+      "explanation": "Simbo responds to a question about what she is doing now (packing). 'Are you doing anything at the moment?' is the most natural question to elicit that response. The other options are about past or future."
+    },
+    {
+      "id": 55,
+      "question": "Galgalo: Why did you leave the concert early?\nDintu: Because I found it ______",
+      "image": null,
+      "passage": null,
+      "options": ["exciting", "bored", "interesting", "boring"],
+      "answer": "D",
+      "explanation": "If Dintu left early, the concert was not enjoyable. 'Boring' is the correct adjective (the concert is boring). 'Bored' describes a person's feeling, not the thing itself."
+    },
+    {
+      "id": 56,
+      "question": "Abdi: Boru, may I talk with you for a minute?\nBoru: Sure. What's in your mind?\nAbdi: ______\nBoru: Come on. Don't beat around the bush. Just tell me what's on your mind.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Forget about the reception we were invited for. OK?",
+        "Well, there is a matter that has occupied my mind for a long time.",
+        "Why don't we have a meeting to talk about the recent problems occurred in the company?",
+        "I do not know how to start, but your behavior towards the employees really annoys me."
+      ],
+      "answer": "D",
+      "explanation": "Boru accuses Abdi of 'beating around the bush' (not getting to the point). Abdi's line should show hesitation. Option D starts with 'I do not know how to start' which is hesitating, then delivers a direct criticism. This fits the context."
+    },
+    {
+      "id": 57,
+      "question": "My family with all my crazy cousins always _____ to the store.",
+      "image": null,
+      "passage": null,
+      "options": ["walk", "walks", "has walked", "walked"],
+      "answer": "B",
+      "explanation": "The subject is 'My family' (singular). The phrase 'with all my crazy cousins' is a prepositional phrase and does not change the singular subject. Therefore the verb should be 'walks' (present simple for habitual action)."
+    },
+    {
+      "id": 58,
+      "question": "The house I grew up _____ has been demolished and replaced by an office building.",
+      "image": null,
+      "passage": null,
+      "options": ["in that", "in it", "in", "in which"],
+      "answer": "D",
+      "explanation": "The relative clause needs a preposition + relative pronoun. 'Grew up in' — 'in which' is formal and correct. 'The house in which I grew up' is standard. 'In that' is possible but less common; 'in which' is the best answer."
+    },
+    {
+      "id": 59,
+      "question": "Because the museum is closed on Mondays, visitors _____ check the schedule before planning their trip to avoid disappointment.",
+      "image": null,
+      "passage": null,
+      "options": ["must", "might", "don't have to", "could"],
+      "answer": "A",
+      "explanation": "It is necessary (obligation) to check the schedule to avoid disappointment. 'Must' expresses strong necessity. 'Might' and 'could' are possibility; 'don't have to' means no obligation."
+    },
+    {
+      "id": 60,
+      "question": "Sifan has told her mother that she has some guests with her on her way home, so by the time they get home, her mother _____ everything for lunch.",
+      "image": null,
+      "passage": null,
+      "options": ["is adjusting", "has been adjusting", "will have adjusted", "had adjusted"],
+      "answer": "C",
+      "explanation": "The phrase 'by the time they get home' refers to a future time when an action will be completed. The future perfect tense 'will have adjusted' is used for actions that will be finished before a specified future time."
+    },
+    {
+      "id": 61,
+      "question": "After we set off our journey to Lake Wanchi and travelled for about seven kilometers, I realized that I _____ my ID card at home.",
+      "image": null,
+      "passage": null,
+      "options": ["had forgotten", "was forgetting", "had been forgetting", "have forgotten"],
+      "answer": "A",
+      "explanation": "The realization happened in the past, and the forgetting happened even earlier (past before past). The past perfect 'had forgotten' is correct. 'Was forgetting' implies ongoing action, which doesn't fit."
+    },
+    {
+      "id": 62,
+      "question": "A demonstration is _____ act of showing by giving proof of evidence.",
+      "image": null,
+      "passage": null,
+      "options": ["a", "an", "the", ""],
+      "answer": "B",
+      "explanation": "'Act' begins with a vowel sound /æ/. Therefore the indefinite article should be 'an'. 'A' is used before consonant sounds."
+    },
+    {
+      "id": 63,
+      "question": "There were several opportunities for the illegal emigrants to work in their country and change their life. Hadn't they tried to go abroad, they _____ their life in the sea.",
+      "image": null,
+      "passage": null,
+      "options": ["would have lost", "would lose", "wouldn't have lost", "wouldn't have been losing"],
+      "answer": "C",
+      "explanation": "'Hadn't they tried' means 'If they had not tried'. If they had not tried to go abroad, they would not have lost their lives at sea. So the result is negative: 'wouldn't have lost'. Option C is correct."
+    },
+    {
+      "id": 64,
+      "question": "He is one of the spies in the city who _____ to collect information and give for the enemy underhanded.",
+      "image": null,
+      "passage": null,
+      "options": ["were heartened", "are heartening", "has heartened", "is heartening"],
+      "answer": "A",
+      "explanation": "The relative pronoun 'who' refers to 'spies' (plural). The verb should be plural and in passive voice (spies are heartened/encouraged). 'Were heartened' (past passive) fits. 'Are heartening' would mean they encourage others."
+    },
+    {
+      "id": 65,
+      "question": "Bilisuma was surprised when he met his friend at Bole International Airport whom he _____ for many years.",
+      "image": null,
+      "passage": null,
+      "options": ["hadn't seen", "didn't see", "haven't seen", "isn't see"],
+      "answer": "A",
+      "explanation": "The meeting happened in the past. Not seeing the friend happened before that meeting. Past perfect 'hadn't seen' is correct. 'Didn't see' is simple past but doesn't show the earlier time clearly."
+    },
+    {
+      "id": 66,
+      "question": "The central manager of the local company has tried to satisfy every worker in the salary they got monthly; however, _____ of the workers is satisfied as there is ever rising cost of life.",
+      "image": null,
+      "passage": null,
+      "options": ["not any of", "neither of", "none of", "no one of"],
+      "answer": "C",
+      "explanation": "'None of' is used with a plural noun ('workers') and can take a singular verb ('is satisfied'). 'Neither of' is for two items only. 'No one of' is not standard. 'Not any of' is less common."
+    },
+    {
+      "id": 67,
+      "question": "My friends missed a quiz out of 10% last week and they haven't any permission from their homeroom teacher. I wish they _____",
+      "image": null,
+      "passage": null,
+      "options": ["were present", "hadn't missed the class", "would attend", "would have attended"],
+      "answer": "B",
+      "explanation": "Wish about a past action that cannot be changed uses past perfect: 'I wish they hadn't missed the class.' Option B expresses regret about the missed quiz. 'Would have attended' is for unreal past but less direct."
+    },
+    {
+      "id": 68,
+      "question": "Players may not leave the area without permission _____ the game is being played.",
+      "image": null,
+      "passage": null,
+      "options": ["while", "during", "despite", "as much"],
+      "answer": "A",
+      "explanation": "'While' is a conjunction used with a clause ('the game is being played'). 'During' is a preposition followed by a noun, not a clause. 'Despite' shows contrast, not time."
+    },
+    {
+      "id": 69,
+      "question": "We asked to see the manager and we _____ a complaint about the terrible service in the restaurant.",
+      "image": null,
+      "passage": null,
+      "options": ["did", "made", "had", "heard"],
+      "answer": "B",
+      "explanation": "The correct collocation is 'make a complaint'. 'Made a complaint' means to formally express dissatisfaction. 'Did a complaint' is incorrect; 'had a complaint' is possible but less standard."
+    },
+    {
+      "id": 70,
+      "question": "Kumashi was having dinner at motel when the phone rang. She didn't answer the phone since it was out of her sight. She just carried on _____",
+      "image": null,
+      "passage": null,
+      "options": ["eat", "eating", "to eating", "eats"],
+      "answer": "B",
+      "explanation": "The phrasal verb 'carry on' means to continue, and it is followed by a gerund (-ing form). 'Carry on eating' is correct. 'Carry on eat' is not grammatical."
+    },
+    {
+      "id": 71,
+      "question": "Bontu is a business woman. _____ she visits her parents several times, she hasn't provided them any financial support so far.",
+      "image": null,
+      "passage": null,
+      "options": ["Besides", "Unless", "Nevertheless", "Although"],
+      "answer": "D",
+      "explanation": "The sentence shows a contrast: she visits often, but she hasn't given financial support. 'Although' introduces a subordinate clause of concession. 'Nevertheless' is an adverb, not a conjunction for starting a clause."
+    },
+    {
+      "id": 72,
+      "question": "Tickets are required for admission, _____ those who don't have a ticket won't get in.",
+      "image": null,
+      "passage": null,
+      "options": ["Rather", "Consequently", "Similarly", "Subsequently"],
+      "answer": "B",
+      "explanation": "The second part is a logical result of the first. 'Consequently' means 'as a result'. 'Similarly' indicates comparison; 'subsequently' means 'afterwards' (time, not cause)."
+    },
+    {
+      "id": 73,
+      "question": "The exams are prepared in different codes _____ expose for cheating.",
+      "image": null,
+      "passage": null,
+      "options": ["in order to", "so as that", "in order that", "so as not to"],
+      "answer": "D",
+      "explanation": "The purpose of different codes is to prevent cheating. 'So as not to expose for cheating' means 'in order to avoid exposing cheating'. The negative purpose is expressed by 'so as not to' + verb."
+    },
+    {
+      "id": 74,
+      "question": "He told the boys _____",
+      "image": null,
+      "passage": null,
+      "options": ["not to play on the grass", "to not play on the grass", "not to have played on the grass", "not play on the grass"],
+      "answer": "A",
+      "explanation": "The infinitive negative is 'not to + verb'. 'He told the boys not to play on the grass' is standard. 'To not play' (split infinitive) is sometimes used but considered less formal; 'A' is the conventional correct answer."
+    },
+    {
+      "id": 75,
+      "question": "I have been in Saudi Arabia for forty five years and I am almost lost of my country's precious cultures. Right now I _____ to acculturate myself to my origin.",
+      "image": null,
+      "passage": null,
+      "options": ["will try", "am trying", "have tried", "will be trying"],
+      "answer": "B",
+      "explanation": "'Right now' indicates an action happening at the present moment. The present continuous 'am trying' is appropriate. 'Will try' is future; 'have tried' is past with present relevance but not ongoing."
+    },
+    {
+      "id": 76,
+      "question": "Jabessa didn't attend his classes regularly when he was in university. He was dismissed for good last year. Jabessa said to his old friend, _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "If I attended my classes regularly, I wouldn't be dismissed for good.",
+        "If I had attended my classes regularly, I wouldn't dismiss for good.",
+        "If I had attended my classes regularly, I wouldn't have dismissed.",
+        "If I had attended my classes regularly, I wouldn't have been dismissed."
+      ],
+      "answer": "D",
+      "explanation": "The situation is past (he was dismissed). A third conditional is needed: 'If I had attended... I wouldn't have been dismissed.' Passive voice is correct because he was dismissed by someone. Option D has the correct passive form."
+    },
+    {
+      "id": 77,
+      "question": "I haven't received the letter that my brother had sent me a week ago. It might _____ to the wrong address.",
+      "image": null,
+      "passage": null,
+      "options": ["have sent", "sent", "have been sent", "has been sent"],
+      "answer": "C",
+      "explanation": "The letter was sent (passive) to the wrong address. 'Might have been sent' is the correct passive perfect modal. 'Might have sent' would mean the letter did the sending, which is illogical."
+    },
+    {
+      "id": 78,
+      "question": "As grade 12 students, we are ready to study day and night. Nothing can stop us, _____?",
+      "image": null,
+      "passage": null,
+      "options": ["don't it", "doesn't it", "can't it", "can it"],
+      "answer": "D",
+      "explanation": "The statement is negative ('Nothing can stop us'). The tag question for a negative statement is positive. The auxiliary verb is 'can' (from 'can stop'), so the tag is 'can it?' 'Nothing' is singular and non-human, so 'it' is used."
+    },
+    {
+      "id": 79,
+      "question": "Which one of the following makes complete sense?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Standing at the gate, a scorpion stung him.",
+        "Generally speaking, we receive what we deserve.",
+        "Entering the room, the light was quite dazzling.",
+        "Going to the hill, an old temple was seen."
+      ],
+      "answer": "B",
+      "explanation": "Option B has a clear, logical structure with a introductory phrase 'Generally speaking' that modifies the whole sentence. The others have dangling modifiers: 'Standing at the gate' implies the scorpion was standing, which is nonsense. Similar errors in C and D."
+    },
+    {
+      "id": 80,
+      "question": "We were eagerly waiting for the program, but we were not informed to take part on the research defense program. I think there is _____ secret behind the case.",
+      "image": null,
+      "passage": null,
+      "options": ["something", "anything", "nothing", "not anything"],
+      "answer": "A",
+      "explanation": "'There is something secret' means there exists a secret. 'Anything' is used in negatives or questions. 'Nothing' would mean no secret, contradicting the implication. So 'something' is correct."
+    },
+    {
+      "id": 81,
+      "question": "I was surprised to receive a _____ puppy for my birthday.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "little, cute, eight-week-old golden retriever",
+        "cute eight-week-old little golden retriever",
+        "cute little eight-week-old golden retriever",
+        "old eight-week cute little golden retriever"
+      ],
+      "answer": "C",
+      "explanation": "The standard order of adjectives in English: opinion (cute) → size (little) → age (eight-week-old) → breed/type (golden retriever). Option C follows this order correctly."
+    },
+    {
+      "id": 82,
+      "question": "The team was exhausted because they had been working on the project _____ for the past three weeks.",
+      "image": null,
+      "passage": null,
+      "options": ["frequently", "ever", "continually", "early"],
+      "answer": "C",
+      "explanation": "'Continually' means repeatedly over a period of time without stopping (or with short breaks). It fits the meaning of working for three weeks. 'Frequently' means often but not continuously; 'ever' is not appropriate here."
+    },
+    {
+      "id": 83,
+      "question": "This year's summer was _____ last year's, which broke records for both snowfall and low temperatures.",
+      "image": null,
+      "passage": null,
+      "options": ["not as colder as", "the coldest of", "very colder than", "not as cold as"],
+      "answer": "D",
+      "explanation": "The comparison uses 'as... as' for equality. Negative form: 'not as cold as'. 'Colder' would require 'than', not 'as'. 'Not as colder as' is incorrect because 'colder' is already comparative."
+    },
+    {
+      "id": 84,
+      "question": "You _____ bring a jacket to the mountain trip since the weather forecast shows that temperatures will drop significantly after sunset.",
+      "image": null,
+      "passage": null,
+      "options": ["don't have to", "should", "could", "might"],
+      "answer": "B",
+      "explanation": "The forecast shows temperatures will drop, so it is advisable or necessary to bring a jacket. 'Should' expresses strong advice. 'Could' or 'might' express possibility, not advice. 'Don't have to' means no obligation."
+    },
+    {
+      "id": 85,
+      "question": "Repair and maintenance are perhaps the most important ones of the numerous tasks _____ engineers are responsible for in time of a disaster.",
+      "image": null,
+      "passage": null,
+      "options": ["by which", "what for", "at which", "that"],
+      "answer": "D",
+      "explanation": "The relative pronoun 'that' refers to 'tasks' and serves as the object of the preposition 'for' (engineers are responsible for tasks). 'That' can be used as a relative pronoun. 'Which' would also work but not listed. Option D 'that' is correct."
+    },
+    {
+      "id": 86,
+      "question": "The students who were studying all night felt asleep. They have _____ attention to the lesson and their teachers are not interested in them.",
+      "image": null,
+      "passage": null,
+      "options": ["a little", "few", "little", "very few"],
+      "answer": "C",
+      "explanation": "'Attention' is uncountable, so 'few' and 'very few' are incorrect (they are for countable nouns). 'Little' means not much (negative). 'A little' means some (positive). The context implies they have insufficient attention, so 'little' is correct."
+    },
+    {
+      "id": 87,
+      "question": "few/had/only been a/rain/minutes/he/since/had walked/it/outside/it began to/when",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It had only a few minutes been since he had walked outside when it began to rain.",
+        "When it began to rain, it had been only since a few minutes he had walked outside",
+        "It had only been a few minutes since he had walked outside when it began to rain.",
+        "It had been only a few minutes he since had walked outside when it began to rain."
+      ],
+      "answer": "C",
+      "explanation": "The correct word order for this sentence is: 'It had only been a few minutes since he had walked outside when it began to rain.' Option C is the only one that is grammatically correct and natural."
+    },
+    {
+      "id": 88,
+      "question": "appropriate/author's/to/his/style/the/is/hardly/audience",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The hardly author's style is appropriate to his audience.",
+        "The author's style is hardly appropriate to his audience.",
+        "The audience style is appropriate hardly to his author's.",
+        "The audience style is hardly appropriate his to author's."
+      ],
+      "answer": "B",
+      "explanation": "The correct order: 'The author's style is hardly appropriate to his audience.' 'Hardly' modifies 'appropriate', meaning 'not very' or 'scarcely'. Option B places 'hardly' correctly before the adjective."
+    },
+    {
+      "id": 89,
+      "question": "Arrange sentences in correct order:\na. Then I took him by the hand and led him across the street.\nb. I was going to the market when I saw a blind man trying to cross the street.\nc. He expressed his gratitude with folded hands.\nd. I walked across to the blind man.\ne. I liked the way he expressed his gratitude to me.",
+      "image": null,
+      "passage": null,
+      "options": ["c b d e a", "a b c d e", "d e a b c", "b d a c e"],
+      "answer": "D",
+      "explanation": "Logical order: b (saw blind man) → d (walked across to him) → a (took his hand and led) → c (he expressed gratitude) → e (I liked that). That sequence is b,d,a,c,e which is option D."
+    },
+    {
+      "id": 90,
+      "question": "Arrange sentences in correct order:\na. The most widely accepted theory is that about 5000 million years ago swirling clouds of matter began to condense.\nb. Such is the theory and nine satellites began orbiting around the sun which are called planets.\nc. Through the action of centrifugal force, the heavier molecule was concentrated near the centre of the eddies, and the lighter, gaseous materials were thrown out towards the periphery.\nd. There is no general agreement about how the planets were formed.",
+      "image": null,
+      "passage": null,
+      "options": ["d a c b", "b d a c", "c d a b", "d b c a"],
+      "answer": "A",
+      "explanation": "Logical order: d (introduces lack of agreement) → a (presents the most widely accepted theory) → c (explains the process) → b (concludes the theory). That is d,a,c,b which is option A."
+    },
+    {
+      "id": 91,
+      "question": "Choose correct punctuation and capitalization:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "She loves to read, her favorite book is 'Pride and Prejudice.'",
+        "She loves to read; her favorite book is 'pride and prejudice.'",
+        "She loves to read her favorite book is pride and prejudice.",
+        "She loves to read; her favorite book is 'Pride and Prejudice.'"
+      ],
+      "answer": "D",
+      "explanation": "Option D uses a semicolon correctly to join two independent clauses. The book title 'Pride and Prejudice' is properly capitalized and in quotes. Option B has incorrect capitalization ('pride and prejudice')."
+    },
+    {
+      "id": 92,
+      "question": "Choose correct punctuation and capitalization:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "When did Roosevelt say, \"We have nothing to fear but fear itself\"?",
+        "When did Roosevelt say, \"We have nothing to fear but fear itself?\"",
+        "\"When did Roosevelt say,\" \"We have nothing to fear but fear itself?\"",
+        "When did Roosevelt say, we have nothing to fear but fear itself?"
+      ],
+      "answer": "A",
+      "explanation": "In American English, the question mark goes outside the quotation marks when the whole sentence is a question, not just the quoted part. Option A correctly places the question mark after the closing quote. Option B puts it inside, which is incorrect here."
+    },
+    {
+      "id": 93,
+      "question": "Choose correct punctuation and capitalization:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Geleta's neighbours were terrible; so his friends went round to have a word.",
+        "Geleta's neighbours were terrible, so his friends went round to have a word.",
+        "Geleta's neighbours were terrible; so his friends went round to have a word.",
+        "Geleta's neighbours were terrible so, his friends went round to have a word."
+      ],
+      "answer": "B",
+      "explanation": "A comma before 'so' (a coordinating conjunction) is correct when joining two independent clauses. Semicolon is not typically used with 'so' unless 'so' is an adverb. Option B uses a comma correctly. Option A and C use semicolon incorrectly."
+    },
+    {
+      "id": 94,
+      "question": "Choose the alternative with a correct spelling:",
+      "image": null,
+      "passage": null,
+      "options": ["deficiency", "omniscient", "sufficient", "conscience"],
+      "answer": "C",
+      "explanation": "All four words are actually spelled correctly in standard English. However, if this is a typical exam question, they may have intended one with a common misspelling, but all are correct. 'Sufficient' is the most straightforward. Given common test patterns, 'sufficient' is often listed. (Note: If forced, 'sufficient' is correct. The others are also correct, but the question asks for the correct spelling — all are correct. Usually such questions have three misspelled and one correct. Here all seem correct. Possibly 'omniscient' might be misspelled? No. I'll select C as a safe choice.)"
+    },
+    {
+      "id": 95,
+      "question": "Choose the alternative with a correct spelling:",
+      "image": null,
+      "passage": null,
+      "options": ["distitute", "dountless", "discrepancy", "desmanle"],
+      "answer": "C",
+      "explanation": "'Discrepancy' is correctly spelled. The others are misspelled: 'distitute' should be 'destitute', 'dountless' should be 'dauntless', 'desmanle' should be 'dismantle'."
+    },
+    {
+      "id": 96,
+      "question": "The stew had a strong, spicy scent and it was hot on her tongue, and even small amount she had taken was enough to warm her throat as it slid down... What kind of writing these lines most likely taken from?",
+      "image": null,
+      "passage": null,
+      "options": ["Descriptive", "Argumentative", "Expository", "Narrative"],
+      "answer": "A",
+      "explanation": "The passage uses sensory details (scent, hot, warm) to create a vivid picture of the stew. This is characteristic of descriptive writing, which aims to describe a scene, object, or experience."
+    },
+    {
+      "id": 97,
+      "question": "To be healthy, teens can exercise, eat nutritious foods, and keep themselves safe. First, participating in various kinds of fitness can keep them in shape. This can include walking, riding their bikes, and playing sports. Next, maintaining a nutrient-rich diet can help teens stay well... What kind of writing the above lines most likely taken from?",
+      "image": null,
+      "passage": null,
+      "options": ["Descriptive", "Argumentative", "Expository", "Narrative"],
+      "answer": "C",
+      "explanation": "This passage explains how teens can be healthy by giving steps and examples. It is informative and factual, which is characteristic of expository writing. It does not argue a position (argumentative) nor tell a story (narrative)."
+    },
+    {
+      "id": 98,
+      "question": "Which one of the following is an example of argumentative writing?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The Earth rotates on its axis once every 24 hours.",
+        "Social media platforms should be held accountable for the spread of misinformation.",
+        "I have never forgotten the day I was chosen for Ifa Boru boarding school.",
+        "He is very tall but not in an unreachable way."
+      ],
+      "answer": "B",
+      "explanation": "Argumentative writing presents a claim or opinion and tries to persuade the reader. Option B makes a claim ('should be held accountable') which is debatable. The others are facts or personal narratives."
+    },
+    {
+      "id": 99,
+      "question": "\"This was not an easy decision, as my time at Amuru Secondary School has been both rewarding and fulfilling. However, after careful consideration, I have decided to pursue new opportunities that will allow me to grow professionally and personally....\" This is most likely taken from a letter of",
+      "image": null,
+      "passage": null,
+      "options": ["resignation", "apology", "request", "appealing"],
+      "answer": "A",
+      "explanation": "The language indicates someone leaving a job or position: 'not an easy decision', 'pursue new opportunities'. This is typical of a resignation letter, where an employee announces they are leaving."
+    },
+    {
+      "id": 100,
+      "question": "Which of these is a correct formal letter introduction?",
+      "image": null,
+      "passage": null,
+      "options": ["Hello Eba", "Dear Mrs. Ayantu", "Hi Mrs. Ayatu", "Hi Eba"],
+      "answer": "B",
+      "explanation": "Formal letters begin with 'Dear' followed by the recipient's title and last name (Mrs. Ayantu). 'Hello' and 'Hi' are informal. Also note correct spelling: 'Ayantu' (the PDF shows 'Ayantu' in option B)."
+    }
+  ]
+    }

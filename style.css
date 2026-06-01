@@ -294,6 +294,20 @@ body::before {
   letter-spacing: 0.2px;
 }
 
+.home-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--space-2xl);
+  position: relative;
+  z-index: 10;
+}
+
+#btn-start-practice {
+  width: auto;
+  padding: 16px 48px;
+  font-size: 1.1rem;
+}
+
 /* ============ SUBJECT GRID ============ */
 .subject-grid {
   display: grid;
@@ -383,13 +397,22 @@ body::before {
   border: 1px solid var(--glass-border);
   border-radius: var(--radius-sm);
   color: var(--text-primary);
-  width: 40px;
-  height: 40px;
+  width: auto;
+  min-width: 40px;
+  height: auto;
+  min-height: 40px;
+  padding: 0 16px 0 10px;
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 8px;
   cursor: pointer;
   transition: all var(--transition-fast);
+}
+
+.btn-back span {
+  font-size: 0.9rem;
+  font-weight: 600;
 }
 
 .btn-back:hover {

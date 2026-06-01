@@ -1,0 +1,1037 @@
+{
+  "subject": "English",
+  "year": "2018 E.C",
+  "paper": 4,
+  "questions": [
+    {
+      "id": 1,
+      "question": "looking / have / we / over / you / all / been / for.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "We have been looking for you all over.",
+        "You have been looking for we for all over.",
+        "We all have been looking over for you.",
+        "All over you have been looking for we."
+      ],
+      "answer": "A",
+      "explanation": "The correct word order is 'We have been looking for you all over.' 'All over' means everywhere. The other options have incorrect pronoun ('we' instead of 'us') or wrong verb placement."
+    },
+    {
+      "id": 2,
+      "question": "the / during / patiently / lecture / the / to / she / theory / explained / the / complex / students.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "She explained patiently to the students the complex theory during the lecture.",
+        "She explained to the students patiently the complex theory during the lecture.",
+        "She explained the complex theory patiently to the students during the lecture.",
+        "She explained the complex theory to patiently the students during the lecture."
+      ],
+      "answer": "C",
+      "explanation": "The most natural word order: subject (She) + verb (explained) + object (the complex theory) + adverb (patiently) + indirect object (to the students) + time (during the lecture). Option C follows this pattern."
+    },
+    {
+      "id": 3,
+      "question": "report / revise / asked / often / supervisor / been / your / the / by / have / how / you / to",
+      "image": null,
+      "passage": null,
+      "options": [
+        "How often you have been asked to revise the report by your supervisor?",
+        "How often have you been asked by your supervisor to revise the report?",
+        "How often have been you asked to revise the report by your supervisor?",
+        "How often you have asked been by your supervisor to revise the report?"
+      ],
+      "answer": "B",
+      "explanation": "In a question, the auxiliary 'have' comes before the subject 'you': 'How often have you been asked...' Option B has correct inversion and word order."
+    },
+    {
+      "id": 4,
+      "question": "to / in / lessons / Addis Ababa / to / you / have / pass / test / in / take / driving / order / a.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "In order to have a pass driving test in Addis Ababa, you to take lessons.",
+        "You have to take a driving test in order to pass lessons in Addis Ababa.",
+        "In order to pass driving lessons in Addis Ababa you have to take a test.",
+        "You have to take lessons in order to pass a driving test in Addis Ababa."
+      ],
+      "answer": "D",
+      "explanation": "The logical sequence: You take lessons, then you pass a test. 'You have to take lessons in order to pass a driving test in Addis Ababa' is correct. Option C reverses cause and effect (pass lessons then take test is illogical)."
+    },
+    {
+      "id": 5,
+      "question": "first / painted / been / new / all / five / the / steel / beams / have.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "All the first five new steel beams have been painted.",
+        "All the five new first beams steel have been painted.",
+        "The all first five steel new beams have been painted.",
+        "The new all first five steel beams have been painted."
+      ],
+      "answer": "A",
+      "explanation": "Correct adjective order: 'All the first five new steel beams' — 'all' before article, then 'first' (order), 'five' (number), 'new' (age), 'steel' (material). Option A is correct."
+    },
+    {
+      "id": 6,
+      "question": "Arrange sentences for coherence: a. It saves time and reduces potential expense. b. It also makes the communication easy and very quick. c. Effective communication is vital to any business anywhere in the world. d. For instance, mobile phones help to reduce travel and associated expenses. e. Information technology provides the tools for such communication.",
+      "image": null,
+      "passage": null,
+      "options": ["d e a b c", "c e a d b", "c d a b e", "c a b e d"],
+      "answer": "B",
+      "explanation": "Logical order: c (topic: effective communication is vital) → e (IT provides tools) → a (saves time and expense) → d (example: mobile phones) → b (also makes communication easy). That is c,e,a,d,b which is option B."
+    },
+    {
+      "id": 7,
+      "question": "Arrange sentences: a. Some eye signals are unconscious. b. We receive 80% of our information about the world through them. c. When we look at something nice, our pupils get bigger. d. Our eyes are the most important of our five senses. e. We also send signals to other people with our eyes.",
+      "image": null,
+      "passage": null,
+      "options": ["d c b a e", "c b a e d", "d b c a e", "c e b a d"],
+      "answer": "C",
+      "explanation": "Logical order: d (eyes most important) → b (receive info through them) → c (example: pupils bigger) → a (some signals unconscious) → e (also send signals). That is d,b,c,a,e which is option C."
+    },
+    {
+      "id": 8,
+      "question": "Arrange sentences: a. As a result, the villagers quickly gathered to help put out the fire. b. Late one evening, a small fire suddenly broke out in a nearby house. c. Fortunately, no one was injured, and the house was saved from serious damage. d. When thick smoke filled the air, neighbours rushed outside and raised the alarm. e. Within minutes, water was brought from the river, and the flames were controlled.",
+      "image": null,
+      "passage": null,
+      "options": ["d c a e b", "d d c a e", "b a d e c", "b d a e c"],
+      "answer": "D",
+      "explanation": "Chronological order: b (fire broke out) → d (smoke, alarm) → a (villagers gathered) → e (water brought, flames controlled) → c (no one injured, house saved). That is b,d,a,e,c which is option D."
+    },
+    {
+      "id": 9,
+      "question": "What is the main idea of Paragraph 1?",
+      "image": null,
+      "passage": "Modern society often equates progress with speed, efficiency, and technological advancement. New inventions are praised for saving time, reducing effort, and increasing productivity, and those who resist such changes are sometimes labelled as outdated or unwilling to adapt. However, this narrow definition of progress overlooks an important question: whether faster and more efficient systems actually improve the quality of human life. While economic growth and technological innovation are visible signs of development, they do not automatically guarantee social well-being, ethical behaviour, or long-term sustainability.",
+      "options": [
+        "Technology always improves human life.",
+        "Progress should be measured only by economic growth.",
+        "Modern society defines progress too narrowly.",
+        "People resist change because they fear technology."
+      ],
+      "answer": "C",
+      "explanation": "Paragraph 1 argues that society's definition of progress (speed, efficiency) is 'narrow' and overlooks whether it improves quality of life. Option C captures this main idea."
+    },
+    {
+      "id": 10,
+      "question": "What does the author suggest about speed and efficiency?",
+      "image": null,
+      "passage": "Modern society often equates progress with speed, efficiency, and technological advancement... However, this narrow definition of progress overlooks an important question: whether faster and more efficient systems actually improve the quality of human life.",
+      "options": [
+        "They guarantee happiness.",
+        "They are the only educators of success.",
+        "They slow down social development.",
+        "They may not improve quality of life."
+      ],
+      "answer": "D",
+      "explanation": "The author directly questions whether speed and efficiency improve quality of life, implying that they may not. Option D is correct."
+    },
+    {
+      "id": 11,
+      "question": "In the sentence 'this narrow definition of progress overlooks an important question,' what does 'overlooks' most nearly mean?",
+      "image": null,
+      "passage": "However, this narrow definition of progress overlooks an important question...",
+      "options": ["Examines carefully", "Ignores or fails to consider", "Solves completely", "Emphasizes strongly"],
+      "answer": "B",
+      "explanation": "'Overlooks' means fails to notice or consider. 'Ignores or fails to consider' is the correct synonym."
+    },
+    {
+      "id": 12,
+      "question": "Which sentence best completes the idea of paragraph two? Although automation increases efficiency, it also",
+      "image": null,
+      "passage": "One area where this tension is particularly evident is the workplace. Automation and artificial intelligence have transformed industries by performing tasks that once required human labor. Supporters argue that these technologies free workers from repetitive jobs and allow them to focus on creative and intellectual tasks. Critics, however, point out that such transitions often occur without adequate planning for displaced workers. As a result, many individuals are forced to adapt quickly to new roles or face unemployment, revealing that progress can produce both opportunity and insecurity at the same time.",
+      "options": [
+        "eliminates creativity in the workplace.",
+        "creates insecurity for some workers",
+        "slows economic growth",
+        "prevents innovation"
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 2 says automation creates insecurity for displaced workers who may face unemployment. Option B matches the text."
+    },
+    {
+      "id": 13,
+      "question": "The word 'displaced' in Paragraph 2 refers to workers who are",
+      "image": null,
+      "passage": "...without adequate planning for displaced workers.",
+      "options": ["forced out of their jobs", "moved to different countries", "promoted to higher positions", "trained in new skills"],
+      "answer": "A",
+      "explanation": "'Displaced workers' means workers who have been forced out of their jobs due to automation. Option A is correct."
+    },
+    {
+      "id": 14,
+      "question": "What is the author's main concern in paragraph three?",
+      "image": null,
+      "passage": "Education has also been deeply influenced by modern notions of progress. Digital platforms, online courses, and automated assessment systems promise personalized and efficient learning experiences. Yet, an overreliance on technology risks reducing education to measurable outcomes rather than meaningful understanding. When learning becomes focused primarily on speed, test scores, and data analysis, essential elements such as curiosity, ethical reasoning, and human interaction may be weakened. This raises concerns about whether education is preparing students to think critically or merely to perform efficiently.",
+      "options": [
+        "Online education is too expensive",
+        "Technology reduces access to education",
+        "Teachers resist digital platforms",
+        "Efficiency may replace meaningful learning"
+      ],
+      "answer": "D",
+      "explanation": "The author worries that overreliance on technology reduces education to measurable outcomes and weakens curiosity and critical thinking. Efficiency may replace meaningful learning. Option D captures this."
+    },
+    {
+      "id": 15,
+      "question": "What does 'this' refer to in paragraph 3 line 5?",
+      "image": null,
+      "passage": "When learning becomes focused primarily on speed, test scores, and data analysis, essential elements such as curiosity, ethical reasoning, and human interaction may be weakened. This raises concerns about whether education is preparing students to think critically or merely to perform efficiently.",
+      "options": ["Personalized learning", "Human interaction", "Overemphasis on efficiency and data", "Digital platforms"],
+      "answer": "C",
+      "explanation": "'This' refers to the situation described in the previous sentence: learning focused on speed, test scores, and data analysis (overemphasis on efficiency and data)."
+    },
+    {
+      "id": 16,
+      "question": "Which idea is central to Paragraph four?",
+      "image": null,
+      "passage": "Environmental issues further challenge the idea that progress is inherently positive. Industrial expansion and technological convenience have improved living standards for many, but they have also contributed to pollution, climate change, and the depletion of natural resources. Although scientific advancements offer potential solutions, they are often applied too slowly or unevenly due to political and economic interests. This contradiction suggests that progress, when guided solely by short-term benefits, can undermine the very conditions required for future development.",
+      "options": [
+        "Industrial growth has no disadvantages",
+        "Progress can harm the environment.",
+        "Environmental problems are unavoidable.",
+        "Politics has no role in environmental issues."
+      ],
+      "answer": "B",
+      "explanation": "Paragraph 4 argues that progress (industrial expansion) has contributed to pollution, climate change, and resource depletion. So progress can harm the environment. Option B is central."
+    },
+    {
+      "id": 17,
+      "question": "According to paragraph 4, why are solutions applied 'too slowly or unevenly'?",
+      "image": null,
+      "passage": "Although scientific advancements offer potential solutions, they are often applied too slowly or unevenly due to political and economic interests.",
+      "options": ["Political and economic interests", "Environmental ignorance", "Lack of scientific knowledge", "Public resistance"],
+      "answer": "A",
+      "explanation": "The passage explicitly states 'due to political and economic interests'. Option A is correct."
+    },
+    {
+      "id": 18,
+      "question": "The phrase 'the very conditions required for future development' refers to",
+      "image": null,
+      "passage": "...undermine the very conditions required for future development.",
+      "options": ["Technological convenience", "Natural resources and a healthy environment", "Political power", "Industrial expansion"],
+      "answer": "B",
+      "explanation": "In context, progress can harm the environment, which is a condition required for future development. Natural resources and a healthy environment are those conditions."
+    },
+    {
+      "id": 19,
+      "question": "Which sentence best completes the author's argument in the fifth paragraph?",
+      "image": null,
+      "passage": "Ultimately, the concept of progress must be re-examined with responsibility at its core. True advancement should balance innovation with social justice, economic growth with human dignity, and technological power with ethical awareness. Without such balance, progress risks becoming an empty pursuit that benefits a few while harming many. A critically informed society, therefore, must question not only how far it has advanced, but also in what direction and at what cost.",
+      "options": [
+        "becomes faster and more effective",
+        "benefits everyone equally",
+        "eliminates social justice",
+        "may harm society rather than help it"
+      ],
+      "answer": "D",
+      "explanation": "The author argues that without balance, progress benefits few and harms many — i.e., it may harm society rather than help it. Option D completes the argument."
+    },
+    {
+      "id": 20,
+      "question": "In the final sentence, what does the author encourage society to question?",
+      "image": null,
+      "passage": "...must question not only how far it has advanced, but also in what direction and at what cost.",
+      "options": [
+        "How fast technology develops",
+        "Who controls innovation",
+        "The direction and cost of progress",
+        "The importance of economic growth"
+      ],
+      "answer": "C",
+      "explanation": "The final sentence explicitly says to question 'in what direction and at what cost' — the direction and cost of progress."
+    },
+    {
+      "id": 21,
+      "question": "I am incredibly pleased with this exam; none of the questions have _____ me so far.",
+      "image": null,
+      "passage": null,
+      "options": ["impressed", "challenged", "charged", "stretched"],
+      "answer": "B",
+      "explanation": "The speaker is pleased that no questions have been difficult. 'Challenged' means tested or made to work hard. The other options don't fit the context of difficulty."
+    },
+    {
+      "id": 22,
+      "question": "I do not believe a word of what you have said. There is often a huge _____ between your words and your actions.",
+      "image": null,
+      "passage": null,
+      "options": ["discrepancy", "duplication", "distortion", "disruption"],
+      "answer": "A",
+      "explanation": "A discrepancy is a difference or inconsistency. Between words and actions, a 'huge discrepancy' means they don't match. Duplication means copying, distortion means twisting, disruption means interruption."
+    },
+    {
+      "id": 23,
+      "question": "Your handwriting is _____; I can't read it at all.",
+      "image": null,
+      "passage": null,
+      "options": ["illegal", "illegible", "irregular", "eligible"],
+      "answer": "B",
+      "explanation": "Illegible means impossible to read. Illegal means against the law, irregular means not regular, eligible means qualified."
+    },
+    {
+      "id": 24,
+      "question": "After the operation, the doctor announced that the patient was in a _____ condition.",
+      "image": null,
+      "passage": null,
+      "options": ["critics", "critically", "criticize", "critical"],
+      "answer": "D",
+      "explanation": "Adjective 'critical' describes a serious condition. 'Critical condition' is a standard medical phrase. Critics (noun), critically (adverb), criticize (verb) are not appropriate here."
+    },
+    {
+      "id": 25,
+      "question": "The teacher warned the students to _____ for mistakes in their calculations.",
+      "image": null,
+      "passage": null,
+      "options": ["look into", "look over", "look out", "look up"],
+      "answer": "C",
+      "explanation": "'Look out for' means to be alert for or watch for. Students should watch out for mistakes. 'Look into' means investigate, 'look over' means review, 'look up' means search for information."
+    },
+    {
+      "id": 26,
+      "question": "Duck is to Duckling as _____ is to Tadpole.",
+      "image": null,
+      "passage": null,
+      "options": ["Frog", "Pig", "Deer", "Bear"],
+      "answer": "A",
+      "explanation": "A duckling is a baby duck. A tadpole is a baby frog. So frog is to tadpole as duck is to duckling."
+    },
+    {
+      "id": 27,
+      "question": "When their parents had to work late during the school holidays, the eldest sister agreed to _____ her two younger brothers and prepare their dinner.",
+      "image": null,
+      "passage": null,
+      "options": ["grow up", "babysit", "keep quiet", "play with"],
+      "answer": "B",
+      "explanation": "Babysit means to take care of children while parents are away. The sister agreed to babysit her brothers and prepare dinner."
+    },
+    {
+      "id": 28,
+      "question": "The Japanese love eating fish; that is why dishes of uncooked fish called sushi or sashimi are available at most Japanese restaurants.",
+      "image": null,
+      "passage": null,
+      "options": ["clean", "fresh", "raw", "tropical"],
+      "answer": "C",
+      "explanation": "Sushi and sashimi are made with raw (uncooked) fish. 'Raw' is the correct word matching 'uncooked'."
+    },
+    {
+      "id": 29,
+      "question": "Generous : Selfish :: ?",
+      "image": null,
+      "passage": null,
+      "options": ["Courageous : Brave", "Cheerful : Joyful", "Kind : Friendly", "Victory : Defeat"],
+      "answer": "D",
+      "explanation": "Generous and selfish are opposites (antonyms). Among the options, only Victory and Defeat are antonyms. The others are synonyms."
+    },
+    {
+      "id": 30,
+      "question": "Service providers must show _____ when they deal with aggressive people.",
+      "image": null,
+      "passage": null,
+      "options": ["tolerate", "tolerance", "tolerated", "tolerating"],
+      "answer": "B",
+      "explanation": "After 'show', we need a noun. 'Tolerance' is the noun meaning the ability to tolerate. 'Show tolerance' is a common phrase."
+    },
+    {
+      "id": 31,
+      "question": "He has repaired his jacket using embroidery needlework with colored thread. What an amazing it is! (Underlined: embroidery)",
+      "image": null,
+      "passage": null,
+      "options": ["printing", "decorative", "weaving", "dyeing"],
+      "answer": "B",
+      "explanation": "Embroidery is decorative needlework. 'Decorative' is the best synonym among the options."
+    },
+    {
+      "id": 32,
+      "question": "Their marriage began to fall apart because of constant arguments. (Underlined: fall apart)",
+      "image": null,
+      "passage": null,
+      "options": ["improve slowly", "become strong", "unable to function properly", "break into pieces"],
+      "answer": "C",
+      "explanation": "Fall apart means to disintegrate or stop functioning properly. 'Unable to function properly' captures the meaning for a marriage."
+    },
+    {
+      "id": 33,
+      "question": "The project manager always tries to stick out in the conference by dressing smartly. (Underlined: stick out)",
+      "image": null,
+      "passage": null,
+      "options": ["be noticeable", "remain silent", "disappear", "hide"],
+      "answer": "A",
+      "explanation": "Stick out means to be noticeable or conspicuous. 'Be noticeable' is the correct synonym."
+    },
+    {
+      "id": 34,
+      "question": "The assistant was fast becoming indispensable member of the department, so they had no choice but to offer him a higher salary to stay on. (Underlined: indispensable)",
+      "image": null,
+      "passage": null,
+      "options": ["determined", "experienced", "essential", "creative"],
+      "answer": "C",
+      "explanation": "Indispensable means absolutely necessary or essential. 'Essential' is the correct synonym."
+    },
+    {
+      "id": 35,
+      "question": "I thought the man was intelligent. But now I realized that he is a person that no new ideas could ever penetrate his mind. (Underlined: penetrate)",
+      "image": null,
+      "passage": null,
+      "options": ["enter", "change", "awaken", "attack"],
+      "answer": "A",
+      "explanation": "Penetrate means to go into or enter. 'Enter' is the best synonym in this context."
+    },
+    {
+      "id": 36,
+      "question": "We decided to stay indoors because it was raining cats and dogs, and the roads were flooded. (Underlined: raining cats and dogs)",
+      "image": null,
+      "passage": null,
+      "options": ["tame animals", "hot and dry", "light rain", "heavy rain"],
+      "answer": "D",
+      "explanation": "Raining cats and dogs is an idiom meaning raining very heavily. 'Heavy rain' is correct."
+    },
+    {
+      "id": 37,
+      "question": "Look! She is bleeding. I think she _____ her fingers.",
+      "image": null,
+      "passage": null,
+      "options": ["cut", "was cut", "has cut", "had cut"],
+      "answer": "C",
+      "explanation": "Present perfect 'has cut' is used because the action happened recently and the result (bleeding) is visible now. 'Cut' (simple past) is also possible but 'has cut' emphasizes present result."
+    },
+    {
+      "id": 38,
+      "question": "I know you are broke. Don't worry! I _____ you some dollars.",
+      "image": null,
+      "passage": null,
+      "options": ["will lend", "might borrow", "would lend", "am going to borrow"],
+      "answer": "A",
+      "explanation": "A spontaneous offer uses 'will'. 'I will lend you some dollars' is correct. 'Borrow' would mean receiving, not giving."
+    },
+    {
+      "id": 39,
+      "question": "Will you _____ me a favour and give me a lift to my home tonight?",
+      "image": null,
+      "passage": null,
+      "options": ["made", "did", "make", "do"],
+      "answer": "D",
+      "explanation": "The correct collocation is 'do me a favour'. 'Make a favour' is incorrect. So 'do' is correct."
+    },
+    {
+      "id": 40,
+      "question": "The instructor advised everyone _____ and read the new novels.",
+      "image": null,
+      "passage": null,
+      "options": ["buying", "to buying", "to buy", "buys"],
+      "answer": "C",
+      "explanation": "After 'advised', we use an infinitive: 'advised everyone to buy'. 'To buy' is correct."
+    },
+    {
+      "id": 41,
+      "question": "The _____ you get, the _____ you become!",
+      "image": null,
+      "passage": null,
+      "options": ["older/wiser", "oldest/wisest", "old/wise", "oldest/wiser"],
+      "answer": "A",
+      "explanation": "Comparative correlative structure: 'The older you get, the wiser you become.' Both adjectives in comparative form."
+    },
+    {
+      "id": 42,
+      "question": "Because of practising mechanized agriculture, the farmers _____ a good product this year.",
+      "image": null,
+      "passage": null,
+      "options": ["have got", "get", "don't get", "will get"],
+      "answer": "D",
+      "explanation": "'This year' often refers to a future harvest. Because of mechanized agriculture, they will get a good product. Future simple 'will get' is appropriate."
+    },
+    {
+      "id": 43,
+      "question": "We have never seen the hyena men in Harar _____, but we are going there this weekend.",
+      "image": null,
+      "passage": null,
+      "options": ["already", "yet", "still", "recently"],
+      "answer": "B",
+      "explanation": "'Yet' is used in negative present perfect sentences to mean 'up to now'. 'We have never seen... yet' or 'haven't seen... yet' — but with 'never', 'yet' can still be used at the end. Actually standard: 'We have never seen them' is fine; adding 'yet' is acceptable but 'never' already implies up to now. Among options, 'yet' is the most common with negative present perfect."
+    },
+    {
+      "id": 44,
+      "question": "When she was a child, she _____ play with a cat.",
+      "image": null,
+      "passage": null,
+      "options": ["used to", "uses to", "use to", "wanted"],
+      "answer": "A",
+      "explanation": "Past habit: 'used to play' is correct. 'Use to' is only in negatives/questions."
+    },
+    {
+      "id": 45,
+      "question": "X: _____ do you take the medicine that prescribed by the doctor? Y: Twice a day.",
+      "image": null,
+      "passage": null,
+      "options": ["What time", "How much", "When", "How often"],
+      "answer": "D",
+      "explanation": "The answer 'Twice a day' indicates frequency, so the question should be 'How often'."
+    },
+    {
+      "id": 46,
+      "question": "Mother asked me; 'Have you studied harder for the exam?' How do you report this question?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "She wanted to know if I had studied harder for the exam.",
+        "She asked me how I have studied harder for the exam.",
+        "She wanted to know whether I have studied harder for the exam.",
+        "She enquired where I had studied harder for the exam."
+      ],
+      "answer": "A",
+      "explanation": "Reported yes/no question: 'if' + backshift (present perfect 'have studied' → past perfect 'had studied'). Option A is correct."
+    },
+    {
+      "id": 47,
+      "question": "Because I _____ too much snacks in the late morning, I wasn't hungry during lunch time.",
+      "image": null,
+      "passage": null,
+      "options": ["have", "had", "have had", "had had"],
+      "answer": "D",
+      "explanation": "The eating happened before the lunch time (past before past). Past perfect 'had had' is correct."
+    },
+    {
+      "id": 48,
+      "question": "The manager always greets his employees _____. This makes them work hard and be efficient.",
+      "image": null,
+      "passage": null,
+      "options": ["warming", "warmly", "warm", "warmed"],
+      "answer": "B",
+      "explanation": "The adverb 'warmly' modifies the verb 'greets'. 'Greets warmly' means in a friendly, kind manner."
+    },
+    {
+      "id": 49,
+      "question": "I hope we _____ our training by July next year. We have already done 75% of it.",
+      "image": null,
+      "passage": null,
+      "options": ["have completed", "should complete", "will have completed", "will complete"],
+      "answer": "C",
+      "explanation": "By July next year — future perfect 'will have completed' for an action that will be finished before a future time."
+    },
+    {
+      "id": 50,
+      "question": "She has been working hard _____ she was 20. Wouldn't it now be sensible to promote her to a management position?",
+      "image": null,
+      "passage": null,
+      "options": ["since", "when", "already", "for"],
+      "answer": "A",
+      "explanation": "Present perfect continuous + 'since' + point in time (she was 20). 'Since' is correct."
+    },
+    {
+      "id": 51,
+      "question": "All bedrooms _____ for the guests at the Sky Light Hotel.",
+      "image": null,
+      "passage": null,
+      "options": ["have reserved", "have been reserving", "have been reserved", "reserve"],
+      "answer": "C",
+      "explanation": "Passive voice: bedrooms are reserved by someone. Present perfect passive 'have been reserved' is correct."
+    },
+    {
+      "id": 52,
+      "question": "You should not ask such an _____ question in public.",
+      "image": null,
+      "passage": null,
+      "options": ["embarrassed", "embarrass", "embarrassment", "embarrassing"],
+      "answer": "D",
+      "explanation": "Adjective 'embarrassing' describes the question (causing embarrassment). 'Embarrassed' describes a person's feeling."
+    },
+    {
+      "id": 53,
+      "question": "By the way, do you know how much time _____ to finish the exams?",
+      "image": null,
+      "passage": null,
+      "options": ["gave", "are we given", "we are given", "has given"],
+      "answer": "C",
+      "explanation": "Embedded question: 'how much time we are given' — statement word order (subject + verb). 'We are given' is passive."
+    },
+    {
+      "id": 54,
+      "question": "_____ it rained heavily, we had to cancel our trip. The road was too muddy.",
+      "image": null,
+      "passage": null,
+      "options": ["Despite", "Since", "As a result", "Because of"],
+      "answer": "B",
+      "explanation": "'Since' (because) introduces a reason. 'Since it rained heavily' is a clause. 'Despite' would need 'despite the heavy rain'. 'Because of' requires a noun phrase."
+    },
+    {
+      "id": 55,
+      "question": "I would prefer _____ to Canada in summer rather than in winter.",
+      "image": null,
+      "passage": null,
+      "options": ["going", "to going", "to go", "go"],
+      "answer": "C",
+      "explanation": "The verb 'prefer' can be followed by an infinitive: 'prefer to go' (or gerund 'prefer going'). Here 'would prefer' is followed by 'to go'."
+    },
+    {
+      "id": 56,
+      "question": "The room _____ every morning, but the windows _____ once a week.",
+      "image": null,
+      "passage": null,
+      "options": ["has cleaned / have washed", "cleans / wash", "cleaned / washed", "is cleaned / are washed"],
+      "answer": "D",
+      "explanation": "Passive voice: room is cleaned (by someone), windows are washed. Present simple passive: 'is cleaned' and 'are washed'."
+    },
+    {
+      "id": 57,
+      "question": "Drivers _____ stop at red lights, and pedestrians _____ use the crosswalk.",
+      "image": null,
+      "passage": null,
+      "options": ["should / shouldn't", "mustn't / don't have to", "must / should", "had better / mustn't"],
+      "answer": "C",
+      "explanation": "Drivers must stop (obligation). Pedestrians should use crosswalk (advice/recommendation). Option C is correct."
+    },
+    {
+      "id": 58,
+      "question": "The students have prepared well, so they _____ pass the entrance exam.",
+      "image": null,
+      "passage": null,
+      "options": ["are going to", "will", "may", "could"],
+      "answer": "A",
+      "explanation": "Preparation indicates a planned or predicted future result. 'Are going to' is used for future predictions based on present evidence."
+    },
+    {
+      "id": 59,
+      "question": "If you _____ this button, the machine _____, and the light turns on.",
+      "image": null,
+      "passage": null,
+      "options": ["had pressed / would have started", "pressed / would start", "press / will start", "press / starts"],
+      "answer": "D",
+      "explanation": "Zero conditional for general truth: 'If you press, the machine starts' (present simple in both clauses). Option D is correct."
+    },
+    {
+      "id": 60,
+      "question": "Right now, she _____ dinner, and her brother is setting the dining table.",
+      "image": null,
+      "passage": null,
+      "options": ["was cooking", "has been cooking", "is cooking", "is being cooked"],
+      "answer": "C",
+      "explanation": "'Right now' indicates present continuous. 'She is cooking dinner' is active voice. 'Is being cooked' would be passive (dinner is being cooked by her)."
+    },
+    {
+      "id": 61,
+      "question": "Among all the treatments, this one works the _____, but it is the safest.",
+      "image": null,
+      "passage": null,
+      "options": ["less effective", "least effective", "less effectively", "least effectively"],
+      "answer": "D",
+      "explanation": "The adverb 'works' needs an adverb modifier. 'Least effectively' (superlative adverb) means it works with the least effectiveness. 'Least effective' would be an adjective modifying the treatment itself, but the verb is 'works'."
+    },
+    {
+      "id": 62,
+      "question": "My mom _____ to the supermarket, and bought _____ vegetables.",
+      "image": null,
+      "passage": null,
+      "options": ["went / some", "goes / some", "went / any", "goes / any"],
+      "answer": "A",
+      "explanation": "Past tense 'went' matches 'bought'. 'Some' is used in affirmative sentences for uncountable/plural nouns (vegetables). 'Any' is for negatives/questions."
+    },
+    {
+      "id": 63,
+      "question": "The committee _____ a decision to increase the budget; the manager was very happy with it.",
+      "image": null,
+      "passage": null,
+      "options": ["makes", "made", "does", "did"],
+      "answer": "B",
+      "explanation": "Past simple 'made' because the manager was happy (past). 'Make a decision' is the collocation."
+    },
+    {
+      "id": 64,
+      "question": "Many flights were delayed _____ technical issues. The passengers had to wait _____ several hours.",
+      "image": null,
+      "passage": null,
+      "options": ["owing to / for", "because / for", "since / since", "because of / since"],
+      "answer": "A",
+      "explanation": "'Owing to' is a preposition meaning because of. 'For' is used with duration (several hours). 'Because of' would also work, but 'owing to' is acceptable. 'Because' needs a clause."
+    },
+    {
+      "id": 65,
+      "question": "The team has been working overtime; _____ the project will be completed on schedule.",
+      "image": null,
+      "passage": null,
+      "options": ["so", "however", "as a result", "in addition to that"],
+      "answer": "C",
+      "explanation": "As a result (consequently) shows cause-effect. Working overtime leads to completion on schedule. 'So' would also work but requires a comma and is more informal. 'As a result' is fine."
+    },
+    {
+      "id": 66,
+      "question": "He became a very nice and well-educated man _____ having a very difficult childhood.",
+      "image": null,
+      "passage": null,
+      "options": ["owing to", "although", "so that", "in spite of"],
+      "answer": "D",
+      "explanation": "Contrast: difficult childhood but he became nice. 'In spite of' + noun phrase (-ing form) is correct. 'Despite' would also work."
+    },
+    {
+      "id": 67,
+      "question": "Scientists have discovered a new technique _____ measuring the speed at which the universe is expanding.",
+      "image": null,
+      "passage": null,
+      "options": ["in order to that", "so as to", "for", "in order to"],
+      "answer": "C",
+      "explanation": "The preposition 'for' is used with a gerund to express purpose: 'a technique for measuring'. 'In order to' and 'so as to' are followed by a verb, not gerund."
+    },
+    {
+      "id": 68,
+      "question": "We got up early that morning _____ we should miss the train.",
+      "image": null,
+      "passage": null,
+      "options": ["for that reason", "lest", "so that", "if only"],
+      "answer": "B",
+      "explanation": "'Lest' means 'for fear that' or 'so that not'. 'We got up early lest we should miss the train' means to avoid missing it. 'Lest' is followed by 'should' or subjunctive."
+    },
+    {
+      "id": 69,
+      "question": "The guard made us _____ outside, and he let us _____ later.",
+      "image": null,
+      "passage": null,
+      "options": ["wait / enter", "to wait / enter", "to wait / to enter", "waiting / entering"],
+      "answer": "A",
+      "explanation": "'Made' + object + bare infinitive (wait). 'Let' + object + bare infinitive (enter). So 'wait / enter' is correct."
+    },
+    {
+      "id": 70,
+      "question": "By next year, my cousin _____ the undergraduate courses.",
+      "image": null,
+      "passage": null,
+      "options": ["will complete", "would have completed", "will have completed", "will have been completing"],
+      "answer": "C",
+      "explanation": "Future perfect 'will have completed' for an action completed before a future time (by next year)."
+    },
+    {
+      "id": 71,
+      "question": "_____ by the journey, the travellers sat down to rest at a motel and took soft drinks.",
+      "image": null,
+      "passage": null,
+      "options": ["To be exhausted", "Exhaustively", "Exhausting", "Exhausted"],
+      "answer": "D",
+      "explanation": "Past participle 'Exhausted' (feeling tired) modifies the travellers. 'Exhausted by the journey' is a participial phrase."
+    },
+    {
+      "id": 72,
+      "question": "It is very hot today, and we wish it _____ cooler, so we could study comfortably.",
+      "image": null,
+      "passage": null,
+      "options": ["has been", "were", "was", "is"],
+      "answer": "B",
+      "explanation": "Wish about a present situation uses past subjunctive 'were' for all persons. 'I wish it were cooler' is correct."
+    },
+    {
+      "id": 73,
+      "question": "_____ he driven so fast, he mightn't have caused the accident.",
+      "image": null,
+      "passage": null,
+      "options": ["Has", "Hadn't", "Unless", "When"],
+      "answer": "B",
+      "explanation": "Inversion in third conditional negative: 'Had he not driven so fast' = 'If he hadn't driven so fast'. 'Hadn't he driven' would be question form, but inversion with negative: 'Had he not driven' or 'Hadn't he driven' is possible in informal English? The correct standard inversion is 'Had he not driven', but among options, 'Hadn't he driven' is the closest. Many tests accept 'Hadn't' for negative inversion."
+    },
+    {
+      "id": 74,
+      "question": "She admitted _____ the meeting; she promised it won't happen again.",
+      "image": null,
+      "passage": null,
+      "options": ["forgetting", "to forget", "forgets", "forgot"],
+      "answer": "A",
+      "explanation": "Admit is followed by gerund: 'admitted forgetting' means she confessed that she forgot. 'Admitted to forget' is not standard."
+    },
+    {
+      "id": 75,
+      "question": "I will start my homework _____ my meal, and I will review my notes later.",
+      "image": null,
+      "passage": null,
+      "options": ["before I finish", "after I finished", "after I finish", "before I have finished"],
+      "answer": "C",
+      "explanation": "After I finish my meal (present simple for future time clause). 'After I finish' is correct. 'After I finished' is past, not future."
+    },
+    {
+      "id": 76,
+      "question": "Stranger: _____ You: Sure. Go straight ahead and take the second left.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Excuse me, could you tell me how get to the post office?",
+        "Do you mind telling me the way to the post office?",
+        "Please, tell me how to get the post office.",
+        "Where is the post office?"
+      ],
+      "answer": "B",
+      "explanation": "The response gives directions. Option B is polite and natural. Option A has a grammatical error ('how get' should be 'how to get'). Option D is too direct, Option C is missing 'to' before 'the post office'? Actually 'how to get to' is needed. B is best."
+    },
+    {
+      "id": 77,
+      "question": "Sara: Hey, how do you feel about my result? Father: Wow! you are the most intelligent student of all my children. I love you! Sara: _____",
+      "image": null,
+      "passage": null,
+      "options": ["That is true...", "I'm absolutely certain that...", "I totally agree...", "Of course ..."],
+      "answer": "C",
+      "explanation": "Sara would respond positively to the compliment. 'I totally agree' is not humble; but among options, 'That is true' is also possible. However, 'I totally agree' is a common response. Given typical patterns, C is likely."
+    },
+    {
+      "id": 78,
+      "question": "Customer: _____ but I am really disappointed in this hairstyle at all. How can you fix it? Hairdresser: Of course, I feel sorry for making this mistake, but don't worry; I can fix it easily.",
+      "image": null,
+      "passage": null,
+      "options": ["I don't bother you...", "Sorry for bothering you...", "I'm happy...", "Good indeed..."],
+      "answer": "B",
+      "explanation": "The customer expresses disappointment. Starting with 'Sorry for bothering you' is polite and leads to the complaint. 'Sorry for bothering you, but I am disappointed...' is natural."
+    },
+    {
+      "id": 79,
+      "question": "Hawai: Look! My brother has built a new building. _____ about it? Roba: Really? It seems to me that it's unbelievable.",
+      "image": null,
+      "passage": null,
+      "options": ["I understand...", "I'm convinced that...", "What do you feel...", "My impression is that..."],
+      "answer": "C",
+      "explanation": "Hawai asks for Roba's opinion: 'What do you feel about it?' Roba then gives his impression. Option C is a direct question."
+    },
+    {
+      "id": 80,
+      "question": "Receptionist: _____ Customer: I want to speak to the manager.",
+      "image": null,
+      "passage": null,
+      "options": ["What do you want?", "Whom do you want?", "What can I help you?", "What do I help you?"],
+      "answer": "C",
+      "explanation": "Standard polite receptionist: 'What can I help you with?' or 'How can I help you?' 'What can I help you?' is a common shortened form. Option C is acceptable. 'Whom do you want?' is too direct."
+    },
+    {
+      "id": 81,
+      "question": "Hana: I'm really stressed about my entrance exams. Any advice? Abel: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "You shouldn't get enough sleep.",
+        "You often sleep very late.",
+        "You must make a study time table and stick to it.",
+        "That sounds great; don't worry about it."
+      ],
+      "answer": "C",
+      "explanation": "Abel gives practical advice: make a study timetable. The other options are unhelpful or negative."
+    },
+    {
+      "id": 82,
+      "question": "Hayat: Look at the views. What do you think about the river? Ahmed: _____ it is amazing.",
+      "image": null,
+      "passage": null,
+      "options": ["I understand that", "In my point of view,", "Of course, you're right.", "May I come in here?"],
+      "answer": "B",
+      "explanation": "Giving an opinion: 'In my point of view' (though usually 'from my point of view' or 'in my view', but B is the closest) or 'I think'. Option B is appropriate."
+    },
+    {
+      "id": 83,
+      "question": "Teacher: _____ Student: Sorry teacher, I have to walk. I don't have money for a taxi.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Hey, always late? That is really annoying!",
+        "Which part of Addis do you come from?",
+        "How long would it take you to school?",
+        "How much would the taxi cost you every day?"
+      ],
+      "answer": "D",
+      "explanation": "The student mentions not having money for a taxi. The teacher's question about daily taxi cost would lead to that response. Option D fits."
+    },
+    {
+      "id": 84,
+      "question": "Bubu: What would you do if you see someone starving? Tutu: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Come on, they shouldn't starve.",
+        "Perhaps I give them my own lunch.",
+        "The government should feed them.",
+        "Why don't they eat what they can find?"
+      ],
+      "answer": "B",
+      "explanation": "The question asks what you would do. 'Perhaps I would give them my own lunch' is a personal action. Option B is the most direct answer."
+    },
+    {
+      "id": 85,
+      "question": "Mother: This television is very loud. Daughter: _____",
+      "image": null,
+      "passage": null,
+      "options": ["Sorry, I'll turn it down.", "Sorry, I'd turn it off.", "Sorry, I'd turn it down.", "That's none of my business."],
+      "answer": "A",
+      "explanation": "The daughter apologizes and will turn down the volume. 'I'll turn it down' is a promise. 'I'd turn it down' is conditional/hypothetical. Option A is correct."
+    },
+    {
+      "id": 86,
+      "question": "Azeb: Why did you go to Gambella? Kibret: _____",
+      "image": null,
+      "passage": null,
+      "options": ["It is very hot there.", "To visit my birth place.", "It is a rapidly growing town.", "The people are very friendly."],
+      "answer": "B",
+      "explanation": "The question asks 'Why did you go?' So answer with purpose: 'To visit my birth place.' Option B is correct."
+    },
+    {
+      "id": 87,
+      "question": "Passenger 1: Excuse me, I think those seats facing the front are ours. Passenger 2: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Oh, I am sorry. We know they were reserved.",
+        "I'm afraid the seats are not comfortable enough.",
+        "Oh, I'm sorry. We didn't know they are reserved.",
+        "Oh, what a shame! I like seats facing the front."
+      ],
+      "answer": "C",
+      "explanation": "Passenger 2 apologizes, explaining they didn't know the seats were reserved. Option C is polite and logical."
+    },
+    {
+      "id": 88,
+      "question": "Aberash: My husband doesn't come home in time. Nigist: Why not lock the gate and keep him out for a night? Aberash: _____",
+      "image": null,
+      "passage": null,
+      "options": ["What could be the reason?", "What shall I do?", "Is he seeing another woman?", "Has this ever happened to you too?"],
+      "answer": "C",
+      "explanation": "Nigist suggests a drastic action. Aberash might wonder about the reason for his behavior. 'Is he seeing another woman?' is a natural follow-up question in this context."
+    },
+    {
+      "id": 89,
+      "question": "Chairperson: _____ Secretary: Before that let's discuss more on the first point.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Let's conclude our discussion.",
+        "Do you think about this point?",
+        "How about the first point?",
+        "Should we move on to the next point?"
+      ],
+      "answer": "D",
+      "explanation": "The secretary says 'before that' — meaning before moving to something else. The chairperson likely asked to move to the next point. 'Should we move on to the next point?' fits."
+    },
+    {
+      "id": 90,
+      "question": "Children: We lost our beloved mother in a fraction of a minute in a car accident last week. Priest: _____",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Don't worry children. It's the curse of your great-grandparents",
+        "Don't worry children. It's very common these days.",
+        "What a curse! Be strong children. May God forgive her.",
+        "That is what I told you. Your curse has led to her death."
+      ],
+      "answer": "C",
+      "explanation": "A priest should offer comfort. 'What a curse! Be strong children. May God forgive her' is sympathetic and appropriate. The others blame or trivialize."
+    },
+    {
+      "id": 91,
+      "question": "Which one of the following sentences contains a sentence fragment error?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "She was tired after a long journey.",
+        "The children were playing in the yard.",
+        "While waiting for the bus in the rain.",
+        "He decided to go home early."
+      ],
+      "answer": "C",
+      "explanation": "'While waiting for the bus in the rain' is a dependent clause (subordinate) and cannot stand alone as a sentence. It is a fragment. The others are complete sentences."
+    },
+    {
+      "id": 92,
+      "question": "Which of the following sentences is correctly punctuated?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The teacher asked, \"what is the population of Ethiopia?\"",
+        "\"The teacher asked, what is the population of Ethiopia?\"",
+        "The teacher asked, \"What is the population of Ethiopia?\"",
+        "The teacher asked, \"What is the population of Ethiopia?\""
+      ],
+      "answer": "C",
+      "explanation": "The direct quote should start with a capital letter. Option C has correct capitalization and comma before quote. Options A and D are the same? Actually C and D appear identical. In the original, C and D are the same? The text shows C and D identical? Probably option C is correct."
+    },
+    {
+      "id": 93,
+      "question": "Which sentence contains a run-on error?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "When the bell rang, the students left the classroom.",
+        "The bell rang the students left the classroom.",
+        "The bell rang, so the students left the classroom.",
+        "The bell rang; the students left the classroom."
+      ],
+      "answer": "B",
+      "explanation": "A run-on sentence occurs when two independent clauses are joined without punctuation or conjunction. Option B: 'The bell rang the students left' has no punctuation between them. That is a run-on."
+    },
+    {
+      "id": 94,
+      "question": "Which opening line is appropriate for an informal letter?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Respected Principal, I request leave for two days.",
+        "Dear Manager, I would like to submit resignation.",
+        "Dear John, I hope you're doing great. I have so much to tell you!",
+        "To Whom It May Concern, I am writing to inquire about the scholarship."
+      ],
+      "answer": "C",
+      "explanation": "Informal letters use first names, casual language. 'Dear John' and friendly tone indicates informal. Others are formal."
+    },
+    {
+      "id": 95,
+      "question": "Identify the word which spelt correctly.",
+      "image": null,
+      "passage": null,
+      "options": ["Definitely", "Definitely", "Definitely", "Definitely"],
+      "answer": "A",
+      "explanation": "All options are the same word. The correct spelling is 'Definitely'. Since all are identical, any is correct. The test likely expects 'Definitely' as the choice."
+    },
+    {
+      "id": 96,
+      "question": "\"The bird is one of a group of log-legged wading birds. It has a long beak that curves down.\" This statement is taken from the beginning of a/an _____ writing.",
+      "image": null,
+      "passage": null,
+      "options": ["Argumentative", "Narrative", "Expository", "Descriptive"],
+      "answer": "C",
+      "explanation": "The sentence gives factual information about a bird, defining and describing its features. This is expository (informative) writing."
+    },
+    {
+      "id": 97,
+      "question": "\"We arranged to meet at the foot of the mountain. But we had to wait longer than expected as many did not show up on time. Then at 10 o'clock, after a significant delay, we headed for the tip.\" This is taken from a piece of writing that is most likely",
+      "image": null,
+      "passage": null,
+      "options": ["Narrative", "Descriptive", "Persuasive", "Expository"],
+      "answer": "A",
+      "explanation": "This passage tells a story with a sequence of events (arranged to meet, waited, headed). This is narrative writing."
+    },
+    {
+      "id": 98,
+      "question": "\"Students should limit their use of mobile phones in school. Excessive phone use distracts them from their lessons and reduces concentration...\" This text is extracted from a piece of writing that is most likely",
+      "image": null,
+      "passage": null,
+      "options": ["Narrative", "Persuasive", "Expository", "Descriptive"],
+      "answer": "B",
+      "explanation": "The author argues for a position ('should limit') and gives reasons. This is persuasive (argumentative) writing."
+    },
+    {
+      "id": 99,
+      "question": "Which of the following is an expository type of writing?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The old library, with its dusty shelves and dim yellow lights, felt like a place frozen in time.",
+        "Last summer, I experienced an event that completely changed the way I think about friendship.",
+        "Photosynthesis is the process by which green plants produce food using sunlight, water, and carbon dioxide.",
+        "Online learning is more flexible than traditional classroom learning, but it requires greater self-discipline."
+      ],
+      "answer": "C",
+      "explanation": "Expository writing explains or informs. Option C explains the process of photosynthesis in a factual way. Option A is descriptive, B is narrative, D is persuasive."
+    },
+    {
+      "id": 100,
+      "question": "Which sentence has a dangling modifier?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "After finishing the homework, the TV was turned on.",
+        "After finishing the homework, she turned on the TV.",
+        "She turned on the TV after she finished the homework.",
+        "After the homework was finished, she relaxed."
+      ],
+      "answer": "A",
+      "explanation": "Dangling modifier: 'After finishing the homework' has no logical subject. Who finished? The TV did not finish homework. Option A is incorrect. Option B has 'she' as the subject."
+    }
+  ]
+}

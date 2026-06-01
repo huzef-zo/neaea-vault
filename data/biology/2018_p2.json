@@ -1,0 +1,1190 @@
+{
+  "subject": "Biology",
+  "year": "2018 E.C",
+  "paper": 2,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is a major carbohydrate found in plants that humans cannot digest?",
+      "image": null,
+      "passage": null,
+      "options": ["Glycogen", "Fructose", "Cellulose", "Maltose"],
+      "answer": "C",
+      "explanation": "Cellulose is a polysaccharide found in plant cell walls. Humans lack the enzyme cellulase to digest it, so it passes through as dietary fiber."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following best describes the difference between saturated and unsaturated fatty acids?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Saturated fatty acids have one or more double bonds between carbon atoms, while unsaturated fatty acids have only single bonds.",
+        "Saturated fatty acids are typically found in plants, while unsaturated fatty acids are found in animals.",
+        "Saturated fatty acids have no double bonds between carbon atoms, while unsaturated fatty acids have one or more double bonds.",
+        "Saturated fatty acids are liquid at room temperature, while unsaturated fatty acids are solid."
+      ],
+      "answer": "C",
+      "explanation": "Saturated fatty acids have no double bonds (maximal hydrogen), unsaturated have one or more double bonds. This affects physical properties: saturated fats tend to be solid at room temperature, unsaturated liquid."
+    },
+    {
+      "id": 3,
+      "question": "What is the role of bile in digestion?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It breaks down proteins in the stomach.",
+        "It emulsifies fats, breaking them down into smaller droplets.",
+        "It helps to digest carbohydrates in the small intestine.",
+        "It neutralizes the acid from the stomach to make the food alkaline."
+      ],
+      "answer": "B",
+      "explanation": "Bile emulsifies fats, increasing surface area for pancreatic lipase to act. It does not digest proteins or carbohydrates, and its alkalinity helps neutralize stomach acid but that is not its primary role in fat digestion."
+    },
+    {
+      "id": 4,
+      "question": "Which part of the digestive system is responsible for producing enzymes that digest carbohydrates, proteins, and fats?",
+      "image": null,
+      "passage": null,
+      "options": ["Stomach", "Small intestine", "Pancreas", "Liver"],
+      "answer": "C",
+      "explanation": "The pancreas produces pancreatic amylase (carbohydrates), trypsin and chymotrypsin (proteins), and lipase (fats). These are secreted into the small intestine."
+    },
+    {
+      "id": 5,
+      "question": "What is the primary function of the cilia in the trachea?",
+      "image": null,
+      "passage": null,
+      "options": ["To produce mucus", "To trap dust and bacteria"],
+      "answer": "B",
+      "explanation": "Cilia in the trachea beat upward to move mucus (which traps dust and pathogens) toward the pharynx, where it can be swallowed or expelled. The second option best captures their function: moving trapped particles."
+    },
+    {
+      "id": 6,
+      "question": "Which structure separates the thoracic cavity from the abdominal cavity and plays a key role in breathing?",
+      "image": null,
+      "passage": null,
+      "options": ["Larynx", "Diaphragm", "Trachea", "Bronchi"],
+      "answer": "B",
+      "explanation": "The diaphragm is a dome-shaped muscle separating the thoracic and abdominal cavities; its contraction and relaxation drive ventilation."
+    },
+    {
+      "id": 7,
+      "question": "What is the main product of anaerobic respiration in muscle cells during vigorous exercise?",
+      "image": null,
+      "passage": null,
+      "options": ["Lactic acid", "Ethanol", "Oxygen", "Carbon dioxide"],
+      "answer": "A",
+      "explanation": "During intense exercise, oxygen becomes limiting, and muscles switch to lactic acid fermentation, producing lactate (lactic acid)."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following best describes the process of fermentation in yeast cells?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Yeast cells use oxygen to break down glucose and produce ATP, water, and carbon dioxide.",
+        "Yeast cells break down glucose without oxygen, producing ethanol and carbon dioxide.",
+        "Yeast cells produce ATP by converting lactic acid into energy.",
+        "Yeast cells use lactic acid as the main energy source in the absence of oxygen."
+      ],
+      "answer": "B",
+      "explanation": "Yeast fermentation is anaerobic, converting glucose into ethanol and CO2, with net ATP production via glycolysis."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following statements about red blood cells is true?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Red blood cells have a nucleus and live for about 10-20 days.",
+        "Red blood cells are shaped as biconcave discs, which gives them a large surface area for oxygen exchange.",
+        "Red blood cells are responsible for fighting infections in the body.",
+        "Red blood cells are made in the liver and transport carbon dioxide around the body."
+      ],
+      "answer": "B",
+      "explanation": "Mature red blood cells lack a nucleus. Their biconcave shape increases surface area for gas exchange. They are produced in bone marrow, not liver. Fighting infection is the role of white blood cells."
+    },
+    {
+      "id": 10,
+      "question": "In the ABO blood group system, which blood type can receive blood from any of the four ABO blood types?",
+      "image": null,
+      "passage": null,
+      "options": ["Type A", "Type B", "Type AB", "Type O"],
+      "answer": "C",
+      "explanation": "Type AB individuals have no anti-A or anti-B antibodies, so they can receive blood from A, B, AB, or O (universal recipient)."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is NOT a characteristic of bacteria?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Bacteria are single-celled organisms.",
+        "Bacterial cells contain a nucleus to store genetic material.",
+        "Bacteria can have structures like flagella to help them move.",
+        "Some bacteria are useful for processes like fermentation and decay."
+      ],
+      "answer": "B",
+      "explanation": "Bacteria are prokaryotes; they lack a membrane-bound nucleus. Their genetic material is in the nucleoid region."
+    },
+    {
+      "id": 12,
+      "question": "How do vaccines help protect against disease?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "They directly kill all pathogens in the body.",
+        "They stimulate the immune system to recognize and remember"
+      ],
+      "answer": "B",
+      "explanation": "Vaccines contain antigens that stimulate the adaptive immune system to produce memory cells, providing long-term protection without causing disease."
+    },
+    {
+      "id": 13,
+      "question": "What is the main purpose of using UHT (Ultra High Temperature) treatment for food?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To make the food taste better",
+        "To keep the food warm for longer",
+        "To sterilize the food by killing all micro-organisms",
+        "To preserve the food by freezing"
+      ],
+      "answer": "C",
+      "explanation": "UHT treatment (e.g., 135°C for a few seconds) sterilizes food by killing all microorganisms, allowing shelf-stable packaging without refrigeration."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is the most common way people get infected with tapeworms?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "By drinking contaminated water",
+        "By eating undercooked or raw meat containing young tapeworms",
+        "By coming into contact with contaminated soil",
+        "Through insect bites"
+      ],
+      "answer": "B",
+      "explanation": "Taeniasis is acquired by ingesting undercooked meat (beef or pork) containing larval cysts (cysticerci)."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is the most effective way to prevent the spread of gonorrhea?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Getting vaccinated for gonorrhea",
+        "Using a male or female condom during sexual activity",
+        "Avoiding alcohol consumption",
+        "Avoiding all contact with infected individuals"
+      ],
+      "answer": "B",
+      "explanation": "No vaccine is available for gonorrhea. Consistent and correct use of condoms is highly effective in preventing transmission."
+    },
+    {
+      "id": 16,
+      "question": "What is the primary reason why chancroid is particularly concerning in regions with high HIV/AIDS rates?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It causes severe pain and tissue damage",
+        "It can lead to permanent infertility",
+        "The sores caused by chancroid increase the likelihood of contracting HIV",
+        "It has no effective treatment"
+      ],
+      "answer": "C",
+      "explanation": "Chancroid causes genital ulcers, which provide a portal of entry for HIV, increasing transmission risk. This is especially concerning in high-HIV-prevalence regions."
+    },
+    {
+      "id": 17,
+      "question": "What is the primary role of neurotransmitters at a synapse?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To produce electrical impulses",
+        "To cross the synapse and start an electrical impulse in the next neuron",
+        "To insulate the axon for faster impulse transmission",
+        "To repair damaged neurons"
+      ],
+      "answer": "B",
+      "explanation": "Neurotransmitters are released from the presynaptic neuron, diffuse across the synaptic cleft, and bind to receptors on the postsynaptic membrane, generating a new electrical signal (postsynaptic potential)."
+    },
+    {
+      "id": 18,
+      "question": "What is a conditioned reflex action?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "A reflex action that is innate and present at birth",
+        "A reflex action that is learned through experience",
+        "A reflex action that occurs only in response to physical injury",
+        "A reflex action that is triggered by emotional stimuli"
+      ],
+      "answer": "B",
+      "explanation": "A conditioned reflex (like Pavlov's dogs) is a learned response that pairs a neutral stimulus with an unconditioned stimulus through experience."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following conditions can be corrected using concave (diverging) lenses?",
+      "image": null,
+      "passage": null,
+      "options": ["Long sight", "Short sight", "Astigmatism", "Presbyopia"],
+      "answer": "B",
+      "explanation": "Short-sightedness (myopia) occurs when the eyeball is too long or cornea too curved. Concave (diverging) lenses help focus light onto the retina. Long-sight (hyperopia) requires convex lenses."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a function of the epidermis layer of the skin?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Temperature regulation",
+        "Protection against UV light",
+        "Containing blood vessels and sweat glands",
+        "Storing fat for insulation"
+      ],
+      "answer": "B",
+      "explanation": "The epidermis (outer layer) provides a physical barrier and contains melanocytes that produce melanin to protect against UV radiation. Temperature regulation and sweat glands are in the dermis; fat storage is in the hypodermis."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is a primary function of insulin in the body?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To increase blood sugar levels",
+        "To regulate the heart rate",
+        "To lower blood sugar levels by helping glucose enter cells",
+        "To speed up the breathing rate"
+      ],
+      "answer": "C",
+      "explanation": "Insulin promotes glucose uptake into cells, glycogenesis, and reduces blood glucose levels."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following contraceptive methods is considered to be 99% effective at preventing pregnancy and does not require daily action from the user?",
+      "image": null,
+      "passage": null,
+      "options": ["The combined oral contraceptive pill", "Male condoms", "Hormonal implants", "Diaphragm"],
+      "answer": "C",
+      "explanation": "Hormonal implants (e.g., Norplant) are long-acting reversible contraceptives with >99% effectiveness and require no daily action. The pill requires daily intake."
+    },
+    {
+      "id": 23,
+      "question": "What is the primary function of sweating in homoiotherms?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To increase body temperature",
+        "To release excess carbon dioxide",
+        "To cool the body down by evaporation",
+        "To conserve water and ions"
+      ],
+      "answer": "C",
+      "explanation": "Sweat evaporates from the skin surface, absorbing heat and cooling the body. This is a thermoregulatory mechanism in mammals (homoiotherms)."
+    },
+    {
+      "id": 24,
+      "question": "Which physiological response helps conserve heat when the core body temperature drops?",
+      "image": null,
+      "passage": null,
+      "options": ["Sweating", "Vasodilation", "Vasoconstriction", "Panting"],
+      "answer": "C",
+      "explanation": "Vasoconstriction narrows blood vessels near the skin, reducing heat loss and conserving core body heat. Sweating and vasodilation dissipate heat; panting is also for heat loss."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following structures in a leaf is primarily responsible for controlling gas exchange and water loss?",
+      "image": null,
+      "passage": null,
+      "options": ["Palisade mesophyll", "Stomata", "Xylem", "Phloem"],
+      "answer": "B",
+      "explanation": "Stomata are pores that open and close to regulate CO2 uptake for photosynthesis and water loss (transpiration). Guard cells control their aperture."
+    },
+    {
+      "id": 26,
+      "question": "Which of the following is NOT a requirement for photosynthesis?",
+      "image": null,
+      "passage": null,
+      "options": ["Water", "Carbon dioxide", "Chlorophyll", "Nitrogen"],
+      "answer": "D",
+      "explanation": "Water, CO2, and chlorophyll are essential. Nitrogen is a mineral nutrient for plant growth but not a direct requirement for the photosynthetic reaction itself."
+    },
+    {
+      "id": 27,
+      "question": "What is the main purpose of boiling a leaf in water during the starch test for photosynthesis?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To remove the starch",
+        "To soften the leaf",
+        "To kill the leaf and stop biochemical processes",
+        "To add iodine solution to the leaf"
+      ],
+      "answer": "C",
+      "explanation": "Boiling kills the leaf cells, denatures enzymes, and stops metabolic activity, ensuring that any subsequent starch detected was present at the time of the experiment."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is responsible for the movement of water from the roots to the leaves in plants?",
+      "image": null,
+      "passage": null,
+      "options": ["Active transport", "Transpiration", "Photosynthesis", "Respiration"],
+      "answer": "B",
+      "explanation": "Transpiration (loss of water vapor from leaves) creates negative pressure (tension) that pulls water up through the xylem. This is the primary driving force for water movement in plants."
+    },
+    {
+      "id": 29,
+      "question": "What is the role of guard cells in the process of transpiration?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "They absorb water from the soil.",
+        "They open and close the stomata to regulate water loss.",
+        "They transport sugars through the plant.",
+        "They produce chloroplasts for photosynthesis."
+      ],
+      "answer": "B",
+      "explanation": "Guard cells swell with water to open stomata and shrink to close them, thereby regulating transpiration and gas exchange."
+    },
+    {
+      "id": 30,
+      "question": "What is the primary function of auxins (IAA) in plants?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Inhibit cell division",
+        "Stimulate root growth",
+        "Stimulate cell elongation and shoot growth",
+        "Promote fruit ripening"
+      ],
+      "answer": "C",
+      "explanation": "Auxins (indole-3-acetic acid, IAA) promote cell elongation in shoots, apical dominance, and root initiation at low concentrations. Fruit ripening is primarily ethylene."
+    },
+    {
+      "id": 31,
+      "question": "In which response do roots grow towards water?",
+      "image": null,
+      "passage": null,
+      "options": ["Geotropism", "Hydrotropism", "Phototropism", "Thermotropism"],
+      "answer": "B",
+      "explanation": "Hydrotropism is the growth response toward (or away from) water. Roots show positive hydrotropism."
+    },
+    {
+      "id": 32,
+      "question": "How does auxin (IAA) affect the growth of shoots and roots in response to gravity?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Auxin promotes growth in both shoots and roots",
+        "Auxin promotes growth in shoots and inhibits growth in roots",
+        "Auxin inhibits growth in both shoots and roots",
+        "Auxin inhibits growth in shoots and promotes growth in roots"
+      ],
+      "answer": "B",
+      "explanation": "In gravitropism, auxin accumulates on the lower side. In shoots, this promotes cell elongation (upward bend). In roots, high auxin inhibits cell elongation (downward bend)."
+    },
+    {
+      "id": 33,
+      "question": "What is the primary role of enzymes in biochemical reactions?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To increase the temperature of reactions",
+        "To create products from substrates",
+        "To lower the activation energy and speed up reaction",
+        "To increase the activation energy needed for reaction"
+      ],
+      "answer": "C",
+      "explanation": "Enzymes are biological catalysts that lower the activation energy of a reaction, increasing the reaction rate without being consumed."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following statements about enzyme specificity is true?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Enzymes are specific only for a single bond type and not for a substrate.",
+        "Enzyme specificity refers to the ability of an enzyme to act only on a particular substrate.",
+        "Enzymes can act on any type of substrate without preference.",
+        "Enzyme specificity refers to the size of the enzyme, not its function."
+      ],
+      "answer": "B",
+      "explanation": "Enzyme specificity means that an enzyme typically catalyzes a reaction for a specific substrate (or a small group of similar substrates), due to the shape and chemistry of its active site."
+    },
+    {
+      "id": 35,
+      "question": "What causes the denaturation of an enzyme?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Low temperature and acidic pH",
+        "High heat, extreme pH, heavy metals, or solvents",
+        "Low concentration of substrate",
+        "An increase in enzyme concentration"
+      ],
+      "answer": "B",
+      "explanation": "Denaturation is the loss of three-dimensional structure (and function) caused by extreme conditions such as high temperature, extreme pH, heavy metals, or organic solvents."
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is a characteristic of an enzyme's active site?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It is where the enzyme binds to its cofactor.",
+        "It is the region where the enzyme binds to its substrate.",
+        "It binds to non-protein molecules like vitamins.",
+        "It is only responsible for enzyme activation."
+      ],
+      "answer": "B",
+      "explanation": "The active site is the specific region of an enzyme where substrate binds and catalysis occurs. Cofactors often bind elsewhere (regulatory sites)."
+    },
+    {
+      "id": 37,
+      "question": "What is the primary function of oxidoreductase enzymes?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Catalyze the transfer of functional groups.",
+        "Catalyze the breakdown of starch.",
+        "Catalyze oxidation-reduction reactions by transferring electrons.",
+        "Catalyze the joining of two molecules using ATP."
+      ],
+      "answer": "C",
+      "explanation": "Oxidoreductases catalyze redox reactions, transferring electrons (or hydrogen atoms) from one molecule to another. Transferases move functional groups, ligases join molecules with ATP."
+    },
+    {
+      "id": 38,
+      "question": "Which factor does NOT affect enzyme activity?",
+      "image": null,
+      "passage": null,
+      "options": ["Temperature", "pH", "Enzyme concentration", "The color of the enzyme"],
+      "answer": "D",
+      "explanation": "Color is irrelevant to enzyme activity. Temperature, pH, substrate/enzyme concentration, and inhibitors/activators all affect activity."
+    },
+    {
+      "id": 39,
+      "question": "What happens when an enzyme is exposed to extreme pH or temperature?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The enzyme becomes more efficient.",
+        "The enzyme becomes denatured and loses its function.",
+        "The enzyme speeds up the reaction rate.",
+        "The enzyme increases its affinity for the substrate."
+      ],
+      "answer": "B",
+      "explanation": "Extreme conditions disrupt the hydrogen bonds and other interactions that maintain the enzyme's tertiary structure, causing denaturation and loss of catalytic activity."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following is an example of a cofactor required by some enzymes for activity?",
+      "image": null,
+      "passage": null,
+      "options": ["Substrate", "Vitamin B complex (Coenzyme)", "Product", "Inhibitor"],
+      "answer": "B",
+      "explanation": "Cofactors include metal ions (e.g., Mg2+, Zn2+) and organic coenzymes (e.g., vitamins, NAD+). Vitamin B complex provides coenzymes like B1 (thiamine pyrophosphate), B2 (FAD), etc."
+    },
+    {
+      "id": 41,
+      "question": "What is the main difference between the structure of DNA and RNA?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "DNA has a single strand, while RNA has a double strand",
+        "DNA contains uracil, while RNA contains thymine",
+        "DNA contains deoxyribose, while RNA contains ribose",
+        "DNA contains ribose, while RNA contains deoxyribose"
+      ],
+      "answer": "C",
+      "explanation": "DNA contains deoxyribose sugar, RNA contains ribose. Also, DNA has thymine, RNA has uracil. DNA is typically double-stranded, RNA single-stranded."
+    },
+    {
+      "id": 42,
+      "question": "What is the function of RNA in cells?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "RNA is responsible for storing genetic information",
+        "RNA facilitates the translation of DNA into proteins",
+        "RNA stores energy for the cell",
+        "RNA is responsible for DNA replication"
+      ],
+      "answer": "B",
+      "explanation": "RNA plays multiple roles: mRNA carries genetic code, tRNA brings amino acids, rRNA forms ribosomes. Together they facilitate translation (protein synthesis). DNA stores genetic information."
+    },
+    {
+      "id": 43,
+      "question": "What is the primary function of meiosis in organisms?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To produce genetically identical daughter cells for growth and repair",
+        "To produce gametes (sex cells) with half the number of chromosomes",
+        "To replicate DNA for cellular repair",
+        "To divide somatic cells for tissue regeneration"
+      ],
+      "answer": "B",
+      "explanation": "Meiosis reduces chromosome number by half, producing haploid gametes (sperm and eggs) for sexual reproduction, introducing genetic variation."
+    },
+    {
+      "id": 44,
+      "question": "What happens during the S phase of the cell cycle?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The cell grows and accumulates nutrients",
+        "DNA is replicated to form sister chromatids",
+        "The nuclear envelope dissolves, and chromosomes condense",
+        "The cytoplasm divides into two separate cells"
+      ],
+      "answer": "B",
+      "explanation": "The S (synthesis) phase is when DNA replication occurs, resulting in two sister chromatids per chromosome. G1 is growth, G2 preparation, M phase division."
+    },
+    {
+      "id": 45,
+      "question": "In a monohybrid cross, when two heterozygous individuals (Tt x Tt) are crossed, what is the expected phenotypic ratio of the offspring?",
+      "image": null,
+      "passage": null,
+      "options": ["1:1", "3:1", "2:1", "1:2:1"],
+      "answer": "B",
+      "explanation": "A cross of Tt × Tt produces genotypic ratio 1 TT : 2 Tt : 1 tt, which gives phenotypic ratio 3 dominant : 1 recessive (assuming complete dominance)."
+    },
+    {
+      "id": 46,
+      "question": "Which of the following statements best describes Mendel's Law of Independent Assortment?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Alleles for a single trait separate during meiosis",
+        "Alleles for different traits separate independently of each other during meiosis",
+        "Dominant traits will always be expressed in offspring",
+        "Recessive traits will always be expressed when two recessive alleles are inherited"
+      ],
+      "answer": "B",
+      "explanation": "The Law of Independent Assortment states that alleles for different genes segregate independently during gamete formation, provided the genes are on different chromosomes or far apart on the same chromosome."
+    },
+    {
+      "id": 47,
+      "question": "What is the genetic composition that determines an individual to be male in humans?",
+      "image": null,
+      "passage": null,
+      "options": ["XX", "XY", "X", "YY"],
+      "answer": "B",
+      "explanation": "Human males have one X and one Y chromosome (XY); females have two X chromosomes (XX)."
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is an example of non-Mendelian inheritance?",
+      "image": null,
+      "passage": null,
+      "options": ["Complete dominance", "Incomplete dominance", "Gene segregation", "Independent assortment"],
+      "answer": "B",
+      "explanation": "Incomplete dominance (e.g., pink flowers from red and white parents) does not follow Mendel's pattern of complete dominance and is considered non-Mendelian. The others are Mendelian principles."
+    },
+    {
+      "id": 49,
+      "question": "What is one of the main uses of biotechnology in food production?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Genetic engineering of crops",
+        "Creating synthetic chemicals",
+        "Developing biological weapons",
+        "Reducing biodiversity loss"
+      ],
+      "answer": "A",
+      "explanation": "Biotechnology is used to genetically engineer crops for improved yield, pest resistance, or nutritional content. Option D is a conservation goal, not a primary use."
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is a key feature of forensic biotechnology?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The use of genetic engineering to improve crops",
+        "Analysis of DNA and other biological evidence at crime scenes",
+        "The development of new biofuels",
+        "Engineering microorganisms for industrial use"
+      ],
+      "answer": "B",
+      "explanation": "Forensic biotechnology applies molecular biology (especially DNA profiling) to identify individuals from biological evidence in legal contexts."
+    },
+    {
+      "id": 51,
+      "question": "What is the main role of biotechnology in medicine?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Increasing the cost of drug production",
+        "Providing effective diagnostics, prevention, and treatment",
+        "Reducing the need for medical research",
+        "Limiting the development of new disease"
+      ],
+      "answer": "B",
+      "explanation": "Biotechnology has revolutionized medicine through diagnostics (PCR, ELISA), therapeutics (insulin, monoclonal antibodies), and vaccines."
+    },
+    {
+      "id": 52,
+      "question": "Which of the following is an example of a biotechnological process used for wastewater treatment?",
+      "image": null,
+      "passage": null,
+      "options": ["PCR amplification", "Bio-trickling filters", "Genetic engineering of plants", "DNA sequencing"],
+      "answer": "B",
+      "explanation": "Bio-trickling filters use microbial biofilms to degrade organic pollutants in wastewater. The other options are laboratory or agricultural biotech, not wastewater treatment."
+    },
+    {
+      "id": 53,
+      "question": "According to the World Health Organization (WHO), health is defined as:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The absence of disease",
+        "A state of complete physical, mental and social well-being",
+        "The ability to grow and reproduce",
+        "The ability to exercise regularly"
+      ],
+      "answer": "B",
+      "explanation": "WHO defines health as 'a state of complete physical, mental and social well-being, and not merely the absence of disease or infirmity.'"
+    },
+    {
+      "id": 54,
+      "question": "What is the primary role of biology in nature conservation?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To reduce pollution",
+        "To manage renewable and non-renewable resources properly",
+        "To increase the demand for natural resources",
+        "To exploit natural resources for immediate use"
+      ],
+      "answer": "B",
+      "explanation": "Biology provides the scientific basis for managing resources sustainably, including understanding ecosystems, species interactions, and population dynamics."
+    },
+    {
+      "id": 55,
+      "question": "Which of the following is an example of a non-renewable resource?",
+      "image": null,
+      "passage": null,
+      "options": ["Cattle", "Trees", "Coal", "Water"],
+      "answer": "C",
+      "explanation": "Non-renewable resources are those that cannot be replenished on a human timescale, such as fossil fuels (coal, oil, natural gas) and minerals."
+    },
+    {
+      "id": 56,
+      "question": "Which of the following activities does not contribute to the appreciation of nature?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Planting a tree",
+        "Reducing pollution",
+        "Hugging a tree",
+        "Urbanization and excessive development"
+      ],
+      "answer": "D",
+      "explanation": "Urbanization and excessive development typically degrade natural habitats and reduce biodiversity, contrary to nature appreciation. The other actions promote environmental awareness and conservation."
+    },
+    {
+      "id": 57,
+      "question": "What does food security ensure?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "That food is produced only for wealthy individuals",
+        "That everyone has physical, social, and economic access to nutritious food",
+        "That food prices are high to prevent overconsumption",
+        "That food production remains the same each year"
+      ],
+      "answer": "B",
+      "explanation": "Food security means all people, at all times, have access to sufficient, safe, nutritious food to maintain a healthy life. It includes availability, access, utilization, and stability."
+    },
+    {
+      "id": 58,
+      "question": "Which of the following is a renewable resource in Ethiopia?",
+      "image": null,
+      "passage": null,
+      "options": ["Gold", "Coal", "Coffee", "Oil"],
+      "answer": "C",
+      "explanation": "Coffee is a renewable agricultural crop (can be regrown). Gold, coal, and oil are non-renewable resources. Ethiopia is a major coffee producer."
+    },
+    {
+      "id": 59,
+      "question": "Which of the following is NOT a main group of microorganisms?",
+      "image": null,
+      "passage": null,
+      "options": ["Bacteria", "Fungi", "Mammals", "Viruses"],
+      "answer": "C",
+      "explanation": "Mammals are multicellular animals, not microorganisms. Microorganisms include bacteria, archaea, fungi (yeasts, molds), protozoa, algae, and viruses."
+    },
+    {
+      "id": 60,
+      "question": "What is the key difference between prokaryotic and eukaryotic cells?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Eukaryotic cells have no nucleus, while prokaryotic cells have a nucleus.",
+        "Eukaryotic cells are unicellular, while prokaryotic cells are multicellular.",
+        "Prokaryotic cells have no membrane-enclosed nucleus, while eukaryotic cells do.",
+        "Eukaryotic cells lack cell membranes, while prokaryotic cells have them."
+      ],
+      "answer": "C",
+      "explanation": "Prokaryotes (bacteria, archaea) lack a membrane-bound nucleus; their DNA is in the nucleoid. Eukaryotes have a true nucleus enclosed by a nuclear envelope."
+    },
+    {
+      "id": 61,
+      "question": "Which shape do cocci bacteria have?",
+      "image": null,
+      "passage": null,
+      "options": ["Spiral-shaped", "Rod-shaped", "Spherical", "Oval-shaped"],
+      "answer": "C",
+      "explanation": "Cocci are spherical (round) bacteria; bacilli are rod-shaped; spirilla are spiral-shaped."
+    },
+    {
+      "id": 62,
+      "question": "Which of the following best describes the habitat of Archaea?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Archaea are only found in warm, tropical climates.",
+        "Archaea inhabit extreme environments such as hot springs, saline lakes, and deep-sea vents.",
+        "Archaea only live in the human gut.",
+        "Archaea thrive in forested areas with abundant rainfall."
+      ],
+      "answer": "B",
+      "explanation": "Archaea are known as extremophiles, thriving in hot springs (thermophiles), highly saline lakes (halophiles), deep-sea vents, and other extreme environments, though some are also found in moderate habitats."
+    },
+    {
+      "id": 63,
+      "question": "What is the primary difference between fungi and plants?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Fungi can photosynthesize, while plants cannot.",
+        "Fungi do not have cell walls, while plants do.",
+        "Fungi have chitin in their cell walls, while plants have cellulose.",
+        "Fungi are always unicellular, while plants are always multicellular."
+      ],
+      "answer": "C",
+      "explanation": "Fungi have cell walls made of chitin; plants have cellulosic cell walls. Fungi are heterotrophs (absorb nutrients), plants are autotrophs (photosynthesis)."
+    },
+    {
+      "id": 64,
+      "question": "Which of the following is an example of how fungi benefit humans?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Fungi can cause diseases in humans.",
+        "Fungi help in the fermentation process to produce traditional beverages like Tej and Tella.",
+        "Fungi only serve as food for other organisms.",
+        "Fungi are used to produce energy in power plants."
+      ],
+      "answer": "B",
+      "explanation": "Yeasts (fungi) ferment sugars to produce alcohol and carbon dioxide, used in making alcoholic beverages (Tej, Tella) and bread. This is a beneficial use."
+    },
+    {
+      "id": 65,
+      "question": "Which of the following diseases is caused by the protozoan Plasmodium?",
+      "image": null,
+      "passage": null,
+      "options": ["Giardiasis", "Malaria", "Toxoplasmosis", "Amoebiasis"],
+      "answer": "B",
+      "explanation": "Malaria is caused by Plasmodium species (protozoan parasite transmitted by Anopheles mosquitoes). Giardiasis is Giardia, toxoplasmosis is Toxoplasma, amoebiasis is Entamoeba."
+    },
+    {
+      "id": 66,
+      "question": "What is the primary mode of transmission for Leishmania parasites?",
+      "image": null,
+      "passage": null,
+      "options": ["Contaminated water", "Mosquito bites", "Sand fly bites", "Direct human-to-human contact"],
+      "answer": "C",
+      "explanation": "Leishmania is transmitted by the bite of infected female sand flies (genus Phlebotomus)."
+    },
+    {
+      "id": 67,
+      "question": "Which of the following protozoan diseases affects the liver and causes diarrhea in humans?",
+      "image": null,
+      "passage": null,
+      "options": ["Malaria", "Toxoplasmosis", "Amoebiasis", "African trypanosomiasis"],
+      "answer": "C",
+      "explanation": "Amoebiasis (Entamoeba histolytica) causes amoebic dysentery (diarrhea with blood/mucus) and can spread to the liver causing amoebic liver abscess."
+    },
+    {
+      "id": 68,
+      "question": "What is the outer protein shell of a virus called?",
+      "image": null,
+      "passage": null,
+      "options": ["Envelope", "Genome", "Capsid", "Peplomer"],
+      "answer": "C",
+      "explanation": "The capsid is the protein coat that encloses the viral genome. Some viruses also have an envelope (lipid bilayer) surrounding the capsid."
+    },
+    {
+      "id": 69,
+      "question": "Which of the following types of viruses contain RNA as their genetic material?",
+      "image": null,
+      "passage": null,
+      "options": ["Papovavirus", "Parvovirus", "Retroviruses", "Herpesvirus"],
+      "answer": "C",
+      "explanation": "Retroviruses (e.g., HIV) have RNA genomes. Papovavirus and herpesvirus are DNA viruses; parvovirus is single-stranded DNA."
+    },
+    {
+      "id": 70,
+      "question": "In which of the following structures do DNA viruses primarily replicate?",
+      "image": null,
+      "passage": null,
+      "options": ["Cytoplasm", "Nucleus", "Ribosomes", "Mitochondria"],
+      "answer": "B",
+      "explanation": "Most DNA viruses replicate in the host cell nucleus because they require host RNA polymerase and DNA replication machinery. Exceptions include poxviruses, which replicate in the cytoplasm."
+    },
+    {
+      "id": 71,
+      "question": "Which of the following is NOT a stage in the viral replication cycle?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Attachment of the virus to a host cell",
+        "Replication of the viral genome",
+        "Fusion of the viral particle with a host's DNA",
+        "Release of new virus particles"
+      ],
+      "answer": "C",
+      "explanation": "Fusion of viral particle with host DNA is not a standard stage. The typical stages are attachment, entry, uncoating, replication/transcription, assembly, and release. Integration (e.g., retroviruses) is not universal."
+    },
+    {
+      "id": 72,
+      "question": "What role do microorganisms play in agriculture?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "They help in the decomposition of organic matter and formation of humus",
+        "They prevent the nitrogen cycle from occurring",
+        "They convert phosphorus to a form that plants cannot use",
+        "They eliminate all plant pests"
+      ],
+      "answer": "A",
+      "explanation": "Decomposer microorganisms break down organic matter, releasing nutrients and forming humus, which improves soil fertility."
+    },
+    {
+      "id": 73,
+      "question": "What is the main benefit of using anaerobic bacteria in sewage treatment?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "They produce oxygen for the process",
+        "They reduce the volume of sludge and produce methane gas, which can be used as an energy source",
+        "They increase the oxygen consumption of the water",
+        "They prevent bacteria from spoiling the water"
+      ],
+      "answer": "B",
+      "explanation": "Anaerobic digestion of sludge by bacteria reduces its volume and generates biogas (methane) that can be captured and used as renewable energy."
+    },
+    {
+      "id": 74,
+      "question": "Which of the following is an example of disease transmission via droplet infection?",
+      "image": null,
+      "passage": null,
+      "options": ["Cholera", "Malaria", "Pneumonia", "Salmonella"],
+      "answer": "C",
+      "explanation": "Pneumonia (bacterial or viral) is transmitted through respiratory droplets when an infected person coughs or sneezes. Cholera and Salmonella are fecal-oral; malaria is vector-borne."
+    },
+    {
+      "id": 75,
+      "question": "Which of the following is an example of a disaccharide?",
+      "image": null,
+      "passage": null,
+      "options": ["Glucose", "Maltose", "Starch", "Cellulose"],
+      "answer": "B",
+      "explanation": "Disaccharides consist of two monosaccharide units. Maltose (glucose+glucose) is a disaccharide. Glucose is a monosaccharide; starch and cellulose are polysaccharides."
+    },
+    {
+      "id": 76,
+      "question": "What is the main difference between alpha-D-glucose and beta-D-glucose?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The number of carbon atoms",
+        "The position of the hydroxyl group on carbon 1",
+        "The type of glycosidic bond formed",
+        "The size of the glucose molecule"
+      ],
+      "answer": "B",
+      "explanation": "Alpha and beta glucose are anomers differing in the orientation of the hydroxyl (-OH) group on carbon 1: alpha has OH down (in Haworth projection), beta has OH up."
+    },
+    {
+      "id": 77,
+      "question": "Which of the following is a polysaccharide that is a storage form of glucose in animals?",
+      "image": null,
+      "passage": null,
+      "options": ["Starch", "Glycogen", "Cellulose", "Chitin"],
+      "answer": "B",
+      "explanation": "Glycogen is the primary storage polysaccharide in animals, stored in liver and muscle. Starch is plant storage; cellulose and chitin are structural."
+    },
+    {
+      "id": 78,
+      "question": "What type of reaction results in the formation of disaccharides from monosaccharides?",
+      "image": null,
+      "passage": null,
+      "options": ["Hydrolysis", "Condensation", "Oxidation", "Reduction"],
+      "answer": "B",
+      "explanation": "Condensation (or dehydration synthesis) removes a water molecule to link two monosaccharides into a disaccharide. Hydrolysis breaks them apart."
+    },
+    {
+      "id": 79,
+      "question": "Which of the following lipids are made up of fatty acids, glycerol or other alcohol, and phosphoric acid?",
+      "image": null,
+      "passage": null,
+      "options": ["Triglycerides", "Waxes", "Phospholipids", "Sterol"],
+      "answer": "C",
+      "explanation": "Phospholipids consist of glycerol, two fatty acids, and a phosphate group (often with an additional polar head group). Triglycerides have three fatty acids and no phosphate."
+    },
+    {
+      "id": 80,
+      "question": "What is the main reason lipids are insoluble in water?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "They contain a large number of oxygen atoms.",
+        "They are polar molecules.",
+        "They are hydrophobic in nature.",
+        "They have a high molecular weight."
+      ],
+      "answer": "C",
+      "explanation": "Lipids are largely nonpolar hydrocarbons, making them hydrophobic (water-fearing) and insoluble in water."
+    },
+    {
+      "id": 81,
+      "question": "Which type of lipid is an ester of fatty acids and long-chain alcohols?",
+      "image": null,
+      "passage": null,
+      "options": ["Triglycerides", "Waxes", "Phospholipids", "Steroids"],
+      "answer": "B",
+      "explanation": "Waxes are esters of long-chain fatty acids and long-chain alcohols (not glycerol). They are waterproof and found in plant cuticles and animal coatings."
+    },
+    {
+      "id": 82,
+      "question": "What is the primary function of glycolipids in the cell membrane?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To store energy",
+        "To provide insulation",
+        "To maintain the stability of the membrane and facilitate cellular recognition",
+        "To act as an energy source"
+      ],
+      "answer": "C",
+      "explanation": "Glycolipids (lipids with carbohydrate groups) are involved in cell-cell recognition, signaling, and membrane stability. They are part of the glycocalyx."
+    },
+    {
+      "id": 83,
+      "question": "What is the primary function of the Calvin cycle in photosynthesis?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To split water molecules",
+        "To convert light energy into chemical energy",
+        "To fix carbon and produce glucose",
+        "To generate oxygen gas"
+      ],
+      "answer": "C",
+      "explanation": "The Calvin cycle (light-independent reactions) fixes CO2 into organic molecules and produces G3P, which is used to synthesize glucose. Light energy conversion occurs in light-dependent reactions."
+    },
+    {
+      "id": 84,
+      "question": "Which pigment is most responsible for the absorption of light energy in photosynthesis?",
+      "image": null,
+      "passage": null,
+      "options": ["Carotenoids", "Phycobilins", "Chlorophyll a", "Chlorophyll b"],
+      "answer": "C",
+      "explanation": "Chlorophyll a is the primary photosynthetic pigment; it directly participates in the light reactions and transfers excited electrons. Accessory pigments (chlorophyll b, carotenoids) transfer energy to chlorophyll a."
+    },
+    {
+      "id": 85,
+      "question": "Where does the light-dependent reaction of photosynthesis take place?",
+      "image": null,
+      "passage": null,
+      "options": ["In the stroma of the chloroplast", "In the cytoplasm", "In the thylakoid membranes of the chloroplast", "In the mitochondria"],
+      "answer": "C",
+      "explanation": "The light-dependent reactions occur in the thylakoid membranes, where photosystems and electron transport chains are embedded. The Calvin cycle occurs in the stroma."
+    },
+    {
+      "id": 86,
+      "question": "What is the role of NADPH in the light-dependent reactions of photosynthesis?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To produce ATP",
+        "To provide reducing power for the Calvin cycle",
+        "To absorb light energy",
+        "To split water molecules"
+      ],
+      "answer": "B",
+      "explanation": "NADPH is produced in the light reactions and carries high-energy electrons to the Calvin cycle, where they reduce 3-PGA to G3P."
+    },
+    {
+      "id": 87,
+      "question": "Which of the following occurs during the light-independent reactions (Calvin cycle)?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Water is split to release oxygen",
+        "Light energy is converted into chemical energy",
+        "Carbon dioxide is fixed into an organic molecule",
+        "ATP is converted into NADP+"
+      ],
+      "answer": "C",
+      "explanation": "The Calvin cycle fixes CO2 into organic molecules (RuBP carboxylation). Water splitting and light energy conversion are part of light-dependent reactions."
+    },
+    {
+      "id": 88,
+      "question": "Which of the following plants uses the C4 pathway for carbon fixation?",
+      "image": null,
+      "passage": null,
+      "options": ["Peanuts", "Cacti", "Sugarcane", "Soybeans"],
+      "answer": "C",
+      "explanation": "C4 plants include sugarcane, maize, sorghum, and many grasses. Peanuts and soybeans are C3; cacti are CAM."
+    },
+    {
+      "id": 89,
+      "question": "What is the primary reason that C4 and CAM plants are more efficient in hot, dry climates?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "They have larger stomata",
+        "They reduce photorespiration by increasing CO2 concentration in their cells",
+        "They do not require light for photosynthesis",
+        "They only perform photosynthesis at night"
+      ],
+      "answer": "B",
+      "explanation": "C4 plants concentrate CO2 in bundle sheath cells, suppressing photorespiration. CAM plants fix CO2 at night to reduce water loss. Both adaptations increase efficiency in hot, dry conditions."
+    },
+    {
+      "id": 90,
+      "question": "What does photorespiration involve in C3 plants?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The enzyme rubisco adds O2 instead of CO2 to RuBP, wasting energy",
+        "The plant fixes CO2 twice in one cycle",
+        "The plant produces excess sugars that are stored for later use",
+        "The plant converts light energy directly into ATP without CO2 fixation"
+      ],
+      "answer": "A",
+      "explanation": "Photorespiration occurs when rubisco fixes O2 instead of CO2, producing phosphoglycolate, which is then metabolized with energy loss, reducing photosynthetic efficiency."
+    },
+    {
+      "id": 91,
+      "question": "Which of the following is a direct consequence of photosynthesis for life on Earth?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It contributes to the oxygen balance in the atmosphere",
+        "It releases carbon dioxide into the atmosphere",
+        "It consumes all atmospheric carbon",
+        "It destroys fossil fuels"
+      ],
+      "answer": "A",
+      "explanation": "Photosynthesis produces oxygen as a byproduct, maintaining atmospheric O2 levels. It also removes CO2, not releases it (respiration does)."
+    },
+    {
+      "id": 92,
+      "question": "Where does glycolysis occur in a eukaryotic cell?",
+      "image": null,
+      "passage": null,
+      "options": ["Mitochondria", "Cytosol", "Nucleus", "Ribosomes"],
+      "answer": "B",
+      "explanation": "Glycolysis takes place in the cytosol (cytoplasm). The Krebs cycle and oxidative phosphorylation occur in mitochondria."
+    },
+    {
+      "id": 93,
+      "question": "What is the main role of ATP in cellular metabolism?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To store energy in chemical bonds",
+        "To transport oxygen in the cell",
+        "To store and transfer energy for biochemical reactions",
+        "To break down glucose"
+      ],
+      "answer": "C",
+      "explanation": "ATP is the universal energy currency; it stores energy in its phosphate bonds and transfers it to power endergonic reactions (e.g., synthesis, movement, transport)."
+    },
+    {
+      "id": 94,
+      "question": "Which of the following is a product of the Krebs cycle?",
+      "image": null,
+      "passage": null,
+      "options": ["Oxygen", "NADH, FADH2, ATP, and CO2", "Pyruvate", "Glucose"],
+      "answer": "B",
+      "explanation": "The Krebs cycle produces 3 NADH, 1 FADH2, 1 ATP (or GTP), and 2 CO2 per acetyl-CoA. Oxygen is not a product; it's the final electron acceptor in ETC."
+    },
+    {
+      "id": 95,
+      "question": "What occurs during the pyruvate oxidation (link reaction)?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Glucose is broken into two pyruvate molecules",
+        "Pyruvate is converted into acetyl CoA",
+        "Oxygen is consumed to form water",
+        "ATP is synthesized directly"
+      ],
+      "answer": "B",
+      "explanation": "Pyruvate is decarboxylated (removing CO2) and combined with coenzyme A to form acetyl CoA, producing NADH in the process. This links glycolysis to the Krebs cycle."
+    },
+    {
+      "id": 96,
+      "question": "What is the final electron acceptor in the electron transport chain (ETC)?",
+      "image": null,
+      "passage": null,
+      "options": ["NADH", "Oxygen", "FADH2", "Glucose"],
+      "answer": "B",
+      "explanation": "Oxygen is the final electron acceptor in aerobic respiration, combining with electrons and protons to form water."
+    },
+    {
+      "id": 97,
+      "question": "Which part of the mitochondria is involved in oxidative phosphorylation?",
+      "image": null,
+      "passage": null,
+      "options": ["Outer membrane", "Inner membrane", "Matrix", "Cristae"],
+      "answer": "B",
+      "explanation": "The inner mitochondrial membrane contains the electron transport chain complexes and ATP synthase. The cristae are infoldings of the inner membrane, increasing surface area. So the primary site is the inner membrane (cristae). Option B is correct."
+    },
+    {
+      "id": 98,
+      "question": "What is the main purpose of a respirometer?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To measure the volume of carbon dioxide produced during respiration",
+        "To measure the temperature change during aerobic respiration",
+        "To measure the volume of oxygen consumed during aerobic respiration",
+        "To measure the amount of glucose used in the respiration process"
+      ],
+      "answer": "C",
+      "explanation": "A respirometer measures oxygen consumption (or sometimes CO2 production) to determine the rate of aerobic respiration. Common designs use a manometer to detect volume changes."
+    },
+    {
+      "id": 99,
+      "question": "What happens during fermentation in the absence of oxygen?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Oxygen is consumed to produce ATP",
+        "Pyruvate is converted to lactate or ethanol to regenerate NAD+",
+        "The electron transport chain produces ATP",
+        "Glucose is completely oxidized to carbon dioxide and water"
+      ],
+      "answer": "B",
+      "explanation": "Fermentation reduces pyruvate to lactate (animals) or ethanol and CO2 (yeasts), regenerating NAD+ from NADH to allow glycolysis to continue in anaerobic conditions."
+    },
+    {
+      "id": 100,
+      "question": "Which type of fermentation occurs in muscle cells when oxygen is scarce?",
+      "image": null,
+      "passage": null,
+      "options": ["Alcohol fermentation", "Aerobic respiration", "Lactic acid fermentation", "Glycolysis"],
+      "answer": "C",
+      "explanation": "In oxygen-deprived muscle cells (e.g., vigorous exercise), pyruvate is converted to lactate (lactic acid) by lactate dehydrogenase, regenerating NAD+."
+    }
+  ]
+}

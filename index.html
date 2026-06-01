@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#0a0e27">
+  <meta name="description" content="NEAEA Vault — Offline exam simulator for Ethiopian NEAEA/ESSLCE students. Every past paper. Every subject. Offline, always.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="NEAEA Vault">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <title>NEAEA Vault</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Offline Indicator -->
+  <div id="offline-indicator" class="offline-indicator hidden">
+    <span class="offline-dot"></span> Offline Mode
+  </div>
+
+  <!-- PWA Install Prompt -->
+  <div id="install-prompt" class="install-prompt hidden">
+    <div class="install-prompt-inner">
+      <div class="install-icon">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      </div>
+      <div class="install-text">
+        <strong>Install NEAEA Vault</strong>
+        <span>Study offline — add to your home screen</span>
+      </div>
+      <button id="install-btn" class="btn-install">Install</button>
+      <button id="install-dismiss" class="btn-dismiss">&times;</button>
+    </div>
+  </div>
+
+  <!-- ============ SCREEN 1: HOME ============ -->
+  <div id="screen-home" class="screen active">
+    <div class="home-hero">
+      <div class="hero-glow"></div>
+      <div class="hero-content">
+        <h1 class="app-title">NEAEA <span class="accent">Vault</span></h1>
+        <p class="tagline">Every past paper. Every subject. Offline, always.</p>
+      </div>
+    </div>
+    <div class="subject-grid" id="home-subject-grid">
+      <!-- Populated by JS -->
+    </div>
+  </div>
+
+  <!-- ============ SCREEN 2: SUBJECT SELECT ============ -->
+  <div id="screen-subjects" class="screen">
+    <header class="screen-header">
+      <button class="btn-back" data-go="home">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+      </button>
+      <h2>Subjects</h2>
+    </header>
+    <div class="subject-grid" id="subject-grid">
+      <!-- Populated by JS -->
+    </div>
+  </div>
+
+  <!-- ============ SCREEN 3: PAPER SELECT ============ -->
+  <div id="screen-papers" class="screen">
+    <header class="screen-header">
+      <button class="btn-back" data-go="subjects">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+      </button>
+      <h2 id="papers-title">Papers</h2>
+    </header>
+    <div class="paper-list" id="paper-list">
+      <!-- Populated by JS -->
+    </div>
+  </div>
+
+  <!-- ============ SCREEN 4: EXAM MODE ============ -->
+  <div id="screen-exam" class="screen">
+    <header class="exam-header">
+      <button class="btn-back btn-exit-exam" data-go="papers">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+      </button>
+      <div class="exam-info">
+        <span id="exam-subject-label" class="exam-label"></span>
+        <span id="exam-paper-label" class="exam-sublabel"></span>
+      </div>
+      <div class="timer-toggle">
+        <button id="timer-toggle-btn" class="btn-icon" title="Toggle Timer">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        </button>
+        <span id="timer-display" class="timer-display hidden">00:00</span>
+      </div>
+    </header>
+
+    <div class="progress-bar-container">
+      <div class="progress-bar" id="progress-bar"></div>
+      <span class="progress-text" id="progress-text">1 / 45</span>
+    </div>
+
+    <div class="question-area" id="question-area">
+      <div class="question-card glass-card">
+        <p class="question-number" id="question-number">Question 1</p>
+        <p class="question-text" id="question-text"></p>
+        <img id="question-image" class="question-image hidden" alt="Question diagram" />
+      </div>
+
+      <div class="options-grid" id="options-grid">
+        <!-- 4 option cards -->
+      </div>
+
+      <div id="explanation-box" class="explanation-box hidden">
+        <div class="explanation-header">Explanation</div>
+        <p id="explanation-text"></p>
+      </div>
+
+      <button id="btn-next" class="btn-next hidden">Next Question</button>
+    </div>
+  </div>
+
+  <!-- ============ SCREEN 5: RESULTS ============ -->
+  <div id="screen-results" class="screen">
+    <div class="results-hero">
+      <div class="results-glow"></div>
+      <div class="results-content">
+        <h2 id="results-pass-fail" class="results-status"></h2>
+        <div class="results-score">
+          <span id="results-score-num" class="score-num"></span>
+          <span class="score-sep">/</span>
+          <span id="results-score-total" class="score-total"></span>
+        </div>
+        <div class="results-percentage" id="results-percentage"></div>
+        <div class="results-best" id="results-best"></div>
+      </div>
+    </div>
+    <div class="results-actions">
+      <button class="btn-primary" id="btn-review">Review Answers</button>
+      <button class="btn-secondary" id="btn-retry">Try Again</button>
+      <button class="btn-ghost" id="btn-change-subject">Change Subject</button>
+    </div>
+  </div>
+
+  <!-- ============ SCREEN 6: REVIEW MODE ============ -->
+  <div id="screen-review" class="screen">
+    <header class="screen-header">
+      <button class="btn-back" data-go="results">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+      </button>
+      <h2>Review Answers</h2>
+    </header>
+    <div class="review-summary" id="review-summary"></div>
+    <div class="review-list" id="review-list">
+      <!-- Populated by JS -->
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast hidden"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

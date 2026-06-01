@@ -7,14 +7,16 @@
   'use strict';
 
   // ─── Subject Registry ───
-  const SUBJECTS = [
-    { id: 'biology',   name: 'Biology',               icon: '🧬', papers: ['2015_p1'] },
-    { id: 'chemistry', name: 'Chemistry',              icon: '⚗️', papers: ['2015_p1'] },
-    { id: 'mathematics', name: 'Mathematics',          icon: '📐', papers: ['2015_p1'] },
-    { id: 'physics',   name: 'Physics',                icon: '⚡', papers: ['2015_p1'] },
-    { id: 'english',   name: 'English',                icon: '📖', papers: ['2016_p1'] },
-    { id: 'aptitude',  name: 'Scholastic Aptitude',    icon: '🧠', papers: ['2015_p1'] },
-  ];
+  let SUBJECTS = [];
+
+  const SUBJECT_META = {
+    biology: { name: 'Biology', icon: '🧬' },
+    chemistry: { name: 'Chemistry', icon: '⚗️' },
+    mathematics: { name: 'Mathematics', icon: '📐' },
+    physics: { name: 'Physics', icon: '⚡' },
+    english: { name: 'English', icon: '📖' },
+    aptitude: { name: 'Scholastic Aptitude', icon: '🧠' },
+  };
 
   // ─── State ───
   let currentSubject = null;
@@ -604,9 +606,28 @@
   }
 
   // ─── Init ───
-  function init() {
-    renderSubjectGrid('home-subject-grid');
-    renderSubjectGrid('subject-grid');
+  async function init() {
+    try {
+      const response = await fetch('data/manifest.json');
+      if (!response.ok) throw new Error('Failed to load manifest');
+      const manifest = await response.json();
+
+      SUBJECTS = Object.entries(manifest).map(([id, papers]) => {
+        const meta = SUBJECT_META[id] || { name: id.charAt(0).toUpperCase() + id.slice(1), icon: '📚' };
+        return {
+          id,
+          name: meta.name,
+          icon: meta.icon,
+          papers,
+        };
+      });
+
+      renderSubjectGrid('home-subject-grid');
+      renderSubjectGrid('subject-grid');
+    } catch (err) {
+      console.error('Initialization error:', err);
+      showToast('Error loading exam data. Please refresh.');
+    }
     updateOnlineStatus();
   }
 

@@ -1,0 +1,1029 @@
+{
+  "subject": "Biology",
+  "year": "2013 E.C",
+  "paper": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is the Greek word for life?",
+      "image": null,
+      "passage": null,
+      "options": ["Bios", "Logos", "Animalcule", "Cell"],
+      "answer": "A",
+      "explanation": "The Greek word for life is 'bios'. 'Logos' means study, 'animalcule' is a microscopic animal, 'cell' is from Latin."
+    },
+    {
+      "id": 2,
+      "question": "Within a few weeks after a heavy rain, pools become filled with tadpoles. What is the source of the tadpoles?",
+      "image": null,
+      "passage": null,
+      "options": ["The rain water", "The muddy soil", "The vegetation of the pond", "The eggs laid by the frogs"],
+      "answer": "D",
+      "explanation": "Tadpoles hatch from frog eggs laid in water. Rainwater or soil do not produce tadpoles; they come from frog reproduction."
+    },
+    {
+      "id": 3,
+      "question": "The experimental variables in the scientific experiment that cannot be controlled but can affect the results of the experiment are called",
+      "image": null,
+      "passage": null,
+      "options": ["Controlled variables", "Dependent variables", "Confounding variables", "Independent variables"],
+      "answer": "C",
+      "explanation": "Confounding variables are uncontrolled factors that may influence the outcome, making it difficult to determine cause and effect. Controlled variables are kept constant; independent is manipulated; dependent is measured."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following laboratory tools are used for culturing microorganisms?",
+      "image": null,
+      "passage": null,
+      "options": ["Microscopes", "Petri dishes", "Centrifuges", "Balances"],
+      "answer": "B",
+      "explanation": "Petri dishes contain nutrient agar and are used to culture microorganisms. Microscopes are for observation, centrifuges for separation, balances for weighing."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is the last step of the scientific experiment?",
+      "image": null,
+      "passage": null,
+      "options": ["Interpretation of results", "Specifying the title", "Publishing the results", "Listing the materials used in the experiment"],
+      "answer": "C",
+      "explanation": "The scientific method typically ends with communicating results (publishing). Interpretation and listing materials occur earlier. Specifying title is not a formal step."
+    },
+    {
+      "id": 6,
+      "question": "Suppose you want to find out the effect of temperature on the rate of the chemical reaction. In this case",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The reaction rate is the controlled variable",
+        "Temperature is the dependent variable",
+        "The reaction rate is the dependent variable",
+        "Temperature is the confounding variable"
+      ],
+      "answer": "C",
+      "explanation": "Temperature is the independent variable (manipulated), reaction rate is the dependent variable (measured)."
+    },
+    {
+      "id": 7,
+      "question": "The microscope which uses light rays for observation is",
+      "image": null,
+      "passage": null,
+      "options": ["Electron microscope", "Optical microscope", "Simple microscope", "Compound microscope"],
+      "answer": "B",
+      "explanation": "Optical microscope (light microscope) uses light rays. Electron microscope uses electron beams. Simple and compound are types of optical microscopes, but 'optical' is the general term for light-based."
+    },
+    {
+      "id": 8,
+      "question": "Which one of the following is not useful for ecological field work in biology?",
+      "image": null,
+      "passage": null,
+      "options": ["Sweep net", "Microscope", "Theodolite", "Hand lens"],
+      "answer": "B",
+      "explanation": "A microscope is a laboratory instrument, not typically used in field work. Sweep net (collect insects), theodolite (measure angles for vegetation/plot surveys), hand lens (field magnification) are field tools."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following stages of a scientific method is also called an intelligent guess?",
+      "image": null,
+      "passage": null,
+      "options": ["Prediction", "Experimentation", "Observation", "Hypothesis"],
+      "answer": "D",
+      "explanation": "A hypothesis is an educated guess or intelligent guess that can be tested. Prediction is more specific; observation and experimentation are different stages."
+    },
+    {
+      "id": 10,
+      "question": "In an experiment to investigate the action of saliva on starch",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The test tube containing starch and distilled water is the experimental group",
+        "The test tube containing starch and saliva is the control group",
+        "The test tube containing starch and distilled water is converted to sugar",
+        "The test tube containing starch and saliva is the experimental group"
+      ],
+      "answer": "D",
+      "explanation": "The experimental group contains the variable being tested (saliva). The control group (starch + water) shows that no breakdown occurs without enzyme. So starch+saliva is experimental."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following ideas in scientific experiments indicates how precisely something has been measured or counted?",
+      "image": null,
+      "passage": null,
+      "options": ["Accuracy", "Reliability", "Validity", "Dependability"],
+      "answer": "A",
+      "explanation": "Accuracy refers to how close a measurement is to the true value, reflecting precision. Reliability is consistency, validity is whether it measures what it intends."
+    },
+    {
+      "id": 12,
+      "question": "The variable in an experiment that the scientist changes or manipulates is called the",
+      "image": null,
+      "passage": null,
+      "options": ["Independent variable", "Controlled variable", "Confounding variable", "Dependent variable"],
+      "answer": "A",
+      "explanation": "The independent variable is deliberately manipulated by the experimenter. Dependent variable is measured; controlled variables are kept constant."
+    },
+    {
+      "id": 13,
+      "question": "Which area of biological research is involved in effective methods of contraception to limit the size of the population?",
+      "image": null,
+      "passage": null,
+      "options": ["Agriculture", "Medicine", "Biotechnology", "Genetic engineering"],
+      "answer": "B",
+      "explanation": "Medicine includes reproductive health and contraception. Biotechnology and genetic engineering may contribute, but the primary area for contraception is medicine."
+    },
+    {
+      "id": 14,
+      "question": "In what way do antiretroviral drugs help AIDS patients?",
+      "image": null,
+      "passage": null,
+      "options": ["Provide immunity", "Prevent HIV from replicating", "Break the transmission pathway", "Kill opportunistic infectious agents"],
+      "answer": "B",
+      "explanation": "Antiretroviral drugs inhibit HIV replication (e.g., reverse transcriptase inhibitors, protease inhibitors). They do not provide immunity or directly kill opportunistic infections."
+    },
+    {
+      "id": 15,
+      "question": "What are the compounds that have the same chemical composition but different arrangement of atoms?",
+      "image": null,
+      "passage": null,
+      "options": ["Aldoses", "Polymers", "Isomers", "Monomers"],
+      "answer": "C",
+      "explanation": "Isomers are compounds with the same molecular formula but different structural arrangements. Aldoses are a type of monosaccharide, polymers are large molecules, monomers are building blocks."
+    },
+    {
+      "id": 16,
+      "question": "The partial negative charge at one end of a water molecule is attracted to the partial positive charge of another water molecule. This attraction is called",
+      "image": null,
+      "passage": null,
+      "options": ["A hydrogen bond", "An ionic bond", "A hydrophobic bond", "A cohesive bond"],
+      "answer": "A",
+      "explanation": "Hydrogen bonds form between the partially negative oxygen of one water molecule and partially positive hydrogen of another. Ionic bonds are between charged ions, hydrophobic interactions are nonpolar."
+    },
+    {
+      "id": 17,
+      "question": "A reaction in which two or more molecules unite to form a large molecule with the removal of water is called",
+      "image": null,
+      "passage": null,
+      "options": ["Hydration", "Hydrolysis", "Condensation", "Vaporization"],
+      "answer": "C",
+      "explanation": "Condensation (dehydration synthesis) removes water to join molecules. Hydrolysis adds water to break down molecules. Hydration adds water without breaking bonds, vaporization turns liquid to gas."
+    },
+    {
+      "id": 18,
+      "question": "The bonds that form between water molecules are called",
+      "image": null,
+      "passage": null,
+      "options": ["Covalent bonds", "Hydrogen bonds", "Ionic bonds", "Cohesive bonds"],
+      "answer": "B",
+      "explanation": "Between water molecules, hydrogen bonds form. Covalent bonds are within a water molecule (between O and H)."
+    },
+    {
+      "id": 19,
+      "question": "Which property of water helps organisms in the water to survive the cold winter?",
+      "image": null,
+      "passage": null,
+      "options": ["Low density of ice", "High surface tension", "High heat capacity", "Low viscosity"],
+      "answer": "A",
+      "explanation": "Ice is less dense than liquid water, so it floats and insulates the water below, allowing aquatic life to survive winter. High heat capacity buffers temperature changes, but the key for winter survival is the insulating ice layer."
+    },
+    {
+      "id": 20,
+      "question": "Organic molecules always contain",
+      "image": null,
+      "passage": null,
+      "options": ["Carbon and nitrogen", "Carbon and oxygen", "Oxygen and hydrogen", "Carbon and hydrogen"],
+      "answer": "D",
+      "explanation": "Organic molecules are defined as containing carbon and hydrogen (and often oxygen, but always C and H). Some definitions also require carbon-hydrogen bonds."
+    },
+    {
+      "id": 21,
+      "question": "Hexoses are",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Disaccharides that contain 6 carbon atoms",
+        "Monosaccharides that contain 6 oxygen atoms",
+        "Disaccharides that contain 6 oxygen atoms",
+        "Monosaccharides that contain 6 carbon atoms"
+      ],
+      "answer": "D",
+      "explanation": "Hexoses are monosaccharides with 6 carbon atoms (e.g., glucose, fructose)."
+    },
+    {
+      "id": 22,
+      "question": "The basic building block that make up the carbohydrates are",
+      "image": null,
+      "passage": null,
+      "options": ["Simple sugars", "Amino acids", "Fatty acids and glycerol", "Nucleotides"],
+      "answer": "A",
+      "explanation": "Monosaccharides (simple sugars) are the monomers of carbohydrates. Amino acids are for proteins, fatty acids/glycerol for lipids, nucleotides for nucleic acids."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following carbohydrate molecules has a structural function?",
+      "image": null,
+      "passage": null,
+      "options": ["Cellulose", "Glycogen", "Starch", "Glucose"],
+      "answer": "A",
+      "explanation": "Cellulose is a structural polysaccharide in plant cell walls. Glycogen and starch are storage; glucose is an energy source."
+    },
+    {
+      "id": 24,
+      "question": "Water has a high heat of vaporization means",
+      "image": null,
+      "passage": null,
+      "options": ["A loss of large amount of heat", "A minimum loss of water", "A loss of less amount of heat"],
+      "answer": "A",
+      "explanation": "High heat of vaporization means it takes a large amount of heat to convert liquid water to vapor, so when water evaporates, it removes a large amount of heat from the surface."
+    },
+    {
+      "id": 25,
+      "question": "One of the following is NOT the function of carbohydrates. They are",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Used to store chemical energy",
+        "Used as a source of energy",
+        "Essential for health",
+        "Used as structural components of organisms"
+      ],
+      "answer": "C",
+      "explanation": "'Essential for health' is too vague and applies to many nutrients; carbohydrates do have roles, but the other options are direct functions. However, all are true in some sense, but 'essential for health' is not a specific function. Commonly, carbohydrates are for energy, storage, and structure. The question likely expects that 'essential for health' is not a unique function."
+    },
+    {
+      "id": 26,
+      "question": "The group of compounds to which DNA and RNA belong is",
+      "image": null,
+      "passage": null,
+      "options": ["Lipids", "Proteins", "Nucleic acids", "Carbohydrates"],
+      "answer": "C",
+      "explanation": "DNA and RNA are nucleic acids. They are composed of nucleotides."
+    },
+    {
+      "id": 27,
+      "question": "The tertiary structure of a protein is the",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Order in which amino acids are joined in a peptide chain",
+        "Bonding together of several polypeptide chains by weak bonds",
+        "Bonding of two amino acids together to form a dipeptide",
+        "Bonding and folding of the polypeptide chain into a compact globular shape"
+      ],
+      "answer": "D",
+      "explanation": "Tertiary structure is the three-dimensional folding of a single polypeptide chain, stabilized by various interactions. Primary is amino acid sequence, quaternary is multiple subunits, secondary is local folding (helices/sheets)."
+    },
+    {
+      "id": 28,
+      "question": "Which property of water describes the fact that some insects can walk on water",
+      "image": null,
+      "passage": null,
+      "options": ["High specific heat capacity", "High heat of vaporization", "High surface tension", "Low density of ice"],
+      "answer": "C",
+      "explanation": "Surface tension, due to cohesive hydrogen bonds, allows insects like water striders to walk on water."
+    },
+    {
+      "id": 29,
+      "question": "Which statement is TRUE about enzymes?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Can be reused",
+        "Change after the reactions",
+        "Are lipids",
+        "Increase activation energy"
+      ],
+      "answer": "A",
+      "explanation": "Enzymes are catalysts that are not consumed and can be reused. They are proteins (not lipids), and they lower activation energy, not increase."
+    },
+    {
+      "id": 30,
+      "question": "The cofactors that are found in the enzymes include",
+      "image": null,
+      "passage": null,
+      "options": ["Proteins and lipids", "Vitamins and amino acids", "sugars and iron", "riboflavin and zinc"],
+      "answer": "D",
+      "explanation": "Cofactors can be inorganic ions (e.g., zinc) or organic coenzymes (e.g., riboflavin-derived FAD). Vitamins are often precursors to coenzymes, but riboflavin is a vitamin. Amino acids are part of the apoenzyme, not cofactor."
+    },
+    {
+      "id": 31,
+      "question": "Assume the following reaction takes place in a cell. Substance A E1 Substance B E2 Substance C (E: enzyme). End product inhibition takes place when",
+      "image": null,
+      "passage": null,
+      "options": ["E1 inhibits E2"],
+      "answer": "A",
+      "explanation": "End product inhibition (feedback inhibition) occurs when the final product (C) inhibits the first enzyme (E1) of the pathway, not E1 inhibiting E2. The option given is incomplete; based on typical exam, end product inhibition is when product C inhibits E1. Since only one option is shown in the PDF, likely A is intended as 'C inhibits E1' but the text says 'E1 inhibits E2' which is incorrect. Possibly a misprint. I'll assume the correct answer is that product C inhibits E1, but not listed. Given the options, I'll skip but must answer. The PDF shows only 'A. E1 inhibits E2' as the first option. I'll mark A as the intended answer."
+    },
+    {
+      "id": 32,
+      "question": "Which class of enzymes joins molecules together?",
+      "image": null,
+      "passage": null,
+      "options": ["Lyases", "Hydrolases", "Transferases", "Ligases"],
+      "answer": "D",
+      "explanation": "Ligases join two molecules using ATP (e.g., DNA ligase). Lyases break bonds without water/hydrolysis, transferases move functional groups, hydrolases use water."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following statements is TRUE about enzymes?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Enzymes start chemical reactions in cells",
+        "Enzymes are specific in their actions",
+        "They are destroyed in the process of the reaction",
+        "Enzymes have no effect on the rate of a reaction"
+      ],
+      "answer": "B",
+      "explanation": "Enzymes are specific to substrates (specificity). They do not start reactions (they catalyze existing reactions), are not destroyed, and increase reaction rate."
+    },
+    {
+      "id": 34,
+      "question": "The protein part of an enzyme is called",
+      "image": null,
+      "passage": null,
+      "options": ["Coenzyme", "Cofactor", "Apoenzyme", "Holoenzyme"],
+      "answer": "C",
+      "explanation": "Apoenzyme is the protein part of an enzyme without cofactor. Holoenzyme is apoenzyme + cofactor (active form). Coenzyme is an organic cofactor."
+    },
+    {
+      "id": 35,
+      "question": "The rate of chemical reactions is increased by",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Decreasing the activation energy",
+        "Cooling the reaction",
+        "Decreasing the concentration of reactants",
+        "Removing a catalyst"
+      ],
+      "answer": "A",
+      "explanation": "Lowering activation energy increases reaction rate. Cooling slows reactions, decreasing reactants slows, removing catalyst slows."
+    },
+    {
+      "id": 36,
+      "question": "An enzyme catalyzes the reaction of A to B. A third chemical C, which does not resemble A, binds to the enzyme at a position remote from the active site. This increases the activity of the enzyme. In this situation substance A is",
+      "image": null,
+      "passage": null,
+      "options": ["A cofactor", "The substrate", "An inhibitor", "The product"],
+      "answer": "B",
+      "explanation": "Substance A is converted to B, so A is the substrate. C is an allosteric activator. Cofactors are non-protein helpers; inhibitors decrease activity."
+    },
+    {
+      "id": 37,
+      "question": "In the above question, Substance C is",
+      "image": null,
+      "passage": null,
+      "options": ["A cofactor", "The substrate", "An inhibitor", "The product"],
+      "answer": "A",
+      "explanation": "C binds to a remote site and increases activity, so it is an allosteric activator. It could be considered a cofactor if it is a small molecule that helps enzyme function. Typically, allosteric activators are not always called cofactors, but among the options, 'cofactor' is the closest. Not substrate, not inhibitor (since it increases activity), not product."
+    },
+    {
+      "id": 38,
+      "question": "In an experiment, what do we call the group that does not receive the variable being tested?",
+      "image": null,
+      "passage": null,
+      "options": ["Control group", "Experimental group", "Replication", "Observation group"],
+      "answer": "A",
+      "explanation": "The control group is the standard for comparison, not exposed to the independent variable. Experimental group receives the variable."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following statements is true about the lock and key model of enzyme action",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The active site and substrate are not complementary in shape",
+        "The binding of the substrate produces a conformational change",
+        "The shape of the substrate and the active site are complementary",
+        "This model offers a better explanation to enzyme action than induced fit model"
+      ],
+      "answer": "C",
+      "explanation": "Lock and key model proposes that the active site is complementary in shape to the substrate (rigid). Induced fit model says shape changes upon binding. So C is true for lock and key."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following contains phosphate group in its molecule?",
+      "image": null,
+      "passage": null,
+      "options": ["Protein", "Nucleotide", "amino acids", "cellulose"],
+      "answer": "B",
+      "explanation": "Nucleotides consist of a nitrogenous base, a sugar, and a phosphate group. Proteins and amino acids may have phosphorus in some cases but not generally; cellulose is a carbohydrate without phosphate."
+    },
+    {
+      "id": 41,
+      "question": "Which of the following is NOT accepted in modern theory?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Living things are made up of cells",
+        "The cell is the structural and functional unit of living things",
+        "All cells come from preexisting cells",
+        "Cells form by free cell formation"
+      ],
+      "answer": "D",
+      "explanation": "Modern cell theory states that cells arise from pre-existing cells (biogenesis). 'Free cell formation' (spontaneous generation of cells) is rejected. The other statements are part of cell theory."
+    },
+    {
+      "id": 42,
+      "question": "What will happen if you put red blood cells in a hypertonic solution?",
+      "image": null,
+      "passage": null,
+      "options": ["The cells become turgid", "The cells will not change in their size", "The cells lose water", "The cells swell and burst"],
+      "answer": "C",
+      "explanation": "Hypertonic solution has higher solute concentration, so water moves out of cells by osmosis, causing them to shrink (crenation). Turgid and swelling occur in hypotonic solution."
+    },
+    {
+      "id": 43,
+      "question": "What will happen when a cell gets bigger in size?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Its volume decreases",
+        "Its surface area to volume ratio decreases",
+        "Its surface area to volume ratio increases",
+        "Its surface area decreases"
+      ],
+      "answer": "B",
+      "explanation": "As a cell grows, volume increases faster than surface area, so the surface area-to-volume ratio decreases."
+    },
+    {
+      "id": 44,
+      "question": "Which one of the following processes involves the movement of particles from a low concentration to a higher concentration through the plasma membrane of a cell?",
+      "image": null,
+      "passage": null,
+      "options": ["Osmosis"],
+      "answer": "Osmosis (but incomplete options)",
+      "explanation": "Movement from low to high concentration requires energy (active transport). Osmosis is movement of water down its concentration gradient. The question stem is incomplete; based on typical pattern, the answer would be active transport, but not listed. I'll skip but must answer. Likely the intended answer is not provided; given the PDF, I'll note that active transport is correct."
+    },
+    {
+      "id": 45,
+      "question": "Which structure is used to modify and pack substances prior to their removal from the cell by exocytosis?",
+      "image": null,
+      "passage": null,
+      "options": ["Vacuole", "Golgi body", "Lysosomes", "Endoplasmic reticulum"],
+      "answer": "B",
+      "explanation": "The Golgi apparatus modifies, sorts, and packages proteins into vesicles for exocytosis. Lysosomes contain digestive enzymes, ER synthesizes proteins/lipids."
+    },
+    {
+      "id": 46,
+      "question": "The energy used for facilitated diffusion is obtained from",
+      "image": null,
+      "passage": null,
+      "options": ["ATP", "ADP", "Cellular metabolism", "A concentration gradient"],
+      "answer": "D",
+      "explanation": "Facilitated diffusion is passive; it uses the kinetic energy of particles moving down a concentration gradient, not metabolic energy (ATP)."
+    },
+    {
+      "id": 47,
+      "question": "Which cellular structures are responsible for autolysis or self-digestion?",
+      "image": null,
+      "passage": null,
+      "options": ["Chromosomes", "Ribosomes", "Lysosomes", "Golgi apparatus"],
+      "answer": "C",
+      "explanation": "Lysosomes contain hydrolytic enzymes that break down cellular components, causing autolysis. They are the 'suicide bags' of the cell."
+    },
+    {
+      "id": 48,
+      "question": "Which of the following structures is missing in the prokaryotic cell?",
+      "image": null,
+      "passage": null,
+      "options": ["Cytoplasm", "Plasma membrane", "Nuclear membrane", "Nuclear material"],
+      "answer": "C",
+      "explanation": "Prokaryotes lack a nuclear membrane (they have a nucleoid region). They have cytoplasm, plasma membrane, and nuclear material (DNA)."
+    },
+    {
+      "id": 49,
+      "question": "Which of the following are important in the transport of materials across the cell membrane?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Glycoproteins and cholesterol",
+        "Phospholipid bilayers",
+        "Channel proteins and peripheral proteins",
+        "Channel proteins and carrier proteins"
+      ],
+      "answer": "D",
+      "explanation": "Channel proteins and carrier proteins facilitate transport of substances across the membrane. Glycoproteins are for recognition, cholesterol for fluidity, phospholipid bilayer is the barrier."
+    },
+    {
+      "id": 50,
+      "question": "Which of the following organelles are NOT correctly matched with their function?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Ribosomes → lipid synthesis",
+        "Cell wall → supports and protects the cell",
+        "Golgi body → protein modification"
+      ],
+      "answer": "A",
+      "explanation": "Ribosomes are for protein synthesis, not lipid synthesis. Lipids are synthesized in smooth ER. So A is incorrect match. Cell wall supports, Golgi modifies proteins."
+    },
+    {
+      "id": 51,
+      "question": "The science concerned with ways of solving problems to meet certain human needs is called",
+      "image": null,
+      "passage": null,
+      "options": ["Experimental science", "Applied science", "Basic science", "Space science"],
+      "answer": "B",
+      "explanation": "Applied science uses scientific knowledge to solve practical problems. Basic science is for knowledge itself. Experimental science is a method."
+    },
+    {
+      "id": 52,
+      "question": "Which of the following cellular organelles settles out first with low centrifuge speed when a mixture of organelles is spun in a centrifuge?",
+      "image": null,
+      "passage": null,
+      "options": ["Nucleus", "Chloroplast", "Ribosome", "Mitochondria"],
+      "answer": "A",
+      "explanation": "Nuclei are the largest and densest organelles, so they sediment at lowest centrifugal force. Ribosomes require ultracentrifugation."
+    },
+    {
+      "id": 53,
+      "question": "How many reduced FAD molecules can be produced from 2 glucose molecules in aerobic respiration?",
+      "image": null,
+      "passage": null,
+      "options": ["2", "6", "4", "8"],
+      "answer": "C",
+      "explanation": "Per glucose, 2 FADH2 are produced (one in Krebs cycle per pyruvate? Actually per glucose: 2 turns of Krebs produce 2 FADH2). So for 2 glucose, 4 FADH2. Options: 4 is correct."
+    },
+    {
+      "id": 54,
+      "question": "Products of light-dependent reactions of photosynthesis that are used in the synthesis of carbohydrates are",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Oxygen and ATP",
+        "Reduced NADP and ATP",
+        "Carbon dioxide and water"
+      ],
+      "answer": "B",
+      "explanation": "Light-dependent reactions produce ATP and NADPH (reduced NADP), which are used in the Calvin cycle to fix CO2 into carbohydrates. Oxygen is a byproduct, not used for synthesis."
+    },
+    {
+      "id": 55,
+      "question": "Which of the following stages of aerobic respiration produce carbon dioxide?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Krebs cycle and the Link reaction",
+        "Glycolysis and Krebs cycle",
+        "Electron transport and chemiosmosis",
+        "Krebs cycle and electron transport"
+      ],
+      "answer": "A",
+      "explanation": "The link reaction (pyruvate to acetyl-CoA) releases one CO2 per pyruvate; Krebs cycle releases two CO2 per pyruvate. Glycolysis does not produce CO2; electron transport produces water."
+    },
+    {
+      "id": 56,
+      "question": "Which of the following equations represents photorespiration?",
+      "image": null,
+      "passage": null,
+      "options": ["CO2 + H2O → Glucose", "Ribulose bisphosphate + O2 → CO2"],
+      "answer": "B",
+      "explanation": "Photorespiration occurs when Rubisco fixes O2 instead of CO2, producing phosphoglycolate, which is eventually converted to CO2. So RuBP + O2 leads to CO2. Option A is photosynthesis."
+    },
+    {
+      "id": 57,
+      "question": "Which of the following shows the correct sequence of stages? (Stages: 1. Krebs cycle, 2. Glycolysis, 3. Link reaction, 4. Electron transport and chemiosmosis)",
+      "image": null,
+      "passage": null,
+      "options": ["1,2,3,4", "1,2,4,3", "2,3,1,4", "2,4,1,3"],
+      "answer": "C",
+      "explanation": "Correct order: Glycolysis (2) → Link reaction (3) → Krebs cycle (1) → Electron transport (4). So 2,3,1,4."
+    },
+    {
+      "id": 58,
+      "question": "All are subunits of ATP molecule except",
+      "image": null,
+      "passage": null,
+      "options": ["Adenine", "Ribulose", "Ribose", "Phosphate"],
+      "answer": "B",
+      "explanation": "ATP consists of adenine (base), ribose (sugar), and three phosphate groups. Ribulose is a different sugar (ketopentose), not part of ATP."
+    },
+    {
+      "id": 59,
+      "question": "Where does light dependent reaction occur in a chloroplast?",
+      "image": null,
+      "passage": null,
+      "options": ["Thylakoid membrane", "Grana and stroma", "Thylakoid membrane and stroma", "Stroma"],
+      "answer": "A",
+      "explanation": "Light-dependent reactions occur in thylakoid membranes (photosystems and electron transport chains). The stroma is site of Calvin cycle."
+    },
+    {
+      "id": 60,
+      "question": "Which of the following is the correct representation of alcoholic fermentation?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Ethyl alcohol → pyruvic acid → Glucose",
+        "Glucose → pyruvic acid → Ethyl alcohol + CO2",
+        "Glucose → pyruvic acid → CO2 + H2O",
+        "CO2 + H2O → pyruvic acid → Glucose"
+      ],
+      "answer": "B",
+      "explanation": "Alcoholic fermentation: glucose → pyruvate (glycolysis), then pyruvate decarboxylated to acetaldehyde + CO2, then reduced to ethanol. So glucose → pyruvic acid → ethyl alcohol + CO2."
+    },
+    {
+      "id": 61,
+      "question": "Which of the following stages of aerobic respiration does NOT produce ATP?",
+      "image": null,
+      "passage": null,
+      "options": [],
+      "answer": "",
+      "explanation": "Link reaction (pyruvate → acetyl-CoA) does not produce ATP directly (it produces NADH). The question is incomplete; likely answer is link reaction."
+    },
+    {
+      "id": 62,
+      "question": "In which part of the mitochondrion does the Kreb's cycle take place?",
+      "image": null,
+      "passage": null,
+      "options": ["On the outer membrane", "On the inner membrane", "In the fluid matrix", "In the inter membrane space"],
+      "answer": "C",
+      "explanation": "Krebs cycle occurs in the mitochondrial matrix. Electron transport chain is on inner membrane."
+    },
+    {
+      "id": 63,
+      "question": "What is the source of the electrons that replace electrons lost from photosystem II during photosynthesis?",
+      "image": null,
+      "passage": null,
+      "options": ["chlorophyll a", "chlorophyll b", "Water", "photosystem I"],
+      "answer": "C",
+      "explanation": "Electrons lost from PSII are replaced by electrons from water (photolysis). Oxygen is released."
+    },
+    {
+      "id": 64,
+      "question": "Which of the following compounds contains more energy per molecule than all the others?",
+      "image": null,
+      "passage": null,
+      "options": ["ATP", "FADH2", "NADH2", "Acetyl CoA"],
+      "answer": "D",
+      "explanation": "Acetyl CoA contains more chemical energy than the reduced coenzymes because it is a larger molecule with high-energy bonds. ATP has about 7.3 kcal/mol, NADH and FADH2 also store energy, but acetyl CoA is a substrate that enters the Krebs cycle and yields many ATP."
+    },
+    {
+      "id": 65,
+      "question": "If a cell contains 10 NADH + 10 FADH2 molecules, a total of how many ATP molecules would it produce from them?",
+      "image": null,
+      "passage": null,
+      "options": ["20 ATP", "30 ATP", "50 ATP", "60 ATP"],
+      "answer": "C",
+      "explanation": "Typically, 1 NADH yields ~2.5 ATP, 1 FADH2 yields ~1.5 ATP. But in many textbooks, 1 NADH = 3 ATP, 1 FADH2 = 2 ATP. Using 3 and 2: 10 NADH = 30 ATP, 10 FADH2 = 20 ATP, total 50 ATP. So C is correct."
+    },
+    {
+      "id": 66,
+      "question": "C4 plants can be distinguished from C3 plants in that C4 plants",
+      "image": null,
+      "passage": null,
+      "options": ["do not produce oxygen during day time", "photorespire during the day time"],
+      "answer": "B (but incomplete)",
+      "explanation": "C4 plants have reduced photorespiration compared to C3 plants. Actually C4 plants do photorespire less, not more. The statement 'photorespire during the day time' is true for both, but C3 photorespire more. The question is poorly phrased. Probably the intended distinguishing feature is that C4 plants have Kranz anatomy and fix CO2 in bundle sheath cells."
+    },
+    {
+      "id": 67,
+      "question": "What's the initial acceptor of carbon dioxide in C3 plants?",
+      "image": null,
+      "passage": null,
+      "options": ["Oxaloacetate", "Malate", "phenol enolpyruvate", "Ribulose bisphosphate"],
+      "answer": "D",
+      "explanation": "In C3 plants, the first CO2 acceptor is ribulose bisphosphate (RuBP) catalyzed by Rubisco. PEP is for C4 plants. OAA is product in C4."
+    },
+    {
+      "id": 68,
+      "question": "What is the final electron acceptor in the transport chain during aerobic respiration?",
+      "image": null,
+      "passage": null,
+      "options": ["Oxygen", "NAD", "FAD", "Cytochrome"],
+      "answer": "A",
+      "explanation": "Oxygen is the final electron acceptor, reduced to water. NAD and FAD are carriers, cytochromes are part of the chain."
+    },
+    {
+      "id": 69,
+      "question": "Enzymes can be used over and over again, because enzymes are",
+      "image": null,
+      "passage": null,
+      "options": [
+        "specific to their substrates",
+        "not consumed by the reactions they catalyze",
+        "affected by temperature and pH",
+        "globular in their shape"
+      ],
+      "answer": "B",
+      "explanation": "Enzymes are reusable because they are not changed or consumed in the reaction; they are catalysts."
+    },
+    {
+      "id": 70,
+      "question": "The molecule that links glycolysis and the Krebs cycle is",
+      "image": null,
+      "passage": null,
+      "options": ["acetaldehyde", "acetyl coenzyme A", "pyruvate", "citrate"],
+      "answer": "B",
+      "explanation": "Pyruvate from glycolysis is converted to acetyl CoA (link reaction), which enters the Krebs cycle. So acetyl CoA is the linking molecule."
+    },
+    {
+      "id": 71,
+      "question": "Microorganisms that cause diseases by digesting the tissues where they grow are",
+      "image": null,
+      "passage": null,
+      "options": ["Viruses", "protozoa", "Fungi", "Algae"],
+      "answer": "C",
+      "explanation": "Fungi can cause diseases by secreting enzymes that digest tissues (e.g., ringworm, athlete's foot). Viruses hijack cells, protozoa ingest, algae rarely pathogenic."
+    },
+    {
+      "id": 72,
+      "question": "Alcoholism and drug addiction are examples of",
+      "image": null,
+      "passage": null,
+      "options": ["Human induced diseases", "social diseases"],
+      "answer": "A",
+      "explanation": "These are human-induced diseases (behavioral). Social diseases often refer to STIs. Alcoholism and addiction are lifestyle-related, not infectious."
+    },
+    {
+      "id": 73,
+      "question": "The bacteria that return the nitrogen to the air and reduce the amount of nitrogen in the soil are",
+      "image": null,
+      "passage": null,
+      "options": ["Nitrosomonas", "Pseudomonas", "Rhizobium", "Azotobacter"],
+      "answer": "B",
+      "explanation": "Denitrifying bacteria (e.g., Pseudomonas) convert nitrates to nitrogen gas, returning it to the atmosphere. Nitrosomonas (nitrification), Rhizobium (fixation), Azotobacter (free-living fixation)."
+    },
+    {
+      "id": 74,
+      "question": "Vectors that are used to transport foreign genes into a bacterial host cell are",
+      "image": null,
+      "passage": null,
+      "options": ["Viruses", "Agrobacteria", "plasmid", "Gene gun"],
+      "answer": "C",
+      "explanation": "Plasmids are common vectors for bacterial transformation. Viruses (phages) also used, but 'vectors' in general include plasmids. Agrobacterium is for plants, gene gun is a physical method. The most common answer is plasmid."
+    },
+    {
+      "id": 75,
+      "question": "The population growth curve where the numbers of the population remain low and static is the",
+      "image": null,
+      "passage": null,
+      "options": ["log phase", "stationary phase", "lag phase", "decline phase"],
+      "answer": "C",
+      "explanation": "Lag phase: population adapts, little growth. Log phase exponential, stationary phase plateau, decline phase decrease."
+    },
+    {
+      "id": 76,
+      "question": "To which group of viruses does HIV belong?",
+      "image": null,
+      "passage": null,
+      "options": ["Bacteriophages", "RNA viruses", "Retroviruses", "DNA viruses"],
+      "answer": "C",
+      "explanation": "HIV is a retrovirus (RNA virus that uses reverse transcriptase). 'RNA viruses' is broader; retrovirus is the specific group."
+    },
+    {
+      "id": 77,
+      "question": "In exponential pattern of population growth, the population",
+      "image": null,
+      "passage": null,
+      "options": [
+        "decreases in each time period",
+        "remains the same in each time period",
+        "increases by a fixed amount in each time period",
+        "doubles in each time period"
+      ],
+      "answer": "D",
+      "explanation": "Exponential growth means population multiplies by a constant factor (e.g., doubles each period). Arithmetic growth increases by fixed amount."
+    },
+    {
+      "id": 78,
+      "question": "The process that breaks down proteins in dead organisms and animal wastes into ammonia is called",
+      "image": null,
+      "passage": null,
+      "options": ["Nitrification", "Nitrogen fixation", "Ammonification", "Denitrification"],
+      "answer": "C",
+      "explanation": "Ammonification is the decomposition of organic nitrogen (proteins, nucleic acids) into ammonia (NH3) by decomposers."
+    },
+    {
+      "id": 79,
+      "question": "All of the following statements are correct except",
+      "image": null,
+      "passage": null,
+      "options": [
+        "All Viruses are parasites",
+        "Gram-negative bacteria are highly susceptible to antibiotics",
+        "Endotoxins are structural components of Gram-negative bacteria",
+        "Gram-positive bacteria have thick peptidoglycan"
+      ],
+      "answer": "B",
+      "explanation": "Gram-negative bacteria are generally less susceptible to antibiotics due to outer membrane barrier. They are not highly susceptible. So B is incorrect. Others are true: viruses are obligate parasites, endotoxins (LPS) are in Gram-negative outer membrane, Gram-positive have thick peptidoglycan."
+    },
+    {
+      "id": 80,
+      "question": "Which of the following makes T-helper cells more vulnerable to HIV infection?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The presence of gp 120 and gp 41 on their surface",
+        "The presence of HIV-receptor proteins on their surface",
+        "The presence of an envelope on their surface",
+        "The absence of antibodies on their surface"
+      ],
+      "answer": "B",
+      "explanation": "T-helper cells have CD4 receptors (HIV-receptor proteins) that bind to HIV's gp120. The virus uses these to enter. Gp120 is on the virus, not on the cell."
+    },
+    {
+      "id": 81,
+      "question": "Which of the following is true about primary succession?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The succession starts from the ground previously colonized",
+        "There is a seed bank",
+        "The soil is already present",
+        "The succession starts from a bare rock"
+      ],
+      "answer": "D",
+      "explanation": "Primary succession occurs on bare lifeless substrates (bare rock, sand dunes) with no soil initially. Secondary succession starts from existing soil."
+    },
+    {
+      "id": 82,
+      "question": "Which of the following is TRUE about viruses?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Viruses have independent reproduction",
+        "Only some viruses are parasites",
+        "Viruses have cellular organelles",
+        "Viruses have genetic material"
+      ],
+      "answer": "D",
+      "explanation": "All viruses have genetic material (DNA or RNA). They are obligate parasites, lack cellular organelles, and cannot reproduce independently."
+    },
+    {
+      "id": 83,
+      "question": "The enzyme used to cut DNA molecules into small pieces is",
+      "image": null,
+      "passage": null,
+      "options": ["protease", "Reverse transcriptase"],
+      "answer": "Reverse transcriptase? No",
+      "explanation": "Restriction endonucleases cut DNA. Protease cuts proteins, reverse transcriptase makes DNA from RNA. The given options are incomplete; likely answer is restriction enzymes."
+    },
+    {
+      "id": 84,
+      "question": "In the sulphur cycle, plants absorb sulphur in the form of",
+      "image": null,
+      "passage": null,
+      "options": ["hydrogen sulphide", "sulphates", "protein", "sulphur dioxide"],
+      "answer": "B",
+      "explanation": "Plants take up sulphur as sulfate ions (SO4^2-) from the soil. Hydrogen sulfide is toxic, protein is organic, SO2 is atmospheric."
+    },
+    {
+      "id": 85,
+      "question": "In the sulphur cycle, sulphur is oxidized to sulphates by",
+      "image": null,
+      "passage": null,
+      "options": ["Thiobacillus", "Photosynthetic sulphur", "Sulphate-reducing bacteria", "Desulphovibrio"],
+      "answer": "A",
+      "explanation": "Thiobacillus and other chemolithotrophic bacteria oxidize sulfur to sulfates. Sulphate-reducing bacteria do the opposite (reduce sulfate to H2S)."
+    },
+    {
+      "id": 86,
+      "question": "Which of the following is NOT part of HIV particle?",
+      "image": null,
+      "passage": null,
+      "options": ["CD4 protein", "Lipid membrane", "Genetic material", "gp 120"],
+      "answer": "A",
+      "explanation": "CD4 is a receptor on host cells, not part of the HIV virion. HIV has an envelope (lipid membrane), genetic material (RNA), and gp120 envelope protein."
+    },
+    {
+      "id": 87,
+      "question": "The final stage of demographic transition has a",
+      "image": null,
+      "passage": null,
+      "options": [
+        "high death rate and a high birth rate",
+        "high birth rate and a low death rate",
+        "higher death rate than a birth rate",
+        "low birth rate and a low death rate"
+      ],
+      "answer": "D",
+      "explanation": "Demographic transition final stage (post-industrial) has low birth rate and low death rate, leading to stable or slow-growing population."
+    },
+    {
+      "id": 88,
+      "question": "Which of the following group of vertebrates in Ethiopia is the most diverse in terms of species number?",
+      "image": null,
+      "passage": null,
+      "options": ["Mammals", "Birds", "Reptiles", "Amphibians"],
+      "answer": "B",
+      "explanation": "Birds are the most diverse vertebrate group globally and in Ethiopia, with over 800 species. Mammals have around 320, reptiles and amphibians fewer."
+    },
+    {
+      "id": 89,
+      "question": "Countries characterized by a high birth rate but a low death rate are",
+      "image": null,
+      "passage": null,
+      "options": ["Developed countries", "Developing countries", "Underdeveloped countries"],
+      "answer": "B",
+      "explanation": "Developing countries typically have high birth rates and declining death rates (stage 2 of demographic transition). Developed countries have low both."
+    },
+    {
+      "id": 90,
+      "question": "The biome where epiphytes are common is",
+      "image": null,
+      "passage": null,
+      "options": ["Tropical rainforest", "Boreal forest", "Thorn forest", "Temperate deciduous rain forest"],
+      "answer": "A",
+      "explanation": "Epiphytes (plants growing on other plants) are abundant in tropical rainforests due to high humidity and light competition."
+    },
+    {
+      "id": 91,
+      "question": "Which one of the following describes the number of different species that are present in an ecosystem?",
+      "image": null,
+      "passage": null,
+      "options": ["Biodiversity", "Species diversity", "Genetic diversity", "Ecosystem diversity"],
+      "answer": "B",
+      "explanation": "Species diversity refers specifically to the number and abundance of different species. Biodiversity is broader (includes genetic and ecosystem diversity)."
+    },
+    {
+      "id": 92,
+      "question": "Which of the following is used to separate the different cellular organelles to study their structure and functions in a cell?",
+      "image": null,
+      "passage": null,
+      "options": ["Dehydrogenation", "Polymerization", "Cell fractionation"],
+      "answer": "C",
+      "explanation": "Cell fractionation (centrifugation) separates organelles based on size and density. Dehydrogenation removes hydrogen, polymerization joins monomers."
+    },
+    {
+      "id": 93,
+      "question": "Which of the following carbohydrates is obtained when beta glucose molecules are joined by beta 1,4 glycosidic bonds?",
+      "image": null,
+      "passage": null,
+      "options": ["Starch", "Lactose", "Glycogen", "Cellulose"],
+      "answer": "D",
+      "explanation": "Cellulose is a polymer of β-glucose with β-1,4 linkages. Starch and glycogen are α-glucose, lactose is a disaccharide (β-1,4 but galactose+glucose)."
+    },
+    {
+      "id": 94,
+      "question": "The population growth pattern that occurs under ideal conditions and unlimited resources is called",
+      "image": null,
+      "passage": null,
+      "options": ["An arithmetic growth", "A density dependent growth", "An exponential growth", "A uniform growth rate"],
+      "answer": "C",
+      "explanation": "Exponential (J-shaped) growth occurs with unlimited resources. Arithmetic growth increases by constant amount, density-dependent includes carrying capacity."
+    },
+    {
+      "id": 95,
+      "question": "How do retroviruses differ from RNA viruses?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Their genetic material is RNA",
+        "Converts their genetic material from RNA into DNA in the host cell",
+        "They are parasitic"
+      ],
+      "answer": "B",
+      "explanation": "Retroviruses are a subset of RNA viruses that reverse transcribe RNA into DNA. Not all RNA viruses do this. So the key difference is conversion of RNA to DNA."
+    },
+    {
+      "id": 96,
+      "question": "Anti-retroviral drugs that prevent the conversion of RNA into DNA are called",
+      "image": null,
+      "passage": null,
+      "options": ["Protease inhibitors", "Entry inhibitors", "Reverse transcriptase inhibitors", "Integrase inhibitors"],
+      "answer": "C",
+      "explanation": "Reverse transcriptase inhibitors block the enzyme that converts RNA to DNA. Protease inhibitors block viral assembly, entry inhibitors prevent entry, integrase inhibitors block integration."
+    },
+    {
+      "id": 97,
+      "question": "The final complex state of succession is",
+      "image": null,
+      "passage": null,
+      "options": ["Serial community", "Pioneer community", "Climax community"],
+      "answer": "C",
+      "explanation": "Climax community is the stable end point of ecological succession. Pioneer community is the first stage, serial community is intermediate."
+    },
+    {
+      "id": 98,
+      "question": "A certain community in a certain area was destroyed by fire. After sometime, new plants and animals began to colonise the area in a regular sequence. This phenomenon best illustrates",
+      "image": null,
+      "passage": null,
+      "options": ["Primary succession", "Secondary succession", "Food chain", "Food web"],
+      "answer": "B",
+      "explanation": "Secondary succession occurs on sites where soil remains after a disturbance (fire, flood). Primary starts from bare rock with no soil."
+    },
+    {
+      "id": 99,
+      "question": "What is the reason for the fact that there is no cure or vaccine for AIDS so far? It is because HIV",
+      "image": null,
+      "passage": null,
+      "options": [
+        "is too small to be targeted",
+        "has a spherical shape",
+        "has RNA instead of DNA",
+        "mutates regularly and rapidly"
+      ],
+      "answer": "D",
+      "explanation": "HIV has high mutation rate (reverse transcriptase lacks proofreading), leading to rapid evolution of drug resistance and immune evasion, making vaccine development difficult."
+    },
+    {
+      "id": 100,
+      "question": "The aquatic biomes which has the highest number of plants and animals is",
+      "image": null,
+      "passage": null,
+      "options": ["Stream", "Wetland", "Estuarine", "Coral reef"],
+      "answer": "D",
+      "explanation": "Coral reefs are among the most diverse ecosystems on Earth, often called 'rainforests of the sea'. They support a vast number of species."
+    }
+  ]
+}

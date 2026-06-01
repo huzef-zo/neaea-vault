@@ -1,0 +1,1132 @@
+{
+  "subject": "Chemistry",
+  "year": "2018 E.C",
+  "paper": 5,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following Dalton's atomic theory was corrected in the modern atomic theory?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "All matter is made up of atoms",
+        "All matter is composed of extremely small, divisible particles called atom",
+        "Atoms of different elements combine in the simple whole number ratio",
+        "Atoms of the same elements have same in mass and other properties"
+      ],
+      "answer": "B",
+      "explanation": "Dalton's original theory stated that atoms are indivisible and atoms of the same element have identical mass. Modern atomic theory corrected this: atoms are divisible (into subatomic particles), and isotopes of the same element can have different masses. Option B reflects the correction that atoms are divisible, not indivisible as Dalton originally claimed."
+    },
+    {
+      "id": 2,
+      "question": "During discovered nucleus by Rutherford using alpha particles and gold foil experiment, why Majority of particles pass through the gold foil? Because",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The atom has a positive charge",
+        "In the nucleus, is a dense central core within the atom.",
+        "In the nucleus there is heavy positively charged core",
+        "Most of the space in the atom is empty"
+      ],
+      "answer": "D",
+      "explanation": "In Rutherford's gold foil experiment, most alpha particles passed straight through the foil because atoms are mostly empty space. The nucleus occupies only a tiny fraction of the atom's volume, so most particles encounter no obstruction."
+    },
+    {
+      "id": 3,
+      "question": "A student is studying an atom with an atomic number of 31 and mass number of 70. Based on nuclear composition, which of the following statements is CORRECT?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The nucleus contains 31 protons and 39 neutrons",
+        "The nucleus contains 31 neutrons and 39 protons",
+        "The nucleus contains only 31 protons",
+        "The nucleus contains 70 neutrons and 31 protons"
+      ],
+      "answer": "A",
+      "explanation": "Atomic number (Z) = number of protons = 31. Mass number (A) = protons + neutrons = 70. Therefore, neutrons = 70 - 31 = 39. The nucleus contains 31 protons and 39 neutrons."
+    },
+    {
+      "id": 4,
+      "question": "Naturally occurring boron consists of two isotopes, 10B and 11B, with the isotopic masses 10.010 amu and 11.01 amu, respectively. The observed average atomic mass of boron is 10.811 amu. What is the percentage abundance of 10B and 11B isotope respectively?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "11.1% and 88.90%",
+        "19.90% and 80.10%",
+        "10.10% and 89.90%",
+        "22.2% and 77.80%"
+      ],
+      "answer": "B",
+      "explanation": "Let x = fraction of 10B, then (1-x) = fraction of 11B. Average mass = 10.010x + 11.01(1-x) = 10.811. Solving: 10.010x + 11.01 - 11.01x = 10.811, so -x = -0.199, x = 0.199. So 10B = 19.90% and 11B = 80.10%."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following atomic models is expressed CORRECTLY?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Dalton's atomic model — billiard ball model",
+        "Bohr model of atom — Plum pudding model",
+        "Thomson's model of atom — Planetary model",
+        "Rutherford atomic model — Ice cream model"
+      ],
+      "answer": "A",
+      "explanation": "Dalton's atomic model is correctly described as the billiard ball model because he viewed atoms as solid, indivisible spheres. Bohr's model is the planetary model, Thomson's is the plum pudding model, and Rutherford's is the nuclear model — the other options have mismatched descriptions."
+    },
+    {
+      "id": 6,
+      "question": "Suppose an unknown element does NOT deflect cathode rays in an electric field but has significant mass. Based on atomic models, which subatomic particle could it be composed of, and how would this impact the element's atomic structure?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Protons; making the nucleus positively charged",
+        "Electrons; moving freely in orbitals",
+        "Neutrons; contributing to atomic mass without charge",
+        "Positrons; leading to an unstable atom"
+      ],
+      "answer": "C",
+      "explanation": "Neutrons have significant mass but no electric charge, so they would not be deflected by an electric field. They contribute to the atomic mass without affecting the charge of the atom."
+    },
+    {
+      "id": 7,
+      "question": "When elements are arranged in the order of increasing atomic masses every eight elements exhibits similar properties, much like the musical octave. This statement was stated by?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Dobernier",
+        "Mosley",
+        "Mendeleev",
+        "Newland"
+      ],
+      "answer": "D",
+      "explanation": "John Newlands proposed the Law of Octaves in 1865, stating that when elements are arranged by increasing atomic mass, every eighth element has similar properties, analogous to musical octaves."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is NOT the key role of periodicity in the context of the periodic table?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "to predicting element properties",
+        "to classifying elements",
+        "to predicting electromagnetic radiation",
+        "to provides the reactivity of elements"
+      ],
+      "answer": "C",
+      "explanation": "Periodicity in the periodic table helps predict element properties, classify elements, and determine reactivity trends. Predicting electromagnetic radiation is not a key role of periodicity."
+    },
+    {
+      "id": 9,
+      "question": "An element having the valence electron configuration 1s²2s²2p⁶3s²3p⁴ belongs to group?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "IIA",
+        "VIA",
+        "IVA",
+        "VIIIA"
+      ],
+      "answer": "B",
+      "explanation": "The valence electrons are in the 3s²3p⁴ configuration, giving 6 valence electrons (2 + 4 = 6). Elements with 6 valence electrons belong to Group VIA (Group 16), such as sulfur and oxygen."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is the correct order of the atomic size of Mg²⁺, C⁴⁻, Na⁺, N³⁻, and O²⁻?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Na⁺ < Mg²⁺ < C⁴⁻ < N³⁻ < O²⁻",
+        "C⁴⁻ > N³⁻ > O²⁻ > Na⁺ > Mg²⁺",
+        "Mg²⁺ > Na⁺ > O²⁻ > N³⁻ > C⁴⁻",
+        "N³⁻ > O²⁻ > C⁴⁻ > Na⁺ > Mg²⁺"
+      ],
+      "answer": "B",
+      "explanation": "These ions are all isoelectronic (10 electrons each). For isoelectronic species, the one with the most protons has the smallest radius. Order of nuclear charge: Mg²⁺(12) > Na⁺(11) > O²⁻(8) > N³⁻(7) > C⁴⁻(6). So size order (reverse): C⁴⁻ > N³⁻ > O²⁻ > Na⁺ > Mg²⁺."
+    },
+    {
+      "id": 11,
+      "question": "What types of bond is formed by sharing of electrons between atoms?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "ionic bond",
+        "metallic bond",
+        "electrovalent bond",
+        "covalent bond"
+      ],
+      "answer": "D",
+      "explanation": "A covalent bond is formed when two atoms share one or more pairs of electrons. Ionic bonds involve electron transfer, metallic bonds involve delocalized electrons, and electrovalent bonds are another name for ionic bonds."
+    },
+    {
+      "id": 12,
+      "question": "Which one of the following is responsible for the unusual high boiling points of HF, H2O and NH3?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "hydrogen bond",
+        "covalent bond",
+        "London dispersion force",
+        "ionic bond"
+      ],
+      "answer": "A",
+      "explanation": "Hydrogen bonding is responsible for the unusually high boiling points of HF, H2O, and NH3. These molecules have hydrogen bonded to highly electronegative atoms (F, O, N), creating strong intermolecular hydrogen bonds that require significant energy to break."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following compounds would most likely conduct electricity when dissolved in water but not in solid?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "SiO2",
+        "Cu",
+        "NaCl",
+        "C12H22O11"
+      ],
+      "answer": "C",
+      "explanation": "NaCl is an ionic compound that dissociates into Na⁺ and Cl⁻ ions when dissolved in water, allowing it to conduct electricity. In solid state, the ions are fixed in a crystal lattice and cannot move, so it doesn't conduct. SiO2 is a network covalent solid, Cu is metallic (conducts in solid), and C12H22O11 (sucrose) is molecular and doesn't ionize."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is CORRECT about the formation of an ionic bond? An ionic bond is formed by:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "mobile and delocalized electrons",
+        "By sharing of electrons",
+        "between positively and negatively charged ions",
+        "between stationary electrons"
+      ],
+      "answer": "C",
+      "explanation": "An ionic bond is formed by the electrostatic attraction between positively charged ions (cations) and negatively charged ions (anions). This occurs when electrons are transferred from one atom to another, creating oppositely charged ions that attract each other."
+    },
+    {
+      "id": 15,
+      "question": "What property makes metallic elements are malleable means hammered into sheet?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "its good conductivity",
+        "its delocalized electrons",
+        "its strength",
+        "its hardness"
+      ],
+      "answer": "B",
+      "explanation": "The delocalized electrons in metallic bonds allow metal atoms to slide past each other without breaking the metallic bond. This 'sea of electrons' maintains the bonding even when the metal is deformed, making metals malleable (can be hammered into sheets) and ductile (can be drawn into wires)."
+    },
+    {
+      "id": 16,
+      "question": "Which one of the following compound contains both ionic and covalent bonds?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "ICl3",
+        "CaO",
+        "Al2O3",
+        "Na2CO3"
+      ],
+      "answer": "D",
+      "explanation": "Na2CO3 contains both ionic and covalent bonds. The Na⁺ and CO3²⁻ ions are held together by ionic bonds, while within the carbonate ion (CO3²⁻), carbon and oxygen are held together by covalent bonds. ICl3 has only covalent bonds, while CaO and Al2O3 are primarily ionic."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following intermolecular forces is generally the strongest?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "London dispersion forces",
+        "hydrogen bonding",
+        "dipole-dipole forces",
+        "ion-dipole interaction"
+      ],
+      "answer": "D",
+      "explanation": "Ion-dipole interactions are generally the strongest type of intermolecular force because they involve the attraction between a full ion charge and a polar molecule's dipole. The order of strength is: ion-dipole > hydrogen bonding > dipole-dipole > London dispersion forces."
+    },
+    {
+      "id": 18,
+      "question": "Consider the following chemical reaction: 2Mg(NO3)2 → 2MgO + 4NO2 + O2. The chemical reaction that takes place during the conversion of Mg(NO3)2 into the product is classified as ______",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Single replacement reaction",
+        "Double displacement reaction",
+        "Decomposition reaction",
+        "Combination reaction"
+      ],
+      "answer": "C",
+      "explanation": "This is a decomposition reaction because a single compound (Mg(NO3)2) breaks down into multiple simpler products (MgO, NO2, and O2) when heated. Decomposition reactions have the general form: AB → A + B."
+    },
+    {
+      "id": 19,
+      "question": "What is the primary purpose of balancing chemical equation?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "to make equation neater and more symmetrical",
+        "to satisfy the law of conservation of mass",
+        "to indicate physical state",
+        "to show the rate of reaction"
+      ],
+      "answer": "B",
+      "explanation": "The primary purpose of balancing chemical equations is to satisfy the Law of Conservation of Mass, which states that matter cannot be created or destroyed in a chemical reaction. The number of atoms of each element must be equal on both sides of the equation."
+    },
+    {
+      "id": 20,
+      "question": "Which one of the following is CORRECT about redox reaction?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Electrons are transferred between species bonding partners",
+        "Acid and base neutralize each other",
+        "atoms or ions of two compounds exchange",
+        "two soluble ions in compounds form insoluble products"
+      ],
+      "answer": "A",
+      "explanation": "A redox (reduction-oxidation) reaction involves the transfer of electrons between species. One species loses electrons (oxidation) while another gains electrons (reduction). Option B describes neutralization, C describes double displacement, and D describes precipitation."
+    },
+    {
+      "id": 21,
+      "question": "A compounds found to contain 40g carbon, 6.7g hydrogen, 53.3g oxygen by mass. What is empirical formula of a compound?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "CH4O",
+        "C2H4O2",
+        "CHO",
+        "CH2O"
+      ],
+      "answer": "D",
+      "explanation": "Moles: C = 40/12 = 3.33, H = 6.7/1 = 6.7, O = 53.3/16 = 3.33. Dividing by smallest (3.33): C = 1, H = 2, O = 1. The empirical formula is CH2O."
+    },
+    {
+      "id": 22,
+      "question": "When 4g of magnesium nitride is react with excess water 3.2g of magnesium oxide is produced. Mg3N2 + 3H2O → 2NH3 + 3MgO. What is percent yield of this reaction?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "66.67%",
+        "94.5%",
+        "78.6%",
+        "49.4%"
+      ],
+      "answer": "A",
+      "explanation": "Molar mass of Mg3N2 = 100.9 g/mol. Moles of Mg3N2 = 4/100.9 = 0.0396 mol. From stoichiometry, 1 mol Mg3N2 produces 3 mol MgO, so theoretical yield = 0.0396 × 3 × 40.3 = 4.79 g. Percent yield = (3.2/4.79) × 100 ≈ 66.67%."
+    },
+    {
+      "id": 23,
+      "question": "Given the following equation representing the reaction: 2SO2(g) + O2(g) → 2SO3(g). How many grams of SO3 will be produced when 6.8L oxygen is react with sulfur dioxide?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "68g",
+        "48.57g",
+        "160g",
+        "4.76g"
+      ],
+      "answer": "B",
+      "explanation": "At STP, 6.8 L O2 = 6.8/22.4 = 0.304 mol. From the equation, 1 mol O2 produces 2 mol SO3, so moles of SO3 = 0.607 mol. Mass of SO3 = 0.607 × 80 = 48.57 g."
+    },
+    {
+      "id": 24,
+      "question": "What volume of oxygen at STP is required to burn 2 moles of propane (C3H8)? C3H8(g) + 5O2(g) → 3CO2(g) + 4H2O(g)",
+      "image": null,
+      "passage": null,
+      "options": [
+        "44.8L",
+        "112L",
+        "224L",
+        "22.4L"
+      ],
+      "answer": "C",
+      "explanation": "From the balanced equation, 1 mole of C3H8 requires 5 moles of O2. For 2 moles of C3H8, we need 2 × 5 = 10 moles of O2. At STP, volume = 10 × 22.4 = 224 L."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is NOT a characteristic of heterogeneous mixtures?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "They are uniform in appearance and properties",
+        "They can have varying compositions in different parts",
+        "Components are easily distinguishable",
+        "They can contain solid, liquid, and gas phases simultaneously"
+      ],
+      "answer": "A",
+      "explanation": "Heterogeneous mixtures are NOT uniform in appearance and properties — that's a characteristic of homogeneous mixtures. Heterogeneous mixtures have visibly distinguishable components and varying compositions in different regions."
+    },
+    {
+      "id": 26,
+      "question": "Which of the following statement is best describes about the heat of solution?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The heat required to change a solid to a liquid",
+        "The heat generated during a chemical reaction",
+        "The heat required to vaporize a liquid",
+        "The heat absorbed or released when a solute dissolves in a solvent"
+      ],
+      "answer": "D",
+      "explanation": "The heat of solution (enthalpy of solution) is the amount of heat absorbed or released when a solute dissolves in a solvent. It can be either endothermic (heat absorbed) or exothermic (heat released). Option A describes heat of fusion, B is too general, and C describes heat of vaporization."
+    },
+    {
+      "id": 27,
+      "question": "A laboratory technician prepares a solution by mixing 20 g of CaCl₂ (molar mass = 110.98 g/mol) in 300 g of water. What is the molality of the resulting solution?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "0.75m",
+        "0.50 m",
+        "0.60 m",
+        "0.70 m"
+      ],
+      "answer": "C",
+      "explanation": "Molality (m) = moles of solute / kg of solvent. Moles of CaCl₂ = 20/110.98 = 0.1802 mol. Mass of solvent = 300 g = 0.3 kg. Molality = 0.1802/0.3 = 0.6007 ≈ 0.60 m."
+    },
+    {
+      "id": 28,
+      "question": "A solution that holds more solute than it should theoretically be able to at that temperature is called",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Saturated",
+        "supersaturated",
+        "unsaturated",
+        "concentrated"
+      ],
+      "answer": "B",
+      "explanation": "A supersaturated solution contains more dissolved solute than would normally be possible at that temperature. This is an unstable state that can be achieved by slowly cooling a saturated solution. A saturated solution holds the maximum amount, an unsaturated solution holds less than the maximum, and concentrated refers to a relatively large amount of solute."
+    },
+    {
+      "id": 29,
+      "question": "Which one of the following is correct about dilution process?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "volume before and after dilution is the same",
+        "concentration will be increases",
+        "number of moles is constant",
+        "molarity is unchanged"
+      ],
+      "answer": "C",
+      "explanation": "During dilution, solvent is added to a solution, increasing the volume and decreasing the concentration. However, the number of moles of solute remains constant (M1V1 = M2V2). The moles of solute don't change — only the volume and concentration change."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is peroxide?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "SrO2",
+        "CaO",
+        "H2O",
+        "P2O4"
+      ],
+      "answer": "A",
+      "explanation": "A peroxide contains the O2²⁻ ion where oxygen has an oxidation state of -1. SrO2 (strontium peroxide) contains the peroxide ion. CaO is a simple oxide, H2O has oxygen at -2, and P2O4 doesn't contain the peroxide ion."
+    },
+    {
+      "id": 31,
+      "question": "A 250ml solution is formed from 24.5g of sulfuric acid (H2SO4). What is the normality of this solution? (Molar mass H2SO4 = 98g/mol)",
+      "image": null,
+      "passage": null,
+      "options": [
+        "4.00N",
+        "0.250N",
+        "1.00N",
+        "2.00N"
+      ],
+      "answer": "D",
+      "explanation": "Moles of H2SO4 = 24.5/98 = 0.25 mol. Molarity = 0.25/0.25 = 1.0 M. H2SO4 has 2 replaceable H⁺ ions, so n = 2. Normality = n × M = 2 × 1.0 = 2.00 N."
+    },
+    {
+      "id": 32,
+      "question": "The hydrogen ion concentration in certain solution at 25°C is 1×10⁻⁸ M. What is pOH of the solution?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "2",
+        "10",
+        "6",
+        "8"
+      ],
+      "answer": "C",
+      "explanation": "pH = -log[H⁺] = -log(1×10⁻⁸) = 8. Since pH + pOH = 14 at 25°C, pOH = 14 - 8 = 6."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is TRUE about properties of acidic solution?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "acidic solution turns red litmus paper to blue",
+        "When react with active metals release hydrogen gas",
+        "feels slippery to touch",
+        "have pH greater than 7"
+      ],
+      "answer": "B",
+      "explanation": "Acids react with active metals (like Zn, Mg, Fe) to produce hydrogen gas. Option A is wrong (acids turn blue litmus red, not red to blue). Option C describes bases. Option D is wrong (acids have pH less than 7)."
+    },
+    {
+      "id": 34,
+      "question": "When lead react with oxygen at different ratio it produces form PbO and PbO2. The ratio of oxygen in PbO to PbO2 is 1:2. Which law governs these two possible chemical combinations between atoms of lead and oxygen?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The Law of Multiple Proportions",
+        "The law of constant proportion",
+        "The law of mass action",
+        "The law of definite proportion"
+      ],
+      "answer": "A",
+      "explanation": "The Law of Multiple Proportions states that when two elements form more than one compound together, the masses of one element that combine with a fixed mass of the other are in ratios of small whole numbers. Here, the ratio of oxygen in PbO to PbO2 is 1:2, which illustrates this law."
+    },
+    {
+      "id": 35,
+      "question": "Which one of the following is NOT CORRECT about cathode ray properties? Cathode ray is",
+      "image": null,
+      "passage": null,
+      "options": [
+        "travel on straight lines",
+        "deflected by magnetic fields",
+        "negatively charged",
+        "depends on nature of materials"
+      ],
+      "answer": "D",
+      "explanation": "Cathode rays do NOT depend on the nature of the material used in the cathode — they are the same regardless of the electrode material. This was a key finding that suggested cathode rays were a fundamental particle (electrons). Cathode rays do travel in straight lines, are deflected by magnetic fields, and carry negative charge."
+    },
+    {
+      "id": 36,
+      "question": "Isotopes are atoms of the same elements that have:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "the same number of atomic mass",
+        "different number of neutrons",
+        "different number of protons",
+        "the same number of proton and neutron"
+      ],
+      "answer": "B",
+      "explanation": "Isotopes are atoms of the same element (same number of protons) that have different numbers of neutrons, resulting in different mass numbers. For example, ¹²C and ¹⁴C both have 6 protons but different numbers of neutrons (6 and 8, respectively)."
+    },
+    {
+      "id": 37,
+      "question": "The compound CuCl2 emits blue light having a wavelength of 750nm when heated at about 200°C. What is the increment in energy (quantum) that is emitted at 750nm?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "5.25 × 10⁻¹⁹ J",
+        "4.42 × 10⁻¹⁹ J",
+        "2.65 × 10⁻¹⁹ J",
+        "16.20 × 10⁻¹⁹ J"
+      ],
+      "answer": "C",
+      "explanation": "Using E = hc/λ: E = (6.626×10⁻³⁴ × 2.998×10⁸) / (750×10⁻⁹) = 1.987×10⁻²⁵ / 7.5×10⁻⁷ = 2.65×10⁻¹⁹ J."
+    },
+    {
+      "id": 38,
+      "question": "Which one of the following electromagnetic radiations has the shortest wavelength?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "X-rays",
+        "gamma rays",
+        "UV rays",
+        "microwaves"
+      ],
+      "answer": "B",
+      "explanation": "Gamma rays have the shortest wavelength (and highest energy) among the listed electromagnetic radiations. The order of increasing wavelength is: gamma rays < X-rays < UV rays < microwaves."
+    },
+    {
+      "id": 39,
+      "question": "What is energy of hydrogen atom at n=1?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "-2.18 × 10⁻¹⁸ J",
+        "4.38 × 10⁻¹⁸ J",
+        "+2.18 × 10⁻¹⁸ J",
+        "1.5 × 10⁻¹⁹ J"
+      ],
+      "answer": "A",
+      "explanation": "The energy of a hydrogen atom at principal quantum number n is given by Eₙ = -2.18×10⁻¹⁸/n² J. At n=1: E₁ = -2.18×10⁻¹⁸/1² = -2.18×10⁻¹⁸ J. The negative sign indicates the electron is bound to the nucleus."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following quantum numbers are described about the electron size, subshell and orientation of electrons atom respectively?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "n, l, ms",
+        "n, ml, l",
+        "n, ms, l",
+        "n, l, ml"
+      ],
+      "answer": "D",
+      "explanation": "The principal quantum number (n) describes the electron's energy level and size of orbital, the azimuthal quantum number (l) describes the subshell shape, and the magnetic quantum number (ml) describes the orientation of the orbital in space."
+    },
+    {
+      "id": 41,
+      "question": "Which one of the following is not permissible about quantum numbers?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "n=3, l=2, ml=0",
+        "n=5, l=3, ml=1",
+        "n=1, l=0, ml=0",
+        "n=4, l=5, ml=-3"
+      ],
+      "answer": "D",
+      "explanation": "The azimuthal quantum number l must be less than n (l ranges from 0 to n-1). For option D, n=4 but l=5, which violates this rule since l must be between 0 and 3 when n=4. Options A, B, and C all satisfy the quantum number rules."
+    },
+    {
+      "id": 42,
+      "question": "The principle state, 'The sequence order in which electrons are added to atoms orbitals starting from the lowest energy level and progressing to higher one' is proposed by:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Hundi's rule",
+        "Pauli's exclusion principle",
+        "Aufbau principle",
+        "Bohr principle"
+      ],
+      "answer": "C",
+      "explanation": "The Aufbau principle (German for 'building up') states that electrons fill atomic orbitals from the lowest energy level to higher energy levels. Hund's rule deals with electron filling in degenerate orbitals, and Pauli's exclusion principle states no two electrons can have the same set of quantum numbers."
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is the correct electron configuration of Copper element at ground state? (Atomic number of Cu = 29)",
+      "image": null,
+      "passage": null,
+      "options": [
+        "[Ar]4s²3d¹⁰",
+        "[Ar]4s¹ 3d¹⁰",
+        "[Ar]4s¹3d⁵",
+        "[Ar]4s² 3d⁹"
+      ],
+      "answer": "B",
+      "explanation": "Copper (Cu, Z=29) has the electron configuration [Ar]4s¹3d¹⁰ rather than the expected [Ar]4s²3d⁹. This is because a completely filled d-subshell (3d¹⁰) provides extra stability, so one electron from the 4s orbital is promoted to the 3d orbital."
+    },
+    {
+      "id": 44,
+      "question": "Which one of the following compound contains both ionic and covalent bonds?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Na2CO3",
+        "CaO",
+        "Al2O3",
+        "ICl3"
+      ],
+      "answer": "A",
+      "explanation": "Na2CO3 contains both ionic and covalent bonds. The Na⁺ and CO3²⁻ ions are held by ionic bonds, while within the carbonate ion (CO3²⁻), the C-O bonds are covalent. CaO and Al2O3 are primarily ionic, and ICl3 is purely covalent."
+    },
+    {
+      "id": 45,
+      "question": "Which of the following elements have the highest the fifth ionization energy?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Oxygen",
+        "sulphur"
+      ],
+      "answer": "A",
+      "explanation": "The fifth ionization energy involves removing the 5th electron. For nitrogen (1s²2s²2p³), removing 5 electrons would leave the 1s² core, requiring enormous energy as you'd be breaking into a filled shell. The fifth ionization energy is highest for the element whose 5th electron is closest to the nucleus or in a stable configuration that must be disrupted."
+    },
+    {
+      "id": 46,
+      "question": "Among the following which one is NOT TRUE about ionic compounds?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "ionic compounds are aggregate of ions",
+        "ionic compounds are usually soluble in water",
+        "ionic compounds have high melting point",
+        "ionic compounds conduct electricity in any state"
+      ],
+      "answer": "D",
+      "explanation": "Ionic compounds do NOT conduct electricity in solid state because the ions are fixed in a crystal lattice and cannot move. They only conduct electricity when melted (molten) or dissolved in water, where ions are free to move. Options A, B, and C are true statements about ionic compounds."
+    },
+    {
+      "id": 47,
+      "question": "Water molecules have two bond pairs and two lone pairs of electrons. Which of the following is correct about these pairs of electrons?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The repulsion between two lone pairs is greater than the repulsion between the two bonding pairs",
+        "Lone pair's repulsion is exactly identical with bonding pair-bonding pair repulsion",
+        "The repulsion between two bonding pairs is greater than the repulsion between the two lone pairs",
+        "Bonding pair's repulsion is exactly identical with lone pair-bonding pair repulsion"
+      ],
+      "answer": "A",
+      "explanation": "In VSEPR theory, the order of repulsion is: lone pair-lone pair > lone pair-bonding pair > bonding pair-bonding pair. Lone pairs are held closer to the central atom and occupy more space, creating greater repulsion. This is why water has a bond angle of 104.5° instead of the ideal 109.5° for tetrahedral arrangement."
+    },
+    {
+      "id": 48,
+      "question": "What is the hybridization of carbon atom in C2H2?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "sp3d",
+        "sp",
+        "sp2",
+        "sp3"
+      ],
+      "answer": "B",
+      "explanation": "In C2H2 (acetylene/ethyne), each carbon atom forms 2 bonds (one C-H and one C≡C triple bond), requiring 2 hybrid orbitals. The hybridization is sp, with 2 unhybridized p orbitals forming the two π bonds of the triple bond. The molecule is linear."
+    },
+    {
+      "id": 49,
+      "question": "Which of the following molecule does NOT obey the octet rule?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "CS2",
+        "PCl3",
+        "AlF3",
+        "HCN"
+      ],
+      "answer": "C",
+      "explanation": "AlF3 does not obey the octet rule because aluminum has only 6 electrons around it (3 bonds, no lone pairs), making it electron-deficient. CS2, PCl3, and HCN all satisfy the octet rule for their central atoms."
+    },
+    {
+      "id": 50,
+      "question": "Which of the following molecules has a trigonal bipyramidal structure based on electron set arrangement?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "IF5",
+        "ICl4⁻",
+        "BrF5",
+        "SF4"
+      ],
+      "answer": "D",
+      "explanation": "SF4 has 5 electron domains around sulfur (4 bonds + 1 lone pair), giving a trigonal bipyramidal electron geometry. IF5 has 6 electron domains (octahedral), ICl4⁻ has 6 electron domains (octahedral), and BrF5 has 6 electron domains (octahedral)."
+    },
+    {
+      "id": 51,
+      "question": "Which of the following properties is associated with covalent compounds? Covalent Compounds are:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "good electrical conductivity",
+        "form ions in the solution",
+        "crystalline solid at room temperature",
+        "exist as solid, liquid or gas state"
+      ],
+      "answer": "D",
+      "explanation": "Covalent compounds can exist as solids, liquids, or gases at room temperature, depending on the strength of their intermolecular forces. Unlike ionic compounds (which are typically crystalline solids), covalent compounds have varied physical states. They generally don't conduct electricity or form ions in solution."
+    },
+    {
+      "id": 52,
+      "question": "Which of the following is NOT TRUE about the physical properties of metals?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Metals have high electrical and thermal conductivity",
+        "Metals are malleable and ductile",
+        "Metals are not durable",
+        "Metals are very cool and shiny"
+      ],
+      "answer": "C",
+      "explanation": "Metals are generally durable — they can withstand stress and deformation. Saying 'Metals are not durable' is NOT true. Metals do have high conductivity (A is true), are malleable and ductile (B is true), and have a characteristic metallic luster (D is true)."
+    },
+    {
+      "id": 53,
+      "question": "Which hybridization changes when the carbon atom undergoes in the combustion of methane? CH4(g) + 2O2(g) → CO2(g) + 2H2O(g)",
+      "image": null,
+      "passage": null,
+      "options": [
+        "sp³ → sp³",
+        "sp³ → sp²",
+        "sp² → sp",
+        "sp³ → sp"
+      ],
+      "answer": "D",
+      "explanation": "In CH4, the carbon atom is sp³ hybridized (tetrahedral, 4 sigma bonds). In CO2, the carbon atom is sp hybridized (linear, 2 sigma bonds + 2 pi bonds). Therefore, the hybridization changes from sp³ to sp during the combustion of methane."
+    },
+    {
+      "id": 54,
+      "question": "Which of the following represents the correct molecular orbital electron configuration of O2?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "σ1s² σ*1s² σ2s² σ*2s² σ2px² (π2py² = π2pz²) (π*2py¹ = π*2pz¹)",
+        "σ1s² σ*1s² σ2s² σ*2s² σ2px² π2py² = π2pz² π*2py²",
+        "σ1s² σ*1s² σ2s² σ*2s² π2py² = π2pz² σ2px² π*2py² = π*2pz¹",
+        "σ1s² σ*1s² σ2s² σ*2s² σ2px² π2py² = π2pz² π*2pz²"
+      ],
+      "answer": "A",
+      "explanation": "O2 has 12 valence electrons. The correct MO configuration for O2 is: σ1s² σ*1s² σ2s² σ*2s² σ2px² (π2py² = π2pz²) (π*2py¹ = π*2pz¹). The two unpaired electrons in the π* antibonding orbitals explain O2's paramagnetic property, which was a key success of MO theory."
+    },
+    {
+      "id": 55,
+      "question": "Which of the following statement is TRUE about paramagnetic substances?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "they have all pair's electrons",
+        "they are attracted to magnetic fields due to unpaired electrons",
+        "they are always solid at room temperature",
+        "they have low boiling point than diamagnetic substances"
+      ],
+      "answer": "B",
+      "explanation": "Paramagnetic substances are attracted to external magnetic fields because they contain unpaired electrons. The unpaired electrons have magnetic moments that align with the applied field. Option A describes diamagnetic substances, and options C and D are not defining characteristics of paramagnetism."
+    },
+    {
+      "id": 56,
+      "question": "What is the bond order of diatomic molecule N2?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "2.5",
+        "1.5",
+        "3",
+        "2"
+      ],
+      "answer": "C",
+      "explanation": "For N2, the MO configuration is: σ1s² σ*1s² σ2s² σ*2s² π2py² = π2pz² σ2px². Bond order = (bonding electrons - antibonding electrons)/2 = (10 - 4)/2 = 3. N2 has a triple bond, consistent with its very high bond energy and short bond length."
+    },
+    {
+      "id": 57,
+      "question": "Which of the following substances is example of molecular crystal?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "NaCl",
+        "SiO2",
+        "Fe",
+        "C6H12O6"
+      ],
+      "answer": "D",
+      "explanation": "C6H12O6 (glucose) is a molecular crystal — its lattice points are occupied by discrete molecules held together by intermolecular forces (hydrogen bonds and van der Waals forces). NaCl is an ionic crystal, SiO2 is a covalent network crystal, and Fe is a metallic crystal."
+    },
+    {
+      "id": 58,
+      "question": "From the given assumption of kinetic molecular theory of gases which of the following is CORRECT?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "A gas is a collection of particles in constant, curved-line motion.",
+        "There is no space between gas particles compared with the size of the particles themselves",
+        "Gas particles do not attract or repel each other, they do not interact",
+        "The average kinetic energy of gas particles is inversely proportional to the temperature of the gas in kelvins."
+      ],
+      "answer": "C",
+      "explanation": "According to kinetic molecular theory, gas particles do not attract or repel each other — their interactions are negligible except during collisions. Option A is wrong (particles move in straight lines, not curved), B is wrong (gas particles have negligible volume compared to the space between them), and D is wrong (KE is directly, not inversely, proportional to temperature)."
+    },
+    {
+      "id": 59,
+      "question": "The molar volume of a gas is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The 1 mole of a gas occupied by 22.4 liters at standard temperature and pressure",
+        "The volume occupied by 2 mole of a gas at a given temperature",
+        "The volume of a gas having weight of 1g",
+        "The volume equivalent to 1000ml of a gas at 273K and 1atm pressure"
+      ],
+      "answer": "A",
+      "explanation": "The molar volume of a gas is the volume occupied by 1 mole of gas at STP (standard temperature and pressure: 0°C and 1 atm). At STP, 1 mole of any ideal gas occupies 22.4 liters. This is based on the ideal gas law: V = nRT/P."
+    },
+    {
+      "id": 60,
+      "question": "Which of the following is CORRECTLY describes conjugate acids and conjugate bases?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Conjugate base has one more hydrogen and one fewer minus charge than the corresponding base",
+        "Conjugate base is a species formed after removal of proton from an acid whereas conjugate acid is formed after addition of proton to a base",
+        "Conjugate acid has one more fewer and one more minus charge than the corresponding base",
+        "Conjugate acid is a species formed after removal of proton from a base whereas conjugate base is formed after addition of proton to a acid"
+      ],
+      "answer": "B",
+      "explanation": "A conjugate base is what remains after an acid donates (loses) a proton, and a conjugate acid is formed when a base accepts (gains) a proton. For example, in HA → H⁺ + A⁻, A⁻ is the conjugate base of acid HA, and in B + H⁺ → BH⁺, BH⁺ is the conjugate acid of base B."
+    },
+    {
+      "id": 61,
+      "question": "Which of the following molecule is act as a Lewis acid?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "BF3",
+        "NH3",
+        "Cl⁻",
+        "OH⁻"
+      ],
+      "answer": "A",
+      "explanation": "A Lewis acid is an electron pair acceptor. BF3 (boron trifluoride) is a Lewis acid because boron has only 6 electrons in its valence shell and can accept an electron pair to complete its octet. NH3, Cl⁻, and OH⁻ are all Lewis bases (electron pair donors)."
+    },
+    {
+      "id": 62,
+      "question": "The pH of a 0.1M solution of aqueous solution of certain acid is 5. What is the value of acid ionization constant (Ka) of this acid?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "1.0 × 10⁻¹⁰",
+        "1.0 × 10⁻⁵",
+        "1.0 × 10⁻⁴",
+        "1.0 × 10⁻⁹"
+      ],
+      "answer": "D",
+      "explanation": "pH = 5, so [H⁺] = 10⁻⁵ M. For a weak acid HA: Ka = [H⁺]²/[HA]. [HA]initial = 0.1 M, [HA]equilibrium ≈ 0.1 - 10⁻⁵ ≈ 0.1. Ka = (10⁻⁵)²/0.1 = 10⁻¹⁰/0.1 = 10⁻⁹."
+    },
+    {
+      "id": 63,
+      "question": "What happen to the degree of ionization of 0.1M solution of acetic acid (CH3COOH) if small amount of sodium acetate (CH3COONa) is added?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "the degree of ionization increase because the concentration of ions increases",
+        "the degree of ionization decreases because the equilibrium shift toward the reactants",
+        "the degree of ionization remains constant because Ka is constant",
+        "the pH value of the solution depends on position of equilibrium"
+      ],
+      "answer": "B",
+      "explanation": "This is an example of the common ion effect. Adding CH3COONa increases [CH3COO⁻] in solution. By Le Chatelier's principle, the equilibrium CH3COOH ⇌ CH3COO⁻ + H⁺ shifts to the left (toward reactants) to reduce the increased product concentration. This decreases the degree of ionization of acetic acid."
+    },
+    {
+      "id": 64,
+      "question": "What is the pH of a buffer solution containing 0.15 M acetic acid (CH₃COOH) and 0.10 M sodium acetate (CH₃COONa)? (Given pKa of acetic acid = 4.74)",
+      "image": null,
+      "passage": null,
+      "options": [
+        "4.56",
+        "10.76",
+        "5.06",
+        "5.26"
+      ],
+      "answer": "A",
+      "explanation": "Using the Henderson-Hasselbalch equation: pH = pKa + log([A⁻]/[HA]) = 4.74 + log(0.10/0.15) = 4.74 + log(0.667) = 4.74 + (-0.176) = 4.56."
+    },
+    {
+      "id": 65,
+      "question": "Which of the following salts would likely produce an acidic solution when dissolved in water?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "CH₃COONa",
+        "K2CO3",
+        "NH4Cl",
+        "CaSO4"
+      ],
+      "answer": "C",
+      "explanation": "NH4Cl produces an acidic solution because NH4⁺ is the conjugate acid of the weak base NH3, and it undergoes hydrolysis: NH4⁺ + H2O → NH3 + H3O⁺. CH₃COONa and K2CO3 produce basic solutions (conjugate bases of weak acids), and CaSO4 is approximately neutral."
+    },
+    {
+      "id": 66,
+      "question": "What is the primary difference between the endpoint and the equivalence point in a titration?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The endpoint is where the reaction is complete, while the equivalence point is where the indicator changes color.",
+        "The endpoint is where the indicator changes color, while the equivalence point is where the amount of titrant equals the amount of analyte",
+        "The endpoint occurs before the equivalence point.",
+        "There is no difference; they are synonymous terms."
+      ],
+      "answer": "B",
+      "explanation": "The equivalence point is the theoretical point where the moles of titrant exactly equal the moles of analyte (stoichiometric point). The endpoint is the practical point where the indicator changes color, which should be as close as possible to the equivalence point but is observed visually rather than calculated."
+    },
+    {
+      "id": 67,
+      "question": "Which of the following statements about indicators used in titrations is TRUE?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Indicators change color at the equivalence point",
+        "Indicators do not affect the titration results",
+        "Indicators are only necessary for strong acid-strong base titrations.",
+        "Indicators should have a pH range that includes the endpoint but not necessarily the equivalence point"
+      ],
+      "answer": "D",
+      "explanation": "An indicator should have a pH transition range that includes the expected endpoint of the titration, which ideally should be close to but not necessarily exactly at the equivalence point. The indicator doesn't need to change color exactly at the equivalence point — it just needs to signal when the endpoint is reached."
+    },
+    {
+      "id": 68,
+      "question": "What is oxidation number of Fe in the K4[Fe(CN)6]?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "+2",
+        "+6",
+        "-4",
+        "+1"
+      ],
+      "answer": "A",
+      "explanation": "In K4[Fe(CN)6]: K has oxidation number +1, CN⁻ has oxidation number -1. Total charge = 0. So: 4(+1) + Fe + 6(-1) = 0 → 4 + Fe - 6 = 0 → Fe = +2."
+    },
+    {
+      "id": 69,
+      "question": "In the reaction 2Na + 2H₂O → 2NaOH + H₂, which species is oxidized?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "NaOH",
+        "H₂O",
+        "Na",
+        "H₂"
+      ],
+      "answer": "C",
+      "explanation": "Oxidation involves loss of electrons. Na goes from oxidation state 0 (in elemental Na) to +1 (in NaOH), losing one electron per atom. Therefore, Na is oxidized. The H in H₂O is reduced from +1 to 0 in H₂."
+    },
+    {
+      "id": 70,
+      "question": "Which one of the following is TRUE in the electrolysis of dilute H2SO4 solution?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "oxygen gas is liberated at cathode electrode",
+        "concentration of H2SO4 is increase after electrolysis",
+        "hydrogen gas is released at anode electrode",
+        "water is not undergo electrolysis"
+      ],
+      "answer": "B",
+      "explanation": "During electrolysis of dilute H2SO4, water is electrolyzed: H⁺ is reduced at the cathode to produce H2, and OH⁻ is oxidized at the anode to produce O2. As water is consumed, the concentration of H2SO4 increases over time."
+    },
+    {
+      "id": 71,
+      "question": "One of the basic differences between metallic conduction and electrolytic conduction is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The charge carriers in metals are localized electrons while strongly held ions are in electrolytic conductors",
+        "The conduction of electricity is due to the movement of ions in electrolytic conduction while the flow of electrons in metallic conduction",
+        "The charge carriers in metals are cations and anions while mobile electrons are in electrolytic conduction",
+        "The conduction of electricity is due to the movement of ions in metallic conduction while the flow of electrons in electrolytic conduction"
+      ],
+      "answer": "B",
+      "explanation": "In metallic conduction, electricity flows through the movement of delocalized electrons. In electrolytic conduction, electricity flows through the movement of ions (cations and anions) in solution. This is the fundamental difference between the two types of conduction."
+    },
+    {
+      "id": 72,
+      "question": "Three electrolytic cells are connected in series that contain Au3+, Ag+ and Cu2+ ions. How many grams of Ag+ and Cu2+ metal will be deposited at cathode if 28g of Au3+ is deposited respectively?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "65.66 g and 32g",
+        "25.33 g and 7.51g",
+        "108g and 14g",
+        "46.05g and 13.64g"
+      ],
+      "answer": "D",
+      "explanation": "In series, the same charge passes through all cells. Moles of electrons for 28g Au3⁺: 28/197 = 0.142 mol Au, requiring 0.142 × 3 = 0.426 mol e⁻. For Ag⁺: 0.426 mol Ag deposited = 0.426 × 107.87 = 46.05 g. For Cu2⁺: 0.426/2 = 0.213 mol Cu deposited = 0.213 × 63.55 = 13.54 ≈ 13.64 g."
+    },
+    {
+      "id": 73,
+      "question": "In the electrolysis of a concentrated solution of sodium chloride (brine), which gas is produced at the anode?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Chlorine",
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "answer": "A",
+      "explanation": "In the electrolysis of concentrated NaCl (brine), Cl⁻ ions are preferentially oxidized at the anode over water because of the high concentration of Cl⁻, producing chlorine gas (2Cl⁻ → Cl2 + 2e⁻). Hydrogen gas is produced at the cathode."
+    },
+    {
+      "id": 74,
+      "question": "In a galvanic cell, how can you identify the cathode when given standard reduction potentials?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The electrode that is larger in size is the cathode",
+        "The electrode with the lower reduction potential is the used as electrolyte",
+        "The electrode with the higher reduction potential is the cathode",
+        "The electrode that is connected to the positive terminal of the battery is always the cathode"
+      ],
+      "answer": "C",
+      "explanation": "In a galvanic cell, the cathode is the electrode where reduction occurs. The half-cell with the higher standard reduction potential serves as the cathode because it has a greater tendency to be reduced (gain electrons)."
+    },
+    {
+      "id": 75,
+      "question": "Which of the following statements is TRUE regarding the half-reactions in a galvanic cell?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The anode half-reaction involves loss of electrons",
+        "The cathode half-reaction involves oxidation",
+        "The cathode half-reaction produces ions",
+        "The anode half-reaction involves reduction"
+      ],
+      "answer": "A",
+      "explanation": "In a galvanic cell, the anode is where oxidation occurs (loss of electrons), and the cathode is where reduction occurs (gain of electrons). This can be remembered by the mnemonic 'LEO says GER' — Loss of Electrons is Oxidation (anode), Gain of Electrons is Reduction (cathode)."
+    },
+    {
+      "id": 76,
+      "question": "Given the reaction: Al(s) + Cu2+(aq) → Al3+(aq) + Cu(s): which of the following is the correct cell notation?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Cu2+(aq) / Cu(s) // Al3+(aq) / Al(s)",
+        "Al(s) / Al3+(aq) // Cu(s) / Cu2+(aq)",
+        "Cu2+(aq) / Cu(s) // Al(s) / Al3+(aq)",
+        "Al(s) / Al3+(aq) // Cu2+(aq) / Cu(s)"
+      ],
+      "answer": "D",
+      "explanation": "In cell notation, the anode (oxidation) is written on the left and the cathode (reduction) on the right, separated by a double vertical line (salt bridge). Al is oxidized (anode), and Cu2⁺ is reduced (cathode). The correct notation is: Al(s)/Al3+(aq) // Cu2+(aq)/Cu(s)."
+    },
+    {
+      "id": 77,
+      "question": "Which one of the following are renewable natural resources?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Animals",
+        "Coal",
+        "petroleum",
+        "crude oil"
+      ],
+      "answer": "A",
+      "explanation": "Animals are renewable natural resources because they can reproduce and replenish their populations. Coal, petroleum, and crude oil are fossil fuels that take millions of years to form and are considered non-renewable resources."
+    },
+    {
+      "id": 78,
+      "question": "The process of producing ammonia in the industry is by:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Contact process",
+        "Ostwald process",
+        "Solvay process",
+        "Haber process"
+      ],
+      "answer": "D",
+      "explanation": "The Haber process is the industrial method for producing ammonia by reacting nitrogen gas with hydrogen gas at high temperature (400-500°C) and pressure (150-300 atm) using an iron catalyst: N2 + 3H2 ⇌ 2NH3. The Contact process produces sulfuric acid, Ostwald process produces nitric acid, and Solvay process produces sodium carbonate."
+    },
+    {
+      "id": 79,
+      "question": "Which one of the following is INCORRECT about chemical industries? Chemical industry is",
+      "image": null,
+      "passage": null,
+      "options": [
+        "use safe operation methods in their manufacturing process",
+        "consume relatively large quantities of energy during production",
+        "use only naturally available raw materials",
+        "test their products before and after production"
+      ],
+      "answer": "C",
+      "explanation": "Chemical industries do NOT use only naturally available raw materials — they also use synthetically produced chemicals and processed materials as raw materials. Many industrial chemicals are made from other manufactured chemicals, not just natural resources."
+    },
+    {
+      "id": 80,
+      "question": "What is one of the primary industrial uses of ammonia?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "As a food preservative",
+        "In the production of fertilizers",
+        "As a cleaning agent for glass",
+        "In the manufacturing of plastics"
+      ],
+      "answer": "B",
+      "explanation": "The primary industrial use of ammonia (NH3) is in the production of fertilizers. About 80-90% of ammonia produced worldwide is used to make fertilizers such as ammonium nitrate, ammonium sulfate, and urea. This is crucial for global food production."
+    }
+  ]
+}
+// Total questions: 80
+// Images needed: None
+// Passages: None
+// Subject: Chemistry
+// Year: 2018 E.C, Paper 5

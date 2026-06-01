@@ -12,7 +12,7 @@
     { id: 'chemistry', name: 'Chemistry',              icon: '⚗️', papers: ['2015_p1'] },
     { id: 'mathematics', name: 'Mathematics',          icon: '📐', papers: ['2015_p1'] },
     { id: 'physics',   name: 'Physics',                icon: '⚡', papers: ['2015_p1'] },
-    { id: 'english',   name: 'English',                icon: '📖', papers: ['2015_p1'] },
+    { id: 'english',   name: 'English',                icon: '📖', papers: ['2016_p1'] },
     { id: 'aptitude',  name: 'Scholastic Aptitude',    icon: '🧠', papers: ['2015_p1'] },
   ];
 

@@ -2,7 +2,7 @@
   "scripts": {
     "build": "node generate-manifest.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "playwright": "^1.60.0"
   }
 }

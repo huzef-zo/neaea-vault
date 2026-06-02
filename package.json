@@ -1,5 +1,8 @@
 {
   "scripts": {
     "build": "node generate-manifest.js"
+  },
+  "dependencies": {
+    "playwright": "^1.60.0"
   }
 }

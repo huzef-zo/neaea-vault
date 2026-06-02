@@ -2,7 +2,7 @@
   "name": "NEAEA Vault",
   "short_name": "NEAEA Vault",
   "description": "Offline exam simulator for Ethiopian NEAEA/ESSLCE students. Every past paper. Every subject. Offline, always.",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#050816",
   "theme_color": "#0a0e27",

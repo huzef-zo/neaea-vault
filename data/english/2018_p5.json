@@ -64,7 +64,12 @@
       "question": "Which of the following words is used to suggest disapproval? (paragraph 6)",
       "image": null,
       "passage": "Same passage",
-      "options": ["rounds", "stuff", "contraption", "sniff"],
+      "options": [
+        "rounds",
+        "stuff",
+        "contraption",
+        "sniff"
+      ],
       "answer": "C",
       "explanation": "'Contraption' often implies a strange or awkward device, suggesting disapproval or amusement. The other words are neutral or not disapproving."
     },
@@ -87,7 +92,12 @@
       "question": "The word 'adage' paragraph 3 means",
       "image": null,
       "passage": "Same passage",
-      "options": ["Tool", "Age", "Gadget", "Saying"],
+      "options": [
+        "Tool",
+        "Age",
+        "Gadget",
+        "Saying"
+      ],
       "answer": "D",
       "explanation": "Adage means a proverb or wise saying."
     },
@@ -96,7 +106,12 @@
       "question": "The phrase 'far-flung' paragraph 2 refers to",
       "image": null,
       "passage": "Same passage",
-      "options": ["Remote", "Sampled", "Close", "Unknown"],
+      "options": [
+        "Remote",
+        "Sampled",
+        "Close",
+        "Unknown"
+      ],
       "answer": "A",
       "explanation": "Far-flung means distant or remote."
     },
@@ -105,7 +120,12 @@
       "question": "Which one of the following is a possible title for the passage?",
       "image": null,
       "passage": "Same passage",
-      "options": ["Rewire", "The Internet Today", "Untangling the Web", "The web"],
+      "options": [
+        "Rewire",
+        "The Internet Today",
+        "Untangling the Web",
+        "The web"
+      ],
       "answer": "A",
       "explanation": "The passage is a review of two books, but primarily focuses on 'Rewire' by Ethan Zuckerman. 'Rewire' is mentioned as the first book and the reviewer discusses its thesis extensively."
     },
@@ -114,7 +134,12 @@
       "question": "Which of the following is a technology for enabling us to escape from filters that limit search and networking systems?",
       "image": null,
       "passage": "Same passage",
-      "options": ["transparent translation", "bridge figures", "engineered serendipity", "contemplating solution"],
+      "options": [
+        "transparent translation",
+        "bridge figures",
+        "engineered serendipity",
+        "contemplating solution"
+      ],
       "answer": "C",
       "explanation": "The passage explicitly defines 'engineered serendipity' as technology for escaping filters that limit search and networking systems."
     },
@@ -263,7 +288,12 @@
       "question": "The philosopher's essay was a critique of modern _____, arguing that the relentless pursuit of possessions empties life of deeper meaning.",
       "image": null,
       "passage": null,
-      "options": ["consumerism", "pesticides", "synergy", "conservation"],
+      "options": [
+        "consumerism",
+        "pesticides",
+        "synergy",
+        "conservation"
+      ],
       "answer": "A",
       "explanation": "Consumerism is the pursuit of material possessions. The sentence describes that pursuit, so consumerism is correct."
     },
@@ -272,7 +302,12 @@
       "question": "Despite the farmer's careful use of _____, a resilient strain of beetles began to devastate the crop.",
       "image": null,
       "passage": null,
-      "options": ["consumerism", "pesticides", "prototypes", "compromises"],
+      "options": [
+        "consumerism",
+        "pesticides",
+        "prototypes",
+        "compromises"
+      ],
       "answer": "B",
       "explanation": "Farmers use pesticides to kill insects. A resilient strain of beetles would survive pesticides, devastating the crop."
     },
@@ -281,7 +316,12 @@
       "question": "Through the thick morning fog, the lookout on the ship could just barely _____ the outline of the distant coastline.",
       "image": null,
       "passage": null,
-      "options": ["knock over", "keep off", "descry", "result in"],
+      "options": [
+        "knock over",
+        "keep off",
+        "descry",
+        "result in"
+      ],
       "answer": "C",
       "explanation": "Descry means to catch sight of or make out something distant or faint. In fog, the lookout could descry the coastline."
     },
@@ -290,7 +330,12 @@
       "question": "The alarming data on plastic pollution in the oceans has led many scientists to _____ an immediate and global reduction in single-use plastics.",
       "image": null,
       "passage": null,
-      "options": ["keep off", "call for", "knock over", "descry"],
+      "options": [
+        "keep off",
+        "call for",
+        "knock over",
+        "descry"
+      ],
       "answer": "B",
       "explanation": "Call for means to demand or request. Scientists would call for a reduction in plastics."
     },
@@ -299,7 +344,12 @@
       "question": "The historian argued that the treaty's punitive conditions would _____ economic instability and, ultimately, a second conflict.",
       "image": null,
       "passage": null,
-      "options": ["keep off", "call for", "result in", "knock over"],
+      "options": [
+        "keep off",
+        "call for",
+        "result in",
+        "knock over"
+      ],
       "answer": "C",
       "explanation": "Result in means to cause or lead to. Punitive conditions would result in instability and conflict."
     },
@@ -308,7 +358,12 @@
       "question": "The exhibition of fragile ancient artefacts was carefully arranged to ensure that no visitor would accidentally _____ a priceless vase.",
       "image": null,
       "passage": null,
-      "options": ["result in", "call for", "knock over", "keep off"],
+      "options": [
+        "result in",
+        "call for",
+        "knock over",
+        "keep off"
+      ],
       "answer": "C",
       "explanation": "Knock over means to cause to fall by bumping. Visitors might accidentally knock over a vase."
     },
@@ -317,7 +372,12 @@
       "question": "Signs around the protected breeding ground clearly read, 'Please _____ the grass' to allow the endangered birds to nest undisturbed.",
       "image": null,
       "passage": null,
-      "options": ["knock over", "keep off", "call for", "descry"],
+      "options": [
+        "knock over",
+        "keep off",
+        "call for",
+        "descry"
+      ],
       "answer": "B",
       "explanation": "Keep off means to stay away from. Signs saying 'keep off the grass' are common to protect the area."
     },
@@ -326,7 +386,12 @@
       "question": "The _____ smoking area was placed well away from the building's entrances and air intake vents.",
       "image": null,
       "passage": null,
-      "options": ["contested", "inferior", "savage", "designated"],
+      "options": [
+        "contested",
+        "inferior",
+        "savage",
+        "designated"
+      ],
       "answer": "D",
       "explanation": "Designated means officially assigned. A designated smoking area is set aside for that purpose."
     },
@@ -335,7 +400,12 @@
       "question": "The critic dismissed the artist's latest work as _____ to her earlier masterpieces, lacking both the technical skill and emotional depth.",
       "image": null,
       "passage": null,
-      "options": ["designated", "inferior", "contested", "comprehensive"],
+      "options": [
+        "designated",
+        "inferior",
+        "contested",
+        "comprehensive"
+      ],
       "answer": "B",
       "explanation": "Inferior means lower in quality. The new work is inferior to the earlier masterpieces."
     },
@@ -344,7 +414,12 @@
       "question": "The review of the new play was unexpectedly _____, describing the performance as a 'brutal dismantling of theatrical convention.'",
       "image": null,
       "passage": null,
-      "options": ["inferior", "savage", "designated", "mainstream"],
+      "options": [
+        "inferior",
+        "savage",
+        "designated",
+        "mainstream"
+      ],
       "answer": "B",
       "explanation": "Savage means extremely harsh or brutal. The review described a brutal dismantling, so savage fits."
     },
@@ -353,7 +428,12 @@
       "question": "The election results in the _____ district were subjected to a recount after allegations of widespread irregularities.",
       "image": null,
       "passage": null,
-      "options": ["savage", "inferior", "contested", "unconventional"],
+      "options": [
+        "savage",
+        "inferior",
+        "contested",
+        "unconventional"
+      ],
       "answer": "C",
       "explanation": "Contested means disputed or challenged. A contested district would have allegations and a recount."
     },
@@ -362,7 +442,12 @@
       "question": "Arrange sentences: a. more that the scale of AIDS pandemic. b. scientists, economists and politicians made a powerful plea for international action to fight COVID 19. c. and demanded that the diseases be recognized as a major problem. d. they describe it as 'a disaster looming over the world'. e. so more effort should be exerted to overcome the virus.",
       "image": null,
       "passage": null,
-      "options": ["b e a c d", "b d c a e", "b c e a d", "e a b c d"],
+      "options": [
+        "b e a c d",
+        "b d c a e",
+        "b c e a d",
+        "e a b c d"
+      ],
       "answer": "B",
       "explanation": "Logical order: b (scientists made plea) → d (they describe it as disaster) → c (demanded recognition) → a (more that the scale of AIDS) → e (so more effort). That is b,d,c,a,e which is option B."
     },
@@ -371,7 +456,12 @@
       "question": "Arrange sentences: a. all these are very bad. b. it causes lung cancer. c. smoking is very dangerous habit. d. it also causes throat infection. e. it is therefore, good to avoid smoking altogether.",
       "image": null,
       "passage": null,
-      "options": ["c a b e d", "b a c e d", "c b d a e", "b c d a e"],
+      "options": [
+        "c a b e d",
+        "b a c e d",
+        "c b d a e",
+        "b c d a e"
+      ],
       "answer": "C",
       "explanation": "Logical order: c (smoking dangerous) → b (causes lung cancer) → d (also causes throat infection) → a (all these bad) → e (therefore avoid). That is c,b,d,a,e which is option C."
     },
@@ -380,7 +470,12 @@
       "question": "Arrange sentences: a. he dislike the idea of always being available. b. they want him to keep it on all the time. c. Alemu's company has bought him a mobile phone. d. he also hates the way some people talk loudly on the mobile. e. he usually is impatient with them.",
       "image": null,
       "passage": null,
-      "options": ["c b a d e", "a b c d e", "b c a d e", "a c d b e"],
+      "options": [
+        "c b a d e",
+        "a b c d e",
+        "b c a d e",
+        "a c d b e"
+      ],
       "answer": "A",
       "explanation": "Logical order: c (company bought phone) → b (they want him always on) → a (he dislikes being always available) → d (also hates loud talkers) → e (impatient with them). That is c,b,a,d,e which is option A."
     },
@@ -487,7 +582,11 @@
       "question": "If I had had free time, I ... shopping.",
       "image": null,
       "passage": null,
-      "options": ["can go", "will go", "would have gone"],
+      "options": [
+        "can go",
+        "will go",
+        "would have gone"
+      ],
       "answer": "C",
       "explanation": "Third conditional: If I had had free time, I would have gone shopping."
     },
@@ -496,7 +595,11 @@
       "question": "If I were you, I ... that job.",
       "image": null,
       "passage": null,
-      "options": ["can take", "will ask for", "would apply for"],
+      "options": [
+        "can take",
+        "will ask for",
+        "would apply for"
+      ],
       "answer": "C",
       "explanation": "Present unreal conditional: If I were you, I would apply for that job."
     },
@@ -505,7 +608,11 @@
       "question": "His manager was so angry because of ... late.",
       "image": null,
       "passage": null,
-      "options": ["his being", "him to be", "he was"],
+      "options": [
+        "his being",
+        "him to be",
+        "he was"
+      ],
       "answer": "A",
       "explanation": "After 'because of' we need a noun phrase. 'His being late' is a gerund phrase acting as a noun. 'He was' would be a clause, needing 'because' not 'because of'."
     },
@@ -514,7 +621,11 @@
       "question": "Would you mind showing me ...?",
       "image": null,
       "passage": null,
-      "options": ["where is the post-office", "the way to the post-office", "how can I go to the post-office"],
+      "options": [
+        "where is the post-office",
+        "the way to the post-office",
+        "how can I go to the post-office"
+      ],
       "answer": "B",
       "explanation": "The polite request 'Would you mind showing me the way to the post-office?' is correct. The other options have incorrect word order for indirect questions."
     },
@@ -523,7 +634,11 @@
       "question": "How long have you known her? ...",
       "image": null,
       "passage": null,
-      "options": ["Since five years", "Ever since five years", "For five years"],
+      "options": [
+        "Since five years",
+        "Ever since five years",
+        "For five years"
+      ],
       "answer": "C",
       "explanation": "Duration uses 'for' + period of time. 'For five years' is correct. 'Since' requires a point in time."
     },
@@ -532,7 +647,11 @@
       "question": "My uncle has just arrived ...... Berlin.",
       "image": null,
       "passage": null,
-      "options": ["to", "in", "for"],
+      "options": [
+        "to",
+        "in",
+        "for"
+      ],
       "answer": "B",
       "explanation": "Arrive in + city/country. 'Arrived in Berlin' is correct."
     },
@@ -541,7 +660,11 @@
       "question": "It ... a long time since she last saw me.",
       "image": null,
       "passage": null,
-      "options": ["has been", "was", "will be"],
+      "options": [
+        "has been",
+        "was",
+        "will be"
+      ],
       "answer": "A",
       "explanation": "It has been + time + since + past simple. 'It has been a long time since she last saw me.'"
     },
@@ -550,7 +673,11 @@
       "question": "I think she will join us, ...?",
       "image": null,
       "passage": null,
-      "options": ["will she", "won't she", "doesn't she"],
+      "options": [
+        "will she",
+        "won't she",
+        "doesn't she"
+      ],
       "answer": "B",
       "explanation": "Tag question for positive statement with 'will' is 'won't she'. 'I think she will join us, won't she?'"
     },
@@ -559,7 +686,11 @@
       "question": "Could you hang ...... a minute? I'll be right back.",
       "image": null,
       "passage": null,
-      "options": ["up", "in", "on"],
+      "options": [
+        "up",
+        "in",
+        "on"
+      ],
       "answer": "C",
       "explanation": "Phrasal verb 'hang on' means wait a short time. 'Hang on a minute' is correct."
     },
@@ -568,7 +699,11 @@
       "question": "The man fell from the tree and ... consciousness.",
       "image": null,
       "passage": null,
-      "options": ["lost", "missed", "dropped"],
+      "options": [
+        "lost",
+        "missed",
+        "dropped"
+      ],
       "answer": "A",
       "explanation": "Lost consciousness means became unconscious. 'Lost' is correct."
     },
@@ -577,7 +712,11 @@
       "question": "Your money will be refunded if the goods are not to your ......",
       "image": null,
       "passage": null,
-      "options": ["satisfy", "satisfied", "satisfaction"],
+      "options": [
+        "satisfy",
+        "satisfied",
+        "satisfaction"
+      ],
       "answer": "C",
       "explanation": "To your satisfaction is a fixed phrase meaning meeting your expectations. 'Satisfaction' is the correct noun."
     },
@@ -586,7 +725,11 @@
       "question": "If he ...... harder, the results would be better.",
       "image": null,
       "passage": null,
-      "options": ["worked", "will work", "has worked"],
+      "options": [
+        "worked",
+        "will work",
+        "has worked"
+      ],
       "answer": "A",
       "explanation": "Present unreal conditional: If he worked harder (past subjunctive), the results would be better."
     },
@@ -595,7 +738,11 @@
       "question": "Mary ...... to take her neighbours to court if they didn't stop making so much noise.",
       "image": null,
       "passage": null,
-      "options": ["promised", "threatened", "suggested"],
+      "options": [
+        "promised",
+        "threatened",
+        "suggested"
+      ],
       "answer": "B",
       "explanation": "Threatened to take them to court expresses an intention to cause harm if they didn't stop. Promised would be positive, suggested is not appropriate."
     },
@@ -604,7 +751,11 @@
       "question": "In some schools, the training quality is worse than ...... used to be.",
       "image": null,
       "passage": null,
-      "options": ["it", "that", "they"],
+      "options": [
+        "it",
+        "that",
+        "they"
+      ],
       "answer": "A",
       "explanation": "The pronoun 'it' refers to 'the training quality'. 'It used to be' is correct."
     },
@@ -613,7 +764,11 @@
       "question": "I was ... about to ring up his office when Mike arrived home.",
       "image": null,
       "passage": null,
-      "options": ["just", "only", "still"],
+      "options": [
+        "just",
+        "only",
+        "still"
+      ],
       "answer": "A",
       "explanation": "Just about to means almost ready to do something. 'I was just about to ring' is correct."
     },
@@ -622,7 +777,11 @@
       "question": "I'll be disappointed if you ... the exam.",
       "image": null,
       "passage": null,
-      "options": ["won't pass", "pass", "don't pass"],
+      "options": [
+        "won't pass",
+        "pass",
+        "don't pass"
+      ],
       "answer": "C",
       "explanation": "First conditional: 'if you don't pass' (present simple in condition clause). 'Won't pass' is incorrect in condition clause."
     },
@@ -631,7 +790,11 @@
       "question": "Could you ... me some money?",
       "image": null,
       "passage": null,
-      "options": ["give", "lend", "borrow"],
+      "options": [
+        "give",
+        "lend",
+        "borrow"
+      ],
       "answer": "B",
       "explanation": "Lend means give temporarily expecting return. 'Could you lend me some money?' is correct. Borrow is receive."
     },
@@ -640,7 +803,11 @@
       "question": "The politicians have promised to deal with the problem of ...... among young people.",
       "image": null,
       "passage": null,
-      "options": ["employ", "employer", "unemployment"],
+      "options": [
+        "employ",
+        "employer",
+        "unemployment"
+      ],
       "answer": "C",
       "explanation": "Unemployment is the problem of being without work. The other options are not problems."
     },
@@ -649,7 +816,11 @@
       "question": "A lot of people go to see the movie, it ... be exciting.",
       "image": null,
       "passage": null,
-      "options": ["shall", "must", "can"],
+      "options": [
+        "shall",
+        "must",
+        "can"
+      ],
       "answer": "B",
       "explanation": "Must expresses strong logical deduction. Many people go, so it must be exciting."
     },
@@ -658,7 +829,11 @@
       "question": "We don't think we can ... to see our professor again until next semester.",
       "image": null,
       "passage": null,
-      "options": ["think", "wait", "attend"],
+      "options": [
+        "think",
+        "wait",
+        "attend"
+      ],
       "answer": "B",
       "explanation": "Wait to see means have to delay until. 'Can't wait to see' would mean eager, but here it's negative. The intended is 'wait'."
     },
@@ -667,7 +842,11 @@
       "question": "I'm sorry for spilling the juice over your carpet. Response:",
       "image": null,
       "passage": null,
-      "options": ["I should forgive you!", "No problem!", "This is all right!"],
+      "options": [
+        "I should forgive you!",
+        "No problem!",
+        "This is all right!"
+      ],
       "answer": "B",
       "explanation": "Appropriate response to an apology: 'No problem!' or 'That's all right.' Option B is correct."
     },
@@ -676,7 +855,11 @@
       "question": "The movie was very sad and she wept. If it ... sad, she ...",
       "image": null,
       "passage": null,
-      "options": ["hadn't been/wouldn't have wept", "had been/would have wept", "wasn't/wouldn't weep"],
+      "options": [
+        "hadn't been/wouldn't have wept",
+        "had been/would have wept",
+        "wasn't/wouldn't weep"
+      ],
       "answer": "A",
       "explanation": "Third conditional: If it hadn't been sad, she wouldn't have wept."
     },
@@ -685,7 +868,11 @@
       "question": "Think before you write the answer. ... you may make a mistake.",
       "image": null,
       "passage": null,
-      "options": ["If so", "Otherwise", "However"],
+      "options": [
+        "If so",
+        "Otherwise",
+        "However"
+      ],
       "answer": "B",
       "explanation": "Otherwise means if you don't think, then you may make a mistake. 'Otherwise' is correct."
     },
@@ -694,7 +881,11 @@
       "question": "It's nearly three years since I last ... to Japan.",
       "image": null,
       "passage": null,
-      "options": ["had gone", "have gone", "went"],
+      "options": [
+        "had gone",
+        "have gone",
+        "went"
+      ],
       "answer": "C",
       "explanation": "Since + past simple: 'since I last went to Japan'."
     },
@@ -703,7 +894,11 @@
       "question": "Steven has never had any accident. He is a ... driver.",
       "image": null,
       "passage": null,
-      "options": ["careless", "careful", "carefully"],
+      "options": [
+        "careless",
+        "careful",
+        "carefully"
+      ],
       "answer": "B",
       "explanation": "Adjective 'careful' describes the driver. No accidents implies careful."
     },
@@ -712,7 +907,11 @@
       "question": "The number of students entering university ... over the last years.",
       "image": null,
       "passage": null,
-      "options": ["has raised", "has risen", "have raised"],
+      "options": [
+        "has raised",
+        "has risen",
+        "have raised"
+      ],
       "answer": "B",
       "explanation": "Risen is intransitive (increased). 'The number' is singular, so 'has risen'. 'Raised' is transitive."
     },
@@ -721,7 +920,11 @@
       "question": "I was much ... by the documentary films.",
       "image": null,
       "passage": null,
-      "options": ["interest", "interesting", "interested"],
+      "options": [
+        "interest",
+        "interesting",
+        "interested"
+      ],
       "answer": "C",
       "explanation": "Past participle as adjective: 'I was much interested' (feeling)."
     },
@@ -730,7 +933,11 @@
       "question": "A manager of an international company is often given a big ...",
       "image": null,
       "passage": null,
-      "options": ["wage", "salary", "pay"],
+      "options": [
+        "wage",
+        "salary",
+        "pay"
+      ],
       "answer": "B",
       "explanation": "Salary is fixed annual pay for professional/managerial work. Wage is hourly/daily. Salary is correct for a manager."
     },
@@ -752,7 +959,11 @@
       "question": "She put the letters into the wrong envelopes ... mistake.",
       "image": null,
       "passage": null,
-      "options": ["in", "on", "by"],
+      "options": [
+        "in",
+        "on",
+        "by"
+      ],
       "answer": "C",
       "explanation": "By mistake is the correct phrase."
     },
@@ -761,7 +972,12 @@
       "question": "The architect's latest design is stunning: , it has been criticized for being impractical to build.",
       "image": null,
       "passage": null,
-      "options": ["likewise", "however", "as a result", "similarly"],
+      "options": [
+        "likewise",
+        "however",
+        "as a result",
+        "similarly"
+      ],
       "answer": "B",
       "explanation": "Contrast between stunning and criticized requires 'however'."
     },
@@ -798,7 +1014,12 @@
       "question": "The company can't afford any more delays; we risk ... our biggest client.",
       "image": null,
       "passage": null,
-      "options": ["to have / losing", "having / to lose", "to have / to lose", "having / losing"],
+      "options": [
+        "to have / losing",
+        "having / to lose",
+        "to have / to lose",
+        "having / losing"
+      ],
       "answer": "A",
       "explanation": "Risk + gerund: 'risk losing'. 'Afford to have' is infinitive. So 'afford to have / risk losing' gives 'to have / losing' which is option A."
     },
@@ -891,7 +1112,12 @@
       "question": "She recognized the melody immediately; she _ it many times in her childhood.",
       "image": null,
       "passage": null,
-      "options": ["heard", "had heard", "has heard", "was hearing"],
+      "options": [
+        "heard",
+        "had heard",
+        "has heard",
+        "was hearing"
+      ],
       "answer": "B",
       "explanation": "Past perfect 'had heard' because the hearing happened before the recognition."
     },
@@ -900,7 +1126,12 @@
       "question": "This is one of the most challenging tasks I _ in my entire career.",
       "image": null,
       "passage": null,
-      "options": ["ever face", "have ever faced", "had ever faced", "will ever face"],
+      "options": [
+        "ever face",
+        "have ever faced",
+        "had ever faced",
+        "will ever face"
+      ],
       "answer": "B",
       "explanation": "Present perfect 'have ever faced' for experience up to now."
     },
@@ -923,7 +1154,12 @@
       "question": "The conference brought together several experts _ research on climate change has been groundbreaking.",
       "image": null,
       "passage": null,
-      "options": ["who", "which", "whose", "whom"],
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "whom"
+      ],
       "answer": "C",
       "explanation": "Whose shows possession: experts whose research has been groundbreaking."
     },
@@ -932,7 +1168,12 @@
       "question": "The proposal, _ was drafted by the legal team, requires the board's final approval.",
       "image": null,
       "passage": null,
-      "options": ["that", "which", "who", "which"],
+      "options": [
+        "that",
+        "which",
+        "who",
+        "which"
+      ],
       "answer": "B",
       "explanation": "Non-restrictive relative clause referring to a thing uses 'which'. 'That' is not used with commas."
     },
@@ -941,7 +1182,12 @@
       "question": "_ classical music is often structured and complex, jazz celebrates improvisation and spontaneity.",
       "image": null,
       "passage": null,
-      "options": ["Similarly,", "Consequently,", "Whereas", "Therefore,"],
+      "options": [
+        "Similarly,",
+        "Consequently,",
+        "Whereas",
+        "Therefore,"
+      ],
       "answer": "C",
       "explanation": "Whereas introduces a contrast between classical and jazz."
     },
@@ -978,7 +1224,12 @@
       "question": "The new policy on remote work _ enthusiastically by the staff, who feel a greater sense of autonomy.",
       "image": null,
       "passage": null,
-      "options": ["welcomes", "is welcomed", "has welcomed", "is welcoming"],
+      "options": [
+        "welcomes",
+        "is welcomed",
+        "has welcomed",
+        "is welcoming"
+      ],
       "answer": "B",
       "explanation": "Passive: policy is welcomed by staff. 'Is welcomed' is correct."
     },
@@ -1015,7 +1266,12 @@
       "question": "_ the initial data seemed promising, the researchers decided to repeat the experiment to confirm the results.",
       "image": null,
       "passage": null,
-      "options": ["Because", "Even though", "Therefore", "As if"],
+      "options": [
+        "Because",
+        "Even though",
+        "Therefore",
+        "As if"
+      ],
       "answer": "A",
       "explanation": "Because gives reason for repeating experiment. The data seemed promising, so they repeated to confirm. 'Because' fits."
     },
@@ -1038,7 +1294,12 @@
       "question": "My holiday was never _. I would use every minute for something enjoyable.",
       "image": null,
       "passage": null,
-      "options": ["worrying", "boring", "bored", "thrilling"],
+      "options": [
+        "worrying",
+        "boring",
+        "bored",
+        "thrilling"
+      ],
       "answer": "B",
       "explanation": "Holiday was not boring; he used every minute. 'Boring' describes the holiday."
     },
@@ -1047,7 +1308,12 @@
       "question": "I think my mother _ in this university since 2000.",
       "image": null,
       "passage": null,
-      "options": ["teaches", "has taught", "is teaching", "taught"],
+      "options": [
+        "teaches",
+        "has taught",
+        "is teaching",
+        "taught"
+      ],
       "answer": "B",
       "explanation": "Since 2000 requires present perfect: 'has taught'."
     },
@@ -1056,7 +1322,12 @@
       "question": "I have searched all over and could it be found. Someone must have thrown it out.",
       "image": null,
       "passage": null,
-      "options": ["somewhere", "anywhere", "no where", "everywhere"],
+      "options": [
+        "somewhere",
+        "anywhere",
+        "no where",
+        "everywhere"
+      ],
       "answer": "C",
       "explanation": "Nowhere (written as 'no where' in option) means not in any place. 'Could it be found nowhere' is intended meaning."
     },
@@ -1065,7 +1336,12 @@
       "question": "I hope you will visit your family next summer, _?",
       "image": null,
       "passage": null,
-      "options": ["don't you", "will you", "are you", "won't you"],
+      "options": [
+        "don't you",
+        "will you",
+        "are you",
+        "won't you"
+      ],
       "answer": "D",
       "explanation": "Tag for positive statement 'I hope you will visit' is 'won't you?' (question tag softens)."
     },
@@ -1074,7 +1350,12 @@
       "question": "The Bank, _ next to the hotel, _ last month for the second time.",
       "image": null,
       "passage": null,
-      "options": ["was robbed", "has been robbed", "robed", "is robbed"],
+      "options": [
+        "was robbed",
+        "has been robbed",
+        "robed",
+        "is robbed"
+      ],
       "answer": "A",
       "explanation": "Passive simple past: 'was robbed last month'."
     },
@@ -1083,7 +1364,12 @@
       "question": "The woman _ was injured in the accident is now in hospital.",
       "image": null,
       "passage": null,
-      "options": ["whose", "that", "who", "whom"],
+      "options": [
+        "whose",
+        "that",
+        "who",
+        "whom"
+      ],
       "answer": "C",
       "explanation": "Relative pronoun for person as subject: 'who'."
     },
@@ -1092,7 +1378,12 @@
       "question": "It is now generally accepted that in the future robots will take over many of our tasks, especially the more _ type of jobs.",
       "image": null,
       "passage": null,
-      "options": ["repeating", "repetitive", "repetition", "repeated"],
+      "options": [
+        "repeating",
+        "repetitive",
+        "repetition",
+        "repeated"
+      ],
       "answer": "B",
       "explanation": "Repetitive means involving repetition, often boring. 'Repetitive jobs' is correct."
     },
@@ -1101,7 +1392,12 @@
       "question": "He has secured his visa and everything necessary for his travel. They say he _ move to U.S.A.",
       "image": null,
       "passage": null,
-      "options": ["may", "is going to", "might", "will"],
+      "options": [
+        "may",
+        "is going to",
+        "might",
+        "will"
+      ],
       "answer": "B",
       "explanation": "Planned future action based on evidence: 'is going to move'."
     },
@@ -1110,7 +1406,12 @@
       "question": "My friend sold his old house _ buy a new one. Unfortunately, his plan didn't work out and now he has no house.",
       "image": null,
       "passage": null,
-      "options": ["so as to", "for", "so that", "in order that"],
+      "options": [
+        "so as to",
+        "for",
+        "so that",
+        "in order that"
+      ],
       "answer": "A",
       "explanation": "So as to + infinitive expresses purpose. 'Sold his house so as to buy a new one'."
     },
@@ -1119,7 +1420,11 @@
       "question": "If I had had free time, I. shopping.",
       "image": null,
       "passage": null,
-      "options": ["can go", "will go", "would have gone"],
+      "options": [
+        "can go",
+        "will go",
+        "would have gone"
+      ],
       "answer": "C",
       "explanation": "Third conditional: would have gone."
     },
@@ -1128,7 +1433,11 @@
       "question": "If I were you, I. that job.",
       "image": null,
       "passage": null,
-      "options": ["can take", "will ask for", "would apply for"],
+      "options": [
+        "can take",
+        "will ask for",
+        "would apply for"
+      ],
       "answer": "C",
       "explanation": "Would apply for."
     },
@@ -1137,7 +1446,11 @@
       "question": "His manager was so angry because of . late.",
       "image": null,
       "passage": null,
-      "options": ["his being", "him to be", "he was"],
+      "options": [
+        "his being",
+        "him to be",
+        "he was"
+      ],
       "answer": "A",
       "explanation": "His being late (gerund phrase)."
     },
@@ -1146,7 +1459,11 @@
       "question": "Would you mind showing me ...?",
       "image": null,
       "passage": null,
-      "options": ["where is the post-office", "the way to the post-office", "how can I go to the post-office"],
+      "options": [
+        "where is the post-office",
+        "the way to the post-office",
+        "how can I go to the post-office"
+      ],
       "answer": "B",
       "explanation": "The way to the post-office."
     },
@@ -1155,7 +1472,11 @@
       "question": "Could you hang a minute? I'll be back.",
       "image": null,
       "passage": null,
-      "options": ["up", "in", "on"],
+      "options": [
+        "up",
+        "in",
+        "on"
+      ],
       "answer": "C",
       "explanation": "Hang on."
     },
@@ -1164,7 +1485,12 @@
       "question": "_ a grade 12 student, you have to read wisely and you will pass the exam.",
       "image": null,
       "passage": null,
-      "options": ["If", "As", "Like", "As if"],
+      "options": [
+        "If",
+        "As",
+        "Like",
+        "As if"
+      ],
       "answer": "B",
       "explanation": "As a grade 12 student (given your role) is correct."
     },
@@ -1173,7 +1499,12 @@
       "question": "If she hadn't studied harder, she _ what she wants. Now, she is an engineer.",
       "image": null,
       "passage": null,
-      "options": ["will get", "wouldn't get", "wouldn't have got", "would have got"],
+      "options": [
+        "will get",
+        "wouldn't get",
+        "wouldn't have got",
+        "would have got"
+      ],
       "answer": "C",
       "explanation": "Third conditional negative: wouldn't have got."
     },
@@ -1182,7 +1513,12 @@
       "question": "The harder he makes a training, _ he is. He becomes famous for Africa.",
       "image": null,
       "passage": null,
-      "options": ["the most winner", "more winner", "the more", "the winner"],
+      "options": [
+        "the most winner",
+        "more winner",
+        "the more",
+        "the winner"
+      ],
       "answer": "C",
       "explanation": "The harder... the more (successful) but incomplete. 'The more he is' is not great. Likely 'the more' is the intended comparative."
     },
@@ -1191,7 +1527,12 @@
       "question": "_ making little effort for his final exam, he marks rather high.",
       "image": null,
       "passage": null,
-      "options": ["Despite", "Although", "In spite of the fact that", "Nonetheless"],
+      "options": [
+        "Despite",
+        "Although",
+        "In spite of the fact that",
+        "Nonetheless"
+      ],
       "answer": "A",
       "explanation": "Despite + gerund phrase 'making little effort' is correct."
     },
@@ -1200,7 +1541,12 @@
       "question": "He thinks just like childish due to this his friends named him _.",
       "image": null,
       "passage": null,
-      "options": ["nomature", "unmature", "immature", "dismature"],
+      "options": [
+        "nomature",
+        "unmature",
+        "immature",
+        "dismature"
+      ],
       "answer": "C",
       "explanation": "Immature means not mature."
     },
@@ -1209,7 +1555,12 @@
       "question": "In spite of unstable political situation, the president _ a contact with civil societies about good governance yesterday.",
       "image": null,
       "passage": null,
-      "options": ["had been made", "is made", "was made", "made"],
+      "options": [
+        "had been made",
+        "is made",
+        "was made",
+        "made"
+      ],
       "answer": "D",
       "explanation": "Active past: 'made a contact'."
     },
@@ -1218,7 +1569,12 @@
       "question": "They feel happy! We expect they _ everything what they need.",
       "image": null,
       "passage": null,
-      "options": ["are going to get", "will get", "will have got", "get"],
+      "options": [
+        "are going to get",
+        "will get",
+        "will have got",
+        "get"
+      ],
       "answer": "B",
       "explanation": "Future simple 'will get' for prediction."
     },
@@ -1227,7 +1583,12 @@
       "question": "Teshale: I am interested in drama. What are you good? Senait: I am good _ poetry.",
       "image": null,
       "passage": null,
-      "options": ["by", "with", "at", "about"],
+      "options": [
+        "by",
+        "with",
+        "at",
+        "about"
+      ],
       "answer": "C",
       "explanation": "Good at something."
     },
@@ -1236,7 +1597,12 @@
       "question": "'It's time I helped my mother.' This is equivalent with:",
       "image": null,
       "passage": null,
-      "options": ["I have helped my mother", "I still don't help my mother", "I helped my mother", "I am not helped my mother"],
+      "options": [
+        "I have helped my mother",
+        "I still don't help my mother",
+        "I helped my mother",
+        "I am not helped my mother"
+      ],
       "answer": "B",
       "explanation": "It's time + past subjunctive means the action should be done now but hasn't been done. So 'I still don't help my mother' is the closest meaning."
     },
@@ -1245,7 +1611,12 @@
       "question": "I wish they _ the entrance examination. They studied Bid Bang Theory.",
       "image": null,
       "passage": null,
-      "options": ["wouldn't pass", "hadn't passed", "passed", "had passed"],
+      "options": [
+        "wouldn't pass",
+        "hadn't passed",
+        "passed",
+        "had passed"
+      ],
       "answer": "D",
       "explanation": "Wish about a past action that didn't happen? They studied, so they likely passed. Wish they had passed? Actually 'I wish they had passed' means they didn't pass. The sentence says 'They studied' — contradictory. Probably they didn't pass? Without clear context, 'had passed' is a common wish pattern."
     },
@@ -1254,7 +1625,12 @@
       "question": "We usually write new words in my vocabulary book _ we can find them easily.",
       "image": null,
       "passage": null,
-      "options": ["so that", "in order that", "in order to", "so as to"],
+      "options": [
+        "so that",
+        "in order that",
+        "in order to",
+        "so as to"
+      ],
       "answer": "A",
       "explanation": "So that + clause 'we can find'."
     },
@@ -1263,7 +1639,12 @@
       "question": "You haven't done a home work since September, so you are too _.",
       "image": null,
       "passage": null,
-      "options": ["careless", "careful", "useless", "hopeful"],
+      "options": [
+        "careless",
+        "careful",
+        "useless",
+        "hopeful"
+      ],
       "answer": "A",
       "explanation": "Careless means not doing necessary work."
     },
@@ -1272,7 +1653,12 @@
       "question": "The milk which was in the bottle was sour. This is the same as:",
       "image": null,
       "passage": null,
-      "options": ["Some bottle of the milk was sour.", "None bottle of the milk was sour.", "All bottle of the milk was sour.", "One bottle of milk was sour."],
+      "options": [
+        "Some bottle of the milk was sour.",
+        "None bottle of the milk was sour.",
+        "All bottle of the milk was sour.",
+        "One bottle of milk was sour."
+      ],
       "answer": "D",
       "explanation": "The original says the milk in the bottle (one bottle). 'One bottle of milk was sour' matches."
     },
@@ -1281,7 +1667,12 @@
       "question": "Waitress: Have you ordered? Guest: Black coffee please. Waitress: _?",
       "image": null,
       "passage": null,
-      "options": ["Have you?", "Haven't you?", "didn't you?", "would you?"],
+      "options": [
+        "Have you?",
+        "Haven't you?",
+        "didn't you?",
+        "would you?"
+      ],
       "answer": "A",
       "explanation": "The waitress asks 'Have you ordered?' Guest says 'Black coffee please' implying not ordered. Then waitress might confirm 'Have you?' The tag is odd. Among options, 'Have you?' is a repetition."
     },
@@ -1290,7 +1681,12 @@
       "question": "Sport is _ in many schools, but it is compulsory here.",
       "image": null,
       "passage": null,
-      "options": ["operational", "professional", "optional", "practical"],
+      "options": [
+        "operational",
+        "professional",
+        "optional",
+        "practical"
+      ],
       "answer": "C",
       "explanation": "Optional means not required, opposite of compulsory."
     },
@@ -1299,7 +1695,12 @@
       "question": "When the time he graduates, he _ marry his classmate.",
       "image": null,
       "passage": null,
-      "options": ["will be", "will have been", "is going to", "has been"],
+      "options": [
+        "will be",
+        "will have been",
+        "is going to",
+        "has been"
+      ],
       "answer": "C",
       "explanation": "Planned future: 'is going to marry'."
     },
@@ -1308,7 +1709,12 @@
       "question": "_ slowly he drives, he has an accident.",
       "image": null,
       "passage": null,
-      "options": ["Despite", "However", "Because", "Though"],
+      "options": [
+        "Despite",
+        "However",
+        "Because",
+        "Though"
+      ],
       "answer": "B",
       "explanation": "However slowly he drives, he has an accident (no matter how slow)."
     },
@@ -1317,7 +1723,12 @@
       "question": "By next year this time, they _ a university. They have studied harder.",
       "image": null,
       "passage": null,
-      "options": ["will join", "join", "will have joined", "will be joined"],
+      "options": [
+        "will join",
+        "join",
+        "will have joined",
+        "will be joined"
+      ],
       "answer": "C",
       "explanation": "Future perfect 'will have joined' by next year."
     },
@@ -1326,7 +1737,12 @@
       "question": "Sorry to say, she had stopped _ alcohol because she had a headache.",
       "image": null,
       "passage": null,
-      "options": ["drinking", "to drink", "drunk", "to drinking"],
+      "options": [
+        "drinking",
+        "to drink",
+        "drunk",
+        "to drinking"
+      ],
       "answer": "A",
       "explanation": "Stopped drinking (ceased the habit)."
     },
@@ -1349,7 +1765,12 @@
       "question": "His accent is difficult to understand, but a few students _ understand what he wants.",
       "image": null,
       "passage": null,
-      "options": ["is able to", "could", "are able to", "can"],
+      "options": [
+        "is able to",
+        "could",
+        "are able to",
+        "can"
+      ],
       "answer": "C",
       "explanation": "A few students are able to understand (plural)."
     },
@@ -1358,7 +1779,12 @@
       "question": "If any wrong thing comes with this plan, _ responsible.",
       "image": null,
       "passage": null,
-      "options": ["would you have held", "wouldn't you hold", "would you hold", "will you hold"],
+      "options": [
+        "would you have held",
+        "wouldn't you hold",
+        "would you hold",
+        "will you hold"
+      ],
       "answer": "D",
       "explanation": "Future conditional: 'will you hold responsible?'"
     },
@@ -1367,7 +1793,12 @@
       "question": "_ was the road that they were almost late for the school.",
       "image": null,
       "passage": null,
-      "options": ["As crowded", "Very crowded", "Too crowded", "So crowded"],
+      "options": [
+        "As crowded",
+        "Very crowded",
+        "Too crowded",
+        "So crowded"
+      ],
       "answer": "D",
       "explanation": "So crowded that... (result clause). 'So crowded was the road that...' inversion."
     },
@@ -1376,7 +1807,12 @@
       "question": "Each of us _ hold up those affected by drought. It is not humanistic to leave them to migrate.",
       "image": null,
       "passage": null,
-      "options": ["can", "will", "may", "must"],
+      "options": [
+        "can",
+        "will",
+        "may",
+        "must"
+      ],
       "answer": "D",
       "explanation": "Must expresses strong obligation."
     },
@@ -1385,7 +1821,12 @@
       "question": "My wallet _ out of my pocket before I sat down. No one help to find it.",
       "image": null,
       "passage": null,
-      "options": ["has fallen", "had fallen", "has been falling", "had been falling"],
+      "options": [
+        "has fallen",
+        "had fallen",
+        "has been falling",
+        "had been falling"
+      ],
       "answer": "B",
       "explanation": "Past perfect 'had fallen' before sitting down."
     },
@@ -1408,7 +1849,12 @@
       "question": "I can't open my house. I _ my key.",
       "image": null,
       "passage": null,
-      "options": ["lost", "had lost", "have lost", "loss"],
+      "options": [
+        "lost",
+        "had lost",
+        "have lost",
+        "loss"
+      ],
       "answer": "C",
       "explanation": "Present perfect 'have lost' for recent past affecting present."
     },
@@ -1417,7 +1863,12 @@
       "question": "The sky is covered with black clouds. I think it _",
       "image": null,
       "passage": null,
-      "options": ["will rain", "is going to rain", "rains", "may rain"],
+      "options": [
+        "will rain",
+        "is going to rain",
+        "rains",
+        "may rain"
+      ],
       "answer": "B",
       "explanation": "Evidence-based prediction: is going to rain."
     },
@@ -1426,7 +1877,12 @@
       "question": "What they are doing is not relevant _ the instruction in the book.",
       "image": null,
       "passage": null,
-      "options": ["with", "about", "to", "of"],
+      "options": [
+        "with",
+        "about",
+        "to",
+        "of"
+      ],
       "answer": "C",
       "explanation": "Relevant to."
     },
@@ -1435,7 +1891,12 @@
       "question": "Please ask if they haven't mailed the document _ It should be here by Monday.",
       "image": null,
       "passage": null,
-      "options": ["still", "now", "till", "yet"],
+      "options": [
+        "still",
+        "now",
+        "till",
+        "yet"
+      ],
       "answer": "D",
       "explanation": "Yet in negative questions: 'haven't mailed yet'."
     },
@@ -1444,7 +1905,12 @@
       "question": "There are many occasions in which seat belts save life, yet _ drivers often wear them.",
       "image": null,
       "passage": null,
-      "options": ["may", "a lot of", "a few", "few"],
+      "options": [
+        "may",
+        "a lot of",
+        "a few",
+        "few"
+      ],
       "answer": "D",
       "explanation": "Few (negative) means not many. 'Few drivers wear them' contrasts with occasions they save life."
     },
@@ -1467,7 +1933,12 @@
       "question": "We don't know why he suspected us. _ from among us would want his money.",
       "image": null,
       "passage": null,
-      "options": ["Anyone", "No one", "Not any one", "Not some one"],
+      "options": [
+        "Anyone",
+        "No one",
+        "Not any one",
+        "Not some one"
+      ],
       "answer": "B",
       "explanation": "No one (nobody) would want his money."
     },
@@ -1476,7 +1947,12 @@
       "question": "We had _ tea, but there wasn't _ sugar. What shall we do?",
       "image": null,
       "passage": null,
-      "options": ["some/any", "any/some", "much/many", "a little/a few"],
+      "options": [
+        "some/any",
+        "any/some",
+        "much/many",
+        "a little/a few"
+      ],
       "answer": "A",
       "explanation": "Some in positive, any in negative."
     },
@@ -1485,7 +1961,12 @@
       "question": "She is genuinely broke, _ we have to contribute some for her. She is our friend.",
       "image": null,
       "passage": null,
-      "options": ["consequently", "so", "because of", "so as to"],
+      "options": [
+        "consequently",
+        "so",
+        "because of",
+        "so as to"
+      ],
       "answer": "B",
       "explanation": "So indicates result."
     },
@@ -1494,7 +1975,12 @@
       "question": "The purchasers should be accountable for what happened. _ piece is faulty.",
       "image": null,
       "passage": null,
-      "options": ["Every", "All", "Both", "Neither"],
+      "options": [
+        "Every",
+        "All",
+        "Both",
+        "Neither"
+      ],
       "answer": "A",
       "explanation": "Every piece (singular each)."
     },
@@ -1503,7 +1989,12 @@
       "question": "It seems she wants me to do her a favor. You know, she has never been as nice _ me as she is.",
       "image": null,
       "passage": null,
-      "options": ["for", "with", "to", "on"],
+      "options": [
+        "for",
+        "with",
+        "to",
+        "on"
+      ],
       "answer": "C",
       "explanation": "Nice to me."
     },
@@ -1512,7 +2003,12 @@
       "question": "I haven't seen it, but I could imagine that the Renaissance dam is _ than other dams we have.",
       "image": null,
       "passage": null,
-      "options": ["very bigger", "absolutely bigger", "more bigger", "much bigger"],
+      "options": [
+        "very bigger",
+        "absolutely bigger",
+        "more bigger",
+        "much bigger"
+      ],
       "answer": "D",
       "explanation": "Much bigger is correct comparative intensifier."
     },
@@ -1521,7 +2017,12 @@
       "question": "Not all the seats in the exam hall _ taken yet.",
       "image": null,
       "passage": null,
-      "options": ["has", "are", "were", "have"],
+      "options": [
+        "has",
+        "are",
+        "were",
+        "have"
+      ],
       "answer": "B",
       "explanation": "Seats are taken (present simple passive). 'Are' is correct."
     },
@@ -1768,7 +2269,12 @@
       "question": "Lilu: Do you speak Italian? You: ______",
       "image": null,
       "passage": null,
-      "options": ["I speak five languages.", "Just a little.", "I speak Arabic, too.", "I've never been to Italy."],
+      "options": [
+        "I speak five languages.",
+        "Just a little.",
+        "I speak Arabic, too.",
+        "I've never been to Italy."
+      ],
       "answer": "B",
       "explanation": "Direct answer to 'Do you speak Italian?' is 'Just a little.'"
     },
@@ -1777,7 +2283,12 @@
       "question": "Customer: ______ Shopkeeper: It is 1500ETB.",
       "image": null,
       "passage": null,
-      "options": ["Whose is this camera?", "Is this camera for sale?", "Do you have a camera?", "How much is this camera?"],
+      "options": [
+        "Whose is this camera?",
+        "Is this camera for sale?",
+        "Do you have a camera?",
+        "How much is this camera?"
+      ],
       "answer": "D",
       "explanation": "The shopkeeper gives a price, so the customer asked 'How much is this camera?'"
     },
@@ -1786,7 +2297,12 @@
       "question": "Baysa: Hello, where do you live? Alemitu: ______",
       "image": null,
       "passage": null,
-      "options": ["I'm from Jimma.", "I live with my sister.", "I come by bus", "Around Arat kilo."],
+      "options": [
+        "I'm from Jimma.",
+        "I live with my sister.",
+        "I come by bus",
+        "Around Arat kilo."
+      ],
       "answer": "D",
       "explanation": "Where do you live? asks for location. 'Around Arat kilo' gives a location."
     },
@@ -1795,7 +2311,12 @@
       "question": "Yonas: Are you married, Zahara? Zahara: ______",
       "image": null,
       "passage": null,
-      "options": ["Before three years", "I'm 30", "No, I am not.", "I have a boy friend"],
+      "options": [
+        "Before three years",
+        "I'm 30",
+        "No, I am not.",
+        "I have a boy friend"
+      ],
       "answer": "C",
       "explanation": "Direct answer: 'No, I am not.'"
     },
@@ -1804,7 +2325,12 @@
       "question": "Secretary: How do you do, Sir? Visitor: ______",
       "image": null,
       "passage": null,
-      "options": ["How do you do?", "I am fine. How do you do?", "I am fine. How are you?", "Very well, how do you do?"],
+      "options": [
+        "How do you do?",
+        "I am fine. How do you do?",
+        "I am fine. How are you?",
+        "Very well, how do you do?"
+      ],
       "answer": "A",
       "explanation": "The correct response to 'How do you do?' is the same phrase: 'How do you do?'"
     },
@@ -1813,7 +2339,12 @@
       "question": "Ali: ______ Almaz: That sounds reasonable.",
       "image": null,
       "passage": null,
-      "options": ["Shall we go for coffee.", "Is mini doing her homework?", "Did she buy a new purse?", "Isn't Abera coming this evening?"],
+      "options": [
+        "Shall we go for coffee.",
+        "Is mini doing her homework?",
+        "Did she buy a new purse?",
+        "Isn't Abera coming this evening?"
+      ],
       "answer": "A",
       "explanation": "A suggestion 'Shall we go for coffee?' would elicit 'That sounds reasonable.'"
     },
@@ -1822,7 +2353,12 @@
       "question": "Fasil: Why did you leave the party early last night? Rahel: ______",
       "image": null,
       "passage": null,
-      "options": ["I didn't feel well.", "I left at 10 o'clock.", "I left with my husband.", "We had a great evening."],
+      "options": [
+        "I didn't feel well.",
+        "I left at 10 o'clock.",
+        "I left with my husband.",
+        "We had a great evening."
+      ],
       "answer": "A",
       "explanation": "Reason for leaving early: 'I didn't feel well.'"
     },
@@ -1831,7 +2367,12 @@
       "question": "Teacher: We are on page 50, aren't we? Student: ______",
       "image": null,
       "passage": null,
-      "options": ["No, exercise 5.", "Yes, exercise 4.", "Yes, we have done it.", "No, we haven't done it."],
+      "options": [
+        "No, exercise 5.",
+        "Yes, exercise 4.",
+        "Yes, we have done it.",
+        "No, we haven't done it."
+      ],
       "answer": "B",
       "explanation": "The student confirms the page: 'Yes, exercise 4.' (assuming page 50 corresponds to exercise 4)."
     },
@@ -1840,7 +2381,12 @@
       "question": "Hanna: ______ Kedija: Kind of, I suppose.",
       "image": null,
       "passage": null,
-      "options": ["Where is your boyfriend?", "Here comes your boyfriend.", "Do you love your friend?", "What does your boyfriend do for living?"],
+      "options": [
+        "Where is your boyfriend?",
+        "Here comes your boyfriend.",
+        "Do you love your friend?",
+        "What does your boyfriend do for living?"
+      ],
       "answer": "C",
       "explanation": "The response 'Kind of, I suppose' suggests a yes/no question about feelings. 'Do you love your friend?' fits."
     },
@@ -2059,7 +2605,11 @@
       "question": "Could you ... the car? There's a large puddle near my door.",
       "image": null,
       "passage": null,
-      "options": ["back out", "back down", "back up"],
+      "options": [
+        "back out",
+        "back down",
+        "back up"
+      ],
       "answer": "A",
       "explanation": "Back out means to reverse out of a space. To avoid a puddle, you'd back out the car."
     },
@@ -2068,7 +2618,11 @@
       "question": "The bus ... so I had to go on foot.",
       "image": null,
       "passage": null,
-      "options": ["broke in", "broke down", "broke up"],
+      "options": [
+        "broke in",
+        "broke down",
+        "broke up"
+      ],
       "answer": "B",
       "explanation": "Broke down means stopped functioning (vehicle)."
     },
@@ -2077,7 +2631,12 @@
       "question": "She ... to her kids and parents.",
       "image": null,
       "passage": null,
-      "options": ["gave the day back", "gave the day up", "gave the day through", "gave the day over"],
+      "options": [
+        "gave the day back",
+        "gave the day up",
+        "gave the day through",
+        "gave the day over"
+      ],
       "answer": "B",
       "explanation": "Gave up her day means sacrificed her day. 'Gave the day up' is possible."
     },
@@ -2086,7 +2645,11 @@
       "question": "Oh, don't pay attention to him, ... your conversation, please.",
       "image": null,
       "passage": null,
-      "options": ["carry up", "carry on", "calm down"],
+      "options": [
+        "carry up",
+        "carry on",
+        "calm down"
+      ],
       "answer": "B",
       "explanation": "Carry on means continue."
     },
@@ -2095,7 +2658,11 @@
       "question": "We had a quarrel last night but we could ... in the morning.",
       "image": null,
       "passage": null,
-      "options": ["make on", "make up", "make out"],
+      "options": [
+        "make on",
+        "make up",
+        "make out"
+      ],
       "answer": "B",
       "explanation": "Make up means reconcile after a quarrel."
     },
@@ -2104,7 +2671,12 @@
       "question": "I'm ill and feel very weak. I have to ...",
       "image": null,
       "passage": null,
-      "options": ["call the meeting back", "call the meeting around", "call the meeting off", "call the meeting down"],
+      "options": [
+        "call the meeting back",
+        "call the meeting around",
+        "call the meeting off",
+        "call the meeting down"
+      ],
       "answer": "C",
       "explanation": "Call off means cancel."
     },
@@ -2113,7 +2685,11 @@
       "question": "I've ... three T-shirts. Which one suits me better?",
       "image": null,
       "passage": null,
-      "options": ["picked out", "put out", "taken out"],
+      "options": [
+        "picked out",
+        "put out",
+        "taken out"
+      ],
       "answer": "A",
       "explanation": "Picked out means selected."
     },
@@ -2122,7 +2698,11 @@
       "question": "I'm not a person who can ... teenagers.",
       "image": null,
       "passage": null,
-      "options": ["put down", "put on", "put up with"],
+      "options": [
+        "put down",
+        "put on",
+        "put up with"
+      ],
       "answer": "C",
       "explanation": "Put up with means tolerate."
     },
@@ -2131,7 +2711,11 @@
       "question": "I hate job interviews because it always seems like they ... me.",
       "image": null,
       "passage": null,
-      "options": ["look at", "look into", "look down on"],
+      "options": [
+        "look at",
+        "look into",
+        "look down on"
+      ],
       "answer": "C",
       "explanation": "Look down on means regard with contempt."
     },
@@ -2140,7 +2724,11 @@
       "question": "Our project ... very fine.",
       "image": null,
       "passage": null,
-      "options": ["turns up", "works out", "uses up"],
+      "options": [
+        "turns up",
+        "works out",
+        "uses up"
+      ],
       "answer": "B",
       "explanation": "Works out means proceeds or develops."
     },
@@ -2149,7 +2737,11 @@
       "question": "She always ... when she wears a new dress.",
       "image": null,
       "passage": null,
-      "options": ["shows off", "looks out for", "turns on"],
+      "options": [
+        "shows off",
+        "looks out for",
+        "turns on"
+      ],
       "answer": "A",
       "explanation": "Shows off means displays proudly."
     },
@@ -2158,7 +2750,11 @@
       "question": "... icicles on the roof.",
       "image": null,
       "passage": null,
-      "options": ["Think over", "Stand for", "Watch out for"],
+      "options": [
+        "Think over",
+        "Stand for",
+        "Watch out for"
+      ],
       "answer": "C",
       "explanation": "Watch out for means be careful of (icicles)."
     },
@@ -2167,7 +2763,11 @@
       "question": "... and tell me what's happened?",
       "image": null,
       "passage": null,
-      "options": ["Quiet down", "Turn down", "Run down"],
+      "options": [
+        "Quiet down",
+        "Turn down",
+        "Run down"
+      ],
       "answer": "A",
       "explanation": "Quiet down means become quiet; context suggests asking to calm and talk."
     },
@@ -2176,7 +2776,11 @@
       "question": "... if you visit Madrid! I'm always glad to see you.",
       "image": null,
       "passage": null,
-      "options": ["Back up", "Drop in", "Call for"],
+      "options": [
+        "Back up",
+        "Drop in",
+        "Call for"
+      ],
       "answer": "B",
       "explanation": "Drop in means visit informally."
     },
@@ -2185,7 +2789,12 @@
       "question": "She ... Matt's name ... when she made a wedding guest list.",
       "image": null,
       "passage": null,
-      "options": ["did/without", "left/out", "broke/out", "took/off"],
+      "options": [
+        "did/without",
+        "left/out",
+        "broke/out",
+        "took/off"
+      ],
       "answer": "B",
       "explanation": "Left out means omitted."
     },
@@ -2194,7 +2803,11 @@
       "question": "Hey! Quit ... and help me repair the gate!",
       "image": null,
       "passage": null,
-      "options": ["goofing off", "nodding off", "dropping back"],
+      "options": [
+        "goofing off",
+        "nodding off",
+        "dropping back"
+      ],
       "answer": "A",
       "explanation": "Goofing off means wasting time."
     },
@@ -2203,7 +2816,11 @@
       "question": "We have already been discussing the problem for 2 hours. I think it's time to ... our conference.",
       "image": null,
       "passage": null,
-      "options": ["rip off", "pass out", "wrap up"],
+      "options": [
+        "rip off",
+        "pass out",
+        "wrap up"
+      ],
       "answer": "C",
       "explanation": "Wrap up means conclude."
     },
@@ -2212,7 +2829,12 @@
       "question": "My manager wants me ... the report ...",
       "image": null,
       "passage": null,
-      "options": ["to drop/out", "to come/again", "to do/over", "to fill/in"],
+      "options": [
+        "to drop/out",
+        "to come/again",
+        "to do/over",
+        "to fill/in"
+      ],
       "answer": "C",
       "explanation": "Do over means redo."
     },
@@ -2221,7 +2843,11 @@
       "question": "I ... my Saturday walk in the park because of the oncoming frost.",
       "image": null,
       "passage": null,
-      "options": ["called off", "called on", "ran out of"],
+      "options": [
+        "called off",
+        "called on",
+        "ran out of"
+      ],
       "answer": "A",
       "explanation": "Called off means canceled."
     },
@@ -2230,7 +2856,11 @@
       "question": "The fire ... in a two-storey building which we had been living in before.",
       "image": null,
       "passage": null,
-      "options": ["got out", "broke out", "fell out"],
+      "options": [
+        "got out",
+        "broke out",
+        "fell out"
+      ],
       "answer": "B",
       "explanation": "Broke out (of fire) means started suddenly."
     },
@@ -2239,7 +2869,12 @@
       "question": "Steven ... He failed to keep his word.",
       "image": null,
       "passage": null,
-      "options": ["let me down", "left me out", "broken me down", "backed me out"],
+      "options": [
+        "let me down",
+        "left me out",
+        "broken me down",
+        "backed me out"
+      ],
       "answer": "A",
       "explanation": "Let me down means disappointed or failed to keep a promise."
     },
@@ -2248,7 +2883,12 @@
       "question": "He was so loud and noisy in the morning that I had to get up and ...",
       "image": null,
       "passage": null,
-      "options": ["get along with him", "turn him out", "figure him out", "chew him out"],
+      "options": [
+        "get along with him",
+        "turn him out",
+        "figure him out",
+        "chew him out"
+      ],
       "answer": "D",
       "explanation": "Chew him out means scold him angrily."
     },
@@ -2257,7 +2897,12 @@
       "question": "The film was so tedious that she ... during it.",
       "image": null,
       "passage": null,
-      "options": ["dropped in", "nodded off", "held down", "fell down"],
+      "options": [
+        "dropped in",
+        "nodded off",
+        "held down",
+        "fell down"
+      ],
       "answer": "B",
       "explanation": "Nodded off means fell asleep."
     },
@@ -2266,7 +2911,12 @@
       "question": "She always supports me. She ... over my decision to move to London.",
       "image": null,
       "passage": null,
-      "options": ["cheered me up", "brought me up", "backed me up", "held me up"],
+      "options": [
+        "cheered me up",
+        "brought me up",
+        "backed me up",
+        "held me up"
+      ],
       "answer": "C",
       "explanation": "Backed me up means supported me."
     },
@@ -2275,7 +2925,12 @@
       "question": "He ... but nobody told him how to get to the park.",
       "image": null,
       "passage": null,
-      "options": ["asked out", "asked around", "called around", "checked out"],
+      "options": [
+        "asked out",
+        "asked around",
+        "called around",
+        "checked out"
+      ],
       "answer": "B",
       "explanation": "Asked around means asked many people for information."
     },
@@ -2284,7 +2939,11 @@
       "question": "The company ... the internet in our hotel.",
       "image": null,
       "passage": null,
-      "options": ["cut off", "broke down", "fell up"],
+      "options": [
+        "cut off",
+        "broke down",
+        "fell up"
+      ],
       "answer": "A",
       "explanation": "Cut off means disconnected."
     },
@@ -2293,7 +2952,11 @@
       "question": "We had been friends for many years but we have finally ... We entered different colleges.",
       "image": null,
       "passage": null,
-      "options": ["grown apart", "grown up", "grown into"],
+      "options": [
+        "grown apart",
+        "grown up",
+        "grown into"
+      ],
       "answer": "A",
       "explanation": "Grown apart means become distant."
     },
@@ -2302,7 +2965,11 @@
       "question": "Steve is always ... stories about why he comes home late!",
       "image": null,
       "passage": null,
-      "options": ["doing up", "working out", "making up"],
+      "options": [
+        "doing up",
+        "working out",
+        "making up"
+      ],
       "answer": "C",
       "explanation": "Making up means inventing (false stories)."
     },
@@ -2311,7 +2978,11 @@
       "question": "Could you ... the test papers ... before the students?",
       "image": null,
       "passage": null,
-      "options": ["pick/out", "pass/out", "put/out"],
+      "options": [
+        "pick/out",
+        "pass/out",
+        "put/out"
+      ],
       "answer": "B",
       "explanation": "Pass out means distribute."
     },
@@ -2320,7 +2991,11 @@
       "question": "My brother ... our grandfather. They both are stubborn and never give up.",
       "image": null,
       "passage": null,
-      "options": ["takes after", "sticks to", "adds up to"],
+      "options": [
+        "takes after",
+        "sticks to",
+        "adds up to"
+      ],
       "answer": "A",
       "explanation": "Takes after means resembles in character."
     },
@@ -2329,7 +3004,12 @@
       "question": "After the scandal, the CEO tried to ... the rumors by holding a press conference, but few believed his explanations.",
       "image": null,
       "passage": null,
-      "options": ["put down", "put across", "put to rest", "put through"],
+      "options": [
+        "put down",
+        "put across",
+        "put to rest",
+        "put through"
+      ],
       "answer": "C",
       "explanation": "Put to rest means stop or eliminate (rumors)."
     },
@@ -2338,7 +3018,12 @@
       "question": "She's very good at ... complex ideas in a way that even beginners can understand.",
       "image": null,
       "passage": null,
-      "options": ["putting aside", "putting across", "putting up", "putting off"],
+      "options": [
+        "putting aside",
+        "putting across",
+        "putting up",
+        "putting off"
+      ],
       "answer": "B",
       "explanation": "Putting across means communicating effectively."
     },
@@ -2347,7 +3032,12 @@
       "question": "We need to ... some money every month for our daughter's future education.",
       "image": null,
       "passage": null,
-      "options": ["put out", "put down", "put aside", "put up with"],
+      "options": [
+        "put out",
+        "put down",
+        "put aside",
+        "put up with"
+      ],
       "answer": "C",
       "explanation": "Put aside means save (money)."
     },
@@ -2356,7 +3046,12 @@
       "question": "As a historian, she spends her days ... information from ancient manuscripts.",
       "image": null,
       "passage": null,
-      "options": ["looking up to", "looking after", "looking for", "looking into"],
+      "options": [
+        "looking up to",
+        "looking after",
+        "looking for",
+        "looking into"
+      ],
       "answer": "C",
       "explanation": "Looking for means searching for."
     },
@@ -2365,7 +3060,12 @@
       "question": "He really ... his uncle, who was a self-made and respected entrepreneur.",
       "image": null,
       "passage": null,
-      "options": ["looks into", "looks down on", "looks after", "looks up to"],
+      "options": [
+        "looks into",
+        "looks down on",
+        "looks after",
+        "looks up to"
+      ],
       "answer": "D",
       "explanation": "Looks up to means admires and respects."
     },
@@ -2374,7 +3074,12 @@
       "question": "Don't ... his grumpy demeanor; he's actually one of the kindest people you'll ever meet.",
       "image": null,
       "passage": null,
-      "options": ["look into", "look down on", "look up to", "look for"],
+      "options": [
+        "look into",
+        "look down on",
+        "look up to",
+        "look for"
+      ],
       "answer": "B",
       "explanation": "Look down on means judge as inferior. The sentence advises not to be misled by his grumpiness into looking down on him."
     },
@@ -2383,7 +3088,12 @@
       "question": "It took me weeks to ... the flu I caught on holiday.",
       "image": null,
       "passage": null,
-      "options": ["get over", "get away with", "get by", "get through"],
+      "options": [
+        "get over",
+        "get away with",
+        "get by",
+        "get through"
+      ],
       "answer": "A",
       "explanation": "Get over means recover from (illness)."
     },
@@ -2392,7 +3102,12 @@
       "question": "He managed to ... not doing any work for months by blaming IT issues.",
       "image": null,
       "passage": null,
-      "options": ["get over", "get away with", "get through", "get by"],
+      "options": [
+        "get over",
+        "get away with",
+        "get through",
+        "get by"
+      ],
       "answer": "B",
       "explanation": "Get away with means avoid punishment for."
     },
@@ -2401,7 +3116,12 @@
       "question": "It was a tough year, but we managed to ... it by supporting each other.",
       "image": null,
       "passage": null,
-      "options": ["get over", "get away with", "get by", "get through"],
+      "options": [
+        "get over",
+        "get away with",
+        "get by",
+        "get through"
+      ],
       "answer": "D",
       "explanation": "Get through means survive or endure a difficult period."
     },
@@ -2410,7 +3130,12 @@
       "question": "The striking workers won't ... until their demands for a pay rise are met.",
       "image": null,
       "passage": null,
-      "options": ["back up", "back off", "back down", "back out"],
+      "options": [
+        "back up",
+        "back off",
+        "back down",
+        "back out"
+      ],
       "answer": "C",
       "explanation": "Back down means yield or retreat from a position."
     },
@@ -2419,7 +3144,12 @@
       "question": "I promised I would help him move, and I can't ... now at the last minute.",
       "image": null,
       "passage": null,
-      "options": ["back up", "back off", "back down", "back out"],
+      "options": [
+        "back up",
+        "back off",
+        "back down",
+        "back out"
+      ],
       "answer": "D",
       "explanation": "Back out means withdraw from a commitment."
     },
@@ -2428,7 +3158,12 @@
       "question": "Can you ... your argument with some solid data? I'm not convinced yet.",
       "image": null,
       "passage": null,
-      "options": ["back up", "back off", "back into", "back down"],
+      "options": [
+        "back up",
+        "back off",
+        "back into",
+        "back down"
+      ],
       "answer": "A",
       "explanation": "Back up means support with evidence."
     },
@@ -2507,7 +3242,12 @@
       "question": "'They' paragraph four line two refers to",
       "image": null,
       "passage": "same passage (paragraph 4: 'They have identified two possibilities.')",
-      "options": ["Scientists", "Non-insulin dependent diabetes", "Insulin resistance", "Insulin receptors"],
+      "options": [
+        "Scientists",
+        "Non-insulin dependent diabetes",
+        "Insulin resistance",
+        "Insulin receptors"
+      ],
       "answer": "A",
       "explanation": "Scientists are the subject of the previous sentences; they have identified possibilities."
     },
@@ -2544,7 +3284,12 @@
       "question": "What is the closest meaning of the underlined word 'offset' in the final sentence of the passage?",
       "image": null,
       "passage": "same passage",
-      "options": ["counteract", "cure", "soothe", "erase"],
+      "options": [
+        "counteract",
+        "cure",
+        "soothe",
+        "erase"
+      ],
       "answer": "A",
       "explanation": "Offset means to counteract or compensate for the effects of."
     },
@@ -2553,7 +3298,12 @@
       "question": "'I regret to inform you that we are unable to offer you a post at this time.' This is mostly taken from a letter of",
       "image": null,
       "passage": null,
-      "options": ["rejection", "complaint", "enquiry", "apology"],
+      "options": [
+        "rejection",
+        "complaint",
+        "enquiry",
+        "apology"
+      ],
       "answer": "A",
       "explanation": "This is a standard rejection letter for a job application."
     },
@@ -2562,7 +3312,12 @@
       "question": "'Love is a very powerful force; it conquers barriers of color, race, religion, and culture. It thrives on mutual nurturing of each other,' it is very likely that the writing is:",
       "image": null,
       "passage": null,
-      "options": ["argumentative", "narrative", "descriptive", "expository"],
+      "options": [
+        "argumentative",
+        "narrative",
+        "descriptive",
+        "expository"
+      ],
       "answer": "A",
       "explanation": "The passage makes a claim about love's power, which is argumentative (persuasive)."
     },
@@ -2571,7 +3326,12 @@
       "question": "What would be an appropriate ending for Yohannes, a graduate, who is writing a job application letter?",
       "image": null,
       "passage": null,
-      "options": ["With best regards,", "Faithfully yours,", "Hopefully,", "Truly yours,"],
+      "options": [
+        "With best regards,",
+        "Faithfully yours,",
+        "Hopefully,",
+        "Truly yours,"
+      ],
       "answer": "A",
       "explanation": "In a formal job application letter, 'Yours sincerely' or 'Sincerely' are common. Among options, 'With best regards' is acceptable. 'Faithfully yours' is for when name is unknown. 'Truly yours' is also possible, but 'Best regards' is fine."
     },
@@ -2594,7 +3354,12 @@
       "question": "'Considering the pressure of today's society on marriage and family, remaining single is a difficult and courageous decision, but one that could ensure happiness and contentment throughout life.' This piece of writing is most likely:",
       "image": null,
       "passage": null,
-      "options": ["narrative", "descriptive", "argumentative", "expository"],
+      "options": [
+        "narrative",
+        "descriptive",
+        "argumentative",
+        "expository"
+      ],
       "answer": "C",
       "explanation": "The sentence presents an opinion and argues for a position, so argumentative."
     },
@@ -2631,7 +3396,12 @@
       "question": "'As we can see from the above, farmers are more important than doctors for Ethiopian sovereignty.' This is most likely taken from the section of an essay.",
       "image": null,
       "passage": null,
-      "options": ["body", "introduction", "discussion", "conclusion"],
+      "options": [
+        "body",
+        "introduction",
+        "discussion",
+        "conclusion"
+      ],
       "answer": "D",
       "explanation": "The phrase 'As we can see from the above' signals a concluding sentence."
     },
@@ -2640,7 +3410,12 @@
       "question": "'Yesterday evening I got home from school around four o'clock. My mother had dinner prepared which we eat as soon as my elders came home from work.' This piece of writing most likely taken from a type of essay.",
       "image": null,
       "passage": null,
-      "options": ["descriptive", "expository", "narrative", "persuasive"],
+      "options": [
+        "descriptive",
+        "expository",
+        "narrative",
+        "persuasive"
+      ],
       "answer": "C",
       "explanation": "It tells a sequence of events in the past, so narrative."
     },
@@ -2649,7 +3424,12 @@
       "question": "'Thank you for your consideration!' This is for",
       "image": null,
       "passage": null,
-      "options": ["meeting", "party", "questionnaire", "touring"],
+      "options": [
+        "meeting",
+        "party",
+        "questionnaire",
+        "touring"
+      ],
       "answer": "A",
       "explanation": "Thank you for your consideration is typically used in formal contexts like after a meeting or job application."
     },
@@ -2686,7 +3466,12 @@
       "question": "Which one of the following is wrongly spelt?",
       "image": null,
       "passage": null,
-      "options": ["Boutique", "Restaurant", "Receipt", "Budget"],
+      "options": [
+        "Boutique",
+        "Restaurant",
+        "Receipt",
+        "Budget"
+      ],
       "answer": "A",
       "explanation": "All are correctly spelled. But 'Boutique' is often misspelled? Actually it's correct. Maybe 'Receipt' has a silent p, still correct. All correct. Possibly 'Restaurant' is correct. The question might have a trick. Typically 'Boutique' is correct. I'll assume none are wrong, but if forced, 'Boutique' is the least common."
     },
@@ -2695,7 +3480,12 @@
       "question": "'Buckle your seat belt!' This is a warning for",
       "image": null,
       "passage": null,
-      "options": ["school", "transport", "hospital", "market"],
+      "options": [
+        "school",
+        "transport",
+        "hospital",
+        "market"
+      ],
       "answer": "B",
       "explanation": "Seat belt warning is for transport (cars, planes)."
     },
@@ -2732,7 +3522,12 @@
       "question": "'Mr. Wolf went out hunting in the forest one dark murky night.' This article is most likely to be a/an text.",
       "image": null,
       "passage": null,
-      "options": ["descriptive", "argumentative", "narrative", "expository"],
+      "options": [
+        "descriptive",
+        "argumentative",
+        "narrative",
+        "expository"
+      ],
       "answer": "C",
       "explanation": "This is the beginning of a story, so narrative."
     },
@@ -2741,7 +3536,12 @@
       "question": "Which one of the following words is correctly spelt?",
       "image": null,
       "passage": null,
-      "options": ["recieve", "receipt", "inquiry", "arange"],
+      "options": [
+        "recieve",
+        "receipt",
+        "inquiry",
+        "arange"
+      ],
       "answer": "B",
       "explanation": "'Receipt' is correctly spelled. 'Recieve' should be receive, 'inquiry' is correct? Actually 'inquiry' is correct. 'Arange' should be arrange. So both B and C are correct? The test likely expects B."
     },
@@ -2750,7 +3550,12 @@
       "question": "What would be an appropriate ending for Telaye, a graduate, who is writing an application letter for a job?",
       "image": null,
       "passage": null,
-      "options": ["Sincerely yours", "Hopefully", "Yours for ever", "Affectionately"],
+      "options": [
+        "Sincerely yours",
+        "Hopefully",
+        "Yours for ever",
+        "Affectionately"
+      ],
       "answer": "A",
       "explanation": "Formal job application letter closes with 'Sincerely yours' or 'Yours sincerely'."
     },
@@ -2766,14 +3571,19 @@
         "He said, \"Live me alone.\""
       ],
       "answer": "C",
-      "explanation": "The correct is 'He said, "Live me alone."' with capital L. Options C and D appear identical? The one with capital L is correct."
+      "explanation": "The correct is 'He said, \"Live me alone.\"' with capital L. Options C and D appear identical? The one with capital L is correct."
     },
     {
       "id": 260,
       "question": "'The red-eye bloody vampire flushed his teeth into the soft skin of his lover and ended her life.' This article is most likely to be an/a text.",
       "image": null,
       "passage": null,
-      "options": ["argumentative", "expository", "descriptive", "narrative"],
+      "options": [
+        "argumentative",
+        "expository",
+        "descriptive",
+        "narrative"
+      ],
       "answer": "D",
       "explanation": "This is a story with characters and action, so narrative."
     },
@@ -2782,7 +3592,12 @@
       "question": "Of the following words, which one is not correctly spelt.",
       "image": null,
       "passage": null,
-      "options": ["University", "Pronunciation", "college", "psychology"],
+      "options": [
+        "University",
+        "Pronunciation",
+        "college",
+        "psychology"
+      ],
       "answer": "B",
       "explanation": "Pronunciation is correct. All seem correct. 'Pronunciation' is often misspelled as 'pronounciation' but here it's correct. Perhaps 'college' should be capitalized? No. All are correct. The test might have a trick."
     },
@@ -2791,7 +3606,12 @@
       "question": "Arrange: a. Dallol is found in the Afar Region of Ethiopia. b. It is one of the lowest and hottest areas of the world. c. Temperatures can reach as high as 450c in the June. d. This makes the place very difficult for wildlife to live and vegetation to grow. e. There is no rain for most of the year, and the highest annual rainfall is only 200mm.",
       "image": null,
       "passage": null,
-      "options": ["cabed", "abced", "cead", "ecabd"],
+      "options": [
+        "cabed",
+        "abced",
+        "cead",
+        "ecabd"
+      ],
       "answer": "A",
       "explanation": "Logical order: a (location), b (characteristic), c (temperature), e (rainfall), d (result). That is a,b,c,e,d. Option A says 'cabed'? That's c,a,b,e,d – not matching. Actually need to see: Option A is 'cabed' meaning c,a,b,e,d. That puts temperature first, then location. Not ideal. Maybe the correct is a,b,c,e,d. Not listed. Let's check: 'abced' is a,b,c,e,d – that's correct. So option B 'abced'. I'll select B."
     },
@@ -2800,7 +3620,12 @@
       "question": "Arrange: a. Preparing pasta requires common sense and imagination rather than complicated recipes. b. The key to success is fresh ingredients for the sauce and perfectly cooked pasta. c. When cooking pasta, the cook should follow the package directions and should taste the pasta before the cooking time is up. d. The sauce may contain just about any fresh fish, cheese, herb, or vegetable. e. According to the Italians, who ought to know, the pasta is done when the texture is neither tough nor much but al dente, or 'firm to the bite'.",
       "image": null,
       "passage": null,
-      "options": ["abde", "abde", "debca", "debca"],
+      "options": [
+        "abde",
+        "abde",
+        "debca",
+        "debca"
+      ],
       "answer": "A",
       "explanation": "Likely a,b,c,d,e order. Option A 'abde' is incomplete? But given choices, the first one is 'abde' which might be a,b,d,e missing c. Not ideal. But test key often a,b,c,d,e."
     },
@@ -2809,7 +3634,12 @@
       "question": "Arrange: a. And most important of all, he is not a politician. b. He is not a writer. c. He cannot be otherwise. d. Or he is not a commentator. e. A reporter is just that _a reporter.",
       "image": null,
       "passage": null,
-      "options": ["abcd", "eabcd", "ecbda", "ecabd"],
+      "options": [
+        "abcd",
+        "eabcd",
+        "ecbda",
+        "ecabd"
+      ],
       "answer": "D",
       "explanation": "Logical order: e (reporter is just that), then c (he cannot be otherwise), then a (most important not politician), then b (not writer), then d (or not commentator). That is e,c,a,b,d which is 'ecabd' option D."
     },
@@ -2818,7 +3648,12 @@
       "question": "The scientist's research was considered ; it fundamentally challenged the existing paradigm.",
       "image": null,
       "passage": null,
-      "options": ["extraordinary", "revolutionary", "paradigmatic", "evolutionary"],
+      "options": [
+        "extraordinary",
+        "revolutionary",
+        "paradigmatic",
+        "evolutionary"
+      ],
       "answer": "B",
       "explanation": "Revolutionary means causing a dramatic change, which matches challenging the existing paradigm."
     },
@@ -2827,7 +3662,12 @@
       "question": "His fear of being in open or crowded spaces made him utterly .",
       "image": null,
       "passage": null,
-      "options": ["hydrophobic", "claustrophobic", "agoraphobic", "xenophobic"],
+      "options": [
+        "hydrophobic",
+        "claustrophobic",
+        "agoraphobic",
+        "xenophobic"
+      ],
       "answer": "C",
       "explanation": "Agoraphobia is fear of open or crowded spaces."
     },
@@ -2836,7 +3676,12 @@
       "question": "The dictator's rule was marked by absolute authority and the suppression of dissent.",
       "image": null,
       "passage": null,
-      "options": ["autonomous", "democratic", "autocratic", "bureaucratic"],
+      "options": [
+        "autonomous",
+        "democratic",
+        "autocratic",
+        "bureaucratic"
+      ],
       "answer": "C",
       "explanation": "Autocratic means absolute rule by one person with unlimited power."
     },
@@ -2845,7 +3690,12 @@
       "question": "The novel's protagonist was a classic , a wanderer with no fixed home.",
       "image": null,
       "passage": null,
-      "options": ["immigrant", "itinerant", "peregrination", "migrant"],
+      "options": [
+        "immigrant",
+        "itinerant",
+        "peregrination",
+        "migrant"
+      ],
       "answer": "B",
       "explanation": "Itinerant means traveling from place to place, a wanderer. Peregrination is the act of traveling."
     },
@@ -2854,7 +3704,12 @@
       "question": "The software includes an to automatically compress large files before sending.",
       "image": null,
       "passage": null,
-      "options": ["utility", "appliance", "algorithm", "mechanism"],
+      "options": [
+        "utility",
+        "appliance",
+        "algorithm",
+        "mechanism"
+      ],
       "answer": "A",
       "explanation": "Utility in computing means a software tool for a specific function."
     },
@@ -2863,7 +3718,12 @@
       "question": "Her speech was full of ; she seemed to take pleasure in using the harshest words possible.",
       "image": null,
       "passage": null,
-      "options": ["euphemism", "circumlocution", "dysphemism", "witticism"],
+      "options": [
+        "euphemism",
+        "circumlocution",
+        "dysphemism",
+        "witticism"
+      ],
       "answer": "C",
       "explanation": "Dysphemism is the use of harsh or offensive words, opposite of euphemism."
     },
@@ -2872,7 +3732,12 @@
       "question": "The nature of the plant's leaves, covered in a waxy coating, helps it retain water.",
       "image": null,
       "passage": null,
-      "options": ["succulent", "glabrous", "porous", "deciduous"],
+      "options": [
+        "succulent",
+        "glabrous",
+        "porous",
+        "deciduous"
+      ],
       "answer": "A",
       "explanation": "Succulent plants store water in thick, fleshy leaves."
     },
@@ -2881,7 +3746,12 @@
       "question": "The committee found the evidence against him to be ; it could not be denied or disproved.",
       "image": null,
       "passage": null,
-      "options": ["irrefutable", "questionable", "hypothetical", "circumstantial"],
+      "options": [
+        "irrefutable",
+        "questionable",
+        "hypothetical",
+        "circumstantial"
+      ],
       "answer": "A",
       "explanation": "Irrefutable means impossible to deny or disprove."
     },
@@ -2890,7 +3760,12 @@
       "question": "The artist was known for her style, which incorporated elements from a vast range of cultures and time periods.",
       "image": null,
       "passage": null,
-      "options": ["purist", "archaic", "syncretic", "minimalist"],
+      "options": [
+        "purist",
+        "archaic",
+        "syncretic",
+        "minimalist"
+      ],
       "answer": "C",
       "explanation": "Syncretic means combining different beliefs, cultures, or ideas."
     },
@@ -2899,7 +3774,12 @@
       "question": "After the scandal, the CEO's reputation was , seemingly beyond repair.",
       "image": null,
       "passage": null,
-      "options": ["tarnished", "irredeemable", "questionable", "sullied"],
+      "options": [
+        "tarnished",
+        "irredeemable",
+        "questionable",
+        "sullied"
+      ],
       "answer": "B",
       "explanation": "Irredeemable means impossible to restore or save. 'Beyond repair' matches."
     },
@@ -2908,7 +3788,12 @@
       "question": "The of the northern lights is a phenomenon that scientists are still working to fully explain.",
       "image": null,
       "passage": null,
-      "options": ["brilliance", "luminescence", "effulgence", "incidence"],
+      "options": [
+        "brilliance",
+        "luminescence",
+        "effulgence",
+        "incidence"
+      ],
       "answer": "B",
       "explanation": "Luminescence is the emission of light not caused by heat, fitting aurora borealis."
     },
@@ -2917,7 +3802,12 @@
       "question": "The new policy was a measure, intended to be a temporary fix until a permanent solution could be found.",
       "image": null,
       "passage": null,
-      "options": ["foundational", "strategic", "stopgap", "procedural"],
+      "options": [
+        "foundational",
+        "strategic",
+        "stopgap",
+        "procedural"
+      ],
       "answer": "C",
       "explanation": "Stopgap means temporary substitute."
     },
@@ -2926,7 +3816,12 @@
       "question": "He possessed a memory, able to recall the smallest details from events decades past.",
       "image": null,
       "passage": null,
-      "options": ["retentive", "memorable", "prodigious", "reminiscent"],
+      "options": [
+        "retentive",
+        "memorable",
+        "prodigious",
+        "reminiscent"
+      ],
       "answer": "A",
       "explanation": "Retentive memory means ability to retain information. Prodigious means impressively great, also possible but retentive is more precise."
     },
@@ -2935,7 +3830,12 @@
       "question": "The two theories are ; if one is true, the other must be false.",
       "image": null,
       "passage": null,
-      "options": ["complementary", "analogous", "mutually exclusive", "correlative"],
+      "options": [
+        "complementary",
+        "analogous",
+        "mutually exclusive",
+        "correlative"
+      ],
       "answer": "C",
       "explanation": "Mutually exclusive means they cannot both be true."
     },
@@ -2944,7 +3844,12 @@
       "question": "The stonework on the medieval cathedral has fascinated historians and architects for centuries.",
       "image": null,
       "passage": null,
-      "options": ["intricate", "lapidary", "foundational", "monumental"],
+      "options": [
+        "intricate",
+        "lapidary",
+        "foundational",
+        "monumental"
+      ],
       "answer": "A",
       "explanation": "Intricate means very detailed and complex, fitting stonework."
     },
@@ -2953,7 +3858,12 @@
       "question": "Her argument was , skillfully avoiding the main point without ever directly lying.",
       "image": null,
       "passage": null,
-      "options": ["verbose", "succinct", "equivocal", "lucid"],
+      "options": [
+        "verbose",
+        "succinct",
+        "equivocal",
+        "lucid"
+      ],
       "answer": "C",
       "explanation": "Equivocal means ambiguous, avoiding direct statement."
     },
@@ -2962,7 +3872,12 @@
       "question": "The disease had a period of several weeks, showing no symptoms before suddenly appearing.",
       "image": null,
       "passage": null,
-      "options": ["critical", "latent", "active", "chronic"],
+      "options": [
+        "critical",
+        "latent",
+        "active",
+        "chronic"
+      ],
       "answer": "B",
       "explanation": "Latent period means the time between infection and symptom appearance."
     },
@@ -2971,7 +3886,12 @@
       "question": "The philosopher was known for his approach, questioning the very foundations of knowledge and belief.",
       "image": null,
       "passage": null,
-      "options": ["dogmatic", "pragmatic", "skeptical", "ethical"],
+      "options": [
+        "dogmatic",
+        "pragmatic",
+        "skeptical",
+        "ethical"
+      ],
       "answer": "C",
       "explanation": "Skeptical approach questions accepted beliefs."
     },
@@ -2980,7 +3900,12 @@
       "question": "The contract was deliberately , leaving room for interpretation and future negotiation.",
       "image": null,
       "passage": null,
-      "options": ["binding", "notarized", "noncommittal", "explicit"],
+      "options": [
+        "binding",
+        "notarized",
+        "noncommittal",
+        "explicit"
+      ],
       "answer": "C",
       "explanation": "Noncommittal means not expressing a clear opinion or intention, vague."
     },
@@ -2989,7 +3914,12 @@
       "question": "The millionaire was a notorious , hoarding his wealth and giving nothing to charity.",
       "image": null,
       "passage": null,
-      "options": ["spendthrift", "benefactor", "miser", "entrepreneur"],
+      "options": [
+        "spendthrift",
+        "benefactor",
+        "miser",
+        "entrepreneur"
+      ],
       "answer": "C",
       "explanation": "Miser is someone who hoards wealth and spends as little as possible."
     }

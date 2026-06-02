@@ -8,7 +8,12 @@
       "question": "MAKE is to SANDWICH as DO is to",
       "image": null,
       "passage": null,
-      "options": ["mistake", "favor", "decision", "arrangement"],
+      "options": [
+        "mistake",
+        "favor",
+        "decision",
+        "arrangement"
+      ],
       "answer": "B",
       "explanation": "We make a sandwich. Similarly, we do a favor. The verb 'make' pairs with 'sandwich' (create something); 'do' pairs with 'favor' (perform an act)."
     },
@@ -17,7 +22,12 @@
       "question": "DAWN is to MORNING as DUSK is to",
       "image": null,
       "passage": null,
-      "options": ["dusk", "down", "night", "noon"],
+      "options": [
+        "dusk",
+        "down",
+        "night",
+        "noon"
+      ],
       "answer": "C",
       "explanation": "Dawn is the beginning of morning. Dusk is the beginning of night. So the missing word is 'night'."
     },
@@ -26,7 +36,12 @@
       "question": "PRO is to FOR as _____ is to AGAINST.",
       "image": null,
       "passage": null,
-      "options": ["rom", "com", "con", "dab"],
+      "options": [
+        "rom",
+        "com",
+        "con",
+        "dab"
+      ],
       "answer": "C",
       "explanation": "Pro means for; con means against. These are common prefixes in debate terminology."
     },
@@ -35,7 +50,12 @@
       "question": "ARCHAEOLOGIST is related to REMAINS in the same way as _____ is related to REASONS.",
       "image": null,
       "passage": null,
-      "options": ["linguist", "anarchist", "scientist", "analogist"],
+      "options": [
+        "linguist",
+        "anarchist",
+        "scientist",
+        "analogist"
+      ],
       "answer": "A",
       "explanation": "An archaeologist studies remains. A linguist studies language, which involves analyzing reasons (linguistic reasons) but more directly, 'reasons' could refer to logical arguments; a better fit is analogist? Actually, among options, 'linguist' deals with language (which has grammatical reasons). However, 'analogist' is not common. The intended answer is likely 'analogist' because analogist draws analogies (reasons). But given typical SAT analogies, 'archaeologist:remains' is a professional:subject of study. For 'reasons', a 'logician' would fit, but not listed. Possibly 'analogist' is the intended answer. I'll choose 'analogist' (D). But let's check: linguist studies language, not reasons. Anarchist is political, scientist studies nature. Analogist studies analogies, which are a form of reasoning. So D."
     },
@@ -44,7 +64,12 @@
       "question": "CLAW is related to BIRD in the same way as _____ is related to BEAR.",
       "image": null,
       "passage": null,
-      "options": ["feet", "fur", "paw", "finger"],
+      "options": [
+        "feet",
+        "fur",
+        "paw",
+        "finger"
+      ],
       "answer": "C",
       "explanation": "A bird has a claw (bird's foot). A bear has a paw (bear's foot). So 'paw' is the analogous part."
     },
@@ -53,7 +78,12 @@
       "question": "WIN is related to RACE in the same way as BEAT is related to:",
       "image": null,
       "passage": null,
-      "options": ["team", "competition", "game", "referee"],
+      "options": [
+        "team",
+        "competition",
+        "game",
+        "referee"
+      ],
       "answer": "B",
       "explanation": "You win a race. You beat a competition (i.e., you defeat opponents in a competition). 'Beat' can also be used with 'game' or 'team', but 'competition' is a broader term. The most direct parallel: win is the outcome in a race; beat is the outcome in a competition."
     },
@@ -62,7 +92,12 @@
       "question": "DEN is related to LIONS in the same way as NEST is related to:",
       "image": null,
       "passage": null,
-      "options": ["cows", "hyenas", "birds", "pigs"],
+      "options": [
+        "cows",
+        "hyenas",
+        "birds",
+        "pigs"
+      ],
       "answer": "C",
       "explanation": "Lions live in a den. Birds live in a nest. So the answer is 'birds'."
     },
@@ -71,7 +106,12 @@
       "question": "DECREE",
       "image": null,
       "passage": null,
-      "options": ["rank", "power", "verdict", "hierarchy"],
+      "options": [
+        "rank",
+        "power",
+        "verdict",
+        "hierarchy"
+      ],
       "answer": "C",
       "explanation": "A decree is an official order or decision, similar to a verdict (judicial decision)."
     },
@@ -80,7 +120,12 @@
       "question": "BEREAVEMENT",
       "image": null,
       "passage": null,
-      "options": ["happiness", "glee", "pleasure", "sorrow"],
+      "options": [
+        "happiness",
+        "glee",
+        "pleasure",
+        "sorrow"
+      ],
       "answer": "D",
       "explanation": "Bereavement is the state of loss, especially death of a loved one, causing sorrow."
     },
@@ -89,7 +134,12 @@
       "question": "CONJECTURE",
       "image": null,
       "passage": null,
-      "options": ["fact", "speculation", "certainty", "rumor"],
+      "options": [
+        "fact",
+        "speculation",
+        "certainty",
+        "rumor"
+      ],
       "answer": "B",
       "explanation": "Conjecture means an opinion or conclusion based on incomplete information, i.e., speculation."
     },
@@ -98,7 +148,12 @@
       "question": "ENFORCEMENT",
       "image": null,
       "passage": null,
-      "options": ["forcefulness", "cogency", "prosecution", "involvement"],
+      "options": [
+        "forcefulness",
+        "cogency",
+        "prosecution",
+        "involvement"
+      ],
       "answer": "A",
       "explanation": "Enforcement is the act of compelling observance of a law or rule; forcefulness is a synonym. Cogency means convincingness, not exactly. Prosecution is legal process, not general enforcement."
     },
@@ -107,7 +162,12 @@
       "question": "TRANSGRESSION",
       "image": null,
       "passage": null,
-      "options": ["change", "exchange", "defense", "offense"],
+      "options": [
+        "change",
+        "exchange",
+        "defense",
+        "offense"
+      ],
       "answer": "D",
       "explanation": "Transgression means an act that goes against a law or rule, i.e., an offense."
     },
@@ -116,7 +176,12 @@
       "question": "TENANT",
       "image": null,
       "passage": null,
-      "options": ["landlord", "farmer", "peasant", "provincial"],
+      "options": [
+        "landlord",
+        "farmer",
+        "peasant",
+        "provincial"
+      ],
       "answer": "A",
       "explanation": "A tenant rents property from a landlord. The opposite is landlord."
     },
@@ -125,7 +190,12 @@
       "question": "LENIENT",
       "image": null,
       "passage": null,
-      "options": ["strict", "common", "easygoing", "committed"],
+      "options": [
+        "strict",
+        "common",
+        "easygoing",
+        "committed"
+      ],
       "answer": "A",
       "explanation": "Lenient means merciful or tolerant; strict is the opposite."
     },
@@ -134,7 +204,12 @@
       "question": "MISERLY",
       "image": null,
       "passage": null,
-      "options": ["thrift", "extravagant", "selfish", "saving"],
+      "options": [
+        "thrift",
+        "extravagant",
+        "selfish",
+        "saving"
+      ],
       "answer": "B",
       "explanation": "Miserly means stingy, unwilling to spend money. The opposite is extravagant (spending freely)."
     },
@@ -143,7 +218,12 @@
       "question": "NASTY",
       "image": null,
       "passage": null,
-      "options": ["foul", "horrid", "nice", "sociable"],
+      "options": [
+        "foul",
+        "horrid",
+        "nice",
+        "sociable"
+      ],
       "answer": "C",
       "explanation": "Nasty means unpleasant or mean. Nice is the opposite."
     },
@@ -152,15 +232,26 @@
       "question": "Choose the word which does not fit the relation: summit, peak, pinnacle, ravine",
       "image": null,
       "passage": null,
-      "options": ["summit", "peak", "pinnacle", "ravine"],
+      "options": [
+        "summit",
+        "peak",
+        "pinnacle",
+        "ravine"
+      ],
       "answer": "D",
       "explanation": "Summit, peak, and pinnacle all mean the highest point of something. A ravine is a deep, narrow valley (low point), so it's different."
     },
+    {
       "id": 18,
       "question": "Choose the word which does not fit: cave, barn, den, turf",
       "image": null,
       "passage": null,
-      "options": ["cave", "barn", "den", "turf"],
+      "options": [
+        "cave",
+        "barn",
+        "den",
+        "turf"
+      ],
       "answer": "D",
       "explanation": "Cave, barn, den are shelters or dwellings. Turf is grass-covered ground or a territory, not a shelter."
     },
@@ -169,7 +260,12 @@
       "question": "Choose the word which does not fit: mattress, pillow, carpet, pillowcase",
       "image": null,
       "passage": null,
-      "options": ["mattress", "pillow", "carpet", "pillowcase"],
+      "options": [
+        "mattress",
+        "pillow",
+        "carpet",
+        "pillowcase"
+      ],
       "answer": "C",
       "explanation": "Mattress, pillow, and pillowcase are bed-related items. Carpet is a floor covering, not specifically bed-related."
     },
@@ -178,7 +274,12 @@
       "question": "Choose the word which does not fit: buck, doe, bull, boar",
       "image": null,
       "passage": null,
-      "options": ["buck", "doe", "bull", "boar"],
+      "options": [
+        "buck",
+        "doe",
+        "bull",
+        "boar"
+      ],
       "answer": "B",
       "explanation": "Buck (male deer), bull (male cattle), boar (male pig). Doe is a female deer. The others are male animals; doe is female, so it doesn't fit."
     },
@@ -187,7 +288,12 @@
       "question": "What is the big event mentioned in the passage?",
       "image": null,
       "passage": "Political issues are the integral components of any big international event including sports. It is particularly true about the countries with specific political views or those involved in international conflicts. In case of Qatar hosting World Cup 2022, the political problem is caused by its relations, or rather no relations with Israel. In fact, Qatar does not recognize Israel as a state. Thus, Israel initiated a campaign against Qatar as the location for World Cup as a part of its interventions to isolate the activity of Hamas.\n\nThe major slogans included anti-terrorist ideas were followed by fans and Israel supporters around the world. The idea is to prevent funding terrorism claiming that Qatar plays a significant role in financing terrorist organizations and awarding 2022 FIFA World Cup to this country would mean the support of terrorism. Still, despite this problem and some other aspects related to not following the FIFA code of ethics by Qatar, the preparation for the World Cup is going on.",
-      "options": ["sports", "2022 world cup", "political integrity", "international conflicts"],
+      "options": [
+        "sports",
+        "2022 world cup",
+        "political integrity",
+        "international conflicts"
+      ],
       "answer": "B",
       "explanation": "The passage explicitly mentions the '2022 FIFA World Cup' as the big event."
     },
@@ -224,7 +330,12 @@
       "question": "The pronoun 'this' in paragraph 2 line 4 refers to",
       "image": null,
       "passage": "same passage",
-      "options": ["the 2022 FIFA World Cup", "Qatar", "Israel", "the award"],
+      "options": [
+        "the 2022 FIFA World Cup",
+        "Qatar",
+        "Israel",
+        "the award"
+      ],
       "answer": "A",
       "explanation": "The sentence: '... awarding 2022 FIFA World Cup to this country would mean the support of terrorism.' 'This' refers to the 2022 FIFA World Cup."
     },
@@ -247,7 +358,12 @@
       "question": "What does the pronoun 'them' in paragraph 2 line 2 refer to?",
       "image": null,
       "passage": "same passage",
-      "options": ["the play lists", "the students", "the videos", "the classrooms"],
+      "options": [
+        "the play lists",
+        "the students",
+        "the videos",
+        "the classrooms"
+      ],
       "answer": "C",
       "explanation": "The sentence says: 'we advise viewing the videos before screening them...' – 'them' refers to 'the videos'."
     },
@@ -256,7 +372,12 @@
       "question": "The explorable globe allows all of the following except to embark on a voyage of discovery into the interconnected workings of our planet.",
       "image": null,
       "passage": "same passage",
-      "options": ["individual student", "small groups", "whole classes", "discoverers"],
+      "options": [
+        "individual student",
+        "small groups",
+        "whole classes",
+        "discoverers"
+      ],
       "answer": "D",
       "explanation": "The passage lists individual students, small groups, and whole classes. 'Discoverers' is not mentioned."
     },
@@ -279,7 +400,12 @@
       "question": "Who is the youngest child?",
       "image": null,
       "passage": "My uncle had five children named, Tolani, Abebe, Lemma, Gile and Tena. Tolani, the middle child, is one of the two females. There is an exact age interval, three years, among each child. The first child, Abebe was born in 1960 E.C. Tena is younger than Tolani but older than Lemma. The other female is older than Tolani.",
-      "options": ["Lemma", "Tena", "Gile", "Tolani"],
+      "options": [
+        "Lemma",
+        "Tena",
+        "Gile",
+        "Tolani"
+      ],
       "answer": "A",
       "explanation": "Order: Abebe (first, born 1960), then intervals of 3 years. Tolani is middle (3rd child). Tena is younger than Tolani but older than Lemma, so Lemma is youngest. Also 'the other female is older than Tolani' means the other female is Abebe or Gile. So youngest is Lemma."
     },
@@ -302,7 +428,12 @@
       "question": "How old is the middle child now? (Assuming current year? The problem says Abebe born 1960 E.C. We need current year? The exam is from 2015 E.C? Typically, E.C (Ethiopian Calendar) is about 7-8 years behind Gregorian. But the question likely expects to calculate from given information. The difference between years: children spaced 3 years. Middle child is Tolani, who is 3rd. Abebe born 1960, so the next births: 1963, 1966, 1969, 1972. Middle child is 3rd = born 1966 E.C. If the exam is taken in 2015 E.C, then age = 2015 - 1966 = 49 years. So answer 49. Options: 52, 49, 51, 48. So B. 49 years.",
       "image": null,
       "passage": "same",
-      "options": ["52 years", "49 years", "51 years", "48 years"],
+      "options": [
+        "52 years",
+        "49 years",
+        "51 years",
+        "48 years"
+      ],
       "answer": "B",
       "explanation": "Abebe born 1960. Children spaced 3 years: 1960, 1963, 1966, 1969, 1972. Tolani is middle (3rd), born 1966. Assuming the current year is the exam year 2015 E.C., age = 2015 - 1966 = 49 years."
     },
@@ -311,7 +442,12 @@
       "question": "What is the name of the other female?",
       "image": null,
       "passage": "same",
-      "options": ["Lemma", "Tena", "Gile", "Tolani"],
+      "options": [
+        "Lemma",
+        "Tena",
+        "Gile",
+        "Tolani"
+      ],
       "answer": "C",
       "explanation": "Two females: Tolani (middle) and one older. The other female is older than Tolani, so among Abebe, Lemma, Tena, Gile – the only female name likely is Gile (since Abebe is male? Not specified, but typically Abebe is male name; Lemma could be male; Tena could be male. The passage says 'the other female is older than Tolani', so the older female is Gile. Answer C."
     },
@@ -348,7 +484,12 @@
       "question": "Find the two statements that together prove: Sara is a passionate science fiction writer. 1: A science fiction is written based on future expectations. 2: Sara writes science fictions. 3: Sara writes science fictions for living. 4: Sara loves science fictions. 5: Many people read science fictions written by Sara.",
       "image": null,
       "passage": null,
-      "options": ["1 & 3", "3 & 5", "4 & 5", "2 & 4"],
+      "options": [
+        "1 & 3",
+        "3 & 5",
+        "4 & 5",
+        "2 & 4"
+      ],
       "answer": "D",
       "explanation": "To prove that Sara is a passionate science fiction writer, we need that she writes science fiction (2) and that she loves it (4). So 2 & 4 together imply she is passionate about it."
     },
@@ -357,7 +498,12 @@
       "question": "A soccer team played 160 games and won 65 percent of them. How many games did it win?",
       "image": null,
       "passage": null,
-      "options": ["94", "104", "114", "125"],
+      "options": [
+        "94",
+        "104",
+        "114",
+        "125"
+      ],
       "answer": "B",
       "explanation": "65% of 160 = 0.65 × 160 = 104."
     },
@@ -366,7 +512,12 @@
       "question": "If 8% of a number is 150, then what is the number?",
       "image": null,
       "passage": null,
-      "options": ["1225", "1475", "1625", "1875"],
+      "options": [
+        "1225",
+        "1475",
+        "1625",
+        "1875"
+      ],
       "answer": "D",
       "explanation": "0.08 × N = 150 → N = 150 / 0.08 = 15000/8 = 1875."
     },
@@ -375,7 +526,12 @@
       "question": "A man bought a used car for Birr 600,000 and paid 20% deposit. How much did he still have to pay?",
       "image": null,
       "passage": null,
-      "options": ["Birr 380,000", "Birr 420,000", "Birr 480,000", "Birr 500,000"],
+      "options": [
+        "Birr 380,000",
+        "Birr 420,000",
+        "Birr 480,000",
+        "Birr 500,000"
+      ],
       "answer": "C",
       "explanation": "Deposit = 20% of 600,000 = 120,000. Remaining = 600,000 - 120,000 = 480,000."
     },
@@ -384,7 +540,12 @@
       "question": "If R = (S + T)P / 3, then T equals",
       "image": null,
       "passage": null,
-      "options": ["3R/P - S", "(3R - S)/P", "3R/P + S", "(3R + S)/P"],
+      "options": [
+        "3R/P - S",
+        "(3R - S)/P",
+        "3R/P + S",
+        "(3R + S)/P"
+      ],
       "answer": "A",
       "explanation": "R = P(S+T)/3 → Multiply both sides by 3: 3R = P(S+T) → S+T = 3R/P → T = 3R/P - S."
     },
@@ -393,7 +554,12 @@
       "question": "If a - b = 3 and a² + b² = 29, then what is the value of ab?",
       "image": null,
       "passage": null,
-      "options": ["18", "15", "12", "10"],
+      "options": [
+        "18",
+        "15",
+        "12",
+        "10"
+      ],
       "answer": "D",
       "explanation": "(a-b)² = a² -2ab + b² = 9 → 29 - 2ab = 9 → 2ab = 20 → ab=10."
     },
@@ -402,7 +568,12 @@
       "question": "What is the solution set of [5(9 - x)/3] + 1 < 6?",
       "image": null,
       "passage": null,
-      "options": ["{x: x<6}", "{x: x<-6}", "{x: x>6}", "{x: x>-6}"],
+      "options": [
+        "{x: x<6}",
+        "{x: x<-6}",
+        "{x: x>6}",
+        "{x: x>-6}"
+      ],
       "answer": "A",
       "explanation": "5(9-x)/3 +1 < 6 → 5(9-x)/3 < 5 → 5(9-x) < 15 → 9-x < 3 → -x < -6 → x > 6? Wait: 9-x < 3 → -x < -6 → x > 6. So solution is x > 6. That is {x: x>6}. Option C. Check: 5(9-x)/3 < 5 → multiply both sides by 3: 5(9-x) < 15 → divide 5: 9-x < 3 → -x < -6 → x > 6. Yes, C."
     },
@@ -411,7 +582,12 @@
       "question": "If 2x^{-0.25} = 8, then what is the value of x?",
       "image": null,
       "passage": null,
-      "options": ["1/256", "1/32", "1/64", "1/16"],
+      "options": [
+        "1/256",
+        "1/32",
+        "1/64",
+        "1/16"
+      ],
       "answer": "D",
       "explanation": "2x^{-0.25} = 8 → x^{-0.25} = 4 → (x^{-0.25})⁴ = 4⁴ → x^{-1} = 256 → x = 1/256? Wait: 4^4=256, so x^{-1}=256 → x=1/256. That's option A. Let me double-check: x^{-0.25} = 4 means (x^{-0.25})⁴ = 4⁴ → x^{-1}=256 → x=1/256. Yes A."
     },
@@ -420,7 +596,12 @@
       "question": "What least number must be added to 1056, so that the sum is completely divided by 23?",
       "image": null,
       "passage": null,
-      "options": ["5", "4", "3", "2"],
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
       "answer": "D",
       "explanation": "Divide 1056 by 23: 23×45=1035, remainder 21. To make divisible, need to add (23-21)=2. So 2."
     },
@@ -429,7 +610,12 @@
       "question": "The ratio of the perimeter to the width of a rectangle is 5:1. If the area of the rectangle is 216 cm², what is the length of the rectangle?",
       "image": null,
       "passage": null,
-      "options": ["18 cm", "16 cm", "14 cm", "12 cm"],
+      "options": [
+        "18 cm",
+        "16 cm",
+        "14 cm",
+        "12 cm"
+      ],
       "answer": "A",
       "explanation": "Perimeter = 2(l+w), ratio perimeter:width = 5:1 → 2(l+w)/w = 5 → 2(l+w)=5w → 2l+2w=5w → 2l=3w → w = (2/3)l. Area = l × w = l × (2/3)l = (2/3)l² = 216 → l² = 216 × 3/2 = 324 → l = 18 cm."
     },
@@ -438,7 +624,12 @@
       "question": "A family has two grandparents, two parents and three grandchildren. Average ages: grandparents 65, parents 35, grandchildren 6. What is the average age of the family?",
       "image": null,
       "passage": null,
-      "options": ["28 4/7 years", "31 1/7 years", "32 1/7 years", "32 4/7 years"],
+      "options": [
+        "28 4/7 years",
+        "31 1/7 years",
+        "32 1/7 years",
+        "32 4/7 years"
+      ],
       "answer": "A",
       "explanation": "Total age = (2×65)+(2×35)+(3×6)=130+70+18=218. Number of people = 7. Average = 218/7 = 31 1/7? 218/7=31.142857 = 31 1/7. That is option B. Let me recalc: 130+70=200, +18=218, 218/7 = 31.1429 = 31 1/7. So answer B."
     },
@@ -447,7 +638,12 @@
       "question": "The price of 10 chairs is equal to that of 4 tables. The price of 15 chairs and 2 tables together is Birr 400,000. What is the total price of 12 chairs and 3 tables?",
       "image": null,
       "passage": null,
-      "options": ["390,000", "388,000", "384,000", "375,000"],
+      "options": [
+        "390,000",
+        "388,000",
+        "384,000",
+        "375,000"
+      ],
       "answer": "C",
       "explanation": "Let chair = c, table = t. 10c=4t → t=2.5c. Then 15c+2t=15c+5c=20c=400,000 → c=20,000. Then t=50,000. 12c+3t=12×20,000+3×50,000=240,000+150,000=390,000. That is A. Check: 15c+2t=15×20,000+2×50,000=300,000+100,000=400,000 correct. So answer A."
     },
@@ -456,7 +652,12 @@
       "question": "If 3^{x-y} = 1/3 and 3^{x+y} = 243, then y is equal to:",
       "image": null,
       "passage": null,
-      "options": ["1", "3", "4", "5"],
+      "options": [
+        "1",
+        "3",
+        "4",
+        "5"
+      ],
       "answer": "B",
       "explanation": "3^{x-y}=3^{-1} → x-y=-1. 3^{x+y}=3^5 → x+y=5. Adding: 2x=4 → x=2, then y=3. So y=3."
     },
@@ -465,7 +666,12 @@
       "question": "The value of (0.96³ - 0.1³) / (0.96² + 0.96×0.1 + 0.1²) is equal to:",
       "image": null,
       "passage": null,
-      "options": ["1.06", "0.97", "0.95", "0.86"],
+      "options": [
+        "1.06",
+        "0.97",
+        "0.95",
+        "0.86"
+      ],
       "answer": "D",
       "explanation": "This is of the form (a³ - b³)/(a² + ab + b²) = a - b. Here a=0.96, b=0.1, so a-b=0.86."
     },
@@ -474,7 +680,12 @@
       "question": "What is the coefficient of x² in the expansion of (x + 2/x)^{10}?",
       "image": null,
       "passage": null,
-      "options": ["3360", "3430", "4230", "4860"],
+      "options": [
+        "3360",
+        "3430",
+        "4230",
+        "4860"
+      ],
       "answer": "A",
       "explanation": "General term: C(10,k) x^{10-k} (2/x)^k = C(10,k) 2^k x^{10-2k}. We want x²: 10-2k=2 → 2k=8 → k=4. Coefficient = C(10,4)×2^4 = 210×16 = 3360."
     },
@@ -483,7 +694,12 @@
       "question": "A is two years older than B and B is twice as old as C. If the total age of A, B and C is 27, then how old is B?",
       "image": null,
       "passage": null,
-      "options": ["7", "9", "10", "8"],
+      "options": [
+        "7",
+        "9",
+        "10",
+        "8"
+      ],
       "answer": "C",
       "explanation": "Let C = x, then B=2x, A=2x+2. Sum = 2x+2 + 2x + x = 5x+2=27 → 5x=25 → x=5. Then B=10."
     },
@@ -506,7 +722,12 @@
       "question": "3³ + 4³ + 5³ + ... + 20³ is equal to:",
       "image": null,
       "passage": null,
-      "options": ["44,100", "44,091", "53,100", "53,091"],
+      "options": [
+        "44,100",
+        "44,091",
+        "53,100",
+        "53,091"
+      ],
       "answer": "B",
       "explanation": "Sum of cubes from 1³ to n³ = [n(n+1)/2]². Sum 1 to 20 = (20×21/2)² = (210)² = 44,100. Sum 1²? Actually sum of cubes 1 to 20 = 44,100. Sum of 1³+2³ = 1+8=9, so sum from 3 to 20 = 44,100 - 9 = 44,091. So B."
     },
@@ -515,7 +736,12 @@
       "question": "What is the missing number in the sequence 5, 11, 19, 29, 41, ___, 71?",
       "image": null,
       "passage": null,
-      "options": ["52", "53", "54", "55"],
+      "options": [
+        "52",
+        "53",
+        "54",
+        "55"
+      ],
       "answer": "D",
       "explanation": "Differences: 6,8,10,12,? next difference should be 14, then 16? Check: 41+14=55, then 55+16=71. So missing = 55."
     },
@@ -524,7 +750,12 @@
       "question": "What is the sum of all natural numbers between 12 and 300 which are divisible by 8?",
       "image": null,
       "passage": null,
-      "options": ["5616", "5256", "4236", "4120"],
+      "options": [
+        "5616",
+        "5256",
+        "4236",
+        "4120"
+      ],
       "answer": "B",
       "explanation": "First multiple of 8 greater than 12 is 16, last less than 300 is 296. Number of terms: (296-16)/8 +1 = (280/8)+1 = 35+1=36 terms. Sum = (first+last)×n/2 = (16+296)×36/2 = 312×18 = 5616. So A."
     },
@@ -533,7 +764,12 @@
       "question": "What is the sum of the infinite series 3 + 1/2 + 1/6 + 1/18 + 1/54 + ...?",
       "image": null,
       "passage": null,
-      "options": ["11/4", "13/3", "15/4", "10/3"],
+      "options": [
+        "11/4",
+        "13/3",
+        "15/4",
+        "10/3"
+      ],
       "answer": "C",
       "explanation": "The series after the first term is geometric: 1/2, 1/6, 1/18, ... ratio = (1/6)/(1/2)=1/3. Sum of infinite geometric = a/(1-r) = (1/2)/(1-1/3) = (1/2)/(2/3)= (1/2)*(3/2)=3/4. Add the first term 3 = 3 + 0.75 = 3.75 = 15/4. So C."
     },
@@ -542,7 +778,12 @@
       "question": "What was the approximate percentage increase in the sale of type 55AH batteries in 1998 compared to that in 1992?",
       "image": null,
       "passage": "The table gives number of different types of batteries sold (in thousands) from 1992 to 1998. (See table: 1992: 55AH=108; 1998: 55AH=145).",
-      "options": ["32%", "34%", "35%", "36%"],
+      "options": [
+        "32%",
+        "34%",
+        "35%",
+        "36%"
+      ],
       "answer": "B",
       "explanation": "Increase = 145 - 108 = 37. Percentage = (37/108)×100 ≈ 34.26% ≈ 34%."
     },
@@ -551,7 +792,12 @@
       "question": "Which battery has the maximum sale from the year 1992 to 1998?",
       "image": null,
       "passage": "same table",
-      "options": ["4AH", "7AH", "32AH", "35AH"],
+      "options": [
+        "4AH",
+        "7AH",
+        "32AH",
+        "35AH"
+      ],
       "answer": "C",
       "explanation": "Sum over 7 years: 4AH = 75+90+96+105+90+105+115 = 676; 7AH = 144+126+114+90+75+60+85 = 694; 32AH = 114+102+75+150+135+165+160 = 901; 35AH = 102+84+105+90+75+45+100 = 601. Maximum is 32AH."
     },
@@ -560,7 +806,12 @@
       "question": "What is the difference in the number of 35AH batteries sold in 1993 and 1997?",
       "image": null,
       "passage": "same table",
-      "options": ["39,000", "37,000", "35,000", "33,000"],
+      "options": [
+        "39,000",
+        "37,000",
+        "35,000",
+        "33,000"
+      ],
       "answer": "A",
       "explanation": "1993: 35AH = 84 (thousands), 1997: 35AH = 45 (thousands). Difference = 39,000."
     },
@@ -569,7 +820,12 @@
       "question": "The percentage of 4AH batteries sold to the total number of batteries sold was maximum in the year:",
       "image": null,
       "passage": "same table",
-      "options": ["1994", "1995", "1997", "1998"],
+      "options": [
+        "1994",
+        "1995",
+        "1997",
+        "1998"
+      ],
       "answer": "D",
       "explanation": "Calculate percentages: 1994: 96/525=0.1829; 1995: 105/510=0.2059; 1997: 105/495=0.2121; 1998: 115/605=0.1901. Maximum is 1997? Actually 1997 is 0.2121, 1995 is 0.2059, so 1997 is higher. But option includes 1997. Let's check 1997: 105/495 = 0.21212; 1998: 115/605 = 0.1901; 1994: 96/525=0.1829; 1995:105/510=0.2059. So max is 1997. Answer C."
     },
@@ -578,7 +834,12 @@
       "question": "In case of which battery there was a continuous decrease in sales from 1992 to 1997?",
       "image": null,
       "passage": "same table",
-      "options": ["4AH", "7AH", "32AH", "35AH"],
+      "options": [
+        "4AH",
+        "7AH",
+        "32AH",
+        "35AH"
+      ],
       "answer": "B",
       "explanation": "7AH: 144,126,114,90,75,60 - continuously decreasing. 4AH fluctuates, 32AH increases then decreases, 35AH fluctuates."
     }

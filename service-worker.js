@@ -7,12 +7,12 @@ const CACHE_NAME = 'neaea-vault-v87';
 
 // Core app shell
 const APP_SHELL = [
-  '/',
-  '/index.html',
-  '/style.css',
-  '/app.js',
-  '/manifest.json',
-  '/data/manifest.json',
+  './',
+  'index.html',
+  'style.css',
+  'app.js',
+  'manifest.json',
+  'data/manifest.json',
 ];
 
 // Data files — automatically generated
@@ -72,14 +72,14 @@ const DATA_FILES = [
 
 // Icon files
 const ICON_FILES = [
-  '/icons/icon-72.png',
-  '/icons/icon-96.png',
-  '/icons/icon-128.png',
-  '/icons/icon-144.png',
-  '/icons/icon-152.png',
-  '/icons/icon-192.png',
-  '/icons/icon-384.png',
-  '/icons/icon-512.png',
+  'icons/icon-72.png',
+  'icons/icon-96.png',
+  'icons/icon-128.png',
+  'icons/icon-144.png',
+  'icons/icon-152.png',
+  'icons/icon-192.png',
+  'icons/icon-384.png',
+  'icons/icon-512.png',
 ];
 
 const ALL_ASSETS = [...APP_SHELL, ...DATA_FILES, ...ICON_FILES];
@@ -123,7 +123,7 @@ self.addEventListener('fetch', (event) => {
         // Cache successful responses for data files and images
         if (response.ok) {
           const url = new URL(event.request.url);
-          if (url.pathname.startsWith('/data/') || url.pathname.startsWith('/icons/')) {
+          if (url.pathname.includes('/data/') || url.pathname.includes('/icons/')) {
             const responseClone = response.clone();
             caches.open(CACHE_NAME).then((cache) => {
               cache.put(event.request, responseClone);
@@ -134,7 +134,7 @@ self.addEventListener('fetch', (event) => {
       }).catch(() => {
         // Offline fallback for navigation
         if (event.request.mode === 'navigate') {
-          return caches.match('/index.html');
+          return caches.match('index.html');
         }
       });
     })

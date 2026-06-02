@@ -18,7 +18,7 @@ subjects.forEach(subject => {
   const papers = fs.readdirSync(subjectDir)
     .filter(f => f.endsWith('.json'))
     .map(f => {
-      dataFiles.push(`/data/${subject}/${f}`);
+      dataFiles.push(`data/${subject}/${f}`);
       return f.replace('.json', '');
     });
 
@@ -42,7 +42,7 @@ if (fs.existsSync(swPath)) {
 
   // Update DATA_FILES array
   const dataFilesList = dataFiles.map(f => `  '${f}',`).join('\n');
-  const newDataFilesBlock = `// Data files — automatically generated\nconst DATA_FILES = [\n${dataFilesList}\n  '/data/manifest.json',\n];`;
+  const newDataFilesBlock = `// Data files — automatically generated\nconst DATA_FILES = [\n${dataFilesList}\n  'data/manifest.json',\n];`;
 
   swContent = swContent.replace(/\/\/ Data files — (?:add new subjects\/papers here|automatically generated)\nconst DATA_FILES = \[\n[\s\S]*?\];/, newDataFilesBlock);
 

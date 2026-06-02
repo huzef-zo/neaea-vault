@@ -219,8 +219,11 @@
     currentQuestionIndex = 0;
     userAnswers = [];
 
+    const url = `data/${subjectId}/${paperId}.json`;
+    console.log('Fetching paper from:', url);
+
     try {
-      const response = await fetch(`data/${subjectId}/${paperId}.json`);
+      const response = await fetch(url);
       if (!response.ok) throw new Error('Failed to load paper');
       currentPaperData = await response.json();
     } catch (err) {

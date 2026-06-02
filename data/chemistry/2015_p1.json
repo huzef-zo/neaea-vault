@@ -8,7 +8,12 @@
       "question": "Which one of the following is an intensive physical property of matter?",
       "image": null,
       "passage": null,
-      "options": ["Mass", "Volume", "Length", "Density"],
+      "options": [
+        "Mass",
+        "Volume",
+        "Length",
+        "Density"
+      ],
       "answer": "D",
       "explanation": "Intensive properties do not depend on the amount of substance. Density is intensive; mass, volume, and length are extensive."
     },
@@ -17,7 +22,12 @@
       "question": "All of the following have four significant figures except",
       "image": null,
       "passage": null,
-      "options": ["0.05040", "0.0012", "09.060", "1.005"],
+      "options": [
+        "0.05040",
+        "0.0012",
+        "09.060",
+        "1.005"
+      ],
       "answer": "B",
       "explanation": "0.0012 has two significant figures (the leading zeros are not significant). The others have four significant figures."
     },
@@ -26,7 +36,12 @@
       "question": "Which of the following is correct?",
       "image": null,
       "passage": null,
-      "options": ["1 L = 1 dm³", "1 L = 10 dm³", "10 L = 1 dm³", "1 L = 1 m³"],
+      "options": [
+        "1 L = 1 dm³",
+        "1 L = 10 dm³",
+        "10 L = 1 dm³",
+        "1 L = 1 m³"
+      ],
       "answer": "A",
       "explanation": "1 liter is exactly equal to 1 cubic decimeter (dm³)."
     },
@@ -35,7 +50,12 @@
       "question": "What is the first step of the scientific method?",
       "image": null,
       "passage": null,
-      "options": ["Performing an experiment", "Forming a hypothesis", "Making observation", "Predicting the result of an experiment"],
+      "options": [
+        "Performing an experiment",
+        "Forming a hypothesis",
+        "Making observation",
+        "Predicting the result of an experiment"
+      ],
       "answer": "C",
       "explanation": "The scientific method typically begins with making observations about the natural world."
     },
@@ -44,7 +64,12 @@
       "question": "The equivalent temperature value in Fahrenheit scale for 50°C is",
       "image": null,
       "passage": null,
-      "options": ["122", "50", "100", "90"],
+      "options": [
+        "122",
+        "50",
+        "100",
+        "90"
+      ],
       "answer": "A",
       "explanation": "°F = (9/5)×°C + 32 = (9/5)×50 + 32 = 90 + 32 = 122°F."
     },
@@ -53,7 +78,12 @@
       "question": "Which of the following is possible while doing an experiment?",
       "image": null,
       "passage": null,
-      "options": ["Washing hand with soap", "Smelling chemicals", "Dangling hair", "Chewing gum"],
+      "options": [
+        "Washing hand with soap",
+        "Smelling chemicals",
+        "Dangling hair",
+        "Chewing gum"
+      ],
       "answer": "A",
       "explanation": "Washing hands with soap is a safety practice. Smelling chemicals directly, dangling hair, and chewing gum are unsafe in a lab."
     },
@@ -76,7 +106,12 @@
       "question": "The main purpose of Robert Millikan's oil drop experiment is to determine",
       "image": null,
       "passage": null,
-      "options": ["the speed of electron", "the ratio of mass of electron to charge of electron", "the mass of electron", "the magnitude of charge of electron"],
+      "options": [
+        "the speed of electron",
+        "the ratio of mass of electron to charge of electron",
+        "the mass of electron",
+        "the magnitude of charge of electron"
+      ],
       "answer": "D",
       "explanation": "Millikan's oil drop experiment measured the elementary electric charge (charge of an electron)."
     },
@@ -85,7 +120,12 @@
       "question": "The sum of the number of electron, proton and neutron in ⁵⁶₂₆Fe is",
       "image": null,
       "passage": null,
-      "options": ["26", "56", "30", "82"],
+      "options": [
+        "26",
+        "56",
+        "30",
+        "82"
+      ],
       "answer": "B",
       "explanation": "For ⁵⁶₂₆Fe, protons = 26, electrons = 26, neutrons = 56-26 = 30. Sum = 26+26+30 = 82, but 82 is not an option. The closest answer often given in exams is the mass number 56 (sum of protons and neutrons). Possibly the question intended the sum of protons and neutrons, so answer B (56)."
     },
@@ -94,7 +134,12 @@
       "question": "Which region of electromagnetic spectrum is capable of inducing electron transition with the greatest energy?",
       "image": null,
       "passage": null,
-      "options": ["Orange", "Red", "Violet", "Green"],
+      "options": [
+        "Orange",
+        "Red",
+        "Violet",
+        "Green"
+      ],
       "answer": "C",
       "explanation": "Violet light has the shortest wavelength and highest energy among the visible options, so it can induce transitions with the greatest energy."
     },
@@ -103,7 +148,12 @@
       "question": "What is the wavelength of the yellow sodium emission, which has a frequency of 5.09×10¹⁴ s⁻¹? (c = 3×10⁸ m/s)",
       "image": null,
       "passage": null,
-      "options": ["400 nm", "589 nm", "670 nm", "890 nm"],
+      "options": [
+        "400 nm",
+        "589 nm",
+        "670 nm",
+        "890 nm"
+      ],
       "answer": "B",
       "explanation": "λ = c/ν = (3×10⁸ m/s) / (5.09×10¹⁴ s⁻¹) = 5.89×10⁻⁷ m = 589 nm."
     },
@@ -112,7 +162,12 @@
       "question": "What is the ratio of the energy of a photon of 300 nm wavelength radiation to that of 600 nm radiation?",
       "image": null,
       "passage": null,
-      "options": ["1:2", "1:1", "3:1", "2:1"],
+      "options": [
+        "1:2",
+        "1:1",
+        "3:1",
+        "2:1"
+      ],
       "answer": "D",
       "explanation": "Energy is inversely proportional to wavelength. E₁/E₂ = λ₂/λ₁ = 600/300 = 2/1 = 2:1."
     },
@@ -121,7 +176,12 @@
       "question": "The ejection of electron from metals by shining light on the metal surface is",
       "image": null,
       "passage": null,
-      "options": ["work function", "binding energy", "photoelectric effect", "speed of light"],
+      "options": [
+        "work function",
+        "binding energy",
+        "photoelectric effect",
+        "speed of light"
+      ],
       "answer": "C",
       "explanation": "The photoelectric effect is the emission of electrons when light shines on a metal surface."
     },
@@ -130,7 +190,12 @@
       "question": "The subshell representation for n = 4, l = 3 is",
       "image": null,
       "passage": null,
-      "options": ["4p", "4d", "4s", "4f"],
+      "options": [
+        "4p",
+        "4d",
+        "4s",
+        "4f"
+      ],
       "answer": "D",
       "explanation": "l = 0 (s), 1 (p), 2 (d), 3 (f). So n=4, l=3 is 4f."
     },
@@ -139,7 +204,12 @@
       "question": "What are the possible values of the azimuthal quantum number for an electron in the 4th energy level?",
       "image": null,
       "passage": null,
-      "options": ["0,1,2,3", "1,2,3", "2,3,4", "3,4"],
+      "options": [
+        "0,1,2,3",
+        "1,2,3",
+        "2,3,4",
+        "3,4"
+      ],
       "answer": "A",
       "explanation": "For n=4, l can be 0, 1, 2, 3 (s, p, d, f)."
     },
@@ -148,7 +218,12 @@
       "question": "How many 3d electrons are present in the ground state of ⁵²₂₄Cr?",
       "image": null,
       "passage": null,
-      "options": ["4", "6", "5", "10"],
+      "options": [
+        "4",
+        "6",
+        "5",
+        "10"
+      ],
       "answer": "C",
       "explanation": "Chromium has configuration [Ar] 4s¹ 3d⁵, so 5 electrons in 3d."
     },
@@ -171,7 +246,12 @@
       "question": "In which of the following block of the periodic table is an element with atomic number of 20 placed?",
       "image": null,
       "passage": null,
-      "options": ["s-block", "p-block", "d-block", "f-block"],
+      "options": [
+        "s-block",
+        "p-block",
+        "d-block",
+        "f-block"
+      ],
       "answer": "A",
       "explanation": "Atomic number 20 is calcium (Ca), which is in group 2, s-block."
     },
@@ -180,7 +260,12 @@
       "question": "A substance that does NOT conduct electricity as a solid but does conduct electricity when melted is most likely classified as:",
       "image": null,
       "passage": null,
-      "options": ["a metal", "a molecular compound", "an ionic compound", "a non-metal"],
+      "options": [
+        "a metal",
+        "a molecular compound",
+        "an ionic compound",
+        "a non-metal"
+      ],
       "answer": "C",
       "explanation": "Ionic compounds do not conduct electricity in solid state (ions fixed), but conduct when molten (ions free to move)."
     },
@@ -189,7 +274,12 @@
       "question": "Which of the following ionic compounds has the highest lattice energy?",
       "image": null,
       "passage": null,
-      "options": ["NaCl", "NaF", "MgO", "AlN"],
+      "options": [
+        "NaCl",
+        "NaF",
+        "MgO",
+        "AlN"
+      ],
       "answer": "D",
       "explanation": "Lattice energy increases with higher ionic charges. AlN (Al³⁺, N³⁻) has the highest product of charges (9), giving the highest lattice energy."
     },
@@ -198,7 +288,12 @@
       "question": "Which one of the substance contains ionic, covalent and dative bonds between their atoms?",
       "image": null,
       "passage": null,
-      "options": ["NH₄CN", "KI", "Mg₃N₂", "CHOH"],
+      "options": [
+        "NH₄CN",
+        "KI",
+        "Mg₃N₂",
+        "CHOH"
+      ],
       "answer": "A",
       "explanation": "NH₄CN contains ionic bond between NH₄⁺ and CN⁻, covalent bonds within NH₄⁺ and CN⁻, and a dative (coordinate) bond in NH₄⁺ (N→H⁺)."
     },
@@ -207,7 +302,12 @@
       "question": "What is the total number of valence shell electrons in BrO₃⁻?",
       "image": null,
       "passage": null,
-      "options": ["20", "26", "32", "36"],
+      "options": [
+        "20",
+        "26",
+        "32",
+        "36"
+      ],
       "answer": "B",
       "explanation": "Br has 7 valence electrons, each O has 6, plus 1 for the negative charge: 7 + 3×6 + 1 = 7+18+1 = 26."
     },
@@ -216,7 +316,12 @@
       "question": "What is the total number of lone pairs in CO₂? (¹²C, ¹⁶O)",
       "image": null,
       "passage": null,
-      "options": ["1", "2", "3", "4"],
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
       "answer": "D",
       "explanation": "CO₂ has structure O=C=O; each oxygen has two lone pairs, total 4 lone pairs."
     },
@@ -225,7 +330,12 @@
       "question": "Which bond between the following groups of elements will be the most polar?",
       "image": null,
       "passage": null,
-      "options": ["S-I", "S-Cl", "S-F", "S-Br"],
+      "options": [
+        "S-I",
+        "S-Cl",
+        "S-F",
+        "S-Br"
+      ],
       "answer": "C",
       "explanation": "Fluorine is the most electronegative element, so S-F has the greatest electronegativity difference and is most polar."
     },
@@ -234,7 +344,12 @@
       "question": "Which one of the following is the geometry of ICl₄⁻?",
       "image": null,
       "passage": null,
-      "options": ["Octahedral", "Trigonal planar", "Tetrahedral", "Square planar"],
+      "options": [
+        "Octahedral",
+        "Trigonal planar",
+        "Tetrahedral",
+        "Square planar"
+      ],
       "answer": "D",
       "explanation": "ICl₄⁻ has 4 bonding pairs and 2 lone pairs on I, giving square planar geometry."
     },
@@ -243,7 +358,12 @@
       "question": "Which one of the following is non-polar molecule with individual bonds are polar?",
       "image": null,
       "passage": null,
-      "options": ["O₂", "CO₂", "Cl₂", "SO₂"],
+      "options": [
+        "O₂",
+        "CO₂",
+        "Cl₂",
+        "SO₂"
+      ],
       "answer": "B",
       "explanation": "CO₂ has polar C=O bonds, but the linear symmetry makes the molecule non-polar."
     },
@@ -266,7 +386,12 @@
       "question": "Which molecule listed below has two sigma (σ) and two pi (π) bonds?",
       "image": null,
       "passage": null,
-      "options": ["HCN", "CH₄", "NF₂", "N₂"],
+      "options": [
+        "HCN",
+        "CH₄",
+        "NF₂",
+        "N₂"
+      ],
       "answer": "A",
       "explanation": "HCN: H-C σ bond, C≡N has one σ and two π bonds, total σ = 2, π = 2."
     },
@@ -275,7 +400,12 @@
       "question": "What type of hybridization is used by carbon in C₂H₂ (acetylene)?",
       "image": null,
       "passage": null,
-      "options": ["sp", "sp³", "sp²", "sp²d"],
+      "options": [
+        "sp",
+        "sp³",
+        "sp²",
+        "sp²d"
+      ],
       "answer": "A",
       "explanation": "In acetylene, each carbon is sp hybridized, forming a triple bond."
     },
@@ -284,7 +414,12 @@
       "question": "The bond orders of H₂, H₂⁺, and H₂⁻ are, respectively. (¹H)",
       "image": null,
       "passage": null,
-      "options": ["1, 0 and 0", "1, 1/2 and 0", "1, 0 and 1/2", "1, 1/2 and 1/2"],
+      "options": [
+        "1, 0 and 0",
+        "1, 1/2 and 0",
+        "1, 0 and 1/2",
+        "1, 1/2 and 1/2"
+      ],
       "answer": "D",
       "explanation": "H₂ bond order = 1; H₂⁺ bond order = 0.5; H₂⁻ bond order = 0.5."
     },
@@ -293,7 +428,12 @@
       "question": "Which one of the following solids is NOT amorphous solid?",
       "image": null,
       "passage": null,
-      "options": ["Glass", "Plastics", "Sodium chloride", "Rubber"],
+      "options": [
+        "Glass",
+        "Plastics",
+        "Sodium chloride",
+        "Rubber"
+      ],
       "answer": "C",
       "explanation": "Sodium chloride is a crystalline solid, not amorphous."
     },
@@ -302,7 +442,12 @@
       "question": "The rate of a reaction in which there are no gases involved is least dependent upon:",
       "image": null,
       "passage": null,
-      "options": ["Temperature", "Pressure", "Concentration", "Surface area"],
+      "options": [
+        "Temperature",
+        "Pressure",
+        "Concentration",
+        "Surface area"
+      ],
       "answer": "B",
       "explanation": "Pressure affects only gases. For reactions with no gases, pressure has negligible effect."
     },
@@ -311,7 +456,12 @@
       "question": "For a certain reaction, rate = k[A]^{3/2}. If the rate is 0.020 M/s when [A] = 1.0 M, what is the rate when [A] = 0.64 M?",
       "image": null,
       "passage": null,
-      "options": ["0.0033 M/s", "0.04 M/s", "0.033 M/s", "0.01024 M/s"],
+      "options": [
+        "0.0033 M/s",
+        "0.04 M/s",
+        "0.033 M/s",
+        "0.01024 M/s"
+      ],
       "answer": "D",
       "explanation": "k = 0.020 / (1.0)^{1.5} = 0.020. At [A]=0.64, rate = 0.020 × (0.64)^{1.5} = 0.020 × 0.512 = 0.01024 M/s."
     },
@@ -320,7 +470,12 @@
       "question": "Substances that inhibit a reaction are:",
       "image": null,
       "passage": null,
-      "options": ["promoters", "negative Catalysts", "positive Catalysts", "enzymes"],
+      "options": [
+        "promoters",
+        "negative Catalysts",
+        "positive Catalysts",
+        "enzymes"
+      ],
       "answer": "B",
       "explanation": "Negative catalysts (inhibitors) decrease the rate of a reaction."
     },
@@ -343,7 +498,12 @@
       "question": "For the reaction 2A + B → 2C, the following data were obtained. What is the rate law?",
       "image": null,
       "passage": null,
-      "options": ["Rate = k[A]²[B]", "Rate = k[A]²", "Rate = k[A][B]", "Rate = k[A]²[B][C]"],
+      "options": [
+        "Rate = k[A]²[B]",
+        "Rate = k[A]²",
+        "Rate = k[A][B]",
+        "Rate = k[A]²[B][C]"
+      ],
       "answer": "A",
       "explanation": "From the data, doubling [A] quadruples rate (order 2 in A), doubling [B] doubles rate (order 1 in B). Thus rate = k[A]²[B]."
     },
@@ -352,7 +512,12 @@
       "question": "Which of the following rate law is third order overall?",
       "image": null,
       "passage": null,
-      "options": ["Rate = k[A][B]³", "Rate = k[A][B]²", "Rate = k[A]³[B]³", "Rate = k[A]⁵[B]²"],
+      "options": [
+        "Rate = k[A][B]³",
+        "Rate = k[A][B]²",
+        "Rate = k[A]³[B]³",
+        "Rate = k[A]⁵[B]²"
+      ],
       "answer": "B",
       "explanation": "Overall order is sum of exponents: 1+2=3 for rate = k[A][B]²."
     },
@@ -361,7 +526,12 @@
       "question": "The reaction between NO and I₂ is second order in NO and first order in I₂. What change occurs in the rate of reaction if the concentration of each reactant is tripled?",
       "image": null,
       "passage": null,
-      "options": ["18 fold increase", "9 fold increase", "27 fold increase", "3 fold increase"],
+      "options": [
+        "18 fold increase",
+        "9 fold increase",
+        "27 fold increase",
+        "3 fold increase"
+      ],
       "answer": "C",
       "explanation": "Rate = k[NO]²[I₂]. Tripling both: (3)²×(3) = 9×3 = 27 times increase."
     },
@@ -370,7 +540,12 @@
       "question": "Ozone (O₃) is depleted from tropospheric atmosphere by the following cycle: Step1: NO + O₃ → NO₂ + O₂; Step2: NO₂ + 2O → 2O₂; Net: O₃ + O → 2O₂. What observation could you make about the cycle?",
       "image": null,
       "passage": null,
-      "options": ["NO₂ is a catalyst", "O is a catalyst", "O is an intermediate", "NO₂ is an intermediate"],
+      "options": [
+        "NO₂ is a catalyst",
+        "O is a catalyst",
+        "O is an intermediate",
+        "NO₂ is an intermediate"
+      ],
       "answer": "D",
       "explanation": "NO₂ is produced in step1 and consumed in step2, so it is an intermediate."
     },
@@ -379,7 +554,12 @@
       "question": "Suppose reactions A → B and B → A are both elementary processes with rate constants of 800 s⁻¹ and 4000 s⁻¹ respectively. What is the value of the equilibrium constant for A ⇌ B?",
       "image": null,
       "passage": null,
-      "options": ["0.2", "20", "0.02", "2"],
+      "options": [
+        "0.2",
+        "20",
+        "0.02",
+        "2"
+      ],
       "answer": "A",
       "explanation": "K = k_forward / k_reverse = 800 / 4000 = 0.2."
     },
@@ -388,7 +568,12 @@
       "question": "Considering the reaction N₂(g) + O₂(g) ⇌ 2NO(g), ΔH = +180 kJ/mol, the production of NO is increased by:",
       "image": null,
       "passage": null,
-      "options": ["increasing temperature", "increasing pressure", "decreasing temperature", "decreasing pressure"],
+      "options": [
+        "increasing temperature",
+        "increasing pressure",
+        "decreasing temperature",
+        "decreasing pressure"
+      ],
       "answer": "A",
       "explanation": "The reaction is endothermic; increasing temperature shifts equilibrium to the right, increasing NO production."
     },
@@ -397,7 +582,12 @@
       "question": "In the reaction 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), K = 100. What is [O₂] if [SO₂] = [SO₃]?",
       "image": null,
       "passage": null,
-      "options": ["0.001", "0.1", "100", "0.01"],
+      "options": [
+        "0.001",
+        "0.1",
+        "100",
+        "0.01"
+      ],
       "answer": "D",
       "explanation": "K = [SO₃]²/([SO₂]²[O₂]) = 1/[O₂] (since [SO₂]=[SO₃]). Thus [O₂] = 1/K = 0.01."
     },
@@ -406,7 +596,12 @@
       "question": "The relation between the equilibrium constant in terms of concentration and pressure for the equilibrium reaction 2NaHCO₃(s) ⇌ Na₂CO₃(s) + H₂O(g) + CO₂(g) is",
       "image": null,
       "passage": null,
-      "options": ["Kp = KcRT", "Kc = Kp(RT)²", "Kp = Kc(RT)²", "Kc = KpRT"],
+      "options": [
+        "Kp = KcRT",
+        "Kc = Kp(RT)²",
+        "Kp = Kc(RT)²",
+        "Kc = KpRT"
+      ],
       "answer": "C",
       "explanation": "Δn = 2 (moles of gaseous products minus reactants). Kp = Kc (RT)^(Δn) = Kc (RT)²."
     },
@@ -415,7 +610,12 @@
       "question": "Which one of the following indicates the correct expression for the equilibrium constant (K) for PCl₅(s) → PCl₃(l) + Cl₂(g)?",
       "image": null,
       "passage": null,
-      "options": ["[PCl₃][Cl₂]/[PCl₅]", "[Cl₂]", "[PCl₃][Cl₂]", "[PCl₅]/[PCl₃][Cl₂]"],
+      "options": [
+        "[PCl₃][Cl₂]/[PCl₅]",
+        "[Cl₂]",
+        "[PCl₃][Cl₂]",
+        "[PCl₅]/[PCl₃][Cl₂]"
+      ],
       "answer": "B",
       "explanation": "Pure solids and liquids are omitted from the equilibrium expression. Only Cl₂(g) appears, so K = [Cl₂]."
     },
@@ -438,7 +638,12 @@
       "question": "The number of phase in a mixture of sodium chloride and water is",
       "image": null,
       "passage": null,
-      "options": ["1", "2", "3", "4"],
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
       "answer": "A",
       "explanation": "When sodium chloride dissolves completely in water, it forms a single homogeneous liquid phase (solution)."
     },
@@ -447,7 +652,12 @@
       "question": "What is the chemical name for Aspirin?",
       "image": null,
       "passage": null,
-      "options": ["Sodium salicylate", "Salicylic acid", "Methyl salicylate", "Acetyl salicylic acid"],
+      "options": [
+        "Sodium salicylate",
+        "Salicylic acid",
+        "Methyl salicylate",
+        "Acetyl salicylic acid"
+      ],
       "answer": "D",
       "explanation": "Aspirin is acetylsalicylic acid."
     },
@@ -456,7 +666,12 @@
       "question": "Which compound is a carboxylic acid?",
       "image": null,
       "passage": null,
-      "options": ["CH₃CH₂COOCH₂CH₃", "CH₃CH₂COOH", "CH₃CH₂CHO", "CH₃CH₂COCH₂CH₃"],
+      "options": [
+        "CH₃CH₂COOCH₂CH₃",
+        "CH₃CH₂COOH",
+        "CH₃CH₂CHO",
+        "CH₃CH₂COCH₂CH₃"
+      ],
       "answer": "B",
       "explanation": "CH₃CH₂COOH is propanoic acid, a carboxylic acid."
     },
@@ -465,16 +680,26 @@
       "question": "What is the common name of the following structure? CH₃CH₂CH₂CHO",
       "image": null,
       "passage": null,
-      "options": ["Formic acid", "Oxalic acid", "Lactic acid", "Butyric acid"],
+      "options": [
+        "Formic acid",
+        "Oxalic acid",
+        "Lactic acid",
+        "Butyric acid"
+      ],
       "answer": "D",
-      "explanation": "Butyraldehyde is the aldehyde, but the question says "structure" likely missing the O? Actually CH₃CH₂CH₂COOH would be butyric acid. Given the options, butyric acid is a carboxylic acid. The given formula CH₃CH₂CH₂CH? might be butyraldehyde? But common name of butanoic acid is butyric acid. I'll assume the intended compound is butanoic acid, common name butyric acid."
+      "explanation": "Butyraldehyde is the aldehyde, but the question says \"structure\" likely missing the O? Actually CH₃CH₂CH₂COOH would be butyric acid. Given the options, butyric acid is a carboxylic acid. The given formula CH₃CH₂CH₂CH? might be butyraldehyde? But common name of butanoic acid is butyric acid. I'll assume the intended compound is butanoic acid, common name butyric acid."
     },
     {
       "id": 50,
       "question": "What is the IUPAC name of CH₃COOCH₂CH₃?",
       "image": null,
       "passage": null,
-      "options": ["Ethylbutanoate", "Ethylheantoate", "Ethylpropanoate", "Ethylmethanoate"],
+      "options": [
+        "Ethylbutanoate",
+        "Ethylheantoate",
+        "Ethylpropanoate",
+        "Ethylmethanoate"
+      ],
       "answer": "C",
       "explanation": "CH₃COOCH₂CH₃ is ethyl ethanoate (ethyl acetate). Among the options, none exactly match. However, ethyl propanoate would be CH₃CH₂COOCH₂CH₃. There is a possible typo; the intended answer might be ethyl ethanoate, but given the options, ethyl propanoate is the closest in structure (both have three carbons in the acyl part? Actually acetate has 2 carbons, propanoate 3). I'll select C as the most common error, but note the correct IUPAC name is ethyl ethanoate."
     },
@@ -483,7 +708,12 @@
       "question": "Hydrolysis of propyl butanoate produces",
       "image": null,
       "passage": null,
-      "options": ["Propanol and butanoic acid", "Butanol and propanoic acid", "Butanol and Propanoic acid", "Ethanol and Butanoic acid"],
+      "options": [
+        "Propanol and butanoic acid",
+        "Butanol and propanoic acid",
+        "Butanol and Propanoic acid",
+        "Ethanol and Butanoic acid"
+      ],
       "answer": "A",
       "explanation": "Propyl butanoate is CH₃CH₂CH₂COOCH₂CH₂CH₃. Hydrolysis gives butanoic acid and propanol."
     },
@@ -492,7 +722,12 @@
       "question": "What is the process that converts liquid vegetable oils to solid fats?",
       "image": null,
       "passage": null,
-      "options": ["Hydration", "Hydrolysis", "Hydrogenation", "Saponification"],
+      "options": [
+        "Hydration",
+        "Hydrolysis",
+        "Hydrogenation",
+        "Saponification"
+      ],
       "answer": "C",
       "explanation": "Hydrogenation adds hydrogen to unsaturated fats, converting liquid oils into solid fats."
     },
@@ -529,7 +764,12 @@
       "question": "Which of the following is NOT a solution?",
       "image": null,
       "passage": null,
-      "options": ["Milk", "Brass", "Whisky", "Coca cola drink"],
+      "options": [
+        "Milk",
+        "Brass",
+        "Whisky",
+        "Coca cola drink"
+      ],
       "answer": "A",
       "explanation": "Milk is a colloid (emulsion), not a true solution. Brass is a solid solution (alloy), whisky and Coca-Cola are solutions."
     },
@@ -538,7 +778,12 @@
       "question": "The process of solute particles being surrounded by solvent molecules is",
       "image": null,
       "passage": null,
-      "options": ["saturation", "solvation", "dehydration", "suspension"],
+      "options": [
+        "saturation",
+        "solvation",
+        "dehydration",
+        "suspension"
+      ],
       "answer": "B",
       "explanation": "Solvation is the process where solvent molecules surround solute particles."
     },
@@ -547,7 +792,12 @@
       "question": "One of the following does not speed up the rate of dissolution?",
       "image": null,
       "passage": null,
-      "options": ["Increasing temperature", "Increasing pressure of gas", "Increasing surface area", "Decreasing surface area"],
+      "options": [
+        "Increasing temperature",
+        "Increasing pressure of gas",
+        "Increasing surface area",
+        "Decreasing surface area"
+      ],
       "answer": "D",
       "explanation": "Decreasing surface area slows down dissolution; the others increase the rate."
     },
@@ -556,7 +806,12 @@
       "question": "When a crystal solute is added to its supersaturated solution, the solute crystal will",
       "image": null,
       "passage": null,
-      "options": ["slightly dissolve", "remain unchanged", "grow bigger", "dissolve completely"],
+      "options": [
+        "slightly dissolve",
+        "remain unchanged",
+        "grow bigger",
+        "dissolve completely"
+      ],
       "answer": "C",
       "explanation": "Adding a seed crystal to a supersaturated solution causes crystallization, making the crystal grow larger."
     },
@@ -565,7 +820,12 @@
       "question": "The solubility of oxygen gas in water at 25°C and 1 atm pressure is 0.041 g/L. What is the solubility of oxygen in water at 25°C and 3 atm?",
       "image": null,
       "passage": null,
-      "options": ["0.123", "0.31", "0.041", "0.014"],
+      "options": [
+        "0.123",
+        "0.31",
+        "0.041",
+        "0.014"
+      ],
       "answer": "A",
       "explanation": "Henry's law: solubility is proportional to pressure. At 3 atm, solubility = 0.041 × (3/1) = 0.123 g/L."
     },
@@ -574,7 +834,12 @@
       "question": "Calculate the mole fraction of H₂O and CH₃CH₂OH in a mixture of equal masses of H₂O & CH₃CH₂OH. (H=1, O=16)",
       "image": null,
       "passage": null,
-      "options": ["0.9 & 0.1", "0.72 & 0.28", "0.5 & 0.5", "0.6 & 0.4"],
+      "options": [
+        "0.9 & 0.1",
+        "0.72 & 0.28",
+        "0.5 & 0.5",
+        "0.6 & 0.4"
+      ],
       "answer": "B",
       "explanation": "Take 100 g each. Moles H₂O = 100/18 = 5.56, moles ethanol = 100/46 = 2.17. Total = 7.73. X_H2O = 5.56/7.73 = 0.72, X_ethanol = 0.28."
     },
@@ -583,7 +848,12 @@
       "question": "The molarity of nitrate ion in a solution that contains 0.9 M Al(NO₃)₃ is",
       "image": null,
       "passage": null,
-      "options": ["0.3 M", "2.7 M", "0.9 M", "1.8 M"],
+      "options": [
+        "0.3 M",
+        "2.7 M",
+        "0.9 M",
+        "1.8 M"
+      ],
       "answer": "B",
       "explanation": "Each Al(NO₃)₃ gives 3 NO₃⁻ ions. [NO₃⁻] = 0.9 × 3 = 2.7 M."
     },
@@ -592,7 +862,12 @@
       "question": "What is the normality of 0.2 M solution of Ca₃(PO₄)₂?",
       "image": null,
       "passage": null,
-      "options": ["0.2 N", "3 N", "1.2 N", "0.6 N"],
+      "options": [
+        "0.2 N",
+        "3 N",
+        "1.2 N",
+        "0.6 N"
+      ],
       "answer": "C",
       "explanation": "Normality = molarity × n, where n is the total positive charge. For Ca₃(PO₄)₂, total positive charge = 3 × 2 = 6. So N = 0.2 × 6 = 1.2 N."
     },
@@ -601,7 +876,12 @@
       "question": "What is the volume of water required to dilute 40 mL of 2 M HCl to 0.5 M HCl?",
       "image": null,
       "passage": null,
-      "options": ["80 mL", "40 mL", "160 mL", "120 mL"],
+      "options": [
+        "80 mL",
+        "40 mL",
+        "160 mL",
+        "120 mL"
+      ],
       "answer": "D",
       "explanation": "M₁V₁ = M₂V₂ → 2×40 = 0.5×V₂ → V₂ = 160 mL. Water added = 160 - 40 = 120 mL."
     },
@@ -610,7 +890,12 @@
       "question": "What volume of 2 M H₂SO₄ is needed to react exactly with 240 g of magnesium? (Mg=24, S=32, O=16, H=1)",
       "image": null,
       "passage": null,
-      "options": ["5 L", "10 L", "2.5 L", "2 L"],
+      "options": [
+        "5 L",
+        "10 L",
+        "2.5 L",
+        "2 L"
+      ],
       "answer": "A",
       "explanation": "Mg + H₂SO₄ → MgSO₄ + H₂. Moles Mg = 240/24 = 10 mol. Need 10 mol H₂SO₄. Volume = 10 mol / 2 M = 5 L."
     },
@@ -619,7 +904,12 @@
       "question": "The spectator ions are: 2AgNO₃(aq) + Na₂CrO₄(aq) → Ag₂CrO₄(s) + 2NaNO₃(aq)",
       "image": null,
       "passage": null,
-      "options": ["Na⁺, NO₃⁻", "Ag⁺, NO₃⁻", "Na⁺, CrO₄²⁻", "Ag⁺, CrO₄²⁻"],
+      "options": [
+        "Na⁺, NO₃⁻",
+        "Ag⁺, NO₃⁻",
+        "Na⁺, CrO₄²⁻",
+        "Ag⁺, CrO₄²⁻"
+      ],
       "answer": "A",
       "explanation": "Na⁺ and NO₃⁻ appear unchanged on both sides; they are spectator ions."
     },
@@ -628,7 +918,12 @@
       "question": "The boiling point of pure ethanol is 78.5°C. What is the boiling point of a solution when 3.4 g of vanillin is dissolved in ethanol?",
       "image": null,
       "passage": null,
-      "options": ["Less than 78.5°C", "Equals 78.5°C", "Greater than 78.5°C", "Equals -78.5°C"],
+      "options": [
+        "Less than 78.5°C",
+        "Equals 78.5°C",
+        "Greater than 78.5°C",
+        "Equals -78.5°C"
+      ],
       "answer": "C",
       "explanation": "Dissolving a non-volatile solute increases the boiling point (boiling point elevation)."
     },
@@ -637,7 +932,12 @@
       "question": "A solution is prepared by mixing 1 mole of ethanol and 2 mole of water at 25°C. What is the total vapour pressure above the solution? (vapour pressure of pure ethanol = 44 torr, pure water = 23.8 torr)",
       "image": null,
       "passage": null,
-      "options": ["33.9 torr", "30.5 torr", "45 torr", "67.8 torr"],
+      "options": [
+        "33.9 torr",
+        "30.5 torr",
+        "45 torr",
+        "67.8 torr"
+      ],
       "answer": "B",
       "explanation": "P_total = X_ethanol P°_ethanol + X_water P°_water = (1/3)×44 + (2/3)×23.8 = 14.67 + 15.87 = 30.54 torr."
     },
@@ -646,7 +946,12 @@
       "question": "The conjugate base of H₃O⁺ is",
       "image": null,
       "passage": null,
-      "options": ["OH⁻", "H⁺", "NH", "H₂O"],
+      "options": [
+        "OH⁻",
+        "H⁺",
+        "NH",
+        "H₂O"
+      ],
       "answer": "D",
       "explanation": "H₃O⁺ loses a proton to become H₂O, which is its conjugate base."
     },
@@ -655,7 +960,12 @@
       "question": "Given the reaction: H₂PO₄⁻ + H₂O ⇌ H₃O⁺ + HPO₄²⁻. Which of the following represents a conjugate acid-base pair?",
       "image": null,
       "passage": null,
-      "options": ["H₂PO₄⁻ and H₂O", "H₂PO₄⁻ and HPO₄²⁻", "H₂PO₄⁻ and H₃O⁺", "H₂O and HPO₄²⁻"],
+      "options": [
+        "H₂PO₄⁻ and H₂O",
+        "H₂PO₄⁻ and HPO₄²⁻",
+        "H₂PO₄⁻ and H₃O⁺",
+        "H₂O and HPO₄²⁻"
+      ],
       "answer": "B",
       "explanation": "H₂PO₄⁻ and HPO₄²⁻ differ by one proton, forming a conjugate acid-base pair."
     },
@@ -664,7 +974,12 @@
       "question": "The pH value of three acids A, B and C are 1, 2 and 3 respectively, which one of the following represents the correct order of acid strength?",
       "image": null,
       "passage": null,
-      "options": ["C > A > B", "B > A > C", "A > B > C", "C > B > A"],
+      "options": [
+        "C > A > B",
+        "B > A > C",
+        "A > B > C",
+        "C > B > A"
+      ],
       "answer": "C",
       "explanation": "Lower pH means stronger acid. pH 1 (A) strongest, then B (2), then C (3). So A > B > C."
     },
@@ -673,7 +988,12 @@
       "question": "The pOH of a 0.0008 M NH₃ aqueous solution is",
       "image": null,
       "passage": null,
-      "options": ["3.1", "4.1", "5.1", "2.1"],
+      "options": [
+        "3.1",
+        "4.1",
+        "5.1",
+        "2.1"
+      ],
       "answer": "A",
       "explanation": "For a weak base, [OH⁻] is not simply 0.0008 M. However, using approximation (since Kb not given, if assumed strong base), pOH = -log(8×10⁻⁴) = 3.1. But NH₃ is weak; the actual pOH would be slightly higher. Given options, 3.1 is the closest."
     },
@@ -682,7 +1002,12 @@
       "question": "What is the percent dissociation in 1 M solution of HF containing the concentration of H₃O⁺ = 2.7×10⁻² M?",
       "image": null,
       "passage": null,
-      "options": ["37%", "3.7%", "27%", "2.7%"],
+      "options": [
+        "37%",
+        "3.7%",
+        "27%",
+        "2.7%"
+      ],
       "answer": "D",
       "explanation": "% dissociation = ([H₃O⁺]/[HA]initial) × 100 = (2.7×10⁻² / 1) × 100 = 2.7%."
     },
@@ -733,7 +1058,12 @@
       "question": "Which of the following compounds would be the most basic?",
       "image": null,
       "passage": null,
-      "options": ["0.2 M sodium acetate", "0.2 M acetic acid", "0.2 M hydrochloric acid", "0.2 M ammonium chloride"],
+      "options": [
+        "0.2 M sodium acetate",
+        "0.2 M acetic acid",
+        "0.2 M hydrochloric acid",
+        "0.2 M ammonium chloride"
+      ],
       "answer": "A",
       "explanation": "Sodium acetate is the salt of a weak acid, giving a basic solution. The others are acidic or neutral."
     },
@@ -742,7 +1072,12 @@
       "question": "What volume of 0.2 M KOH is required to neutralize completely 50 mL of 1.5 M H₂SO₄?",
       "image": null,
       "passage": null,
-      "options": ["750 mL", "375 mL", "250 mL", "50 mL"],
+      "options": [
+        "750 mL",
+        "375 mL",
+        "250 mL",
+        "50 mL"
+      ],
       "answer": "A",
       "explanation": "H₂SO₄ + 2KOH → K₂SO₄ + 2H₂O. Moles H₂SO₄ = 0.05 × 1.5 = 0.075 mol. Need 0.15 mol KOH. Volume = 0.15 / 0.2 = 0.75 L = 750 mL."
     },
@@ -751,7 +1086,12 @@
       "question": "The pH of the solution for the titration of 100 mL of 0.3 M HNO₃ after addition of 100 mL of 0.3 M KOH is",
       "image": null,
       "passage": null,
-      "options": ["12.7", "7", "2.7", "4"],
+      "options": [
+        "12.7",
+        "7",
+        "2.7",
+        "4"
+      ],
       "answer": "B",
       "explanation": "Strong acid-strong base titration at equivalence point gives pH = 7."
     },
@@ -760,7 +1100,12 @@
       "question": "A system that can exchange matter and energy is",
       "image": null,
       "passage": null,
-      "options": ["closed system", "isolated system", "open system", "homogeneous system"],
+      "options": [
+        "closed system",
+        "isolated system",
+        "open system",
+        "homogeneous system"
+      ],
       "answer": "C",
       "explanation": "An open system can exchange both matter and energy with its surroundings."
     },
@@ -769,9 +1114,14 @@
       "question": "If 1,500 J of heat is added to a system while the system does work equivalent to 2,500 J by expanding against the atmosphere, what is the value of ΔE for the system?",
       "image": null,
       "passage": null,
-      "options": ["4,000 J", "1,000 J", "-4,000 J", "-1,000 J"],
+      "options": [
+        "4,000 J",
+        "1,000 J",
+        "-4,000 J",
+        "-1,000 J"
+      ],
       "answer": "D",
       "explanation": "ΔE = q + w = +1500 J + (-2500 J) = -1000 J."
     }
   ]
-    }
+}

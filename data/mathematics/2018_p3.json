@@ -22,7 +22,12 @@
       "question": "The simplified form of the expression (√32 + √48) / (√8 + √12) is equal to:",
       "image": null,
       "passage": null,
-      "options": ["√2", "4", "1", "2"],
+      "options": [
+        "√2",
+        "4",
+        "1",
+        "2"
+      ],
       "answer": "D",
       "explanation": "√32 = 4√2, √48 = 4√3, so numerator = 4(√2+√3). Denominator: √8=2√2, √12=2√3, so denominator = 2(√2+√3). Ratio = 4/2 = 2. So D."
     },
@@ -31,7 +36,12 @@
       "question": "Which of the following system of linear equations has a unique solution? (Image of systems)",
       "image": "./images/2018_p3_q3.png",
       "passage": null,
-      "options": ["A", "B", "C", "D"],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "answer": "A",
       "explanation": "A system has a unique solution if the determinant of the coefficient matrix is non-zero. Without the image, we cannot determine which one; typically the correct answer is the first option."
     },
@@ -54,7 +64,12 @@
       "question": "If a polynomial function f(x)=x³+ax²+bx+3 is divided by x+2 the remainder is 15 and x-1 is a factor of f(x), then what are the values of a and b respectively?",
       "image": null,
       "passage": null,
-      "options": ["-6,2", "6,2", "2,6", "2,-6"],
+      "options": [
+        "-6,2",
+        "6,2",
+        "2,6",
+        "2,-6"
+      ],
       "answer": "A",
       "explanation": "f(-2)= -8+4a-2b+3=15 → 4a-2b=20 → 2a-b=10. f(1)=1+a+b+3=0 → a+b=-4. Solve: adding: 3a=6 → a=2, then b=-6. So a=2, b=-6. That is option D (2,-6). But options: A (-6,2), B (6,2), C (2,6), D (2,-6). So D."
     },
@@ -77,18 +92,28 @@
       "question": "Which of the following ordered pairs gives the coordinates of the point that divides a line segment with endpoints A(-1,5) and B(5,2) in the ratio 1:2?",
       "image": null,
       "passage": null,
-      "options": ["(3,3)", "(-3,-3)", "(-4,-1)", "(1,4)"],
+      "options": [
+        "(3,3)",
+        "(-3,-3)",
+        "(-4,-1)",
+        "(1,4)"
+      ],
       "answer": "D",
       "explanation": "Section formula for internal division: ( (m x₂ + n x₁)/(m+n), (m y₂ + n y₁)/(m+n) ) where m:n is the ratio. Here ratio 1:2, so m=1, n=2 (from A to B). x = (1*5 + 2*(-1))/3 = (5-2)/3=1, y = (1*2 + 2*5)/3 = (2+10)/3=4. So (1,4). Answer D."
     },
     {
       "id": 8,
-      "question": "Given sets A = {x: x²-12x+20=0} and B = {x: x²+5x-14=0}, then relative complement of A with respect to B (B\A) is:",
+      "question": "Given sets A = {x: x²-12x+20=0} and B = {x: x²+5x-14=0}, then relative complement of A with respect to B (B\\A) is:",
       "image": null,
       "passage": null,
-      "options": ["{-7}", "{10}", "{-7,10}", "{-10,7}"],
+      "options": [
+        "{-7}",
+        "{10}",
+        "{-7,10}",
+        "{-10,7}"
+      ],
       "answer": "A",
-      "explanation": "Solve A: x²-12x+20=0 → (x-2)(x-10)=0 → A={2,10}. B: x²+5x-14=0 → (x+7)(x-2)=0 → B={-7,2}. B\A = elements in B not in A = {-7}. So A."
+      "explanation": "Solve A: x²-12x+20=0 → (x-2)(x-10)=0 → A={2,10}. B: x²+5x-14=0 → (x+7)(x-2)=0 → B={-7,2}. B\\A = elements in B not in A = {-7}. So A."
     },
     {
       "id": 9,
@@ -102,14 +127,19 @@
         "At corner points of a feasible region of any linear programming problem there are always optimal values."
       ],
       "answer": "C",
-      "explanation": "If the feasible region is bounded and the objective function is linear (and continuous), then both max and min exist (optimal values). Option C says "must have optimal value(s)" which is true. Option B says "either maximum or minimum" which is also true, but the phrasing "either maximum or minimum" might be interpreted as only one of them? Actually both exist. C is clearer. Option D is false because optimal values occur at corner points but not all corner points are optimal."
+      "explanation": "If the feasible region is bounded and the objective function is linear (and continuous), then both max and min exist (optimal values). Option C says \"must have optimal value(s)\" which is true. Option B says \"either maximum or minimum\" which is also true, but the phrasing \"either maximum or minimum\" might be interpreted as only one of them? Actually both exist. C is clearer. Option D is false because optimal values occur at corner points but not all corner points are optimal."
     },
     {
       "id": 10,
       "question": "A group of 30 men participate in a survey on language skills. The number of men who know both English and Afan Oromo equals the number who know neither. The number who know English is 4 more than those who know Afan Oromo. How many know Afan Oromo?",
       "image": null,
       "passage": null,
-      "options": ["26", "14", "13", "11"],
+      "options": [
+        "26",
+        "14",
+        "13",
+        "11"
+      ],
       "answer": "C",
       "explanation": "Let E = set of English speakers, A = Afan Oromo speakers. Given n(E∩A) = n(E∪A)'. Total =30. n(E) = n(A)+4. Let x = n(A). Then n(E)=x+4. Let y = n(E∩A). Then n(E∪A) = n(E)+n(A)-y = (x+4)+x-y = 2x+4-y. Those who know neither = 30 - (2x+4-y) = 26 -2x + y. This equals y (given). So 26 -2x + y = y → 26 -2x =0 → x=13. So C."
     },
@@ -132,7 +162,12 @@
       "question": "The cost of an electronic device reduces at the rate of 5% per annum. If its present cost is Birr 32490, then what was its cost before two years?",
       "image": null,
       "passage": null,
-      "options": ["36,000", "37,200", "35,400", "29,469"],
+      "options": [
+        "36,000",
+        "37,200",
+        "35,400",
+        "29,469"
+      ],
       "answer": "A",
       "explanation": "Let initial cost = P. After 2 years at 5% reduction per year, present = P(0.95)² = 32490 → P = 32490 / (0.9025) = 32490 / 0.9025 = 36000. So A."
     },
@@ -141,7 +176,12 @@
       "question": "If three positive numbers are in the ratio 1:3:5 and the sum of their squares is 875, then which is the sum of the three numbers?",
       "image": null,
       "passage": null,
-      "options": ["45", "75", "90", "99"],
+      "options": [
+        "45",
+        "75",
+        "90",
+        "99"
+      ],
       "answer": "A",
       "explanation": "Let numbers be k, 3k, 5k. Sum of squares = k²+9k²+25k²=35k²=875 → k²=25 → k=5. Numbers: 5,15,25. Sum=45. So A."
     },
@@ -150,7 +190,12 @@
       "question": "If a man saves Birr 135 in the first year, Birr 150 in the second year, Birr 165 in the third year and so on, then in what time (in years) is his total saving Birr 5,550?",
       "image": null,
       "passage": null,
-      "options": ["362", "37", "20", "360"],
+      "options": [
+        "362",
+        "37",
+        "20",
+        "360"
+      ],
       "answer": "C",
       "explanation": "Arithmetic progression: a=135, d=15. Sum S_n = n/2 [2a+(n-1)d] = n/2 [270 + 15(n-1)] = n/2 (15n+255) = (15n²+255n)/2 = 5550. Multiply: 15n²+255n=11100 → divide 15: n²+17n=740 → n²+17n-740=0. Discriminant = 289+2960=3249, √3249=57. n = (-17+57)/2 = 20. So 20 years. Answer C."
     },
@@ -159,7 +204,12 @@
       "question": "If the 6th and 11th terms of an arithmetic progression are 52 and 112 respectively, then the common difference is:",
       "image": null,
       "passage": null,
-      "options": ["12", "15", "20", "4"],
+      "options": [
+        "12",
+        "15",
+        "20",
+        "4"
+      ],
       "answer": "A",
       "explanation": "a+5d=52, a+10d=112. Subtract: 5d=60 → d=12. So A."
     },
@@ -168,7 +218,12 @@
       "question": "If the first term of an arithmetic sequence is 3 and the sum of its first four terms is equal to one-fifth of the sum of the next four terms, then the sum of the first 20 terms is:",
       "image": null,
       "passage": null,
-      "options": ["-1040", "-1080", "-1200", "-2160"],
+      "options": [
+        "-1040",
+        "-1080",
+        "-1200",
+        "-2160"
+      ],
       "answer": "D",
       "explanation": "Let a=3, d unknown. Sum first 4 = 4/2[2*3+3d]=2(6+3d)=12+6d. Sum of next four (terms 5-8) = sum first 8 minus sum first 4. Sum first 8 = 8/2[2*3+7d]=4(6+7d)=24+28d. So sum next four = (24+28d) - (12+6d)=12+22d. Given: 12+6d = (1/5)(12+22d) → multiply 5: 60+30d = 12+22d → 48 = -8d → d = -6. Sum first 20 = 20/2[2*3 + 19(-6)] = 10[6 -114] = 10*(-108)= -1080. So B."
     },
@@ -191,7 +246,12 @@
       "question": "What is the absolute maximum of f(x)=2x³-6x²-48x+7 on [-6,8]?",
       "image": null,
       "passage": null,
-      "options": ["353", "263", "63", "-353"],
+      "options": [
+        "353",
+        "263",
+        "63",
+        "-353"
+      ],
       "answer": "A",
       "explanation": "f'(x)=6x²-12x-48=6(x²-2x-8)=6(x-4)(x+2). Critical points at x=-2,4 in interval. Compute f(-6)=2(-216)-6(36)-48(-6)+7 = -432-216+288+7 = -353. f(-2)=2(-8)-6(4)-48(-2)+7 = -16-24+96+7=63. f(4)=2(64)-6(16)-48(4)+7=128-96-192+7=-153. f(8)=2(512)-6(64)-48(8)+7=1024-384-384+7=263. Maximum is 263 at x=8? Actually 263 > 63, so max=263. Option B."
     },
@@ -200,7 +260,12 @@
       "question": "If ∫₀ᵏ (2kx - x²) dx = 18, then which is the value of k?",
       "image": null,
       "passage": null,
-      "options": ["-3", "0", "9", "3"],
+      "options": [
+        "-3",
+        "0",
+        "9",
+        "3"
+      ],
       "answer": "D",
       "explanation": "∫ (2kx - x²) dx = [kx² - x³/3] from 0 to k = k³ - k³/3 = (2/3)k³ = 18 → k³ = 27 → k=3. So D."
     },
@@ -209,7 +274,12 @@
       "question": "If F and f are defined on [a,b] such that F'(x)=f(x) for all x, then ∫ₐᵇ f(x)dx is equal to:",
       "image": null,
       "passage": null,
-      "options": ["F'(a)-F'(b)", "F'(b)-F'(a)", "F(a)-F(b)", "F(b)-F(a)"],
+      "options": [
+        "F'(a)-F'(b)",
+        "F'(b)-F'(a)",
+        "F(a)-F(b)",
+        "F(b)-F(a)"
+      ],
       "answer": "D",
       "explanation": "Fundamental Theorem: ∫ₐᵇ f = F(b)-F(a). So D."
     },
@@ -218,7 +288,12 @@
       "question": "Which is the area enclosed by f(x)=4x³ and x-axis between x=-2 and x=3?",
       "image": null,
       "passage": null,
-      "options": ["65", "81", "97", "107"],
+      "options": [
+        "65",
+        "81",
+        "97",
+        "107"
+      ],
       "answer": "C",
       "explanation": "Area = ∫_{-2}^{3} |4x³| dx. Since x³ negative on [-2,0], positive on [0,3]. Compute ∫_{-2}^{0} -4x³ dx + ∫_{0}^{3} 4x³ dx = [ -x⁴ ]_{-2}^{0} + [ x⁴ ]_{0}^{3} = (0 - (-16)) + (81-0)=16+81=97. So C."
     },
@@ -227,7 +302,12 @@
       "question": "On interval [0,2π], which θ satisfy 2cosθ + √3 = 0?",
       "image": null,
       "passage": null,
-      "options": ["4π/3,5π/3", "2π/3,4π/3", "5π/6,7π/6", "8π/6,11π/6"],
+      "options": [
+        "4π/3,5π/3",
+        "2π/3,4π/3",
+        "5π/6,7π/6",
+        "8π/6,11π/6"
+      ],
       "answer": "A",
       "explanation": "2cosθ = -√3 → cosθ = -√3/2. Cosine negative in QII and QIII. Reference angle π/6. Solutions: θ = π - π/6 = 5π/6, and π + π/6 = 7π/6. That is 5π/6, 7π/6. Option C is 5π/6,7π/6. So C."
     },
@@ -236,7 +316,12 @@
       "question": "The solution set of log(x+4) + log4 = log48 - log x is:",
       "image": null,
       "passage": null,
-      "options": ["{2}", "{-6,2}", "{-6}", "{-2,6}"],
+      "options": [
+        "{2}",
+        "{-6,2}",
+        "{-6}",
+        "{-2,6}"
+      ],
       "answer": "A",
       "explanation": "log(x+4)+log4 = log(4(x+4)). So equation: log(4(x+4)) = log(48/x) → 4(x+4)=48/x → multiply: 4x²+16x=48 → divide 4: x²+4x-12=0 → (x+6)(x-2)=0 → x=2 or x=-6. But log x requires x>0, and log(x+4) requires x+4>0. x=-6 gives log(-6) undefined. So only x=2. So A."
     },
@@ -273,7 +358,12 @@
       "question": "The domain and range respectively for the power function f(x)= (1/3) x^{-5} are:",
       "image": null,
       "passage": null,
-      "options": ["R\\{0} and (0,∞)", "R\\{0} and R\\{0}", "(0,∞) and (0,∞)", "[0,∞) and [0,∞)"],
+      "options": [
+        "R\\{0} and (0,∞)",
+        "R\\{0} and R\\{0}",
+        "(0,∞) and (0,∞)",
+        "[0,∞) and [0,∞)"
+      ],
       "answer": "B",
       "explanation": "x^{-5} = 1/x⁵, defined for all x≠0, so domain R\\{0}. Since odd power, range also all reals except 0. So B."
     },
@@ -282,7 +372,12 @@
       "question": "Which is the largest interval on which f(x)=-2x³-9x²-12x+1 is increasing?",
       "image": null,
       "passage": null,
-      "options": ["(-∞,-2]∪[-1,∞)", "[-2,-1]", "(-∞,-2]∪[1,∞)", "[-2,∞)"],
+      "options": [
+        "(-∞,-2]∪[-1,∞)",
+        "[-2,-1]",
+        "(-∞,-2]∪[1,∞)",
+        "[-2,∞)"
+      ],
       "answer": "B",
       "explanation": "f'(x)=-6x²-18x-12 = -6(x²+3x+2)= -6(x+1)(x+2). f' positive when (x+1)(x+2) negative → between -2 and -1. So f increasing on [-2,-1]. So B."
     },
@@ -291,7 +386,12 @@
       "question": "The feasible region (shaded) for a linear programming problem is shown. The minimum value of Z=3x-4y occurs at: (Image of graph with points)",
       "image": "./images/2018_p3_q28.png",
       "passage": null,
-      "options": ["(5,0)", "(0,8)", "(4,10)", "(6,5)"],
+      "options": [
+        "(5,0)",
+        "(0,8)",
+        "(4,10)",
+        "(6,5)"
+      ],
       "answer": "C",
       "explanation": "Without the graph, we cannot determine. Typically, the minimum of Z=3x-4y would be at a corner point. The answer is likely (4,10) or (0,8). I'll assume from common patterns that the answer is (4,10)."
     },
@@ -314,7 +414,12 @@
       "question": "Which one is non-random sampling?",
       "image": null,
       "passage": null,
-      "options": ["Stratified Sampling", "Convenience Sampling", "Systematic Sampling", "Cluster Sampling"],
+      "options": [
+        "Stratified Sampling",
+        "Convenience Sampling",
+        "Systematic Sampling",
+        "Cluster Sampling"
+      ],
       "answer": "B",
       "explanation": "Convenience sampling is non-random (voluntary or based on ease). So B."
     },
@@ -337,7 +442,12 @@
       "question": "A circular metal plate expands. Radius increases at 0.5 cm/sec. Rate of increase of area when radius=20 cm?",
       "image": null,
       "passage": null,
-      "options": ["80π cm²/sec", "20π cm²/sec", "10π cm²/sec", "200π cm²/sec"],
+      "options": [
+        "80π cm²/sec",
+        "20π cm²/sec",
+        "10π cm²/sec",
+        "200π cm²/sec"
+      ],
       "answer": "B",
       "explanation": "A=πr², dA/dt = 2πr dr/dt = 2π*20*0.5 = 20π cm²/sec. So B."
     },
@@ -346,7 +456,12 @@
       "question": "On selling an article for Birr 450, a dealer lost 10%. The cost price is:",
       "image": null,
       "passage": null,
-      "options": ["Birr 405", "Birr 500", "Birr 550", "Birr 454.55"],
+      "options": [
+        "Birr 405",
+        "Birr 500",
+        "Birr 550",
+        "Birr 454.55"
+      ],
       "answer": "B",
       "explanation": "If loss 10%, selling price = 90% of cost. So 0.9 CP = 450 → CP = 500. So B."
     },
@@ -355,7 +470,12 @@
       "question": "What is the solution set of (x+3)/(x²+4x+6) = (x+2)/(x²+8x+ ? Actually equation: (x+3)/(x²+4x+6) = (x+2)/(x²+8x+? The PDF shows: (x+3)/(x²+4x+6) = (x+2)/(x²+8x+? incomplete. Likely the intended equation: (x+3)/(x²+4x+6) = (x+2)/(x²+8x+16)? Not sure. Given options: ∅, {2, -3}, {-2}, {1/3}. Typically the answer is {2}? I'll skip.",
       "image": null,
       "passage": null,
-      "options": ["∅", "{2, -3}", "{-2}", "{1/3}"],
+      "options": [
+        "∅",
+        "{2, -3}",
+        "{-2}",
+        "{1/3}"
+      ],
       "answer": "A",
       "explanation": "Without the correct equation, cannot solve. Probably the answer is ∅."
     },
@@ -364,16 +484,26 @@
       "question": "If in increasing geometric progression, the 6th term is 32 and 8th term is 128, then common ratio is:",
       "image": null,
       "passage": null,
-      "options": ["-2", "4", "2", "±1"],
+      "options": [
+        "-2",
+        "4",
+        "2",
+        "±1"
+      ],
       "answer": "C",
       "explanation": "a r⁵ = 32, a r⁷ = 128. Divide: r² = 4 → r = 2 (increasing, so positive). So C."
     },
     {
       "id": 36,
-      "question": "Solution set of the system: 2x - y - z = 1, x + y + z = -2, 2x - y - 2z = 4? Actually the third equation: 2x - y - 2z = 4? The PDF shows: 2x - y - z = 1, x + y + z = -2, 2x - y - 2z = 4? Let me check: The PDF says "2x - y - z = 1, x + y + z = -2, 2x - y - 2z = 4"? Actually the text: "2x - y - z = 1, x + y + z = -2, 2x - y - 2z = 4"? Not sure. The options are in parametric form. Likely the system has infinite solutions. The answer is probably {(z, -1-z, z)} or similar. I'll skip.",
+      "question": "Solution set of the system: 2x - y - z = 1, x + y + z = -2, 2x - y - 2z = 4? Actually the third equation: 2x - y - 2z = 4? The PDF shows: 2x - y - z = 1, x + y + z = -2, 2x - y - 2z = 4? Let me check: The PDF says \"2x - y - z = 1, x + y + z = -2, 2x - y - 2z = 4\"? Actually the text: \"2x - y - z = 1, x + y + z = -2, 2x - y - 2z = 4\"? Not sure. The options are in parametric form. Likely the system has infinite solutions. The answer is probably {(z, -1-z, z)} or similar. I'll skip.",
       "image": null,
       "passage": null,
-      "options": ["{(-z, -1-z, z): z∈R}", "{(z, 1-z, z): z∈R}", "{(1-z, z, z): z∈R}", "{(1+z, z, z): z∈R}"],
+      "options": [
+        "{(-z, -1-z, z): z∈R}",
+        "{(z, 1-z, z): z∈R}",
+        "{(1-z, z, z): z∈R}",
+        "{(1+z, z, z): z∈R}"
+      ],
       "answer": "A",
       "explanation": "Without the correct equations, cannot determine. Probably A."
     },
@@ -382,7 +512,12 @@
       "question": "What is the image of point (2,-3) when reflected about the line y = -x?",
       "image": null,
       "passage": null,
-      "options": ["(-3,2)", "(2,3)", "(3,-2)", "(-2,-3)"],
+      "options": [
+        "(-3,2)",
+        "(2,3)",
+        "(3,-2)",
+        "(-2,-3)"
+      ],
       "answer": "C",
       "explanation": "Reflection over y=-x swaps coordinates and changes signs: (x,y)→(-y,-x). So (2,-3) → (3,-2). So C."
     },
@@ -391,7 +526,12 @@
       "question": "Let A = 3i - 2j, B = 5i + j, then (1/2)A - (2/3)B =",
       "image": null,
       "passage": null,
-      "options": ["(9/2)i - (4/3)j", "(11/6)i - (4/3)j", "(11/6)i - (4/3)j", "(11/6)i + (4/3)j"],
+      "options": [
+        "(9/2)i - (4/3)j",
+        "(11/6)i - (4/3)j",
+        "(11/6)i - (4/3)j",
+        "(11/6)i + (4/3)j"
+      ],
       "answer": "B",
       "explanation": "(1/2)A = (3/2)i - j. (2/3)B = (10/3)i + (2/3)j. Subtract: (3/2 - 10/3)i + (-1 - 2/3)j = (9/6 - 20/6)i + (-3/3 - 2/3)j = (-11/6)i + (-5/3)j. That is not matching options. Options have positive i component? Let me recompute: (1/2)A - (2/3)B = (3/2 - 10/3)i + (-1 - 2/3)j = (9/6-20/6)= -11/6, so i component -11/6. None of the options have negative. Possibly they meant (2/3)B - (1/2)A? Or the options are misprinted. Option B and C are identical: (11/6)i - (4/3)j. That has positive i. If we compute (2/3)B - (1/2)A, we get (10/3-3/2)i + (2/3+1)j = (20/6-9/6)i + (2/3+3/3)j = (11/6)i + (5/3)j. Not that either. So likely the correct answer is not among. But given the options, B and C are the same. I'll choose B."
     },
@@ -400,7 +540,12 @@
       "question": "If Q₃=50 and Q₁=35, then coefficient of quartile deviation is:",
       "image": null,
       "passage": null,
-      "options": ["3/17", "15/2", "5/17", "17/3"],
+      "options": [
+        "3/17",
+        "15/2",
+        "5/17",
+        "17/3"
+      ],
       "answer": "A",
       "explanation": "Coefficient of quartile deviation = (Q₃ - Q₁)/(Q₃ + Q₁) = (50-35)/(50+35)=15/85=3/17. So A."
     },
@@ -409,7 +554,12 @@
       "question": "Consider matrix A = [[1,2,3],[6,1,9],[4,0,5]]. Which is det(A) and the cofactor of entry a₃₂?",
       "image": null,
       "passage": null,
-      "options": ["5, 0", "-19, -9", "-19, 7", "5, 9"],
+      "options": [
+        "5, 0",
+        "-19, -9",
+        "-19, 7",
+        "5, 9"
+      ],
       "answer": "C",
       "explanation": "Compute det: Use expansion. det = 1*(1*5 - 9*0) - 2*(6*5 - 9*4) + 3*(6*0 - 1*4) = 1*5 -2*(30-36) + 3*(-4) = 5 -2*(-6) -12 = 5+12-12=5. So det=5. Cofactor of a₃₂ (row3, col2) = (-1)^(3+2) * M₃₂. M₃₂ is determinant of matrix after removing row3 col2: [[1,3],[6,9]] = 1*9 - 3*6 = 9-18 = -9. Sign (-1)^5 = -1, so cofactor = -1 * (-9) = 9. So det=5, cofactor=9. Option D: 5,9. So D."
     },
@@ -418,7 +568,12 @@
       "question": "If u = i - j and v = 2i + j, then cosine of angle between u and v is:",
       "image": null,
       "passage": null,
-      "options": ["3√10/10", "√10", "3√10/10", "√10/10"],
+      "options": [
+        "3√10/10",
+        "√10",
+        "3√10/10",
+        "√10/10"
+      ],
       "answer": "A",
       "explanation": "u·v = 1*2 + (-1)*1 = 2-1=1. |u|=√2, |v|=√5. cosθ = 1/(√2√5)=1/√10 = √10/10 ≈0.316. That is √10/10. Option D is √10/10. A and C are 3√10/10≈0.949. So D."
     },
@@ -427,7 +582,12 @@
       "question": "Bona's income Birr 180,000 per year. Pays 20% house rent, then 15% of remainder on child's education. Money left?",
       "image": null,
       "passage": null,
-      "options": ["Birr 144,000", "Birr 158,000", "Birr 21,000", "Birr 122,400"],
+      "options": [
+        "Birr 144,000",
+        "Birr 158,000",
+        "Birr 21,000",
+        "Birr 122,400"
+      ],
       "answer": "D",
       "explanation": "House rent = 20% of 180,000 = 36,000. Remainder = 144,000. Education = 15% of 144,000 = 21,600. Left = 144,000 - 21,600 = 122,400. So D."
     },
@@ -436,7 +596,12 @@
       "question": "The histogram presents marks. What percentage of students secured less than 60 marks? (Image of histogram)",
       "image": "./images/2018_p3_q43.png",
       "passage": null,
-      "options": ["16%", "48%", "36%", "60%"],
+      "options": [
+        "16%",
+        "48%",
+        "36%",
+        "60%"
+      ],
       "answer": "C",
       "explanation": "Without the histogram, cannot determine. Typically from common data, the answer is 36%."
     },
@@ -445,7 +610,12 @@
       "question": "The graph of f' is given. Which could be the graph of f? (Four image options)",
       "image": "./images/2018_p3_q44.png",
       "passage": null,
-      "options": ["A", "B", "C", "D"],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "answer": "A",
       "explanation": "The graph of f' shows positive/negative regions; the corresponding f would have increasing/decreasing intervals. Without seeing, we cannot choose. Typically the answer is A."
     },
@@ -454,7 +624,12 @@
       "question": "Areas of two similar triangles are 144 cm² and 81 cm². If one side of first triangle is 6 cm, then corresponding side of second triangle is:",
       "image": null,
       "passage": null,
-      "options": ["81/4 cm", "9/2 cm", "3/2 cm", "9/4 cm"],
+      "options": [
+        "81/4 cm",
+        "9/2 cm",
+        "3/2 cm",
+        "9/4 cm"
+      ],
       "answer": "B",
       "explanation": "Ratio of areas = (scale factor)². 144/81 = (6/x)² → (6/x)² = 144/81 = 16/9 → 6/x = 4/3 → x = 6*3/4 = 18/4 = 9/2 cm. So B."
     },
@@ -463,7 +638,12 @@
       "question": "The table shows marks of 100 students in Mathematics and Physics. Mean: Math=20, Physics=25; SD: Math=2, Physics=3. Which subject shows highest variability?",
       "image": null,
       "passage": null,
-      "options": ["Mathematics", "Physics", "Both equal", "Cannot determine"],
+      "options": [
+        "Mathematics",
+        "Physics",
+        "Both equal",
+        "Cannot determine"
+      ],
       "answer": "B",
       "explanation": "Compare coefficient of variation: CV_math = 2/20=0.1, CV_physics=3/25=0.12. Physics has higher CV, so more variable. So B."
     },
@@ -472,7 +652,12 @@
       "question": "A frustum of a right circular cone with base radii 3 cm and 4 cm, slant height 6 cm. Total surface area?",
       "image": null,
       "passage": null,
-      "options": ["67π cm²", "74π cm²", "56π cm²", "36π cm²"],
+      "options": [
+        "67π cm²",
+        "74π cm²",
+        "56π cm²",
+        "36π cm²"
+      ],
       "answer": "B",
       "explanation": "Total surface area = π(R+r)l + πR² + πr² = π(4+3)*6 + π*16 + π*9 = π*42 + 16π+9π = 67π cm². So A."
     },
@@ -481,7 +666,12 @@
       "question": "In circle O, m∠CBE=63°, m∠BED=28°. Find m∠BAD. (Image of circle with inscribed angles)",
       "image": "./images/2018_p3_q48.png",
       "passage": null,
-      "options": ["91°", "56°", "70°", "35°"],
+      "options": [
+        "91°",
+        "56°",
+        "70°",
+        "35°"
+      ],
       "answer": "D",
       "explanation": "Without the diagram, we cannot determine. Typically, using inscribed angle theorem, m∠BAD might be 35°."
     },
@@ -490,7 +680,12 @@
       "question": "Solution set of ∛(64^(x+1)) = (1/16)^(2x-3) is:",
       "image": null,
       "passage": null,
-      "options": ["{-1}", "{-2}", "{2}", "{1}"],
+      "options": [
+        "{-1}",
+        "{-2}",
+        "{2}",
+        "{1}"
+      ],
       "answer": "B",
       "explanation": "∛(64^(x+1)) = 64^((x+1)/3) = (2^6)^((x+1)/3)=2^(2(x+1)). RHS: (1/16)^(2x-3) = 16^(-(2x-3))= (2^4)^( -2x+3)=2^(-8x+12). Equate exponents: 2(x+1) = -8x+12 → 2x+2 = -8x+12 → 10x=10 → x=1. So D (1)."
     },
@@ -527,7 +722,12 @@
       "question": "Let u = i+3j+2k, v = i-3k. Then |u × v| is:",
       "image": null,
       "passage": null,
-      "options": ["115", "√115", "125", "√125"],
+      "options": [
+        "115",
+        "√115",
+        "125",
+        "√125"
+      ],
       "answer": "B",
       "explanation": "u×v = determinant |i j k; 1 3 2; 1 0 -3| = i(3*(-3)-2*0) - j(1*(-3)-2*1) + k(1*0-3*1) = i(-9-0) - j(-3-2) + k(0-3) = -9i - j(-5?) Actually - j(-5) = +5j, then + k(-3). So u×v = -9i +5j -3k. |u×v| = √(81+25+9)=√115. So B."
     },
@@ -536,7 +736,12 @@
       "question": "Equation of tangent line to circle x²+y²+2x-4y=0 at point (-2,4) is:",
       "image": null,
       "passage": null,
-      "options": ["2x - y + 8 = 0", "x + 2y - 6 = 0", "x - 2y - 10 = 0", "x - 2y + 10 = 0"],
+      "options": [
+        "2x - y + 8 = 0",
+        "x + 2y - 6 = 0",
+        "x - 2y - 10 = 0",
+        "x - 2y + 10 = 0"
+      ],
       "answer": "D",
       "explanation": "Circle: (x+1)²+(y-2)²=5. Tangent at (-2,4): use formula: x x₁ + y y₁ + (x+x₁) +? Actually for circle x²+y²+2x-4y=0, tangent is x x₁ + y y₁ + (x+x₁) -2(y+y₁)=0? Let's do implicit differentiation: 2x+2y y' +2 -4y'=0 → y'(2y-4) = -2x-2 → at (-2,4): 2y-4=4, -2x-2=4-2? Actually -2(-2)-2=4-2=2, so y'=2/4=0.5. Tangent: y-4=0.5(x+2) → y-4=0.5x+1 → y=0.5x+5 → multiply 2: 2y = x+10 → x - 2y +10=0. So D."
     },
@@ -545,7 +750,12 @@
       "question": "If a translation T takes the origin to (0,4), then the image of line 2x - y = 3 under T is:",
       "image": null,
       "passage": null,
-      "options": ["2x - y = -1", "2x - y = 1", "2x + y = -1", "2x + y = 1"],
+      "options": [
+        "2x - y = -1",
+        "2x - y = 1",
+        "2x + y = -1",
+        "2x + y = 1"
+      ],
       "answer": "A",
       "explanation": "Translation vector = (0,4). So (x',y') = (x, y+4). Inverse: x=x', y=y'-4. Substitute into equation: 2x' - (y'-4) = 3 → 2x' - y' +4 =3 → 2x' - y' = -1. So image line: 2x - y = -1. So A."
     },
@@ -582,7 +792,12 @@
       "question": "The following table presents scores of students. What is the middle quartile? (Table: Score 31-40:10, 41-50:9, 51-60:15, 61-70:12, 71-80:10, 81-90:4, 91-100:2)",
       "image": null,
       "passage": null,
-      "options": ["55.5", "50.5", "60.5", "58.5"],
+      "options": [
+        "55.5",
+        "50.5",
+        "60.5",
+        "58.5"
+      ],
       "answer": "C",
       "explanation": "Total frequency = 10+9+15+12+10+4+2 = 62. Median = (31st+32nd)/2. Cumulative: 10,19,34,46,56,60,62. 31st and 32nd fall in 51-60 class. Lower boundary = 50.5, class width=10, frequency=15, cumulative before=19. Median = 50.5 + [ (31-19)/15 ]*10 = 50.5 + (12/15)*10 = 50.5 + 8 = 58.5. So D."
     },
@@ -591,7 +806,12 @@
       "question": "What is the coefficient of x³y⁵ in the expansion of (2x - y)⁸?",
       "image": null,
       "passage": null,
-      "options": ["448", "8", "-448", "-8"],
+      "options": [
+        "448",
+        "8",
+        "-448",
+        "-8"
+      ],
       "answer": "C",
       "explanation": "General term: C(8,k) (2x)^{8-k} (-y)^k. For x³y⁵, need 8-k=3 → k=5. Term: C(8,5)*(2x)³*(-y)⁵ = 56 * 8x³ * (-1)⁵ y⁵ = 56*8*(-1) x³ y⁵ = -448 x³y⁵. Coefficient = -448. So C."
     },
@@ -600,7 +820,12 @@
       "question": "If two dice are rolled, probability of getting sum greater than 10 or doubles?",
       "image": null,
       "passage": null,
-      "options": ["4/9", "2/9", "1/4", "1/9"],
+      "options": [
+        "4/9",
+        "2/9",
+        "1/4",
+        "1/9"
+      ],
       "answer": "B",
       "explanation": "Total outcomes = 36. Sum>10: (5,6),(6,5),(6,6) → 3 outcomes. Doubles: (1,1),(2,2),(3,3),(4,4),(5,5),(6,6) → 6 outcomes. Intersection (6,6) counted twice. So total favorable = 3+6-1=8. Probability = 8/36 = 2/9. So B."
     },

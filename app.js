@@ -221,29 +221,48 @@
 
     const url = `data/${subjectId}/${paperId}.json`;
 
+    let response;
     try {
-      const response = await fetch(url);
-      if (!response.ok) throw new Error('Failed to load paper');
-      currentPaperData = await response.json();
+      console.log(`Step 1: Fetching paper JSON from ${url}...`);
+      response = await fetch(url);
+      if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
     } catch (err) {
-      showToast('Could not load paper. Check your connection.');
-      console.error(err);
+      console.error('Step 1 Failed: Fetching paper JSON failed', err);
+      showToast(`Fetch error: ${err.message}`);
       return;
     }
 
-    userAnswers = new Array(currentPaperData.questions.length).fill(null);
+    try {
+      console.log('Step 2: Parsing JSON...');
+      currentPaperData = await response.json();
+    } catch (err) {
+      console.error('Step 2 Failed: Parsing JSON failed', err);
+      showToast(`Parse error: ${err.message}`);
+      return;
+    }
 
-    // Update header
-    $('#exam-subject-label').textContent = currentPaperData.subject;
-    $('#exam-paper-label').textContent = `${currentPaperData.year} — Paper ${currentPaperData.paper}`;
+    try {
+      console.log('Step 3: Rendering questions...');
+      if (!currentPaperData.questions) throw new Error('Paper data is missing "questions" array');
 
-    // Reset timer
-    timerEnabled = false;
-    $('#timer-toggle-btn').classList.remove('active');
-    $('#timer-display').classList.add('hidden');
+      userAnswers = new Array(currentPaperData.questions.length).fill(null);
 
-    showScreen('exam');
-    renderQuestion();
+      // Update header
+      $('#exam-subject-label').textContent = currentPaperData.subject;
+      $('#exam-paper-label').textContent = `${currentPaperData.year} — Paper ${currentPaperData.paper}`;
+
+      // Reset timer
+      timerEnabled = false;
+      $('#timer-toggle-btn').classList.remove('active');
+      $('#timer-display').classList.add('hidden');
+
+      showScreen('exam');
+      renderQuestion();
+    } catch (err) {
+      console.error('Step 3 Failed: Rendering failed', err);
+      showToast(`Render error: ${err.message}`);
+      return;
+    }
   }
 
   function renderQuestion() {

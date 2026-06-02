@@ -220,7 +220,6 @@
     userAnswers = [];
 
     const url = `data/${subjectId}/${paperId}.json`;
-    console.log('Fetching paper from:', url);
 
     try {
       const response = await fetch(url);

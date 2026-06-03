@@ -1,0 +1,853 @@
+{
+  "subject": "Physics",
+  "year": "2018 E.C",
+  "paper": 5,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A scientist conducts an experiment to record the boiling point of water at various altitudes. Which of the following statements best justifies the type of knowledge gained from this experiment?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It is memory-based knowledge because the scientist recalls past experiences",
+        "It is testimonial knowledge because the scientist relies on previous published data",
+        "It is experiential knowledge because the scientist directly observes the phenomena",
+        "It is introspective knowledge because the scientist reflects on their own observations"
+      ],
+      "answer": "C",
+      "explanation": "The scientist directly observes and records the boiling point of water at different altitudes. This is experiential (empirical) knowledge because it comes from first-hand observation and experimentation, not from memory of past events (A), relying on others' data (B), or internal reflection (D). Experiential knowledge is gained through direct sensory experience and systematic observation of natural phenomena."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following best explains why physics is important for chemistry?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Physics replaces chemical experiments with mathematical models only",
+        "Physics and chemistry study unrelated aspects of matter without overlap",
+        "Physics provides laws governing matter and energy for chemical reactions",
+        "Physics focuses solely on elements and ignores molecules in chemical systems"
+      ],
+      "answer": "C",
+      "explanation": "Physics provides fundamental laws (such as thermodynamics, electromagnetism, and quantum mechanics) that govern the behavior of matter and energy, which are essential for understanding chemical reactions. Chemistry builds upon these physical laws to explain how atoms bond, how energy is transferred in reactions, and how molecular interactions occur. Physics does not replace chemistry (A), they are not unrelated (B), and physics certainly doesn't ignore molecules (D)."
+    },
+    {
+      "id": 3,
+      "question": "How does Pascal's principle assist soft-bodied animals like earthworms?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Pressure gradients create electrical signals in neurons",
+        "Pressure in fluid transmits evenly to produce movement",
+        "Pressure difference remove excess water from the body",
+        "Pressure in muscles generates heat for energy production"
+      ],
+      "answer": "B",
+      "explanation": "Pascal's principle states that pressure applied to a confined fluid is transmitted equally in all directions throughout the fluid. Earthworms are hydrostatic organisms that use their coelomic fluid (a confined fluid) to transmit pressure evenly. When circular muscles contract, they increase pressure in the fluid, which pushes outward and causes the worm to elongate. When longitudinal muscles contract, the pressure causes the worm to shorten and widen. This even transmission of pressure through fluid enables their characteristic movement."
+    },
+    {
+      "id": 4,
+      "question": "During a military air-defense mission, a RADAR station scans the sky to detect an approaching aircraft. How does it identify the distant target?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It analyzes sound waves emitted from moving targets",
+        "It measures temperature changes produced by the target",
+        "It sends electromagnetic waves and receives reflected echoes",
+        "It detects gravitational attraction from far away objects remotely"
+      ],
+      "answer": "C",
+      "explanation": "RADAR (Radio Detection And Ranging) works by transmitting electromagnetic (radio/microwave) waves and then detecting the echoes reflected back from objects such as aircraft. The time delay between transmission and reception gives the distance, while the Doppler shift can give the target's velocity. RADAR does not use sound waves (A), measure temperature (B), or detect gravity (D)."
+    },
+    {
+      "id": 5,
+      "question": "A vector has magnitude V. When the angle with the horizontal increases from 30° to 60°, what happens to the horizontal component?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It becomes half",
+        "It remains the same",
+        "It becomes √3 times original value",
+        "It becomes 1/√3 times original value"
+      ],
+      "answer": "D",
+      "explanation": "The horizontal component of a vector is Vₓ = V cos θ. At 30°: Vₓ₁ = V cos 30° = V(√3/2). At 60°: Vₓ₂ = V cos 60° = V(1/2). The ratio Vₓ₂/Vₓ₁ = (V/2)/(V√3/2) = 1/√3. Therefore, the horizontal component becomes 1/√3 times its original value."
+    },
+    {
+      "id": 6,
+      "question": "Two vectors are added using both the triangle and parallelogram methods. Which conclusion is correct?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Only the triangle method can be applied to vectors at an angle",
+        "Both methods give the same resultant in magnitude and direction",
+        "The parallelogram method ignores the direction of the vectors completely",
+        "The triangle method always gives a larger resultant magnitude than the other"
+      ],
+      "answer": "B",
+      "explanation": "Both the triangle and parallelogram methods are geometric representations of vector addition and are mathematically equivalent. The triangle method places the tail of one vector at the head of the other, while the parallelogram method places both vectors tail-to-tail and constructs the diagonal. Both produce the same resultant vector in magnitude and direction. They are simply different visual approaches to the same mathematical operation."
+    },
+    {
+      "id": 7,
+      "question": "The unit vector in the direction of vector A = 5i − 12j is",
+      "image": null,
+      "passage": null,
+      "options": [
+        "(i − j)/√13",
+        "13(î + ĵ)/13",
+        "(5i + 12j)/13",
+        "(5i − 12j)/13"
+      ],
+      "answer": "D",
+      "explanation": "The unit vector in the direction of A is â = A/|A|. First, find the magnitude: |A| = √(5² + (−12)²) = √(25 + 144) = √169 = 13. Then, â = (5i − 12j)/13. The unit vector preserves the direction of the original vector (including the sign of each component) while having a magnitude of 1."
+    },
+    {
+      "id": 8,
+      "question": "Work done by a constant force F for displacement d is given by W = F·d. A particle moves along a displacement (5i + 5√3k) m under a force (10j − √3k) N. What is the work done by the force?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "35 J",
+        "−15 J",
+        "5√3 J",
+        "−50 J"
+      ],
+      "answer": "B",
+      "explanation": "Work done W = F · d = (10j − √3k) · (5i + 5√3k). Using the dot product: 10j · 5i = 0 (i and j are perpendicular), 10j · 5√3k = 0 (j and k are perpendicular), (−√3k) · 5i = 0 (k and i are perpendicular), (−√3k) · 5√3k = −√3 × 5√3 = −5 × 3 = −15. Therefore W = −15 J."
+    },
+    {
+      "id": 9,
+      "question": "A train accelerates from rest to 30 m/s in 60 seconds. Four students make statements about the motion: Student P: 'The average velocity is 15 m/s, and the instantaneous velocity at 60 s is 30 m/s.' Student Q: 'The average velocity is 30 m/s, and the instantaneous velocity at 60 s is 15 m/s.' Student R: 'Both the average and instantaneous velocity are 15 m/s.' Student S: 'Both the average and instantaneous velocities are 30 m/s.' Which student's statement is correct?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Student R",
+        "Student S",
+        "Student P",
+        "Student Q"
+      ],
+      "answer": "C",
+      "explanation": "For uniform acceleration from rest (v₀ = 0) to v = 30 m/s: The average velocity = (v₀ + v)/2 = (0 + 30)/2 = 15 m/s. The instantaneous velocity at t = 60 s is the final velocity = 30 m/s. Student P correctly states both: average velocity = 15 m/s and instantaneous velocity at 60 s = 30 m/s."
+    },
+    {
+      "id": 10,
+      "question": "Two particles start from the same point at the same time. Particle A starts from rest and accelerates uniformly at 2 m/s², while particle B moves with a constant velocity of 10 m/s. After how many seconds the two particles will be at the same position again, other than t = 0?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "10 s",
+        "12 s",
+        "5 s",
+        "8 s"
+      ],
+      "answer": "A",
+      "explanation": "Position of A: s_A = ½at² = ½(2)t² = t². Position of B: s_B = vt = 10t. Setting them equal: t² = 10t → t² − 10t = 0 → t(t − 10) = 0. So t = 0 or t = 10 s. At t = 10 s, both particles are at the same position (100 m from start)."
+    },
+    {
+      "id": 11,
+      "question": "A vehicle accelerates uniformly from time t1 to t2, moves with constant velocity from time t2 to t3, and decelerates uniformly from t3 to t4. In which time interval are instantaneous and average acceleration both zero?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Between t1 to t2",
+        "Between t2 to t3",
+        "Between t3 to t4",
+        "Between t1 to t4"
+      ],
+      "answer": "B",
+      "explanation": "During the interval t2 to t3, the vehicle moves with constant velocity. Since velocity is constant, the instantaneous acceleration is zero at every point in this interval. The average acceleration over any sub-interval within t2 to t3 is also zero because there is no change in velocity. In contrast, from t1 to t2 the vehicle accelerates (acceleration ≠ 0), and from t3 to t4 it decelerates (acceleration ≠ 0)."
+    },
+    {
+      "id": 12,
+      "question": "The velocity-time graph of a body moving in straight line is shown in figure below. What is the displacement travelled by the body in 20 seconds?",
+      "image": "./images/2018_p5_q12.png",
+      "passage": null,
+      "options": [
+        "138 m",
+        "142 m",
+        "162 m",
+        "182 m"
+      ],
+      "answer": "B",
+      "explanation": "The displacement is equal to the area under the velocity-time graph. By calculating the areas of the geometric shapes (triangles and rectangles) formed under the v-t curve over the 20-second interval and summing them, the total displacement is found to be 142 m. This involves computing areas of individual segments: triangular regions use ½ × base × height, and rectangular regions use length × width."
+    },
+    {
+      "id": 13,
+      "question": "A ball is thrown vertically upward from the top of a 15 m high tower with an initial speed of 10 m/s. Neglecting air resistance, how long does it take for the ball to reach the ground?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "3 s",
+        "4 s",
+        "5 s",
+        "2 s"
+      ],
+      "answer": "A",
+      "explanation": "Taking upward as positive and the top of the tower as origin, the ground is at y = −15 m. Using y = v₀t − ½gt²: −15 = 10t − ½(10)t² → −15 = 10t − 5t² → 5t² − 10t − 15 = 0 → t² − 2t − 3 = 0 → (t − 3)(t + 1) = 0. Since t must be positive, t = 3 s. The ball takes 3 seconds to reach the ground."
+    },
+    {
+      "id": 14,
+      "question": "Two projectiles are launched with equal speeds at complementary angles (θ and 90°−θ), where the two launch angles are not equal. A student concludes that their maximum heights must be equal. How should this conclusion be judged?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Incorrect, because acceleration at the peaks differs",
+        "Correct, because both projectiles have equal ranges",
+        "Correct, because horizontal velocity components are equal",
+        "Incorrect, because maximum height depends on vertical velocity"
+      ],
+      "answer": "D",
+      "explanation": "Maximum height H = u²sin²θ/(2g), which depends on the vertical component of velocity (u sinθ). For complementary angles θ and (90° − θ): sinθ ≠ sin(90° − θ) = cosθ (unless θ = 45°). Therefore, the maximum heights are different since the vertical velocity components differ. While both projectiles have equal ranges (a correct fact), equal range does not imply equal maximum height. The student's conclusion is incorrect because maximum height is determined by the vertical component of velocity, not the range."
+    },
+    {
+      "id": 15,
+      "question": "A ball is projected at certain angle with initial velocity u, covers horizontal range R. With what initial velocity it should be projected keeping the angle of projection the same so that its horizontal range becomes 2.25R?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "2.5u",
+        "1.5u",
+        "2.25u",
+        "0.25u"
+      ],
+      "answer": "B",
+      "explanation": "The horizontal range R = u²sin(2θ)/g. For the same angle θ, R is proportional to u². If we want the new range R' = 2.25R, then u'²/u² = 2.25, so u'² = 2.25u², giving u' = √2.25 × u = 1.5u. Therefore, the initial velocity must be 1.5 times the original."
+    },
+    {
+      "id": 16,
+      "question": "A ball attached to the end of a string moves with uniform circular motion in counterclockwise horizontal circle, where the centripetal force is provided by the tension in the string. At point where the string suddenly breaks as shown in figure below. Which of the labeled curves (A, B, C, or D) best represents the path the ball follows immediately after the string breaks?",
+      "image": "./images/2018_p5_q16.png",
+      "passage": null,
+      "options": [
+        "Curve A",
+        "Curve D",
+        "Curve B",
+        "Curve C"
+      ],
+      "answer": "A",
+      "explanation": "According to Newton's first law, when the centripetal force (tension) is suddenly removed, the ball will continue moving in a straight line tangent to the circle at the point where the string breaks. This is because there is no longer any force to change the ball's direction. In counterclockwise circular motion, the velocity vector at any point is tangent to the circle in the direction of motion. The curve that represents this tangential path is Curve A."
+    },
+    {
+      "id": 17,
+      "question": "A rigid disc rotates about its center. If one particle on the rim sweeps an angular displacement of θ radians, what can be concluded about a particle located halfway between the center and the rim during the same time interval?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It sweeps a smaller angular displacement and travels a longer arc length",
+        "It sweeps the same angular displacement but travels a shorter arc length",
+        "It sweeps a smaller angular displacement but travels the same arc length",
+        "It sweeps the same angular displacement and travels the same arc length"
+      ],
+      "answer": "B",
+      "explanation": "In a rigid body rotating about its center, every point in the body undergoes the same angular displacement θ in the same time interval (rigid body constraint). However, the arc length traveled is s = rθ. A particle halfway between the center and the rim has radius r/2, so its arc length is (r/2)θ = rθ/2, which is half the arc length of the rim particle. Therefore, the inner particle sweeps the same angular displacement but travels a shorter arc length."
+    },
+    {
+      "id": 18,
+      "question": "A wheel initially at rest increases its angular velocity to 80 rad/s after 5 seconds. The total angular displacement is",
+      "image": null,
+      "passage": null,
+      "options": [
+        "400 rad",
+        "800 rad",
+        "100 rad",
+        "200 rad"
+      ],
+      "answer": "D",
+      "explanation": "Angular acceleration α = (ω − ω₀)/t = (80 − 0)/5 = 16 rad/s². Angular displacement θ = ω₀t + ½αt² = 0 + ½(16)(5²) = ½(16)(25) = 200 rad. Alternatively, since the motion is uniformly accelerated from rest, θ = ½ωt = ½(80)(5) = 200 rad."
+    },
+    {
+      "id": 19,
+      "question": "A satellite orbits Earth in a circular path with a period of 8 hours. If the orbital radius is increased to four times its original value, what will be the new orbital period?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "16 hours",
+        "24 hours",
+        "64 hours",
+        "32 hours"
+      ],
+      "answer": "C",
+      "explanation": "By Kepler's third law: T² ∝ r³. If the orbital radius increases to 4r, then T'²/T² = (4r)³/r³ = 64. Therefore T' = T × √64 = T × 8 = 8 × 8 = 64 hours. When the orbital radius increases by a factor of 4, the period increases by a factor of 4^(3/2) = 8."
+    },
+    {
+      "id": 20,
+      "question": "A spacecraft hovers near a planet whose mass is twice that of Earth and radius 1.5 times larger than Earth's. The gravitational force experienced by the spacecraft compared to that near Earth is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "8/9 of the gravitational force on Earth",
+        "3/2 of the gravitational force on Earth",
+        "4/9 of the gravitational force on Earth",
+        "Twice the gravitational force on Earth"
+      ],
+      "answer": "A",
+      "explanation": "Gravitational force F = GMm/r². On the new planet: F' = G(2M)m/(1.5R)² = 2GMm/2.25R² = (2/2.25)(GMm/R²) = (8/9)F. The factor 2 comes from the doubled mass, and (1/1.5²) = 1/2.25 = 4/9 comes from the larger radius. Combined: 2 × 4/9 = 8/9."
+    },
+    {
+      "id": 21,
+      "question": "Students are asked to create a working model that applies Newton's third law in transportation. Which design BEST represents the principle clearly?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Create a solar-powered fan car that moves using a rotating blade",
+        "Design a gravity-powered cart that rolls down an inclined surface",
+        "Construct a rubber-band powered car that pulls itself forward mechanically",
+        "Build a balloon-powered vehicle that moves forward as air escapes backward"
+      ],
+      "answer": "D",
+      "explanation": "Newton's third law states that for every action, there is an equal and opposite reaction. In a balloon-powered vehicle, when air is released backward (action force), the vehicle moves forward (reaction force). This is a direct and clear demonstration of action-reaction pairs. The solar fan car (A) primarily uses torque and thrust, the gravity cart (B) demonstrates gravitational potential energy conversion, and the rubber-band car (C) demonstrates elastic potential energy. The balloon vehicle most clearly illustrates the third law."
+    },
+    {
+      "id": 22,
+      "question": "According to Newton's second law in momentum form, if the net force on a body is zero, the momentum of the body:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Remains constant",
+        "Increases steadily",
+        "Decreases gradually",
+        "Changes direction"
+      ],
+      "answer": "A",
+      "explanation": "Newton's second law in momentum form states F_net = dp/dt, where p is momentum. If the net force F_net = 0, then dp/dt = 0, meaning the rate of change of momentum is zero. Therefore, the momentum remains constant. This is essentially the law of conservation of momentum for a single body — with no external force, the body's momentum (and hence velocity) does not change."
+    },
+    {
+      "id": 23,
+      "question": "Two blocks, A and B, each with mass of 10 kg, are connected by a light, inextensible string over a frictionless pulley. Block A rests on a 37° incline with coefficient of kinetic friction (μk = 0.2) as shown in figure below. What is the acceleration of the system?",
+      "image": "./images/2018_p5_q23.png",
+      "passage": null,
+      "options": [
+        "1.20 m/s²",
+        "4.13 m/s²",
+        "2.52 m/s²",
+        "4.51 m/s²"
+      ],
+      "answer": "A",
+      "explanation": "Using g = 10 m/s², sin37° = 0.6, cos37° = 0.8. For block B (hanging): mg − T = ma → 100 − T = 10a. For block A (on incline): T − mg sin37° − μk mg cos37° = ma → T − 100(0.6) − 0.2(100)(0.8) = 10a → T − 60 − 16 = 10a → T − 76 = 10a. Adding both equations: 100 − 76 = 20a → 24 = 20a → a = 1.20 m/s²."
+    },
+    {
+      "id": 24,
+      "question": "Two systems oscillate with negligible friction: a simple pendulum and a spring-mass system. Considering their energy transformations, which statement most accurately represents their energy behavior?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Energy remains entirely kinetic in both systems except at extreme positions",
+        "The spring system loses mechanical energy faster than the pendulum system",
+        "Only the pendulum exchanges kinetic energy while the spring stores constant energy",
+        "Both systems continuously exchange kinetic energy with potential energy during motion"
+      ],
+      "answer": "D",
+      "explanation": "In both a simple pendulum and a spring-mass system, energy continuously transforms between kinetic and potential forms. For the pendulum: at the lowest point, all energy is kinetic; at the extremes, all energy is gravitational potential. For the spring-mass: at equilibrium, all energy is kinetic; at maximum compression/extension, all energy is elastic potential. Both systems oscillate by continuously exchanging KE and PE. With negligible friction, total mechanical energy is conserved in both."
+    },
+    {
+      "id": 25,
+      "question": "A person leans against a wall and pushes hard, but the wall does not move. Later, the same person pushes a cart forward and it moves straight ahead. In which case is work done by the person?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Work is done in both cases because both involve a horizontal force",
+        "Work is done only when pushing the wall because more effort is used",
+        "No work is done in both cases because force is normal to displacement",
+        "Work is done only when pushing the cart because displacement occurs"
+      ],
+      "answer": "D",
+      "explanation": "Work is defined as W = F·d = Fd cosθ, which requires both a force and a displacement in the direction of the force. When pushing the wall, the wall does not move (displacement = 0), so no work is done despite the effort. When pushing the cart, the cart moves in the direction of the applied force, so work is done. The presence of a force alone does not constitute work; displacement in the direction of force is essential."
+    },
+    {
+      "id": 26,
+      "question": "A 0.2 kg tennis ball moving at v = 40 m/s is hit a wall and bounces back reversing its direction at v = 40 m/s. What is the magnitude of the impulse imparted to the ball?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "12 Ns",
+        "16 Ns",
+        "4 Ns",
+        "0 Ns"
+      ],
+      "answer": "B",
+      "explanation": "Impulse = change in momentum = m(v_f − v_i). Taking the initial direction as positive: v_i = +40 m/s and v_f = −40 m/s (reversed direction). Impulse = 0.2 × (−40 − 40) = 0.2 × (−80) = −16 Ns. The magnitude of the impulse is 16 Ns. The negative sign indicates the impulse is in the opposite direction to the initial motion, which makes sense as the wall pushes the ball back."
+    },
+    {
+      "id": 27,
+      "question": "A wedge of length 30 cm and thickness 6 cm is used to lift a load of 900 N with an effort of 300 N. What is its efficiency?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "50%",
+        "60%",
+        "75%",
+        "90%"
+      ],
+      "answer": "B",
+      "explanation": "For a wedge: Mechanical Advantage (MA) = Load/Effort = 900/300 = 3. Velocity Ratio (VR) = Length/Thickness = 30/6 = 5. Efficiency = (MA/VR) × 100% = (3/5) × 100% = 60%. The efficiency is less than 100% because some of the input energy is lost to friction between the wedge and the load."
+    },
+    {
+      "id": 28,
+      "question": "Which statement best distinguishes true weight from apparent weight?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "True weight is measured in a fluid while apparent weight is measured in air",
+        "True weight changes with depth while apparent weight remains constant everywhere",
+        "True weight depends on liquid density while apparent weight does not depend on density",
+        "True weight is the gravitational force while apparent weight is the reduced weight in a fluid"
+      ],
+      "answer": "D",
+      "explanation": "True weight is the actual gravitational force acting on an object: W = mg. Apparent weight is the weight perceived or measured when the object is immersed in a fluid; it equals the true weight minus the buoyant force (W_apparent = mg − F_buoyancy). The buoyant force reduces the apparent weight. True weight does not change based on the medium, while apparent weight depends on the fluid's density and the volume of the object submerged."
+    },
+    {
+      "id": 29,
+      "question": "Gauge pressure is best described as:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The total pressure acting on submerged surface",
+        "The pressure due to the density of a liquid only",
+        "The pressure measured relative to atmospheric pressure",
+        "The pressure measured relative to perfect vacuum condition"
+      ],
+      "answer": "C",
+      "explanation": "Gauge pressure is the pressure measured relative to atmospheric pressure. It is the pressure reading that most pressure gauges show, and it equals the absolute pressure minus atmospheric pressure: P_gauge = P_absolute − P_atm. Absolute pressure (option D describes this) is measured relative to a perfect vacuum. Gauge pressure is commonly used in everyday applications like tire pressure and blood pressure measurements."
+    },
+    {
+      "id": 30,
+      "question": "You are asked to design an experiment to demonstrate that pressure in a fluid increases with depth. Which setup would best illustrate this principle?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "A vertical tube filled with water, having holes at different depths to compare leakage rates",
+        "A tilted glass partially filled with water, observing which side spills first as the water moves",
+        "A horizontal tube filled with water, open at one end, used to measure the flow speed of water",
+        "A u-shaped tube partially filled with water, with pressure measured only at the top using a gauge"
+      ],
+      "answer": "A",
+      "explanation": "A vertical tube with holes at different depths directly demonstrates that pressure increases with depth. The deeper holes will have water leaking out with greater force and speed because the fluid pressure at greater depth is higher (P = P_atm + ρgh). This setup clearly shows the relationship between depth and pressure in a static fluid. The other options either don't vary depth properly, measure flow instead of pressure, or measure pressure only at one depth."
+    },
+    {
+      "id": 31,
+      "question": "A hydraulic lift is used to lift a car. The small piston has a radius of 5 cm and large piston has radius 50 cm. If a driver applies a force of 88 N to the small piston, what is the weight of the car the larger piston can support?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "880 N",
+        "88 N",
+        "88000 N",
+        "8800 N"
+      ],
+      "answer": "D",
+      "explanation": "By Pascal's principle: F₁/A₁ = F₂/A₂. The area of a piston is A = πr². A₁ = π(0.05)² and A₂ = π(0.50)². F₂ = F₁ × A₂/A₁ = 88 × (0.50/0.05)² = 88 × 100 = 8800 N. The ratio of areas equals the square of the ratio of radii: (50/5)² = 100."
+    },
+    {
+      "id": 32,
+      "question": "A solid sphere floats fully submerged in a liquid. According to Archimedes' principle, which statement about the sphere's density is correct?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Sphere density = liquid density",
+        "Sphere density > liquid density",
+        "Sphere density < liquid density",
+        "Sphere density ≥ liquid density"
+      ],
+      "answer": "A",
+      "explanation": "When an object floats fully submerged (neutrally buoyant), it means the buoyant force exactly equals the weight of the object. By Archimedes' principle: buoyant force = weight of displaced fluid = ρ_liquid × V × g. The weight of the sphere = ρ_sphere × V × g. Since these are equal: ρ_sphere × V × g = ρ_liquid × V × g, therefore ρ_sphere = ρ_liquid. If the sphere's density were greater, it would sink; if less, it would float partially above the surface."
+    },
+    {
+      "id": 33,
+      "question": "A hose with diameter 4 cm delivers water at a speed of 2 m/s. The hose is connected to a nozzle of diameter 2 cm. What is the speed of water in the nozzle?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "16 m/s",
+        "12 m/s",
+        "4 m/s",
+        "8 m/s"
+      ],
+      "answer": "D",
+      "explanation": "By the continuity equation (conservation of mass for incompressible fluid): A₁v₁ = A₂v₂. Since A = πd²/4, the areas are proportional to d². So v₂ = v₁ × (d₁/d₂)² = 2 × (4/2)² = 2 × 4 = 8 m/s. When the cross-sectional area decreases by a factor of 4 (diameter halved), the velocity increases by a factor of 4."
+    },
+    {
+      "id": 34,
+      "question": "The process of using high pressure to kill or stop bacteria in food and increase its shelf life is called:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Sterilization",
+        "Pascalization",
+        "Fermentation",
+        "Pasteurization"
+      ],
+      "answer": "B",
+      "explanation": "Pascalization (also known as high-pressure processing or HPP) is the process of using extremely high pressure (typically 100–800 MPa) to inactivate microorganisms in food without using heat. It is named after Blaise Pascal and leverages Pascal's principle of pressure transmission. Pasteurization (D) uses heat, fermentation (C) uses microorganisms, and sterilization (A) typically uses heat or radiation."
+    },
+    {
+      "id": 35,
+      "question": "Two substances, X and Y, each of mass 1 kg, undergo a temperature increase of 10 K. Substance X has specific heat 500 J/(kg·K) and substance Y has specific heat 800 J/(kg·K). Which statement correctly evaluates the heat required?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Neither substance requires any heat to raise its temperature",
+        "Substance Y requires more heat because its specific heat is larger than X",
+        "Substance X requires more heat because its specific heat is smaller than Y",
+        "Both require the same heat since their masses and temperature changes are equal"
+      ],
+      "answer": "B",
+      "explanation": "Heat required Q = mcΔT. For substance X: Q_X = 1 × 500 × 10 = 5000 J. For substance Y: Q_Y = 1 × 800 × 10 = 8000 J. Substance Y requires more heat (8000 J vs 5000 J) because its specific heat capacity is larger. Specific heat capacity represents the amount of heat needed to raise the temperature of 1 kg of a substance by 1 K; a higher specific heat means more energy is needed for the same temperature change."
+    },
+    {
+      "id": 36,
+      "question": "A steel bridge is 100 m long at 20°C. The linear expansion coefficient of steel is 1.2×10⁻⁵K⁻¹. What length will it reach at 40°C?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "100.024 m",
+        "100.04 m",
+        "0.04 m",
+        "0.024 m"
+      ],
+      "answer": "A",
+      "explanation": "Linear expansion: ΔL = αL₀ΔT = (1.2×10⁻⁵)(100)(40 − 20) = (1.2×10⁻⁵)(100)(20) = 0.024 m. The new length L = L₀ + ΔL = 100 + 0.024 = 100.024 m. Note that options C and D give only the change in length, not the total length."
+    },
+    {
+      "id": 37,
+      "question": "During phase change, a substance is at temperature and pressure above its critical point. Which statement correctly describes its properties?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It exhibits both liquid-like and gas-like fluidity",
+        "It behaves as a liquid only, with a constant density",
+        "It solidifies immediately due to very high pressure",
+        "It behaves as a gas only, expanding to fill its container"
+      ],
+      "answer": "A",
+      "explanation": "Above the critical point, a substance becomes a supercritical fluid, which exhibits properties intermediate between those of a liquid and a gas. It has the density and solvent power similar to a liquid, but the diffusivity and compressibility of a gas. The liquid and gas phases become indistinguishable above the critical point, so it cannot be classified as purely liquid (B) or purely gas (D), and it does not solidify (C)."
+    },
+    {
+      "id": 38,
+      "question": "You are tasked with redesigning the calorimetry experiment to minimize systematic heat loss. Which redesigned procedure best integrates multiple heat-loss prevention strategies?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Heat metal longer, transfer slowly, use less water, stir uncovered",
+        "Preheat calorimeter, transfer slowly, use more water, leave lid off",
+        "Insulate calorimeter, dry and transfer metal quickly, cover immediately, stir gently",
+        "Calibrate with known metal first, keep calorimeter open, transfer slowly, stir uncovered"
+      ],
+      "answer": "C",
+      "explanation": "The best procedure minimizes heat loss through multiple strategies: (1) Insulating the calorimeter reduces heat exchange with the environment; (2) Transferring the metal quickly minimizes heat loss during transfer; (3) Covering immediately prevents convective heat loss; (4) Stirring gently ensures uniform temperature without introducing extra air currents. Options A, B, and D each include counterproductive steps like transferring slowly, leaving the lid off, or using less water."
+    },
+    {
+      "id": 39,
+      "question": "Which statement correctly defines latent heat of fusion?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Energy required to change temperature of solid by one kelvin",
+        "Energy released when a solid is heated above its melting point",
+        "Heat required to change a liquid into gas at constant temperature",
+        "Total heat absorbed when a solid melts at constant temperature"
+      ],
+      "answer": "D",
+      "explanation": "Latent heat of fusion is the total amount of heat energy that must be absorbed by a solid at its melting point to change it into a liquid at the same temperature. The word 'latent' means hidden — the energy goes into breaking intermolecular bonds rather than raising the temperature. Option A describes specific heat capacity, option B is incorrect (it describes heating above melting point, not the phase change itself), and option C describes latent heat of vaporization, not fusion."
+    },
+    {
+      "id": 40,
+      "question": "A traffic light weighing 100 N hangs from vertical cables that are fastened to support. The upper cables make angles of 37° and 53° with the horizontal. What is the tension in T1 and T2 of cables respectively?",
+      "image": "./images/2018_p5_q40.png",
+      "passage": null,
+      "options": [
+        "60 N, 80 N",
+        "80 N, 60 N",
+        "35 N, 100 N",
+        "100 N, 35 N"
+      ],
+      "answer": "A",
+      "explanation": "At the junction point, applying equilibrium conditions using sin37° = 0.6, cos37° = 0.8, sin53° = 0.8, cos53° = 0.6: Horizontal: T₁ cos37° = T₂ cos53° → T₁(0.8) = T₂(0.6) → T₁ = 0.75T₂. Vertical: T₁ sin37° + T₂ sin53° = 100 → 0.75T₂(0.6) + T₂(0.8) = 100 → 0.45T₂ + 0.8T₂ = 100 → 1.25T₂ = 100 → T₂ = 80 N. Then T₁ = 0.75 × 80 = 60 N. So T₁ = 60 N and T₂ = 80 N."
+    },
+    {
+      "id": 41,
+      "question": "A copper wire has a resistance of 15 Ω and is connected to a 120 V supply. Due to heating, its resistance increases to 20 Ω while the voltage remains constant. What is the change in current?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "8 A",
+        "6 A",
+        "3 A",
+        "2 A"
+      ],
+      "answer": "D",
+      "explanation": "By Ohm's law: I = V/R. Initial current I₁ = 120/15 = 8 A. After heating: I₂ = 120/20 = 6 A. The change in current ΔI = |I₂ − I₁| = |6 − 8| = 2 A. The current decreases because the resistance increases due to heating (copper has a positive temperature coefficient of resistance)."
+    },
+    {
+      "id": 42,
+      "question": "When identical resistors are connected in series and then reconnected in parallel to the same battery, how does the total current supplied by the battery compare?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The total current becomes zero in parallel",
+        "The total current is the same in both arrangements",
+        "The total current is greater in parallel than in series",
+        "The total current is smaller in parallel than in series"
+      ],
+      "answer": "C",
+      "explanation": "For n identical resistors each of resistance R: In series, R_series = nR, so I_series = V/(nR). In parallel, 1/R_parallel = n/R, so R_parallel = R/n, giving I_parallel = V/(R/n) = nV/R. Therefore I_parallel = n² × I_series. The parallel combination has much lower total resistance, so the battery supplies a greater total current. For example, with two identical resistors, the parallel current is 4 times the series current."
+    },
+    {
+      "id": 43,
+      "question": "Three charges Q1 = q, Q2 = 3q, and Q3 = −q are placed in a horizontal line. The charges are spaced equally by a distance d. What is the net force on the charge Q2?",
+      "image": "./images/2018_p5_q43.png",
+      "passage": null,
+      "options": [
+        "4kq²/d² to the right",
+        "6kq²/d² to the right",
+        "6kq²/d² to the left",
+        "Zero"
+      ],
+      "answer": "B",
+      "explanation": "Force on Q2 (3q) from Q1 (q): F₁₂ = k(q)(3q)/d² = 3kq²/d². Since both charges are positive, this is repulsive, pushing Q2 to the right (away from Q1 which is to its left). Force on Q2 (3q) from Q3 (−q): F₂₃ = k(3q)(q)/d² = 3kq²/d². Since Q2 is positive and Q3 is negative, this is attractive, pulling Q2 to the right (toward Q3 which is to its right). Net force = 3kq²/d² + 3kq²/d² = 6kq²/d² to the right."
+    },
+    {
+      "id": 44,
+      "question": "Five capacitors, each of capacitance 1 μF, are connected as shown in the figure below. The equivalent capacitance between A and B is",
+      "image": "./images/2018_p5_q44.png",
+      "passage": null,
+      "options": [
+        "2 μF",
+        "0.5 μF",
+        "3 μF",
+        "5 μF"
+      ],
+      "answer": "A",
+      "explanation": "Based on the circuit diagram, the five 1 μF capacitors are arranged in a combination of series and parallel connections. Two pairs of capacitors in series each give 0.5 μF, and placing these pairs in parallel gives 1 μF. This combination in parallel with the fifth 1 μF capacitor yields a total equivalent capacitance of 2 μF between points A and B."
+    },
+    {
+      "id": 45,
+      "question": "In the circuit shown below, the current in the 1 Ω resistor is:",
+      "image": "./images/2018_p5_q45.png",
+      "passage": null,
+      "options": [
+        "1.3 A, from P to Q",
+        "0 A",
+        "0.13 A, from Q to P",
+        "0.13 A, from P to Q"
+      ],
+      "answer": "C",
+      "explanation": "Using Kirchhoff's laws for the given circuit with two EMF sources and resistors, the current through the 1 Ω resistor is found to be 0.13 A flowing from Q to P. The two loops are solved simultaneously using the junction rule and loop rule, and the resulting current in the bridge resistor is 0.13 A in the direction from Q to P."
+    },
+    {
+      "id": 46,
+      "question": "Figure below shows a ray of light as it travels from medium A to medium B. Refractive index of the medium B relative to medium A is",
+      "image": "./images/2018_p5_q46.png",
+      "passage": null,
+      "options": [
+        "√2/√3",
+        "√3/√2",
+        "√2",
+        "1/√2"
+      ],
+      "answer": "B",
+      "explanation": "By Snell's law: n_A sin θ_A = n_B sin θ_B, so n_B/n_A = sin θ_A / sin θ_B. From the diagram, the light travels from medium A to medium B. With the given angles in the diagram and using the provided trigonometric values, n_B/n_A = √3/√2. This indicates that medium B is optically denser than medium A, as the refractive index of B relative to A is greater than 1."
+    },
+    {
+      "id": 47,
+      "question": "An object 10 cm tall is placed 30 cm from a concave mirror of focal length 20 cm. The size of the image is",
+      "image": null,
+      "passage": null,
+      "options": [
+        "15 cm",
+        "20 cm",
+        "30 cm",
+        "25 cm"
+      ],
+      "answer": "B",
+      "explanation": "Using the mirror formula: 1/f = 1/v + 1/u. For a concave mirror, f = +20 cm, u = +30 cm (object distance). 1/20 = 1/v + 1/30 → 1/v = 1/20 − 1/30 = (3 − 2)/60 = 1/60 → v = 60 cm. Magnification m = −v/u = −60/30 = −2. The negative sign indicates an inverted image. Image size = |m| × object size = 2 × 10 = 20 cm."
+    },
+    {
+      "id": 48,
+      "question": "The intensity of sound at 2 m from a point source is 8×10⁻⁴ W/m². What would be the intensity at 4 m from the same source, assuming no energy loss?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "2×10⁻⁴ W/m²",
+        "4×10⁻⁴ W/m²",
+        "1×10⁻³ W/m²",
+        "8×10⁻³ W/m²"
+      ],
+      "answer": "A",
+      "explanation": "For a point source, intensity follows the inverse square law: I ∝ 1/r². So I₁/I₂ = (r₂/r₁)² = (4/2)² = 4. Therefore I₂ = I₁/4 = 8×10⁻⁴/4 = 2×10⁻⁴ W/m². Doubling the distance from a point source reduces the intensity to one-fourth of its original value."
+    },
+    {
+      "id": 49,
+      "question": "A long straight wire carries a current of 10 A. What is the magnetic field strength at a point 2 cm from the wire?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "1.0×10⁻⁴ T",
+        "2.0×10⁻⁵ T",
+        "5.0×10⁻⁴ T",
+        "1.0×10⁻⁵ T"
+      ],
+      "answer": "A",
+      "explanation": "The magnetic field around a long straight wire is given by B = μ₀I/(2πr). Using μ₀ = 4π×10⁻⁷ T·m/A, I = 10 A, r = 0.02 m: B = (4π×10⁻⁷ × 10)/(2π × 0.02) = (4π×10⁻⁶)/(0.04π) = 4×10⁻⁶/0.04 = 1.0×10⁻⁴ T."
+    },
+    {
+      "id": 50,
+      "question": "A student reverses the direction of current in a straight conductor and observes the compass near the wire. Which evaluation best explains the new observation?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Compass shows no deflection because reversing current removes magnetic field",
+        "Compass rotates randomly because reversing current destroys circular magnetic field",
+        "Compass deflects opposite because reversing current reverses magnetic field direction",
+        "Compass deflects same because reversing current does not change magnetic field direction"
+      ],
+      "answer": "C",
+      "explanation": "By the right-hand rule, the direction of the magnetic field around a current-carrying conductor depends on the direction of the current. When the current direction is reversed, the magnetic field direction also reverses. Therefore, the compass needle, which aligns with the magnetic field, will deflect in the opposite direction. The magnetic field is not removed (A), does not become random (B), and does change direction (D is incorrect)."
+    },
+    {
+      "id": 51,
+      "question": "A coil of 100 turns and area 0.01 m² rotates in a uniform magnetic field of 0.5 T. The angle between the coil's normal and the magnetic field changes from 30° to 60° in 0.1 s. What is the magnitude of induced electromotive force (EMF)?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "1.33 V",
+        "1.83 V",
+        "2.00 V",
+        "2.55 V"
+      ],
+      "answer": "B",
+      "explanation": "By Faraday's law: EMF = N × |ΔΦ/Δt|, where Φ = BA cos θ. Initial flux: Φ₁ = BA cos30° = 0.5 × 0.01 × 0.866 = 0.00433 Wb. Final flux: Φ₂ = BA cos60° = 0.5 × 0.01 × 0.5 = 0.0025 Wb. Change in flux: |ΔΦ| = |0.0025 − 0.00433| = 0.00183 Wb. EMF = 100 × 0.00183/0.1 = 1.83 V."
+    },
+    {
+      "id": 52,
+      "question": "Which reason explains why transformers are commonly used in household power supply units?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To directly convert alternating current into direct current",
+        "To efficiently change voltage levels for many appliances",
+        "To generate electricity using mechanical motion of devices",
+        "To safely store large amount of electrical energy for later use"
+      ],
+      "answer": "B",
+      "explanation": "Transformers are devices that efficiently change (step up or step down) AC voltage levels using electromagnetic induction. Household power supply units use transformers to convert the high voltage from the power grid to lower, safer voltages suitable for appliances. Different appliances require different voltages, and transformers make this possible with high efficiency. Transformers do not convert AC to DC (that requires rectifiers), generate electricity (A), or store energy (D)."
+    },
+    {
+      "id": 53,
+      "question": "Magnetic induction in graphics tablets allows the device to:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Track the pen's position without generating a signal",
+        "Store electrical energy to operate without being plugged in",
+        "Detect the pen's movement and convert it into digital lines",
+        "Produce heat on the screen to improve visibility for drawing"
+      ],
+      "answer": "C",
+      "explanation": "Graphics tablets use electromagnetic induction to detect the stylus pen's position and movement. The tablet generates an electromagnetic field, and when the pen (which contains a resonant circuit) is brought near the tablet surface, it interacts with this field. The tablet senses changes in the electromagnetic field to determine the pen's position, pressure, and tilt, converting these movements into digital data that appears as lines on screen. This is a practical application of Faraday's law of electromagnetic induction."
+    },
+    {
+      "id": 54,
+      "question": "Scientists attempt to date a 100,000-year-old rock sample using carbon-14. The measured amount of the isotope is extremely small and the result is unreliable. Which evaluation best explains why this dating method is inappropriate?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The isotope stops decaying after many years",
+        "The decay rate of the isotope changes in different rocks",
+        "The half-life of carbon-14 is too short for such old samples",
+        "The rock contains too many minerals that prevent measurement"
+      ],
+      "answer": "C",
+      "explanation": "Carbon-14 has a half-life of approximately 5,730 years. For a 100,000-year-old sample, about 17.5 half-lives have passed, meaning the remaining C-14 is only about (1/2)^17.5 ≈ 0.00006% of the original amount. This extremely small quantity is virtually undetectable and produces unreliable results. Carbon-14 dating is reliable only for samples up to about 50,000 years old. For older samples, isotopes with longer half-lives (such as uranium-238 or potassium-40) must be used."
+    },
+    {
+      "id": 55,
+      "question": "A scientist compares two nuclear processes that release energy: Process I: Two light nuclei combine to form a heavier nucleus. Process II: A heavy nucleus splits into two medium-mass nuclei. Which explanation best analyzes why energy is released in both processes?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "In both processes, the products have greater binding energy per nucleon, and the resulting mass defect appears as released energy",
+        "In both processes, neutrons are transferred or redistributed between nuclei, and this exchange directly produces the released energy",
+        "In both processes, extreme temperature or nuclear instability causes nuclei to change structure, and that condition itself produces the released energy",
+        "In both processes, unstable nuclei rearrange internally into more stable forms, and energy appears because nuclear forces are distributed during interaction"
+      ],
+      "answer": "A",
+      "explanation": "In both nuclear fusion (Process I) and nuclear fission (Process II), the products have a greater binding energy per nucleon than the reactants. This means the products are more tightly bound and have less mass than the reactants. The mass difference (mass defect) is converted to energy according to Einstein's equation E = Δmc². In fusion, light nuclei combine moving toward iron-56 on the binding energy curve. In fission, heavy nuclei split also moving toward iron-56. Both processes move toward more stable nuclei with higher binding energy per nucleon, releasing energy in both cases."
+    },
+    {
+      "id": 56,
+      "question": "The main practical difference between forward and reverse bias is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Both forward and reverse bias completely stop current",
+        "Forward bias blocks current, reverse bias allows current",
+        "Forward bias allows current, reverse bias blocks most current",
+        "Both forward and reverse bias allow the same amount of current"
+      ],
+      "answer": "C",
+      "explanation": "In a PN junction diode, forward bias (positive terminal to P-side, negative to N-side) reduces the depletion region and allows current to flow easily. Reverse bias (positive terminal to N-side, negative to P-side) widens the depletion region and blocks most current — only a very small leakage current flows. This asymmetric behavior is the fundamental property of diodes that makes them useful for rectification and other applications."
+    },
+    {
+      "id": 57,
+      "question": "Two students compare ripple reduction in half-wave and full-wave rectifiers with identical capacitor filters. Which evaluation is correct?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Both rectifiers produce equally smooth DC when the capacitor is properly used",
+        "Half-wave rectifiers always produce smoother DC regardless of the capacitor values",
+        "Full-wave rectifiers cannot produce smoother DC without increasing the number of diodes",
+        "Full-wave rectifiers produce smoother DC because the capacitor charges twice in each cycle"
+      ],
+      "answer": "D",
+      "explanation": "In a full-wave rectifier, both halves of the AC cycle are rectified, so the output pulses at twice the frequency of the input AC. This means the filter capacitor charges twice per cycle, discharging less between charging pulses. The result is a smaller voltage variation (ripple) and smoother DC output. In a half-wave rectifier, the capacitor charges only once per cycle and has more time to discharge between pulses, resulting in a larger ripple. Full-wave rectifiers inherently produce smoother DC."
+    },
+    {
+      "id": 58,
+      "question": "The symbol given in figure below represents:",
+      "image": "./images/2018_p5_q58.png",
+      "passage": null,
+      "options": [
+        "NPN transistor",
+        "PNP transistor",
+        "PN junction diode",
+        "Photo diode"
+      ],
+      "answer": "A",
+      "explanation": "The symbol in the figure represents an NPN transistor. In an NPN transistor symbol, the emitter arrow points outward (away from the base), indicating the direction of conventional current flow out of the emitter. This distinguishes it from a PNP transistor where the emitter arrow points inward. A PN junction diode has only two terminals (anode and cathode with a triangle and bar), and a photodiode has arrows pointing toward the diode symbol."
+    },
+    {
+      "id": 59,
+      "question": "A student is asked to design a two-input digital system that outputs 0 only when both inputs are 1 and outputs 1 for all other input combinations. Which of the following gates should the student select to correctly implement the design?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "AND gate",
+        "OR gate",
+        "NOR gate",
+        "NAND gate"
+      ],
+      "answer": "D",
+      "explanation": "The truth table for the desired output is: 00→1, 01→1, 10→1, 11→0. This is exactly the truth table of a NAND gate (NOT-AND). A NAND gate outputs 0 only when ALL inputs are 1, and outputs 1 for all other input combinations. An AND gate outputs 1 only when both inputs are 1. An OR gate outputs 0 only when both inputs are 0. A NOR gate outputs 1 only when both inputs are 0."
+    },
+    {
+      "id": 60,
+      "question": "Robotic check-ups, needle-free devices, and electronic aspirin are electronic applications in:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The aerospace and satellite control field",
+        "The agricultural and crop monitoring field",
+        "The medical and healthcare technology field",
+        "The automobile and transport engineering field"
+      ],
+      "answer": "C",
+      "explanation": "Robotic check-ups (automated health monitoring systems), needle-free devices (pain-free drug delivery using pressure or laser technology), and electronic aspirin (implantable devices that block pain signals) are all applications of electronics in the medical and healthcare technology field. These represent the growing intersection of electronics and medicine, aimed at improving patient care, reducing pain, and enabling more precise medical procedures."
+    }
+  ]
+}
+
+// Total questions: 60
+// Images needed: [12, 16, 23, 40, 43, 44, 45, 46, 58]
+// Passages: none
+// Subject: Physics
+// Year: 2018 E.C, Paper 5

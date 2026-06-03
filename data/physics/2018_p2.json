@@ -1,0 +1,868 @@
+{
+  "subject": "Physics",
+  "year": "2018 E.C",
+  "paper": 2,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A train moving in the east direction accelerates from rest to 36km/h in 20s. What is the average acceleration during that time interval?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "1.8m/s² east",
+        "0.5m/s² east",
+        "18 m/s² east",
+        "5m/s² east"
+      ],
+      "answer": "B",
+      "explanation": "First convert the velocity: 36 km/h = 36 × 1000/3600 = 10 m/s. Average acceleration = (change in velocity) / (time interval) = (10 - 0) / 20 = 0.5 m/s² east. The direction remains east since the train accelerates in that direction."
+    },
+    {
+      "id": 2,
+      "question": "The motion of an object at constant speed in straight line is known as________?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Uniformly accelerated motion",
+        "Uniform motion",
+        "Accelerated motion",
+        "Decelerated motion"
+      ],
+      "answer": "B",
+      "explanation": "Uniform motion is defined as motion at constant speed in a straight line. In this case, both the speed and direction remain unchanged, so the velocity is constant and acceleration is zero. Uniformly accelerated motion involves changing velocity, and decelerated motion involves decreasing speed."
+    },
+    {
+      "id": 3,
+      "question": "What does the slope of velocity–time graph indicates?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Displacement",
+        "Acceleration",
+        "Speed",
+        "Velocity"
+      ],
+      "answer": "B",
+      "explanation": "The slope of a velocity-time graph is Δv/Δt, which is the definition of acceleration. Displacement is found from the area under the velocity-time graph, not the slope. Speed and velocity are read directly from the y-axis values."
+    },
+    {
+      "id": 4,
+      "question": "Work is defined as:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Force times distance in the direction of the force",
+        "Mass times acceleration",
+        "Energy transferred over time",
+        "Power times time"
+      ],
+      "answer": "A",
+      "explanation": "Work is defined as W = F × d × cosθ, where F is force and d is displacement in the direction of the force. When force and displacement are in the same direction (θ = 0°), W = F × d. Option B is Newton's second law (F = ma), option C describes power, and option D is incorrect (power × time = work, but this is not the definition of work)."
+    },
+    {
+      "id": 5,
+      "question": "If a machine does 200 J of work in 10 seconds, what is its power output?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "20 W",
+        "50 W",
+        "100 W",
+        "200 W"
+      ],
+      "answer": "A",
+      "explanation": "Power is the rate of doing work: P = W/t = 200 J / 10 s = 20 W. The unit Watt (W) is equivalent to one Joule per second."
+    },
+    {
+      "id": 6,
+      "question": "The work-energy theorem states that:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Work done on an object equals its change in momentum",
+        "Work done on an object equals its change in kinetic energy",
+        "Work done on an object equals its change in potential energy",
+        "None of the above"
+      ],
+      "answer": "B",
+      "explanation": "The work-energy theorem states that the net work done on an object equals its change in kinetic energy: W_net = ΔKE = KE_final - KE_initial. This is a fundamental relationship connecting work and energy. Change in momentum relates to impulse (not work), and potential energy change relates to work done by conservative forces specifically."
+    },
+    {
+      "id": 7,
+      "question": "An astronaut weighs 600 N on Earth. What would be their weight on a planet where gravity is 1/4 that of Earth's?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "150 N",
+        "300 N",
+        "600 N",
+        "1200 N"
+      ],
+      "answer": "A",
+      "explanation": "Weight W = mg. On Earth, W = mg = 600 N. On the planet where g' = g/4, the weight becomes W' = m(g/4) = W/4 = 600/4 = 150 N. Mass remains the same regardless of location; only the gravitational acceleration changes."
+    },
+    {
+      "id": 8,
+      "question": "When an object rolls down an incline, what type of energy conversion occurs?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Kinetic to potential energy",
+        "Potential to kinetic energy",
+        "Mechanical to electrical",
+        "Electrical to mechanical"
+      ],
+      "answer": "B",
+      "explanation": "As an object rolls down an incline, it loses height, so its gravitational potential energy decreases. This potential energy is converted into kinetic energy (both translational and rotational). At the top, the object has maximum PE and minimum KE; at the bottom, it has minimum PE and maximum KE."
+    },
+    {
+      "id": 9,
+      "question": "A train is traveling on a straight track at a constant speed. In 80 seconds it covers a distance of 2400 meters. What is the speed of the train?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "30m/s",
+        "40m/s",
+        "60m/s",
+        "100m/s"
+      ],
+      "answer": "A",
+      "explanation": "Speed = distance / time = 2400 m / 80 s = 30 m/s. Since the train travels at constant speed on a straight track, the average speed equals the instantaneous speed."
+    },
+    {
+      "id": 10,
+      "question": "Pool balls remain at rest until an unbalanced force is applied to them. After they are in motion, they stay in motion until another force opposes their motion relative to an inertial frame with constant velocity. Which laws of motion describes this statement?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Newton's third law",
+        "Newton's second law",
+        "Newton's laws of universal gravitation",
+        "Newton's first law"
+      ],
+      "answer": "D",
+      "explanation": "Newton's first law (the law of inertia) states that an object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force. This exactly describes the pool balls' behavior described in the question."
+    },
+    {
+      "id": 11,
+      "question": "A kind of friction that exists between two surfaces in contact when one body tends to slide over the other without moving.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Limiting friction",
+        "Kinetic friction",
+        "Static friction",
+        "Dynamic friction"
+      ],
+      "answer": "C",
+      "explanation": "Static friction acts between two surfaces that are in contact but not moving relative to each other. It prevents motion from starting. Limiting friction is the maximum value of static friction just before motion begins. Kinetic (or dynamic) friction acts when surfaces are already sliding against each other."
+    },
+    {
+      "id": 12,
+      "question": "Which one of the following objects does not have gravitational potential energy?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "A bottle on the surface of a table",
+        "A ball on the level ground",
+        "A stone on the roof of a house",
+        "A fruit on a branch of a tree"
+      ],
+      "answer": "B",
+      "explanation": "Gravitational potential energy PE = mgh depends on height h above a reference level (usually the ground). A ball on level ground has h = 0 relative to the ground, so PE = 0. The bottle on a table, the stone on a roof, and the fruit on a branch all have height above the ground and therefore have gravitational potential energy."
+    },
+    {
+      "id": 13,
+      "question": "Which one contains the set of vectors?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Velocity, force and acceleration",
+        "Speed, velocity and time",
+        "Distance, displacement and speed",
+        "Mass, time and speed"
+      ],
+      "answer": "A",
+      "explanation": "Vectors have both magnitude and direction. Velocity, force, and acceleration all have direction and magnitude, making them vectors. Speed, distance, mass, and time are scalars (magnitude only). In option B, speed and time are scalars; in option C, distance and speed are scalars; in option D, all three are scalars."
+    },
+    {
+      "id": 14,
+      "question": "Vector resolution is the process of:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Adding multiple vectors together",
+        "Finding the components of a vector along specified axes",
+        "Multiplying a vector by a scalar",
+        "Subtracting vectors"
+      ],
+      "answer": "B",
+      "explanation": "Vector resolution is the reverse of vector addition. It involves breaking down a single vector into its component vectors along specified axes (usually x and y axes). For example, a force F at angle θ can be resolved into Fx = Fcosθ and Fy = Fsinθ."
+    },
+    {
+      "id": 15,
+      "question": "A force of 10 N acts at an angle of 30° to the horizontal. Find the horizontal component of this force.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "5N",
+        "7.07 N",
+        "8.7 N",
+        "14.14 N"
+      ],
+      "answer": "C",
+      "explanation": "The horizontal component is Fx = F × cosθ = 10 × cos30° = 10 × (√3/2) = 10 × 0.866 = 8.66 ≈ 8.7 N. Note: 5N would be the vertical component if θ = 30° (10sin30° = 5N), and 7.07N would be the horizontal component if θ = 45° (10cos45° = 7.07N)."
+    },
+    {
+      "id": 16,
+      "question": "The instantaneous velocity of an object at any point in time can be determined from the position-time graph by calculating the:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Area under the curve",
+        "Slope of the tangent at that point",
+        "Y-intercept",
+        "X-intercept"
+      ],
+      "answer": "B",
+      "explanation": "Velocity is the derivative of position with respect to time: v = dx/dt. On a position-time graph, this derivative at any point is represented by the slope of the tangent line at that point. The area under a position-time graph has no meaningful physical quantity, while the y-intercept gives the initial position and x-intercept gives the time when position is zero."
+    },
+    {
+      "id": 17,
+      "question": "A ball is thrown upwards with an initial velocity of 15 m/s. How high will it go? (Assume g = 10 m/s²)",
+      "image": null,
+      "passage": null,
+      "options": [
+        "12 Meters",
+        "11.25 meters",
+        "225 meters",
+        "14.18 meters"
+      ],
+      "answer": "B",
+      "explanation": "Using the equation v² = u² - 2gh, at the highest point v = 0: 0 = 15² - 2(10)h → 0 = 225 - 20h → h = 225/20 = 11.25 m. Alternatively, using v = u - gt: 0 = 15 - 10t → t = 1.5s, then h = ut - ½gt² = 15(1.5) - ½(10)(1.5²) = 22.5 - 11.25 = 11.25 m."
+    },
+    {
+      "id": 18,
+      "question": "A copper wire and a steel wire of the same diameter and length are connected end to end and a force is applied, which stretches their combined length by 1cm. The two wires will have",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Different stresses and strains",
+        "The same strain but different stresses",
+        "The same stress and strain",
+        "The same stress but different strains"
+      ],
+      "answer": "D",
+      "explanation": "Since the wires are connected end to end (in series), the same force F passes through both wires. Same diameter means same cross-sectional area A, so stress (F/A) is the same for both. However, copper and steel have different Young's moduli (Y). Since Y = stress/strain, and the stresses are equal but Y values differ, the strains must be different. Steel has a higher Young's modulus than copper, so it will have a smaller strain."
+    },
+    {
+      "id": 19,
+      "question": "A beam pivoted at one end has a force of 5.0N acting vertically upwards on it as shown in Figure below. What is the weight of the beam by taking the moment at pivot point?",
+      "image": "./images/2018_p2_q19.png",
+      "passage": null,
+      "options": [
+        "2N",
+        "3.33N",
+        "33.33N",
+        "20N"
+      ],
+      "answer": "B",
+      "explanation": "Taking moments about the pivot point for equilibrium: The upward force of 5.0N creates an anticlockwise moment, and the weight W of the beam acts at its center of mass creating a clockwise moment. Setting the moments equal: 5.0 × d₁ = W × d₂. From the diagram geometry, the ratio of lever arms gives W = 3.33N, which equals 10/3 N."
+    },
+    {
+      "id": 20,
+      "question": "The area of cross section of a steel wire(Y =2.0×10^11 N/m²) is 0.1cm². What force is required to double its length?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "2×10² N",
+        "2×10⁶ N",
+        "2×10⁴ N",
+        "2×10⁹ N"
+      ],
+      "answer": "B",
+      "explanation": "To double the length, the strain ε = ΔL/L = 1 (since ΔL = L). Using Young's modulus: Y = stress/strain → stress = Y × strain = 2.0 × 10¹¹ × 1 = 2.0 × 10¹¹ N/m². Area A = 0.1 cm² = 0.1 × 10⁻⁴ m² = 10⁻⁵ m². Force = stress × area = 2.0 × 10¹¹ × 10⁻⁵ = 2.0 × 10⁶ N."
+    },
+    {
+      "id": 21,
+      "question": "Which method of charging does the diagram below represents?",
+      "image": "./images/2018_p2_q21.png",
+      "passage": null,
+      "options": [
+        "Charging by conduction",
+        "Charging by friction",
+        "Charging by induction",
+        "Charging by rubbing"
+      ],
+      "answer": "C",
+      "explanation": "The diagram shows charging by induction, where a charged object is brought near (but not touching) a neutral conductor, causing charge separation. The near side acquires opposite charge and the far side acquires like charge. When the far side is grounded, the like charges escape, and after removing the ground and then the charged object, the conductor retains a net charge opposite to that of the inducing object."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is not correct about Properties of electric field lines?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The field lines never intersect or cross each other",
+        "The field lines are perpendicular to the surface of the charge",
+        "The magnitude of charge and the number of field lines are proportional to each other",
+        "Field lines originate at negative charge and terminate at a positive charge"
+      ],
+      "answer": "D",
+      "explanation": "Electric field lines originate at positive charges and terminate at negative charges — the opposite of what option D states. By convention, field lines point in the direction of the force on a positive test charge, which means they point away from positive charges and toward negative charges. Options A, B, and C are all correct properties of electric field lines."
+    },
+    {
+      "id": 23,
+      "question": "The potential difference between the terminals of an electric heater is 60V when it draws a current of 4A from the source. What current will the heater draw if the potential difference is increased to 120V?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "4A",
+        "3A",
+        "6A",
+        "8A"
+      ],
+      "answer": "D",
+      "explanation": "Using Ohm's law: V = IR. First find the resistance: R = V/I = 60/4 = 15 Ω. The resistance of the heater remains constant. When V = 120V: I = V/R = 120/15 = 8A. The current doubles when the voltage doubles, as expected from Ohm's law for a fixed resistance."
+    },
+    {
+      "id": 24,
+      "question": "What is the equivalent resistance and the current across 4Ω resistor shown in a Figure below respectively?",
+      "image": "./images/2018_p2_q24.png",
+      "passage": null,
+      "options": [
+        "3.2 Ω and 7.21A",
+        "6.4 Ω and 2.7A",
+        "7.21Ω and 0.83 A",
+        "8.3Ω and 22 A"
+      ],
+      "answer": "C",
+      "explanation": "From the circuit diagram, the equivalent resistance is calculated by combining the series and parallel combinations of resistors. The total equivalent resistance is 7.21 Ω. Using Ohm's law with the source voltage, the total current is found, and then the current through the 4Ω resistor is determined using the current divider rule to be 0.83 A."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following modern technologies is a direct application of physics in the field of medicine?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The production of organic fertilizers",
+        "The classification of plant species",
+        "The study of ancient languages",
+        "The development of Magnetic Resonance Imaging (MRI)"
+      ],
+      "answer": "D",
+      "explanation": "MRI (Magnetic Resonance Imaging) is a direct application of nuclear magnetic resonance, a physics principle. It uses strong magnetic fields and radio waves to excite hydrogen nuclei in the body, producing detailed images of internal structures. The other options relate to chemistry (fertilizers), biology (plant classification), and linguistics (ancient languages)."
+    },
+    {
+      "id": 26,
+      "question": "What is the primary overall objective of the Ethiopian Physical Society (EPS)?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "To sell physics textbooks and laboratory equipment to high schools",
+        "To replace the Ministry of Education in designing the national curriculum",
+        "To promote physics education, research, and its applications across Ethiopia",
+        "To ensure that every student in Ethiopia becomes a professional physicist"
+      ],
+      "answer": "C",
+      "explanation": "The Ethiopian Physical Society (EPS) is a professional organization whose primary mission is to promote physics education, research, and its applications throughout Ethiopia. It serves as a platform for physicists to collaborate and advance the field. The other options describe activities that are either too narrow, too ambitious, or outside the scope of a professional society."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is the correct order of steps often used in the 'Making of Physics Knowledge'?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Conclusion → Hypothesis → Observation → Experiment",
+        "Observation → Hypothesis → Experiment → Analysis/Conclusion",
+        "Experiment → Conclusion → Theory → Observation",
+        "Theory → Law → Observation → Guess"
+      ],
+      "answer": "B",
+      "explanation": "The scientific method in physics follows: first, make an Observation of a phenomenon; then form a Hypothesis to explain it; then conduct Experiments to test the hypothesis; finally, Analyze the results and draw a Conclusion. This logical progression ensures that physics knowledge is built on systematic investigation rather than guesswork."
+    },
+    {
+      "id": 28,
+      "question": "Suppose A = 6i + 4j and B = 2i - cj are two vectors in xy-plane. What is the value of c that A + B = 8i + 2j?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "-2",
+        "-3",
+        "2",
+        "3"
+      ],
+      "answer": "C",
+      "explanation": "A + B = (6i + 4j) + (2i - cj) = (6+2)i + (4-c)j = 8i + (4-c)j. For this to equal 8i + 2j: the i-components match (8 = 8) ✓, and the j-components: 4 - c = 2, therefore c = 2."
+    },
+    {
+      "id": 29,
+      "question": "For what value of b the vectors A = i +2j +3k and B = i + bj - k are orthogonal?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "A",
+      "explanation": "Two vectors are orthogonal (perpendicular) when their dot product equals zero. A · B = (1)(1) + (2)(b) + (3)(-1) = 1 + 2b - 3 = 2b - 2. Setting this to zero: 2b - 2 = 0, so b = 1."
+    },
+    {
+      "id": 30,
+      "question": "The types of vectors lying on the same plane are",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Parallel vectors",
+        "Collinear vectors",
+        "Coplanar vectors",
+        "Orthogonal vectors"
+      ],
+      "answer": "C",
+      "explanation": "Coplanar vectors are vectors that lie in the same plane. Parallel vectors have the same or opposite direction (they may or may not be coplanar with other vectors). Collinear vectors lie along the same line. Orthogonal vectors are perpendicular to each other. The term 'coplanar' specifically describes vectors that can all exist within a single plane."
+    },
+    {
+      "id": 31,
+      "question": "Which one of the vector equations satisfies the vector diagram shown below?",
+      "image": "./images/2018_p2_q31.png",
+      "passage": null,
+      "options": [
+        "C = A + B",
+        "B = C - A",
+        "A = B + C",
+        "B = A + C"
+      ],
+      "answer": "A",
+      "explanation": "Based on the vector triangle diagram, when vectors A and B are placed head-to-tail, the resultant (closing) vector C goes from the tail of A to the head of B. This is the triangle law of vector addition: C = A + B. This is equivalent to the parallelogram law where the diagonal represents the sum."
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is true for an object in uniformly accelerated motion?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The object moves at constant speed",
+        "The object's velocity changes by the same amount in each time interval",
+        "The object's acceleration is zero",
+        "The object moves in a straight line with zero velocity"
+      ],
+      "answer": "B",
+      "explanation": "In uniformly accelerated motion, the acceleration is constant, meaning the velocity changes by equal amounts in equal time intervals (Δv = a × Δt, where a is constant). Option A is wrong because constant speed means no acceleration. Option C is wrong because acceleration is non-zero by definition. Option D is wrong because the object can have non-zero velocity while accelerating."
+    },
+    {
+      "id": 33,
+      "question": "The coordinate of a particle in meters is given by x(t) = 18t – 3t², where the time t is in seconds. At what value t will the particle become momentarily at rest?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "6 sec",
+        "4 sec",
+        "3 sec",
+        "0 sec"
+      ],
+      "answer": "C",
+      "explanation": "The particle is momentarily at rest when its velocity is zero. Velocity v = dx/dt = d/dt(18t - 3t²) = 18 - 6t. Setting v = 0: 18 - 6t = 0, so t = 18/6 = 3 seconds. At t = 0, v = 18 m/s (not at rest). At t = 3, the particle stops momentarily before reversing direction."
+    },
+    {
+      "id": 34,
+      "question": "What is the total displacement for the velocity-time graph shown below?",
+      "image": "./images/2018_p2_q34.png",
+      "passage": null,
+      "options": [
+        "56m",
+        "60m",
+        "52m",
+        "96m"
+      ],
+      "answer": "B",
+      "explanation": "The total displacement from a velocity-time graph equals the area under the curve (with areas below the time axis counted as negative). By calculating the areas of the geometric shapes (rectangles and triangles) formed by the graph, the total displacement is found to be 60 m."
+    },
+    {
+      "id": 35,
+      "question": "A stone dropped from rest at a height h takes time t to reach the ground. If it were dropped from height 9h, the time to reach the ground is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "2t",
+        "4t",
+        "t",
+        "3t"
+      ],
+      "answer": "D",
+      "explanation": "Using h = ½gt², we get t = √(2h/g). For height 9h: t' = √(2×9h/g) = √(9) × √(2h/g) = 3√(2h/g) = 3t. The time is proportional to the square root of the height, so increasing the height by a factor of 9 increases the time by a factor of √9 = 3."
+    },
+    {
+      "id": 36,
+      "question": "A string can withstand a tension of 16 N. What is the greatest speed at which a body of mass 2 kg can be whirled in a horizontal circle using a string of length 2.0m?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "4m/s",
+        "5m/s",
+        "16m/s",
+        "25m/s"
+      ],
+      "answer": "A",
+      "explanation": "For circular motion, the centripetal force is provided by the tension: T = mv²/r. The maximum tension is 16 N, so: 16 = 2v²/2 → 16 = v² → v = 4 m/s. This is the greatest speed because any higher speed would require tension greater than 16 N, which would break the string."
+    },
+    {
+      "id": 37,
+      "question": "From the following fundamental forces which one is the weakest in strength?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The strong nuclear force",
+        "The gravitational force",
+        "The weak nuclear force",
+        "The electromagnetic forces"
+      ],
+      "answer": "B",
+      "explanation": "Of the four fundamental forces, gravity is by far the weakest. The relative strengths are approximately: strong nuclear force = 1, electromagnetic force = 10⁻², weak nuclear force = 10⁻⁶, gravitational force = 10⁻³⁹. Despite being the weakest, gravity has infinite range and is always attractive, which is why it dominates on astronomical scales."
+    },
+    {
+      "id": 38,
+      "question": "A 5 kg block is pulled across a rough surface by a 50 N force at an angle φ = 37° above the horizontal as shown in figure below. The coefficient of kinetic friction is μk = 0.4. Determine the acceleration of the block.",
+      "image": "./images/2018_p2_q38.png",
+      "passage": null,
+      "options": [
+        "6.4m/s²",
+        "10m/s²",
+        "8m/s²",
+        "1.6m/s²"
+      ],
+      "answer": "A",
+      "explanation": "Resolve the 50 N force: Horizontal component Fx = 50cos37° = 50 × 0.8 = 40 N. Vertical component Fy = 50sin37° = 50 × 0.6 = 30 N (upward). Normal force: N = mg - Fy = (5×10) - 30 = 20 N. Friction force: f = μk × N = 0.4 × 20 = 8 N. Net horizontal force: Fnet = Fx - f = 40 - 8 = 32 N. Acceleration: a = Fnet/m = 32/5 = 6.4 m/s²."
+    },
+    {
+      "id": 39,
+      "question": "What are the tensions T1 and T2 in cable 1 and 2 supporting the 40kg mass in the figure below respectively? Assume the system is at equilibrium position.",
+      "image": "./images/2018_p2_q39.png",
+      "passage": null,
+      "options": [
+        "696N and 800N",
+        "800N and 696N",
+        "230N and 460N",
+        "460N and 230N"
+      ],
+      "answer": "C",
+      "explanation": "At equilibrium, the sum of forces in both x and y directions is zero. The weight W = mg = 40 × 10 = 400 N acts downward. Resolving T1 and T2 into components using their angles from the diagram, and applying the equilibrium conditions: horizontal (T1cosθ1 = T2cosθ2) and vertical (T1sinθ1 + T2sinθ2 = 400 N), we solve to get T1 = 230 N and T2 = 460 N."
+    },
+    {
+      "id": 40,
+      "question": "A pendulum is released from a height of 5 m above its lowest point. At what point in the swing will the pendulum have its maximum kinetic energy?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "At the highest point on either side",
+        "Halfway down",
+        "At the lowest point",
+        "At three-quarters of the way down"
+      ],
+      "answer": "C",
+      "explanation": "By conservation of energy, maximum kinetic energy occurs when potential energy is minimum. The lowest point of the pendulum's swing is the reference level where PE = 0 (minimum). At this point, all the initial PE has been converted to KE, so KE is maximum. At the highest point, KE = 0 and PE is maximum."
+    },
+    {
+      "id": 41,
+      "question": "A particle moves in a complete circle, starting at Point X and ending at Point X. If the net work done on the particle by a specific force field during this round trip is non-zero, this force is:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Conservative force",
+        "A non-conservative force",
+        "A restorative force",
+        "An electrostatic force"
+      ],
+      "answer": "B",
+      "explanation": "A key property of conservative forces is that the work done by them around any closed path is always zero. If the net work done around a closed path (round trip) is non-zero, the force must be non-conservative. Examples of non-conservative forces include friction and air resistance, which always do negative work and dissipate energy as heat."
+    },
+    {
+      "id": 42,
+      "question": "A 10.0g bullet is fired into a stationary block of wood (m = 5.00kg). The bullet sticks into the block, and the speed of the bullet-plus combination immediately after collision is 0.60m/s. What was the original speed of the bullet?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "0.9m/s",
+        "0.012m/s",
+        "300.6m/s",
+        "30 m/s"
+      ],
+      "answer": "C",
+      "explanation": "This is a perfectly inelastic collision where momentum is conserved. Before collision: p = m_bullet × v_bullet. After collision: p = (m_bullet + m_block) × v_combined. Setting equal: 0.01 × v = (0.01 + 5.00) × 0.60 = 5.01 × 0.60 = 3.006. Therefore v = 3.006/0.01 = 300.6 m/s. Note: 10.0g = 0.01 kg."
+    },
+    {
+      "id": 43,
+      "question": "When a beam of light falls on an object from the source of light then light get reflected in all direction after striking the objects. The reflected light reach our eyes and our brain interprets finally we are able to see object around us. Which physics branch concern this action?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Mechanics",
+        "Astrophysics",
+        "Acoustic",
+        "Optics"
+      ],
+      "answer": "D",
+      "explanation": "Optics is the branch of physics that deals with the behavior and properties of light, including its interactions with matter (reflection, refraction, diffraction, etc.). The process described — light reflecting off objects and reaching our eyes — is the fundamental principle of optics. Mechanics deals with motion and forces, astrophysics with celestial objects, and acoustics with sound."
+    },
+    {
+      "id": 44,
+      "question": "Civil engineering relies heavily on principles of mechanics to design structures like bridges and buildings. Understanding which concept is crucial for ensuring the stability of a bridge?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Electromagnetism",
+        "Fluid dynamics",
+        "Statics and dynamics equilibrium",
+        "Thermodynamics"
+      ],
+      "answer": "C",
+      "explanation": "Bridge stability depends on statics and dynamics equilibrium. Statics ensures the bridge can support its own weight and traffic loads without collapsing (sum of forces and torques = 0). Dynamics handles moving loads like wind, earthquakes, and vehicles. Electromagnetism, fluid dynamics, and thermodynamics, while important in other engineering fields, are not the primary concepts for structural stability."
+    },
+    {
+      "id": 45,
+      "question": "What principle does ultrasound imaging rely on to generate image?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Refraction of sound wave",
+        "Reflection of sound wave",
+        "Absorption of sound wave",
+        "Diffraction of sound wave"
+      ],
+      "answer": "B",
+      "explanation": "Ultrasound imaging works by sending high-frequency sound waves into the body and detecting the echoes (reflections) that bounce back from tissue boundaries. The time delay and intensity of the reflected waves are used to construct an image. Reflection is the key principle — different tissues reflect sound differently, allowing differentiation of organs and structures."
+    },
+    {
+      "id": 46,
+      "question": "An Ethiopian defense force sends a signal to a target. The signal takes 0.01 seconds to return. What is the distance between the radar and the target in meter?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "3 × 10⁶",
+        "3 × 10¹⁰",
+        "1.5 × 10⁶",
+        "1.5 × 10¹⁰"
+      ],
+      "answer": "C",
+      "explanation": "Radar uses electromagnetic waves traveling at the speed of light c = 3 × 10⁸ m/s. The signal travels to the target and back, so the total distance = c × t = 3 × 10⁸ × 0.01 = 3 × 10⁶ m. The distance to the target is half the total distance: d = 3 × 10⁶ / 2 = 1.5 × 10⁶ m."
+    },
+    {
+      "id": 47,
+      "question": "Which of the following pair angles have equal range?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "15° and 60°",
+        "30° and 80°",
+        "20° and 60°",
+        "25° and 65°"
+      ],
+      "answer": "D",
+      "explanation": "For projectile motion, two angles that are complementary (sum to 90°) have equal range. This is because R = v²sin2θ/g, and sin2θ = sin(180° - 2θ) = sin2(90° - θ). Checking: 15° + 60° = 75° (not 90°), 30° + 80° = 110° (not 90°), 20° + 60° = 80° (not 90°), 25° + 65° = 90° ✓. Therefore 25° and 65° are complementary angles with equal range."
+    },
+    {
+      "id": 48,
+      "question": "A 0.2kg red ball is thrown horizontally at a speed of 4m/s from the height of 3m. A 0.4kg green ball is thrown horizontally from the same height at the same time with a speed of 8m/s. Which ball hits the ground first? (neglecting air resistance)",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The red ball hits the ground first",
+        "The green ball hits the ground first",
+        "Both strikes the ground at the same time",
+        "Their time depends on their density"
+      ],
+      "answer": "C",
+      "explanation": "The time to hit the ground depends only on the vertical motion, not the horizontal motion. Both balls are thrown horizontally from the same height (3m) with zero initial vertical velocity. Using h = ½gt², t = √(2h/g) which is the same for both balls regardless of their mass or horizontal speed. This is a consequence of the independence of horizontal and vertical motions in projectile motion."
+    },
+    {
+      "id": 49,
+      "question": "The launching speed of a certain projectile is two times the speed it has at its maximum height. What is the elevation angle at launching?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "answer": "C",
+      "explanation": "At maximum height, the vertical component of velocity is zero, so the speed is entirely horizontal: v_max_height = v₀cosθ. Given that launching speed v₀ = 2 × v_max_height: v₀ = 2v₀cosθ, therefore cosθ = 1/2, which gives θ = 60°. At this angle, the horizontal component at maximum height is half the launching speed."
+    },
+    {
+      "id": 50,
+      "question": "When a wheel of radius R rotates about a fixed axis, all points on the wheel have",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The same linear speed",
+        "The same angular speed",
+        "The same linear acceleration",
+        "Different angular acceleration"
+      ],
+      "answer": "B",
+      "explanation": "When a rigid body rotates about a fixed axis, all points on the body have the same angular speed (ω) because they all complete one revolution in the same time. However, points at different distances from the axis have different linear speeds (v = ωr) and different centripetal accelerations (a = ω²r). The angular acceleration is also the same for all points on a rigid body."
+    },
+    {
+      "id": 51,
+      "question": "A motor capable of producing a constant torque 100 Nm and a maximum rotation speed of 200 rad/s is connected to a flywheel with rotational inertia 0.2 kgm². How long will the flywheel take to reach the maximum speed if it starts from rest?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "0.4 sec",
+        "2 sec",
+        "5 sec",
+        "500 sec"
+      ],
+      "answer": "A",
+      "explanation": "Using τ = Iα, where τ is torque, I is moment of inertia, and α is angular acceleration: α = τ/I = 100/0.2 = 500 rad/s². Using ω = ω₀ + αt, where ω₀ = 0 (starts from rest): 200 = 0 + 500t, so t = 200/500 = 0.4 seconds."
+    },
+    {
+      "id": 52,
+      "question": "If the semi-major axis of a planet orbit is 9 times the semi-major axis of Earth orbit, what is the approximate orbital period in Earth years? Orbital period of Earth is 1 year.",
+      "image": null,
+      "passage": null,
+      "options": [
+        "27 years",
+        "54 years",
+        "81 years",
+        "9 years"
+      ],
+      "answer": "A",
+      "explanation": "By Kepler's third law: T² ∝ a³, so (T₂/T₁)² = (a₂/a₁)³. Given a₂/a₁ = 9: (T₂/T₁)² = 9³ = 729. Taking the square root: T₂/T₁ = √729 = 27. Since T₁ = 1 year, T₂ = 27 years. Note that while the semi-major axis increases by 9 times, the period increases by 27 times due to the 3/2 power relationship."
+    },
+    {
+      "id": 53,
+      "question": "A satellite is orbiting above the surface of the earth at three times the radius of the earth. What will be the value of the gravitational acceleration 'g' for mass of Earth M and radius of Earth is R?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "3GM/R²",
+        "GM/3R²",
+        "16GM/R²",
+        "GM/16R²"
+      ],
+      "answer": "D",
+      "explanation": "The distance from the center of the Earth to the satellite is R + 3R = 4R. Using the formula g = GM/r², where r = 4R: g = GM/(4R)² = GM/16R². On the surface (r = R), g = GM/R². At 4R, gravity is reduced by a factor of 16, consistent with the inverse square law."
+    },
+    {
+      "id": 54,
+      "question": "What happens to the gravitational force between two objects if the distance between them is halved?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It doubles",
+        "It remains the same",
+        "It increases by four times",
+        "It decreased by four times"
+      ],
+      "answer": "C",
+      "explanation": "Newton's law of universal gravitation: F = GMm/r². If the distance r is halved (r' = r/2), then F' = GMm/(r/2)² = GMm/(r²/4) = 4GMm/r² = 4F. The force increases by a factor of 4 because gravitational force follows an inverse square law with distance."
+    },
+    {
+      "id": 55,
+      "question": "Why gases easily compress while solids are incompressible? Because",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Atoms in solids are further apart from each other",
+        "Atoms in gases are separated by a large distance",
+        "The force between gas atoms are very strong",
+        "The force between solid atoms are very weak"
+      ],
+      "answer": "B",
+      "explanation": "In gases, the atoms/molecules are far apart with large empty spaces between them, allowing them to be pushed closer together (compressed). In solids, atoms are closely packed in a regular arrangement with very little space between them, making compression extremely difficult. The intermolecular forces in solids are strong (not weak), and gas molecules have weak intermolecular forces (not strong)."
+    },
+    {
+      "id": 56,
+      "question": "A substance with specific gravity less than one will be",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Float in water",
+        "Sink in water",
+        "Dissolve in water",
+        "Break water surface"
+      ],
+      "answer": "A",
+      "explanation": "Specific gravity is the ratio of the density of a substance to the density of water. If specific gravity < 1, the substance is less dense than water. According to Archimedes' principle, an object less dense than the fluid it is placed in will float because the buoyant force (equal to the weight of displaced water) exceeds the object's weight."
+    },
+    {
+      "id": 57,
+      "question": "Pressure in liquid depends on",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Shape of the container",
+        "Area of the container",
+        "Density of liquid and depth",
+        "Volume of the container"
+      ],
+      "answer": "C",
+      "explanation": "The pressure in a liquid at depth h is given by P = ρgh, where ρ is the density of the liquid, g is acceleration due to gravity, and h is the depth. This formula shows that pressure depends on density and depth only — not on the shape, area, or volume of the container. This is why water pressure increases as you dive deeper."
+    },
+    {
+      "id": 58,
+      "question": "At a given depth in a static fluid, the pressure acts:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Only downward",
+        "Only upward",
+        "Equally in all directions",
+        "Only against the walls of the container"
+      ],
+      "answer": "C",
+      "explanation": "According to Pascal's principle, pressure in a static fluid acts equally in all directions at any given point. This is why, for example, dams must be built equally strong at the same depth regardless of direction. The pressure at a given depth is the same whether measured downward, upward, sideways, or at any angle."
+    },
+    {
+      "id": 59,
+      "question": "Pascal's principle states that pressure applied to an enclosed fluid is transmitted undiminished to every portion of the fluid. This principle is the basis for:",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Airplanes",
+        "Hydraulic lifts",
+        "Steam engines",
+        "Thermometers"
+      ],
+      "answer": "B",
+      "explanation": "Hydraulic lifts work on Pascal's principle: a small force applied to a small-area piston creates pressure that is transmitted undiminished through the fluid to a large-area piston, producing a much larger force. The force multiplication ratio equals the area ratio (F₂/F₁ = A₂/A₁). Airplanes use aerodynamics, steam engines use thermodynamics, and thermometers use thermal expansion."
+    },
+    {
+      "id": 60,
+      "question": "A small piston of a hydraulic lift has an area of 0.002m². A car weighing 20000N sits on a rack mounted on the large piston. The large piston has an area of 0.8m². How large force must be applied to the small piston to support the car?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "5N",
+        "50N",
+        "1.6×10⁴ N",
+        "8×10⁶ N"
+      ],
+      "answer": "B",
+      "explanation": "By Pascal's principle: P₁ = P₂, so F₁/A₁ = F₂/A₂. F₁/0.002 = 20000/0.8. Therefore F₁ = 20000 × 0.002/0.8 = 40/0.8 = 50 N. This demonstrates the mechanical advantage of hydraulic systems: a 50 N force on the small piston can support a 20000 N car, giving a mechanical advantage of 400 (which equals A₂/A₁ = 0.8/0.002 = 400)."
+    }
+  ],
+  "summary": {
+    "total_questions": 60,
+    "images_needed": [
+      19,
+      21,
+      24,
+      31,
+      34,
+      38,
+      39
+    ],
+    "passages": "None",
+    "subject": "Physics",
+    "year_paper": "2018 E.C, Paper 2"
+  }
+}
+
+// Total questions: 60
+// Images needed: [19, 21, 24, 31, 34, 38, 39]
+// Passages: none
+// Subject: Physics
+// Year: 2018 E.C, Paper 2

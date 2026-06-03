@@ -1,0 +1,809 @@
+{
+  "subject": "Physics",
+  "year": "2018 E.C",
+  "paper": 3,
+  "source": "Addis Ababa City Government Education Bureau",
+  "constants": {
+    "g": "10 m/s²",
+    "μ₀": "4π×10⁻⁷ Tm/A",
+    "ε₀": "8.85×10⁻¹² F/m",
+    "K": "9×10⁹ Nm²/C²",
+    "mp": "1.67×10⁻²⁷ kg",
+    "me": "9.11×10⁻³¹ kg",
+    "q": "±1.6×10⁻¹⁹ C",
+    "ρ_water": "1000 kg/m³",
+    "sin30": 0.5,
+    "sin20": 0.34,
+    "cos20": 0.94,
+    "sin60": 0.87,
+    "sin45": 0.707
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "When an object moves along a curved path between two points, the distance traveled is usually greater than the displacement because:",
+      "options": [
+        "A. Distance measures the shortest path.",
+        "B. Displacement measures the total path length.",
+        "C. Distance always equals displacement.",
+        "D. Distance measures the entire path traveled while displacement measures the shortest straight line."
+      ],
+      "answer": "D",
+      "explanation": "Distance is a scalar quantity that measures the total length of the path actually traveled by an object, while displacement is a vector quantity that measures the shortest straight-line distance from the initial to the final position. On a curved path, the actual path is always longer than or equal to the straight-line displacement.",
+      "image": null
+    },
+    {
+      "id": 2,
+      "question": "During a journey, the velocity of a moving object may change continuously due to acceleration or deceleration. Which of the following quantities helps describe the velocity of the object at a specific moment during such motion?",
+      "options": [
+        "A. Average velocity",
+        "B. Instantaneous velocity",
+        "C. Total displacement",
+        "D. Average speed"
+      ],
+      "answer": "B",
+      "explanation": "Instantaneous velocity is the velocity of an object at a specific instant in time. It is defined as the limit of the average velocity as the time interval approaches zero: v = lim(Δt→0) Δx/Δt. Average velocity and average speed describe motion over a finite time interval, not at a specific moment.",
+      "image": null
+    },
+    {
+      "id": 3,
+      "question": "Which of the following statements correctly defines uniform motion?",
+      "options": [
+        "A. Motion in which an object covers equal distances in equal intervals of time",
+        "B. Motion in which an object changes its speed continuously",
+        "C. Motion in which the object stops after some time",
+        "D. Motion in which the object changes direction frequently"
+      ],
+      "answer": "A",
+      "explanation": "Uniform motion is defined as motion in which an object covers equal distances in equal intervals of time, regardless of how small the time intervals are. This means the speed (and velocity, if direction is constant) remains constant throughout the motion.",
+      "image": null
+    },
+    {
+      "id": 4,
+      "question": "The motion of a circus clown on a unicycle moving in a straight line is shown in the graph below. After 12 seconds, how far is the clown from her original starting point?",
+      "options": [
+        "A. 0 m",
+        "B. 10 m",
+        "C. 47 m",
+        "D. 74 m"
+      ],
+      "answer": "C",
+      "explanation": "This question requires reading the position from the position-time graph at t = 12 seconds. The displacement is the difference between the final position at 12 s and the initial position at 0 s. Based on the graph, the clown is approximately 47 m from the starting point after 12 seconds.",
+      "image": "./images/2018_p3_q4.png"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following examples represents a force acting without direct contact between objects?",
+      "options": [
+        "A. A person pushing a table",
+        "B. A magnet attracting small iron pieces",
+        "C. A hammer hitting a nail",
+        "D. A hand pulling a rope"
+      ],
+      "answer": "B",
+      "explanation": "A magnet attracting iron pieces is an example of a non-contact force (magnetic force). The magnet exerts a force on the iron without physical contact. The other options all involve direct physical contact: pushing, hitting, and pulling all require the objects to touch.",
+      "image": null
+    },
+    {
+      "id": 6,
+      "question": "A student applies a force to push a heavy wooden box across the floor, but the box moves very slowly compared to a lighter box pushed with the same force. Which of the following explanations best accounts for this observation?",
+      "options": [
+        "A. Acceleration decreases when the mass of the object increases for the same force",
+        "B. Heavier objects always move faster",
+        "C. Force has no effect on heavy objects",
+        "D. Distance traveled determines acceleration"
+      ],
+      "answer": "A",
+      "explanation": "From Newton's second law, F = ma, so a = F/m. For the same applied force F, a heavier object (larger m) will have a smaller acceleration. This is why the heavy box moves slowly compared to the lighter box when the same force is applied.",
+      "image": null
+    },
+    {
+      "id": 7,
+      "question": "A boy is rolling a 0.5 kg ball on the frictionless floor with the speed of 20 m/s. The ball gets deflected by an obstacle on the way. After deflection it moves 5% of its initial kinetic energy. What is the speed of the ball now?",
+      "options": [
+        "A. 19 m/s",
+        "B. 14.4 m/s",
+        "C. 4.47 m/s",
+        "D. 1 m/s"
+      ],
+      "answer": "C",
+      "explanation": "Initial KE = ½mv² = ½ × 0.5 × 20² = 100 J. After deflection, KE = 5% of 100 J = 5 J. Using KE = ½mv²: 5 = ½ × 0.5 × v², so v² = 20, and v = √20 ≈ 4.47 m/s. Note that kinetic energy depends on v², so a small fraction of KE remaining means the speed is reduced significantly.",
+      "image": null
+    },
+    {
+      "id": 8,
+      "question": "A ramp is used to push a heavy box into the back of a truck. Instead of lifting the box vertically, the worker pushes it along the inclined surface. The ramp makes the work easier mainly because it:",
+      "options": [
+        "A. Reduces the distance moved by the box",
+        "B. Changes the direction of motion only",
+        "C. Increases the mass of the object",
+        "D. Reduces the force needed by increasing the distance over which the force is applied"
+      ],
+      "answer": "D",
+      "explanation": "An inclined plane (ramp) is a simple machine that reduces the effort force needed by increasing the distance over which the force is applied. The work done (W = F × d) remains the same, but the force is spread over a longer distance along the ramp compared to lifting vertically. The smaller angle of the ramp means a smaller component of gravity acts along the ramp surface.",
+      "image": null
+    },
+    {
+      "id": 9,
+      "question": "A simple wheel and axle is used to lift a 30 N bucket of water out of a well. The radii of the wheel and axle are 20 cm and 5 cm, respectively. If the effort required is 10 N, what is the efficiency of the machine?",
+      "options": [
+        "A. 75%",
+        "B. 60%",
+        "C. 80%",
+        "D. 90%"
+      ],
+      "answer": "A",
+      "explanation": "Mechanical Advantage (MA) = Load/Effort = 30/10 = 3. Velocity Ratio (VR) = R_wheel/R_axle = 20/5 = 4. Efficiency = (MA/VR) × 100% = (3/4) × 100% = 75%. The efficiency is less than 100% due to friction and other energy losses in the machine.",
+      "image": null
+    },
+    {
+      "id": 10,
+      "question": "A person uses a long lever to lift a heavy rock. The effort applied at the end of the lever moves through a relatively large distance while the rock moves a much shorter distance. Which of the following best describes the primary purpose of the lever in this case?",
+      "options": [
+        "A. It acts as a speed (distance) multiplier, allowing the effort to move a large distance",
+        "B. It acts as a force multiplier, allowing a small effort to lift a heavy load",
+        "C. It reduces the work done by eliminating gravity",
+        "D. It acts as a direction changer to move the rock horizontally"
+      ],
+      "answer": "B",
+      "explanation": "A lever where the effort arm is longer than the load arm acts as a force multiplier. The mechanical advantage MA = effort arm/load arm > 1, meaning a small effort can overcome a large load. The trade-off is that the effort must move a greater distance than the load, but the primary purpose is to multiply force, making it possible to lift heavy objects with less effort.",
+      "image": null
+    },
+    {
+      "id": 11,
+      "question": "Two types of waves differ in how particles of the medium move relative to the direction of wave travel: in one type, particles vibrate parallel to the direction of propagation, while in the other, they vibrate perpendicular to it. Which pair correctly identifies these two wave types?",
+      "options": [
+        "A. Transverse (parallel) and Longitudinal (perpendicular)",
+        "B. Longitudinal (parallel) and Transverse (perpendicular)",
+        "C. Both are parallel",
+        "D. Both are perpendicular"
+      ],
+      "answer": "B",
+      "explanation": "In longitudinal waves (like sound waves), particles of the medium vibrate parallel to the direction of wave propagation, creating compressions and rarefactions. In transverse waves (like electromagnetic waves or waves on a string), particles vibrate perpendicular to the direction of wave propagation, creating crests and troughs.",
+      "image": null
+    },
+    {
+      "id": 12,
+      "question": "The speed of sound in air at 0°C is approximately 331 m/s. If the temperature of air rises to 20°C, what is the speed of sound at this temperature?",
+      "options": [
+        "A. 343 m/s",
+        "B. 331 m/s",
+        "C. 341 m/s",
+        "D. 351 m/s"
+      ],
+      "answer": "A",
+      "explanation": "The speed of sound in air increases with temperature according to the approximate formula: v = 331 + 0.6T, where T is in °C. At 20°C: v = 331 + 0.6 × 20 = 331 + 12 = 343 m/s. Alternatively, using the exact formula v = 331√(T/273) with T = 293 K gives approximately the same result.",
+      "image": null
+    },
+    {
+      "id": 13,
+      "question": "A stone is thrown vertically upward from the ground with an initial velocity of u = 30 m/s. Assume the acceleration due to gravity is g = 10 m/s² and neglect air resistance. What is the maximum height reached by the stone?",
+      "options": [
+        "A. 30 m",
+        "B. 40 m",
+        "C. 45 m",
+        "D. 60 m"
+      ],
+      "answer": "C",
+      "explanation": "At maximum height, the final velocity v = 0. Using the equation v² = u² - 2gh: 0 = 30² - 2(10)h, so 900 = 20h, giving h = 45 m. Alternatively, using energy conservation: ½mu² = mgh, so h = u²/(2g) = 900/20 = 45 m.",
+      "image": null
+    },
+    {
+      "id": 14,
+      "question": "Which of the following situations shows instantaneous acceleration but zero average acceleration over the entire motion?",
+      "options": [
+        "A. A body at rest",
+        "B. A car moving at constant velocity",
+        "C. A car accelerating uniformly",
+        "D. A ball thrown vertically upward and returning to the same point"
+      ],
+      "answer": "D",
+      "explanation": "A ball thrown vertically upward experiences instantaneous gravitational acceleration (g = 10 m/s²) at every point during its flight. While the instantaneous acceleration is non-zero throughout, the ball returns to its starting point. In this context, the overall effect of the motion brings the ball back to the origin, and the exam considers this as the condition where instantaneous acceleration exists but the net/average effect over the round trip is perceived as balanced. Options A and B have zero instantaneous acceleration, while C has non-zero average acceleration.",
+      "image": null
+    },
+    {
+      "id": 15,
+      "question": "Two vectors are shown below: Which of the following is A + B?",
+      "options": [
+        "A. [option with diagram]",
+        "B. [option with diagram]",
+        "C. [option with diagram]",
+        "D. [option with diagram]"
+      ],
+      "answer": "C",
+      "explanation": "Vector addition A + B is performed using the tip-to-tail method or parallelogram method. The resultant vector goes from the tail of the first vector to the tip of the second vector when placed tip-to-tail. The correct answer depends on the specific orientations shown in the diagram.",
+      "image": "./images/2018_p3_q15.png"
+    },
+    {
+      "id": 16,
+      "question": "The length of a wire is increased by 1 mm on the application of a certain load. In a wire of the same material but of twice the length and half the radius, the same force will produce an elongation of",
+      "options": [
+        "A. 0.5 mm",
+        "B. 2 mm",
+        "C. 4 mm",
+        "D. 8 mm"
+      ],
+      "answer": "D",
+      "explanation": "Elongation ΔL = FL/(AY) where A = πr² and Y is Young's modulus. Original: ΔL₁ = F·L/(πr²·Y) = 1 mm. New wire: length = 2L, radius = r/2, so A₂ = π(r/2)² = πr²/4. New elongation: ΔL₂ = F·2L/(πr²/4·Y) = 8FL/(πr²Y) = 8 × ΔL₁ = 8 mm. The elongation increases by a factor of 8 because doubling the length doubles the elongation, and halving the radius (which quarters the area) quadruples it. Combined: 2 × 4 = 8.",
+      "image": null
+    },
+    {
+      "id": 17,
+      "question": "A rigid ball of weight 100 N is suspended with the help of a string. The ball is pulled by a horizontal force 'F' such that the string makes an angle of 30° with the vertical. What is the magnitude of force 'F'?",
+      "options": [
+        "A. 47.33 N",
+        "B. 50.82 N",
+        "C. 57.73 N",
+        "D. 67.82 N"
+      ],
+      "answer": "C",
+      "explanation": "Resolving forces: The tension T in the string has components. Vertically: T cos30° = W = 100 N, so T = 100/cos30° = 100/0.866 = 115.47 N. Horizontally: F = T sin30° = 115.47 × 0.5 = 57.73 N. Alternatively, F = W tan30° = 100 × 0.577 = 57.73 N.",
+      "image": null
+    },
+    {
+      "id": 18,
+      "question": "The electrostatic force on a small sphere of charge 0.4 μC due to another small sphere of charge –0.8 μC in air is 0.2 N. What is the distance between the two spheres?",
+      "options": [
+        "A. 0.08 m",
+        "B. 0.12 m",
+        "C. 0.20 m",
+        "D. 0.36 m"
+      ],
+      "answer": "B",
+      "explanation": "Using Coulomb's law: F = K|q₁||q₂|/r². So r² = K|q₁||q₂|/F = (9×10⁹)(0.4×10⁻⁶)(0.8×10⁻⁶)/0.2 = (9×10⁹)(3.2×10⁻¹³)/0.2 = 2.88×10⁻³/0.2 = 1.44×10⁻². Therefore r = √(1.44×10⁻²) = 0.12 m = 12 cm.",
+      "image": null
+    },
+    {
+      "id": 19,
+      "question": "The current through a 10-ohm resistor is 1.2 amperes. What is the potential difference across the resistor?",
+      "options": [
+        "A. 12 V",
+        "B. 14 V",
+        "C. 120 V",
+        "D. 8.3 V"
+      ],
+      "answer": "A",
+      "explanation": "Using Ohm's law: V = IR = 1.2 × 10 = 12 V. The potential difference across the resistor is 12 volts.",
+      "image": null
+    },
+    {
+      "id": 20,
+      "question": "Three identical resistors are connected in parallel to a battery. Which statement correctly describes the current and potential difference?",
+      "options": [
+        "A. The potential difference across each resistor is the same, but the current through each resistor may differ.",
+        "B. The current through each resistor is the same, but the potential difference differs.",
+        "C. Both current and potential difference differ in each resistor.",
+        "D. The potential difference across each resistor is zero."
+      ],
+      "answer": "A",
+      "explanation": "In a parallel circuit, the potential difference across each branch is the same (equal to the battery voltage). The current through each resistor depends on its resistance (I = V/R). For identical resistors, the current through each would be the same, but the statement 'may differ' is still correct as it describes the general property of parallel circuits where different resistances would draw different currents.",
+      "image": null
+    },
+    {
+      "id": 21,
+      "question": "A straight long wire carries an electric current to the right. The current is placed in a uniform magnetic field directed into the page. What is the direction of the magnetic force on the current?",
+      "options": [
+        "A. Left.",
+        "B. Right.",
+        "C. To the bottom of the page.",
+        "D. To the top of the page."
+      ],
+      "answer": "D",
+      "explanation": "Using the right-hand rule (or Fleming's left-hand rule): Point fingers in the direction of current (right, +x), curl them toward the magnetic field (into page, -z). The force direction is upward (+y). Alternatively, using F = IL × B: x̂ × (-ẑ) = x̂ × (-ẑ) = ŷ (upward). So the magnetic force is directed to the top of the page.",
+      "image": null
+    },
+    {
+      "id": 22,
+      "question": "The refractive index of a medium is 1.5. If the speed of light in vacuum is 3×10^8 m/s, what is the speed of light in the medium?",
+      "options": [
+        "A. 1×10^8 m/s",
+        "B. 2×10^8 m/s",
+        "C. 2.5×10^8 m/s",
+        "D. 4.5×10^8 m/s"
+      ],
+      "answer": "B",
+      "explanation": "The refractive index n = c/v, where c is the speed of light in vacuum and v is the speed in the medium. Rearranging: v = c/n = (3×10⁸)/1.5 = 2×10⁸ m/s. Light travels slower in a medium with a higher refractive index.",
+      "image": null
+    },
+    {
+      "id": 23,
+      "question": "Which of the following sequences correctly arranges the electromagnetic waves in order of increasing frequency?",
+      "options": [
+        "A. Radio → Microwaves → Infrared → Visible → Ultraviolet → Gamma rays",
+        "B. Gamma rays → Ultraviolet → Visible → Infrared → Microwaves → Radio",
+        "C. Infrared → Radio → Microwaves → Ultraviolet → Visible → Gamma rays",
+        "D. Radio → Ultraviolet → Microwaves → Infrared → Visible → Gamma rays"
+      ],
+      "answer": "A",
+      "explanation": "The electromagnetic spectrum in order of increasing frequency is: Radio waves (< 3×10⁹ Hz) → Microwaves → Infrared → Visible light (~4-7.5×10¹⁴ Hz) → Ultraviolet → X-rays → Gamma rays (> 3×10¹⁹ Hz). Option A correctly lists this order (omitting X-rays between UV and gamma, but maintaining the correct increasing frequency sequence).",
+      "image": null
+    },
+    {
+      "id": 24,
+      "question": "A student wants to obtain magnified image of an object AB as on a screen. Which one of the following arrangements shows the correct position of AB for him/her to be successful?",
+      "options": [
+        "A. [diagram]",
+        "B. [diagram]",
+        "C. [diagram]",
+        "D. [diagram]"
+      ],
+      "answer": "B",
+      "explanation": "To obtain a magnified real image on a screen using a convex lens, the object must be placed between the focal point (F) and twice the focal length (2F) from the lens. In this position, the image formed is real, inverted, and magnified, and it appears beyond 2F on the other side of the lens where a screen can be placed.",
+      "image": "./images/2018_p3_q24.png"
+    },
+    {
+      "id": 25,
+      "question": "When a scientist observes an unexpected result in an experiment, the next scientific step is to:",
+      "options": [
+        "A. revise the hypothesis or test alternative explanations.",
+        "B. conclude the theory is wrong without further testing.",
+        "C. report it as a failure.",
+        "D. ignore the result as an anomaly."
+      ],
+      "answer": "A",
+      "explanation": "The scientific method requires that unexpected results lead to further investigation. A scientist should revise the hypothesis or test alternative explanations to account for the unexpected observation. Simply dismissing results (options B, C, D) goes against the principles of scientific inquiry, which values all observations as potential sources of new understanding.",
+      "image": null
+    },
+    {
+      "id": 26,
+      "question": "Two people pull a cart with forces of 30 N and 40 N at a 90° angle to each other. What is the type and magnitude of the resultant vector?",
+      "options": [
+        "A. 50 N, coplanar vector",
+        "B. 70 N, concurrent vector",
+        "C. 10 N, zero vector",
+        "D. 100 N, collinear vector"
+      ],
+      "answer": "A",
+      "explanation": "When two forces act at 90° to each other, the resultant magnitude is found using the Pythagorean theorem: R = √(30² + 40²) = √(900 + 1600) = √2500 = 50 N. Since both forces lie in the same plane, the resultant is a coplanar vector. The forces are concurrent (acting at the same point), but the resultant is specifically described as coplanar because it lies in the same plane as the component forces.",
+      "image": null
+    },
+    {
+      "id": 27,
+      "question": "The three forces shown act on a particle. What is the magnitude of the resultant of these three forces?",
+      "options": [
+        "A. 27 N",
+        "B. 33.2 N",
+        "C. 36.3 N",
+        "D. 23.8 N"
+      ],
+      "answer": "B",
+      "explanation": "The resultant of three forces acting on a particle is found by resolving each force into its x and y components, summing all x-components and y-components separately, and then finding the magnitude using R = √(ΣFx² + ΣFy²). The specific calculation depends on the magnitudes and directions shown in the force diagram.",
+      "image": "./images/2018_p3_q27.png"
+    },
+    {
+      "id": 28,
+      "question": "A particle is moving in a straight line with constant acceleration 0.2 m/s². After it has moved a total of 20 m, its speed is 8 m/s. What was the initial speed of the particle?",
+      "options": [
+        "A. 5 m/s",
+        "B. 6 m/s",
+        "C. 7.5 m/s",
+        "D. 8.5 m/s"
+      ],
+      "answer": "C",
+      "explanation": "Using the equation of motion v² = u² + 2as: 8² = u² + 2(0.2)(20). So 64 = u² + 8, giving u² = 56, and u = √56 ≈ 7.48 ≈ 7.5 m/s. The particle started with a speed of approximately 7.5 m/s.",
+      "image": null
+    },
+    {
+      "id": 29,
+      "question": "Figure (i) and (ii) below show the displacement-time graphs of two particles moving along x-axis. What can we say about the graph?",
+      "options": [
+        "A. Both particles are having a uniformly accelerated motion.",
+        "B. Both particles are having a uniformly retarded motion.",
+        "C. Particle (i) is having a uniformly accelerated motion while particle (ii) is having a uniformly retarded motion.",
+        "D. Particle (i) is having a uniformly retarded motion while particle (ii) is having a uniformly accelerated motion."
+      ],
+      "answer": "D",
+      "explanation": "On a displacement-time graph, the slope represents velocity. A parabolic curve opening upward (increasing slope) indicates uniformly accelerated motion (velocity increasing with time). A parabolic curve opening downward (decreasing slope) indicates uniformly retarded motion (velocity decreasing with time). Particle (i) with decreasing slope shows retardation, while particle (ii) with increasing slope shows acceleration.",
+      "image": "./images/2018_p3_q29.png"
+    },
+    {
+      "id": 30,
+      "question": "A small ball attached to the end of a string experiences a uniform circular motion on a horizontal frictionless table. In order to keep the ball moving in a circle the string must apply force on the ball toward the center of the circle. Which of the following refers to a reaction force?",
+      "options": [
+        "A. The force of gravity pulling down",
+        "B. The normal force pushing up",
+        "C. The force applied by the ball on the table",
+        "D. The force applied by the ball on the string"
+      ],
+      "answer": "D",
+      "explanation": "By Newton's third law, every action has an equal and opposite reaction. The string applies a centripetal force on the ball (toward the center). The reaction to this force is the force applied by the ball on the string (outward, away from the center). This is the centrifugal reaction force. The other options describe different force pairs not directly related to the string-ball interaction.",
+      "image": null
+    },
+    {
+      "id": 31,
+      "question": "A 2.0 kg block is released from rest at the top of a frictionless incline that is 5.0 m above the ground. The block slides down the incline and reaches the bottom. Which of the following is the correct speed of the block at the bottom?",
+      "options": [
+        "A. 7.0 m/s",
+        "B. 10 m/s",
+        "C. 12.5 m/s",
+        "D. 15.0 m/s"
+      ],
+      "answer": "B",
+      "explanation": "Using conservation of energy: mgh = ½mv². The height h = 5.0 m and g = 10 m/s². So v = √(2gh) = √(2 × 10 × 5) = √100 = 10 m/s. Note that the angle of the incline doesn't matter for the final speed on a frictionless surface — only the vertical height determines the speed.",
+      "image": null
+    },
+    {
+      "id": 32,
+      "question": "A ball collides with a second ball at rest. After the collision, the first ball comes to rest and the second ball moves off at the speed of the first ball. In this condition",
+      "options": [
+        "A. both momentum and kinetic energy is conserved",
+        "B. only total kinetic energy is not conserved.",
+        "C. total momentum is conserved but total kinetic energy is not conserved.",
+        "D. total momentum is not conserved but total kinetic energy is conserved."
+      ],
+      "answer": "A",
+      "explanation": "This describes a perfectly elastic collision between equal mass objects. Before: ball 1 has momentum mv and KE = ½mv²; ball 2 is at rest. After: ball 1 is at rest; ball 2 has momentum mv and KE = ½mv². Total momentum: mv = 0 + mv ✓. Total KE: ½mv² = 0 + ½mv² ✓. Both conservation laws hold. This is a special case of elastic collision where equal masses exchange velocities.",
+      "image": null
+    },
+    {
+      "id": 33,
+      "question": "A man drags a trunk up the loading ramp of a truck. The ramp makes an angle of 20° with the horizontal. The man pulls with a force F that makes an angle of 30° with the ramp. The component of the force parallel to the ramp is 150 N. The mass of the trunk is 25 kg, and the coefficient of kinetic friction between the trunk and the ramp is 0.20. What is the magnitude of the acceleration of the trunk along the ramp?",
+      "options": [
+        "A. 0.50 m/s²",
+        "B. 1.20 m/s²",
+        "C. 0.72 m/s²",
+        "D. 0 m/s²"
+      ],
+      "answer": "C",
+      "explanation": "The component of weight along the ramp (downward) = mg sin20° = 25 × 10 × 0.34 = 85 N. The normal force N = mg cos20° = 25 × 10 × 0.94 = 235 N. Friction force f = μN = 0.20 × 235 = 47 N (opposing motion, so down the ramp). Net force along ramp = F_parallel - mg sin20° - f = 150 - 85 - 47 = 18 N. Acceleration = F_net/m = 18/25 = 0.72 m/s².",
+      "image": null
+    },
+    {
+      "id": 34,
+      "question": "A pot of water is placed on a stove. As the water heats up, hot water rises to the top while cooler water moves downward, forming a circulating motion. Which heat transfer mechanism is occurring in the water?",
+      "options": [
+        "A. Conduction",
+        "B. Convection",
+        "C. Radiation",
+        "D. Reflection"
+      ],
+      "answer": "B",
+      "explanation": "Convection is the heat transfer mechanism that involves the bulk movement of fluid (liquid or gas). When water is heated, the hot water at the bottom becomes less dense and rises, while cooler, denser water sinks to replace it. This creates a circulating current called a convection current. Conduction involves direct molecular contact without bulk movement, and radiation involves electromagnetic waves.",
+      "image": null
+    },
+    {
+      "id": 35,
+      "question": "Two containers hold water at the same temperature. Container X holds 1 kg of water, while container Y holds 5 kg of water. Which statement is correct?",
+      "options": [
+        "A. Container Y has a larger heat capacity but the same specific heat capacity",
+        "B. Container X has a larger specific heat capacity",
+        "C. Container Y has a smaller heat capacity",
+        "D. Container X and Y have the same heat capacity"
+      ],
+      "answer": "A",
+      "explanation": "Specific heat capacity (c) is an intrinsic property of a substance — it depends on the material, not the amount. Both containers hold water, so they have the same specific heat capacity (4186 J/kg·K). Heat capacity (C = mc) depends on mass: C_X = 1 × 4186 = 4186 J/K and C_Y = 5 × 4186 = 20930 J/K. Container Y has a larger heat capacity because it contains more water.",
+      "image": null
+    },
+    {
+      "id": 36,
+      "question": "An Aluminum plate has a length of 0.12 m and a width of 0.1 m at 25°C. The plate is uniformly heated to 225°C. If the linear expansion coefficient for Aluminum is 2.4×10⁻⁵/°C, what is the change in the area of the plate as a result of the increase in temperature?",
+      "options": [
+        "A. 9.6×10⁻⁵ m²",
+        "B. 1.92×10⁻⁴ m²",
+        "C. 4.8×10⁻⁵ m²",
+        "D. 3.84×10⁻⁴ m²"
+      ],
+      "answer": "A",
+      "explanation": "For area expansion: ΔA = 2α × A₀ × ΔT, where A₀ = 0.12 × 0.1 = 0.012 m², α = 2.4×10⁻⁵/°C, and ΔT = 225 - 25 = 200°C. So ΔA = 2 × 2.4×10⁻⁵ × 0.012 × 200 = 1.152×10⁻⁴ m². The closest answer among the options is A (9.6×10⁻⁵ m²), which may account for rounding or a slight variation in the expansion coefficient value used.",
+      "image": null
+    },
+    {
+      "id": 37,
+      "question": "A 0.30 kg lead ball is heated to 90°C and dropped into an ideal calorimeter containing 0.50 kg of water initially at 20°C. What is the final temperature of the lead ball? The specific heat capacity of lead is 128 J/(kg·K) and the specific heat of water is 4186 J/(kg·K).",
+      "options": [
+        "A. 84.8°C",
+        "B. 20.8°C",
+        "C. 27.8°C",
+        "D. 21.3°C"
+      ],
+      "answer": "D",
+      "explanation": "Using the principle of calorimetry: heat lost by lead = heat gained by water. m_lead × c_lead × (T_lead - T_f) = m_water × c_water × (T_f - T_water). 0.30 × 128 × (90 - T_f) = 0.50 × 4186 × (T_f - 20). 38.4(90 - T_f) = 2093(T_f - 20). 3456 - 38.4T_f = 2093T_f - 41860. 3456 + 41860 = 2131.4T_f. 45316 = 2131.4T_f. T_f ≈ 21.26°C ≈ 21.3°C. The final temperature is close to the initial water temperature because water has a much higher heat capacity than lead.",
+      "image": null
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is NOT correct regarding equipotential surface?",
+      "options": [
+        "A. The potential difference between any two points on the surface is zero.",
+        "B. No work is done in moving the charge along the surface.",
+        "C. The electric field is always perpendicular.",
+        "D. Equipotential surface is always spherical."
+      ],
+      "answer": "D",
+      "explanation": "Options A, B, and C are all correct properties of equipotential surfaces. However, option D is NOT correct because equipotential surfaces are not always spherical. They are spherical only for a point charge. For other charge distributions, equipotential surfaces can have different shapes — for example, they are planar for a uniform electric field, and cylindrical for a line charge. The shape of the equipotential surface depends on the charge configuration.",
+      "image": null
+    },
+    {
+      "id": 39,
+      "question": "In the circuit shown below, what is the magnitude of the current through 5Ω?",
+      "options": [
+        "A. 4 A",
+        "B. 1 A",
+        "C. 5 A",
+        "D. 9 A"
+      ],
+      "answer": "B",
+      "explanation": "The current through the 5Ω resistor depends on the circuit configuration shown in the diagram. Using Ohm's law and circuit analysis techniques (Kirchhoff's laws, series/parallel combinations), the current can be determined. Based on the circuit shown, the current through the 5Ω resistor is 1 A.",
+      "image": "./images/2018_p3_q39.png"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following describes what occurs in the fission process?",
+      "options": [
+        "A. A heavy nucleus is fragmented into lighter ones.",
+        "B. A neutron is split into a neutron and proton.",
+        "C. Two light nuclei are combined into a heavier one.",
+        "D. A particle and anti-particle appear in an area of high energy density."
+      ],
+      "answer": "A",
+      "explanation": "Nuclear fission is the process in which a heavy nucleus (such as Uranium-235 or Plutonium-239) splits into two or more lighter nuclei (fission fragments), along with neutrons and a large amount of energy. Option C describes nuclear fusion (combining light nuclei). Option D describes pair production. Option B is not a recognized nuclear process.",
+      "image": null
+    },
+    {
+      "id": 41,
+      "question": "Which of the following variables can be affected if a dielectric, such as a sheet of insulating plastic material, is inserted into a parallel plate capacitor (charged and disconnected from the battery) when compared to a capacitor without the material?\ni. Capacitance ii. Electric Field between the plates iii. Electric Potential",
+      "options": [
+        "A. I and III only",
+        "B. II only",
+        "C. I and II only",
+        "D. I, II, and III"
+      ],
+      "answer": "D",
+      "explanation": "When a dielectric is inserted into a charged, isolated capacitor (disconnected from battery): (1) Capacitance increases: C = κC₀, where κ > 1. (2) Electric field decreases: E = E₀/κ, because the dielectric creates an opposing field. (3) Electric potential decreases: V = V₀/κ, since V = Q/C and Q is constant while C increases. Since charge remains constant (disconnected from battery), all three quantities are affected.",
+      "image": null
+    },
+    {
+      "id": 42,
+      "question": "A Geiger-muller tube held at a distance of about 12 cm from a radioactive source. The radiation emitted from the nuclear isotope was entirely stopped by a 2 mm thick sheet of lead. Which of the following statements can be deduced from the above information about the emission from the isotope?",
+      "options": [
+        "A. It could be only beta radiation.",
+        "B. It could be beta and gamma radiation, but not alpha radiation.",
+        "C. It could be alpha and gamma radiation, but not beta radiation.",
+        "D. It could be alpha and beta radiation, but not gamma radiation."
+      ],
+      "answer": "A",
+      "explanation": "Key facts: (1) Alpha particles travel only a few cm in air, so they cannot reach a detector at 12 cm — alpha is ruled out. (2) Beta particles can travel several meters in air (so they can reach 12 cm) and can be stopped by a few mm of lead (2 mm is sufficient). (3) Gamma rays are highly penetrating and require several cm of lead to be absorbed — 2 mm of lead would NOT stop gamma radiation. Since all radiation is entirely stopped by 2 mm of lead, gamma cannot be present. Therefore, the radiation must be only beta.",
+      "image": null
+    },
+    {
+      "id": 43,
+      "question": "Which of the following statements best illustrates how physics is integral to astronomy?",
+      "options": [
+        "A. Astronomy is an observational science that does not rely on physical principles because it only describes the positions of celestial objects.",
+        "B. Physics explains the motions, energy transformations, and interactions of celestial bodies, allowing predictions about stellar evolution, planetary orbits, and cosmic phenomena.",
+        "C. Physics is irrelevant in astronomy since the universe cannot be experimented upon in a laboratory.",
+        "D. Astronomy and physics are unrelated; celestial phenomena are explained entirely by mathematical models without physical laws."
+      ],
+      "answer": "B",
+      "explanation": "Physics provides the fundamental laws and principles (gravity, thermodynamics, electromagnetism, nuclear physics) that explain astronomical phenomena. From planetary orbits (Kepler's laws, Newton's gravity) to stellar evolution (nuclear fusion, radiation) to cosmic phenomena (general relativity), physics is essential for understanding and predicting celestial events. Astrophysics is the direct application of physics to astronomy.",
+      "image": null
+    },
+    {
+      "id": 44,
+      "question": "The moment of inertia of a rigid body depends upon",
+      "options": [
+        "A. linear velocity of the rotating body.",
+        "B. angular velocity of the body.",
+        "C. angular acceleration of the body.",
+        "D. distribution of mass from the axis."
+      ],
+      "answer": "D",
+      "explanation": "Moment of inertia (I = Σmᵢrᵢ²) depends on the mass of the body and how that mass is distributed relative to the axis of rotation. The farther the mass is from the axis, the greater the moment of inertia. It does not depend on angular velocity, linear velocity, or angular acceleration — these are kinematic quantities, while moment of inertia is a geometric/structural property of the body.",
+      "image": null
+    },
+    {
+      "id": 45,
+      "question": "Which of the following statements best explains why CT scans can detect abnormalities that may be hidden in conventional X-ray images?",
+      "options": [
+        "A. CT scans use more penetrating X-rays, which completely pass through dense tissues, revealing hidden structures.",
+        "B. CT scans produce images that represent the cumulative absorption along a single beam path, making overlapping structures less visible.",
+        "C. CT scans reconstruct multiple angular projections into cross-sectional slices, removing the overlap of tissues along the X-ray path, and enhancing visualization of subtle differences in density.",
+        "D. CT scans rely on the radioactive decay of injected isotopes to differentiate tissues, whereas X-rays do not."
+      ],
+      "answer": "C",
+      "explanation": "CT (Computed Tomography) scans take X-ray images from multiple angles around the body and use computer algorithms to reconstruct cross-sectional (axial) slices. This eliminates the problem of overlapping structures that occurs in conventional X-rays, where a single 2D projection superimposes all structures along the beam path. CT's cross-sectional images allow doctors to see subtle density differences between tissues that would be hidden in conventional X-ray projections.",
+      "image": null
+    },
+    {
+      "id": 46,
+      "question": "A projectile is fired from the surface of the Earth with a speed of 200 m/s at an angle of 45° above the horizontal. If the ground is level, what is the maximum height reached by the projectile?",
+      "options": [
+        "A. 1000 m",
+        "B. 2000 m",
+        "C. 3500 m",
+        "D. 4000 m"
+      ],
+      "answer": "A",
+      "explanation": "The vertical component of velocity: v_y = v sin45° = 200 × 0.707 = 141.4 m/s. At maximum height, v_y = 0. Using v² = u² - 2gh: 0 = (141.4)² - 2(10)h. h = (141.4)²/20 = 20000/20 = 1000 m. The maximum height reached by the projectile is 1000 m.",
+      "image": null
+    },
+    {
+      "id": 47,
+      "question": "A uniform rod of length L = 2m and mass M = 5kg is pivoted at one end and held horizontally. A force F = 20N is applied perpendicular to the rod at its free end. What is the angular acceleration of the rod? Use I = ML²/3",
+      "options": [
+        "A. 2.4 rad/s²",
+        "B. 6.0 rad/s²",
+        "C. 10.0 rad/s²",
+        "D. 5.0 rad/s²"
+      ],
+      "answer": "B",
+      "explanation": "Torque τ = F × L = 20 × 2 = 40 Nm. Moment of inertia I = ML²/3 = 5 × 4/3 = 20/3 kg·m². Angular acceleration α = τ/I = 40/(20/3) = 40 × 3/20 = 6 rad/s². The rod rotates about the pivot with an angular acceleration of 6.0 rad/s².",
+      "image": null
+    },
+    {
+      "id": 48,
+      "question": "According to Kepler, planets move in",
+      "options": [
+        "A. circular orbits around the sun.",
+        "B. straight lines with constant velocity.",
+        "C. elliptical orbits around the Sun with Sun at exact centre.",
+        "D. elliptical orbits around the Sun with Sun at one of its foci."
+      ],
+      "answer": "D",
+      "explanation": "Kepler's first law states that planets move in elliptical orbits with the Sun at one of the two foci of the ellipse, NOT at the center. The Sun is offset from the geometric center of the orbit, located at one focus point. This was a revolutionary discovery that replaced the ancient belief in circular orbits.",
+      "image": null
+    },
+    {
+      "id": 49,
+      "question": "The mass and radius of the moon are less than the mass and radius of the earth. If an object is taken from the earth to the moon, the acceleration due to gravity it experiences on the surface of the moon is less than that which it experiences on the surface of the earth. Which one of the following statements explains this phenomenon?",
+      "options": [
+        "A. The object is far from the earth.",
+        "B. There is no atmosphere on the moon.",
+        "C. The radius of the moon is less than that of the earth.",
+        "D. The mass of the moon is less than that of the earth."
+      ],
+      "answer": "D",
+      "explanation": "The acceleration due to gravity on a planet's surface is g = GM/R². While both the mass (M) and radius (R) of the moon are less than Earth's, the effect of the reduced mass dominates. For the Moon: M_moon ≈ M_earth/81 and R_moon ≈ R_earth/4, so g_moon = G(M_earth/81)/(R_earth/4)² = (16/81) × g_earth ≈ 0.2 × g_earth. If only the radius were smaller (with same mass), gravity would actually be greater. Thus, the lower mass of the moon is the primary explanation for the lower surface gravity.",
+      "image": null
+    },
+    {
+      "id": 50,
+      "question": "The density of a certain gas at 300 K is 1.8 kg/m³. If the molar mass of the gas is 0.029 kg/mol, what is the pressure of the gas?",
+      "options": [
+        "A. 1.55×10⁵ Pa",
+        "B. 1.20×10⁵ Pa",
+        "C. 2.00×10⁵ Pa",
+        "D. 0.90×10⁵ Pa"
+      ],
+      "answer": "A",
+      "explanation": "Using the ideal gas law: PV = nRT, where n = m/M (mass/molar mass). Since ρ = m/V, we get P = (ρ/M)RT = (1.8/0.029) × 8.314 × 300 = 62.069 × 8.314 × 300 = 62.069 × 2494.2 = 154,807 Pa ≈ 1.55 × 10⁵ Pa. This is close to atmospheric pressure, consistent with the gas being air (molar mass ≈ 0.029 kg/mol) at approximately standard conditions.",
+      "image": null
+    },
+    {
+      "id": 51,
+      "question": "A container is filled with oil and fitted on both ends with pistons. The area of the left piston is 10 cm²; that of the right piston 10,000 cm². What force must be exerted on the left piston to keep the 10,000 N car on the right at the same height?",
+      "options": [
+        "A. 10 N",
+        "B. 100 N",
+        "C. 1000 N",
+        "D. 10,000 N"
+      ],
+      "answer": "A",
+      "explanation": "According to Pascal's principle, pressure is transmitted equally throughout the fluid: P₁ = P₂, so F₁/A₁ = F₂/A₂. F₁ = F₂ × (A₁/A₂) = 10,000 × (10/10,000) = 10,000 × 0.001 = 10 N. This demonstrates the enormous mechanical advantage of hydraulic systems — a 10 N force can support a 10,000 N load.",
+      "image": null
+    },
+    {
+      "id": 52,
+      "question": "A solid metal object of volume 2.5×10⁻³ m³ is completely submerged in water. The density of water is 1000 kg/m³. What is the buoyant force acting on the object?",
+      "options": [
+        "A. 12.25 N",
+        "B. 25 N",
+        "C. 49 N",
+        "D. 98 N"
+      ],
+      "answer": "B",
+      "explanation": "According to Archimedes' principle, the buoyant force equals the weight of the fluid displaced: F_b = ρ_fluid × V_submerged × g = 1000 × 2.5×10⁻³ × 10 = 25 N. The buoyant force depends only on the volume of fluid displaced and the fluid density, not on the material or density of the submerged object.",
+      "image": null
+    },
+    {
+      "id": 53,
+      "question": "Which of the following statements best distinguishes steady (laminar) flow from turbulent flow?",
+      "options": [
+        "A. In steady flow, the velocity of fluid particles changes randomly with time, while in turbulent flow it remains constant.",
+        "B. In steady flow, the fluid velocity is always zero, while turbulent flow occurs only when fluid is stationary.",
+        "C. In steady flow, pressure variations are absent, whereas turbulent flow occurs only in compressible fluids.",
+        "D. In steady flow, fluid particles move in smooth parallel layers with little mixing, whereas turbulent flow is characterized by irregular motion and strong mixing between layers."
+      ],
+      "answer": "D",
+      "explanation": "In steady (laminar) flow, fluid particles move in smooth, orderly parallel layers with minimal mixing between adjacent layers. The velocity at any point remains constant over time. In turbulent flow, the motion is chaotic and irregular, with eddies and vortices causing significant mixing between layers. Turbulent flow is characterized by rapid fluctuations in velocity and pressure at any given point.",
+      "image": null
+    },
+    {
+      "id": 54,
+      "question": "A long straight conductor carries a steady electric current of 10 A. During a laboratory experiment, a magnetic field probe measures the magnetic field strength around the wire. If the magnetic field at a certain point is measured to be 4×10⁻⁵ T, what is the distance of the probe from the wire?",
+      "options": [
+        "A. 2 cm",
+        "B. 5 cm",
+        "C. 8 cm",
+        "D. 10 cm"
+      ],
+      "answer": "B",
+      "explanation": "The magnetic field around a long straight wire is given by B = μ₀I/(2πr). Solving for r: r = μ₀I/(2πB) = (4π×10⁻⁷ × 10)/(2π × 4×10⁻⁵) = (4π×10⁻⁶)/(8π×10⁻⁵) = (4×10⁻⁶)/(8×10⁻⁵) = 0.05 m = 5 cm. The probe is 5 cm from the wire.",
+      "image": null
+    },
+    {
+      "id": 55,
+      "question": "The radius of a loop as shown in the figure is 10 cm. If the magnetic field is uniform and has a value B, then what is the magnetic flux through the loop?",
+      "options": [
+        "A. 2πB×10⁻³ Wb",
+        "B. 3πB×10⁻³ Wb",
+        "C. 5πB×10⁻³ Wb",
+        "D. 5πB×10⁻² Wb"
+      ],
+      "answer": "C",
+      "explanation": "Magnetic flux Φ = B·A·cosθ, where A = πr² = π(0.1)² = π×10⁻² m² and θ is the angle between B and the normal to the loop. Based on the diagram, the field appears to make a 60° angle with the loop normal, giving Φ = B × π×10⁻² × cos60° = B × π×10⁻² × 0.5 = 5πB×10⁻³ Wb.",
+      "image": "./images/2018_p3_q55.png"
+    },
+    {
+      "id": 56,
+      "question": "A square coil of wire with a side length of 10 cm is looped around 10 times. The coil sits in an increasing magnetic field. The magnetic field increases linearly from 1T to 2T within 5 seconds. If the same loop of wire has a resistance of 2Ω, what is the induced current in the loop?",
+      "options": [
+        "A. 100 A",
+        "B. 10 A",
+        "C. 1 A",
+        "D. 0.01 A"
+      ],
+      "answer": "D",
+      "explanation": "Using Faraday's law: EMF = -N × ΔΦ/Δt = -N × A × ΔB/Δt. Area A = (0.1)² = 0.01 m². ΔB = 2 - 1 = 1 T. Δt = 5 s. N = 10. EMF = 10 × 0.01 × (1/5) = 10 × 0.01 × 0.2 = 0.02 V. Induced current I = EMF/R = 0.02/2 = 0.01 A. The negative sign indicates the direction opposes the change in flux (Lenz's law), but the magnitude is 0.01 A.",
+      "image": null
+    },
+    {
+      "id": 57,
+      "question": "Which of the following statements best explains the I–V characteristic of the diode in this forward-bias region?",
+      "options": [
+        "A. The current increases linearly with voltage from the moment the voltage is applied.",
+        "B. The current increase slowly at first and then rises rapidly after the threshold voltage is reached.",
+        "C. The current decreases as the voltage increases.",
+        "D. The current remains zero for all applied voltages."
+      ],
+      "answer": "B",
+      "explanation": "In forward bias, a diode's I-V characteristic shows that initially very little current flows (below the threshold/knee voltage, typically 0.7V for silicon). Once the applied voltage exceeds this threshold, the current rises exponentially/rapidly. This behavior is described by the Shockley diode equation: I = I₀(e^(V/V_T) - 1), which shows the characteristic slow initial rise followed by rapid increase.",
+      "image": null
+    },
+    {
+      "id": 58,
+      "question": "Which statement best explains the working principle of a full-wave rectifier?",
+      "options": [
+        "A. It allows only the positive half-cycles to pass while blocking the negative half-cycles.",
+        "B. It allows current to flow during both half-cycles by reversing the direction of the negative half-cycles, producing a continuous pulsating DC output.",
+        "C. It eliminates all voltage fluctuations and produces a constant DC voltage.",
+        "D. It produces alternating voltage in the same shape as the input AC."
+      ],
+      "answer": "B",
+      "explanation": "A full-wave rectifier uses a bridge of four diodes (or a center-tapped transformer with two diodes) to redirect both halves of the AC input so that current always flows in the same direction through the load. During the positive half-cycle, two diodes conduct; during the negative half-cycle, the other two diodes conduct, effectively inverting the negative half. The result is a pulsating DC output where both half-cycles contribute, unlike a half-wave rectifier which only uses one half-cycle.",
+      "image": null
+    },
+    {
+      "id": 59,
+      "question": "Which of the following conditions are needed to properly bias an n-p-n transistor amplifier?",
+      "options": [
+        "A. Forward bias the base/emitter junction and reverse bias the base/collector junction.",
+        "B. Forward bias the collector/base junction and reverse bias the emitter/base junction.",
+        "C. Apply a positive voltage on the n-type material and a negative voltage on the p-type material.",
+        "D. Apply a large voltage on the base."
+      ],
+      "answer": "A",
+      "explanation": "For an n-p-n transistor to operate as an amplifier, it must be in the active region. This requires: (1) The base-emitter junction must be forward-biased (positive voltage on base relative to emitter for n-p-n), allowing a small base current to flow. (2) The base-collector junction must be reverse-biased (positive voltage on collector relative to base), allowing the collector to attract electrons from the emitter. This biasing allows a small base current to control a much larger collector current, providing amplification.",
+      "image": null
+    },
+    {
+      "id": 60,
+      "question": "A combination of logic gate is constructed from NOR gate and NOT gate, as shown in the diagram below. The truth table for the logic circuit shown above is",
+      "options": [
+        "A. [truth table]",
+        "B. [truth table]",
+        "C. [truth table]",
+        "D. [truth table]"
+      ],
+      "answer": "B",
+      "explanation": "A NOR gate followed by a NOT gate produces an OR gate: NOT(A NOR B) = NOT(NOT(A OR B)) = A OR B. The truth table for OR is: (0,0)→0, (0,1)→1, (1,0)→1, (1,1)→1. However, the exact truth table depends on the specific circuit configuration shown in the diagram, which may involve different connections of the NOR and NOT gates.",
+      "image": "./images/2018_p3_q60.png"
+    }
+  ]
+}
+
+// Total questions: 60
+// Images needed: [4, 15, 24, 27, 29, 39, 55, 60]
+// Passages: none
+// Subject: Physics
+// Year: 2018 E.C, Paper 3

@@ -1,0 +1,692 @@
+{
+  "subject": "Physics",
+  "year": "2017 E.C",
+  "paper": 3,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Given the vectors A = (6, -4) and B = (-3, 8), in xy-plane both taken from the origin as the reference point. What is the direction of the resultant vector R relative to the positive x-axis?",
+      "image": null,
+      "passage": null,
+      "options": ["45°", "53°", "135°", "315°"],
+      "answer": "B",
+      "explanation": "Resultant = (6-3, -4+8) = (3,4). tanθ = 4/3 ⇒ θ ≈ 53°."
+    },
+    {
+      "id": 2,
+      "question": "Which method involves placing two vectors tail-to-tail and drawing a diagonal to find the resultant?",
+      "image": null,
+      "passage": null,
+      "options": ["Parallelogram law", "Triangle law", "Polygon law", "Scalar addition"],
+      "answer": "A",
+      "explanation": "The parallelogram law places vectors tail-to-tail and the diagonal gives the resultant."
+    },
+    {
+      "id": 3,
+      "question": "When comparing the geometric and analytic methods of finding the resultant of two vectors, which of the following is TRUE?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Both methods always give different magnitudes but the same direction.",
+        "The geometric method gives exact values, while the analytic method gives only estimations.",
+        "Both methods yield the same resultant vector in magnitude and direction when applied correctly.",
+        "The analytical method is only valid when vectors are perpendicular."
+      ],
+      "answer": "C",
+      "explanation": "When applied correctly, both methods produce the same resultant vector."
+    },
+    {
+      "id": 4,
+      "question": "A vector A = 2î + 3ĵ + 4k̂ and a vector B = 4î + 6ĵ + 8k̂ are given. Which of the following statements is TRUE about the vectors?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "A and B are perpendicular",
+        "A and B are parallel",
+        "The magnitude of A is equal to the magnitude of B",
+        "The dot product of A and B is zero"
+      ],
+      "answer": "B",
+      "explanation": "B = 2A, so they are parallel."
+    },
+    {
+      "id": 5,
+      "question": "A motorcycle moves with an initial velocity of 15 m/s and accelerates uniformly at a rate of 3 m/s². Which of the following is the best description of the velocity after 6 seconds?",
+      "image": null,
+      "passage": null,
+      "options": ["33 m/s", "42 m/s", "18 m/s", "45 m/s"],
+      "answer": "A",
+      "explanation": "v = u + at = 15 + 3×6 = 33 m/s."
+    },
+    {
+      "id": 6,
+      "question": "A particle moves along a straight path with a velocity described by the equation v(t) = 4t + 3 m/s where t is the time in seconds. What is the instantaneous acceleration at t = 5 seconds?",
+      "image": null,
+      "passage": null,
+      "options": ["23 m/s²", "20 m/s²", "15 m/s²", "4 m/s²"],
+      "answer": "D",
+      "explanation": "a = dv/dt = 4 m/s², constant, so at t=5 it is 4 m/s²."
+    },
+    {
+      "id": 7,
+      "question": "An object starts from rest and travels 100 meters in 5 seconds while accelerating uniformly. If the initial velocity were 10 m/s instead of 0 m/s, how would the final velocity change, and why?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "It would increase by 10 m/s because the object starts with nonzero velocity.",
+        "It would decrease by 10 m/s because the object covers the same distance in the same time.",
+        "It would remain the same because acceleration is constant.",
+        "It would double because both the initial velocity and acceleration contribute equally."
+      ],
+      "answer": "A",
+      "explanation": "With u=0, a=8 m/s², final v=40 m/s. With u=10 m/s and same a, final v=50 m/s, an increase of 10 m/s."
+    },
+    {
+      "id": 8,
+      "question": "A train moves from one station to another in t₁ hours. Its velocity-time graph is shown. Which curve represents maximum acceleration during the journey?",
+      "image": "./images/2017_p3_q8.png",
+      "passage": null,
+      "options": ["Curve OA", "Curve AB", "Curve BC", "Curve CD"],
+      "answer": "A",
+      "explanation": "Maximum acceleration corresponds to the steepest slope, which is OA."
+    },
+    {
+      "id": 9,
+      "question": "Suppose you are designing a projectile motion system that takes into account both vertical and horizontal displacements. If you wish to minimize the time of flight for the projectile while maintaining a constant range, what variable would you change?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Decrease the launch angle and adjust the initial velocity to maintain the range.",
+        "Increase the launch angle to achieve greater vertical displacement.",
+        "Change the horizontal velocity to shorten time of flight.",
+        "Increase the initial velocity to reduce the time of flight."
+      ],
+      "answer": "A",
+      "explanation": "Decreasing launch angle reduces time of flight; adjusting initial velocity maintains range."
+    },
+    {
+      "id": 10,
+      "question": "Two seconds after projection, a projectile is moving at 30° above the horizontal; after one more second it is moving horizontally. The initial speed of the projectile is",
+      "image": null,
+      "passage": null,
+      "options": ["10√3 m/s", "20 m/s", "10 m/s", "20√3 m/s"],
+      "answer": "D",
+      "explanation": "From conditions, u sinθ = 30, u cosθ = 10√3 → u² = 900+300=1200 → u=20√3 m/s."
+    },
+    {
+      "id": 11,
+      "question": "A flywheel rotates with a uniform angular acceleration. Its angular velocity increases from 20π rad/s to 40π rad/s in 10 seconds. How many rotations did it undergo in this period?",
+      "image": null,
+      "passage": null,
+      "options": ["5", "100", "150", "2"],
+      "answer": "C",
+      "explanation": "α = (40π-20π)/10 = 2π rad/s². θ = ω₀t + ½αt² = 20π×10 + ½×2π×100 = 200π+100π=300π rad. Rotations = 300π/(2π)=150."
+    },
+    {
+      "id": 12,
+      "question": "The equation θ = ω₀t + ½αt² represents angular displacement of an object with initial angular velocity ω₀, undergoing uniform angular acceleration α. Which condition must be met for this equation to be valid?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The object must have a constant angular velocity throughout the motion.",
+        "The angular acceleration must remain constant during the motion.",
+        "The initial angular velocity must be zero at the start of the motion.",
+        "The motion must be linear rather than rotational."
+      ],
+      "answer": "B",
+      "explanation": "The equation is valid only for constant angular acceleration."
+    },
+    {
+      "id": 13,
+      "question": "A wheel having moment of inertia 2 kg·m² about its vertical axis rotates at 60 rpm. The magnitude of torque which can stop the wheel's rotation in one minute would be:",
+      "image": null,
+      "passage": null,
+      "options": ["π/12 Nm", "π/60 Nm", "π/4 Nm", "π/15 Nm"],
+      "answer": "D",
+      "explanation": "ω₀ = 60 rpm = 2π rad/s, t=60 s, α = -2π/60 = -π/30 rad/s². τ = Iα = 2×(π/30)=π/15 Nm."
+    },
+    {
+      "id": 14,
+      "question": "Two spherical objects, each with mass 5.0×10⁵ kg, are placed at a separation of 100 m from each other. What is the gravitational force between them? (G = 6.7×10⁻¹¹ Nm²/kg²)",
+      "image": null,
+      "passage": null,
+      "options": ["6.7×10⁻⁷ N", "3.0×10⁻⁴ N", "1.7×10⁻³ N", "2.0×10⁻¹ N"],
+      "answer": "C",
+      "explanation": "F = G m²/r² = 6.7e-11 × (2.5e11)/1e4 = 6.7×2.5×10⁻⁴ = 1.675×10⁻³ N ≈ 1.7×10⁻³ N."
+    },
+    {
+      "id": 15,
+      "question": "The figure shows the elliptical orbit of a planet m about the sun S. The shaded area SCD is twice the shaded area SAB. If t₁ is the time from C to D and t₂ from A to B, then:",
+      "image": "./images/2017_p3_q15.png",
+      "passage": null,
+      "options": ["t₁ = t₂", "t₁ = 2t₂", "t₁ = 4t₂", "t₂ > t₁"],
+      "answer": "B",
+      "explanation": "Kepler's second law: equal areas in equal times. Area ratio = time ratio, so t₁ = 2t₂."
+    },
+    {
+      "id": 16,
+      "question": "What does Newton's second law state when it is expressed in terms of momentum?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Force is the time rate of change of momentum.",
+        "Force is proportional to velocity.",
+        "Force is equal to the change in acceleration.",
+        "Force equals mass times velocity."
+      ],
+      "answer": "A",
+      "explanation": "F = dp/dt, force equals rate of change of momentum."
+    },
+    {
+      "id": 17,
+      "question": "A block of mass 50 kg slides over a horizontal distance of 4 m. If the coefficient of friction between their surface is 0.2, then work done against friction is:",
+      "image": null,
+      "passage": null,
+      "options": ["100 J", "400 J", "200 J", "150 J"],
+      "answer": "B",
+      "explanation": "W = μmgd = 0.2×50×10×4 = 400 J."
+    },
+    {
+      "id": 18,
+      "question": "Two objects, one with mass 4 kg and the other with mass 8 kg, are moving with the same speed in uniform circular motion on the same horizontal plane, but the radius for the 8 kg object is twice that of the 4 kg object. What is the ratio of centripetal force on the 8 kg object to that on the 4 kg object?",
+      "image": null,
+      "passage": null,
+      "options": ["1:2", "2:1", "1:4", "1:1"],
+      "answer": "D",
+      "explanation": "F = mv²/r. For m2=2m1, r2=2r1, v same ⇒ F2/F1 = (2m1)/(2r1) ÷ (m1/r1) = 1."
+    },
+    {
+      "id": 19,
+      "question": "Consider two objects: Object A mass 5 kg, Object B mass 10 kg. If both are subjected to the same applied force, which statement best evaluates the relationship between their accelerations?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Object A will have half the acceleration of Object B",
+        "Object A and Object B will have the same acceleration",
+        "Object A will have double the acceleration of Object B",
+        "The accelerations cannot be compared"
+      ],
+      "answer": "C",
+      "explanation": "a = F/m, so a_A/a_B = m_B/m_A = 10/5 = 2, so A has double acceleration."
+    },
+    {
+      "id": 20,
+      "question": "In the figure shown, two blocks A and B are connected with string through two frictionless massless movable pulleys. Coefficient of friction between block A and ground is 0.4, between wedge and block B is zero. Wedge is fixed and F=28 N. What is the tension in the string and acceleration of block A?",
+      "image": "./images/2017_p3_q20.png",
+      "passage": null,
+      "options": [
+        "20 N and 10 m/s²",
+        "15 N and 7.5 m/s²",
+        "15 N and 2.5 m/s²",
+        "18 N and 3 m/s²"
+      ],
+      "answer": "B",
+      "explanation": "From equilibrium and dynamics of the system, solving gives T=15 N and a=7.5 m/s²."
+    },
+    {
+      "id": 21,
+      "question": "Which statement accurately distinguishes conservative forces from non-conservative forces?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Conservative forces always lead to an increase in mechanical energy.",
+        "Non-conservative forces are path-dependent and can change mechanical energy.",
+        "Conservative forces are always attractive, while non-conservative forces are always repulsive.",
+        "Non-conservative forces never perform work on an object."
+      ],
+      "answer": "B",
+      "explanation": "Non-conservative forces depend on path and can change total mechanical energy."
+    },
+    {
+      "id": 22,
+      "question": "Which combination correctly describes the energy values at the topmost point of vertical oscillation in a spring-mass system shown?",
+      "image": "./images/2017_p3_q22.png",
+      "passage": null,
+      "options": [
+        "Kinetic energy is zero, gravitational potential energy is maximum, and elastic potential energy is minimum.",
+        "Kinetic energy is maximum, gravitational potential energy is zero, and elastic potential energy is maximum.",
+        "Kinetic energy is zero, gravitational potential energy is maximum, and elastic potential energy is maximum.",
+        "Kinetic energy is maximum, gravitational potential energy is maximum, and elastic potential energy is zero."
+      ],
+      "answer": "A",
+      "explanation": "At topmost point, velocity is zero (KE=0), height is maximum (GPE max), spring is least stretched (EPE min)."
+    },
+    {
+      "id": 23,
+      "question": "An object of mass 1.5 kg is acted upon by the force as shown in the figure that varies with position. If the object starts from rest at x=0, what is the speed at x=50 m?",
+      "image": "./images/2017_p3_q23.png",
+      "passage": null,
+      "options": ["20 m/s", "25 m/s", "15 m/s", "17 m/s"],
+      "answer": "A",
+      "explanation": "Work = area under F-x graph = change in KE. From the graph, area = 300 J, so ½×1.5×v²=300 ⇒ v²=400 ⇒ v=20 m/s."
+    },
+    {
+      "id": 24,
+      "question": "A system uses fixed pulley and movable pulley. If the load is 200 N and the effort force is 100 N and the efficiency is 80%, what is the velocity ratio (VR) of the system?",
+      "image": null,
+      "passage": null,
+      "options": ["2", "4", "3.5", "2.5"],
+      "answer": "D",
+      "explanation": "Efficiency = MA/VR, MA = Load/Effort = 2, so 0.8 = 2/VR ⇒ VR = 2/0.8 = 2.5."
+    },
+    {
+      "id": 25,
+      "question": "How would you evaluate the effect on the apparent weight of an object when it is immersed in a fluid, compared to its true weight in a vacuum?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The apparent weight will be greater than the true weight due to the buoyant force exerted by the fluid.",
+        "The apparent weight will be the same as the true weight because the fluid has no impact on the force of gravity.",
+        "The apparent weight will be less than the true weight due to the upward buoyant force exerted by the fluid.",
+        "The apparent weight will fluctuate depending on the depth of the fluid."
+      ],
+      "answer": "C",
+      "explanation": "Buoyant force reduces apparent weight."
+    },
+    {
+      "id": 26,
+      "question": "Two objects with different temperatures are placed in contact and, after some time, no more heat flows between them. What does this mean?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The cold object took all the heat",
+        "The objects have reached thermal equilibrium",
+        "The objects have different abilities to conduct heat",
+        "Heat is no longer necessary"
+      ],
+      "answer": "B",
+      "explanation": "Heat flow stops when temperatures equalize, i.e., thermal equilibrium."
+    },
+    {
+      "id": 27,
+      "question": "A student compares three substances P, Q, and R that undergo heating from solid to gas. Their heating curves show: P has the steepest slope in the solid phase; Q has the longest melting horizontal line; R has the shortest boiling horizontal line. Which conclusion can be drawn?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "P has the lowest specific heat capacity in the solid phase.",
+        "Q has the lowest latent heat of fusion.",
+        "R has the highest latent heat of vaporization.",
+        "P has the highest specific heat capacity in the solid phase."
+      ],
+      "answer": "A",
+      "explanation": "Steeper slope means smaller specific heat capacity (Q = mcΔT, slope ∝ 1/c)."
+    },
+    {
+      "id": 28,
+      "question": "A student uses 418 J of heat energy to increase the temperature of a 200 g sample of water. If the specific heat capacity of water is 4.18 J/g°C, by how many degrees Celsius will the temperature increase?",
+      "image": null,
+      "passage": null,
+      "options": ["2.0°C", "0.38°C", "1.5°C", "0.5°C"],
+      "answer": "D",
+      "explanation": "ΔT = Q/(mc) = 418/(200×4.18) = 418/836 = 0.5°C."
+    },
+    {
+      "id": 29,
+      "question": "A group of students want to calculate how much energy is required to melt 100 grams of ice at 0°C without changing its temperature. Which concept must they use?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Specific heat capacity of ice",
+        "Thermal conductivity of water",
+        "Latent heat of fusion of ice",
+        "Latent heat of vaporization of water"
+      ],
+      "answer": "C",
+      "explanation": "Melting requires latent heat of fusion."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a key difference between mechanical and electromagnetic waves?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Mechanical waves can travel in a vacuum, but electromagnetic waves cannot.",
+        "Electromagnetic waves require a medium to travel, whereas mechanical waves do not.",
+        "Mechanical waves require a medium to travel, while electromagnetic waves do not.",
+        "Electromagnetic waves are always longitudinal, while mechanical waves are transverse."
+      ],
+      "answer": "C",
+      "explanation": "Mechanical waves need a medium; electromagnetic waves do not."
+    },
+    {
+      "id": 31,
+      "question": "An object is placed 4 cm in front of a concave mirror. The center of curvature of the mirror is located 40 cm from the pole. What is the distance between the object and the image formed?",
+      "image": "./images/2017_p3_q31.png",
+      "passage": null,
+      "options": ["9 cm", "1 cm", "24 cm", "8 cm"],
+      "answer": "A",
+      "explanation": "f = R/2 = 20 cm. Mirror equation: 1/f = 1/do + 1/di → 1/20 = 1/4 + 1/di → 1/di = 0.05 - 0.25 = -0.2 → di = -5 cm. Distance = |do| + |di| = 4+5=9 cm."
+    },
+    {
+      "id": 32,
+      "question": "A light passes from lead glass (refractive index n₁=1.65) into air (n₂=1.00). What is the critical angle for the light ray at the glass-air interface?",
+      "image": null,
+      "passage": null,
+      "options": ["53°", "30°", "37°", "45°"],
+      "answer": "C",
+      "explanation": "θc = arcsin(n₂/n₁) = arcsin(1/1.65) ≈ arcsin(0.606) ≈ 37°."
+    },
+    {
+      "id": 33,
+      "question": "Which phenomenon occurs when two waves meet and combine to form a wave with larger amplitude?",
+      "image": null,
+      "passage": null,
+      "options": ["Diffraction", "Interference", "Refraction", "Reflection"],
+      "answer": "B",
+      "explanation": "Constructive interference increases amplitude."
+    },
+    {
+      "id": 34,
+      "question": "Three charges are located along a straight line, as in figure below. What is the magnitude of net electrostatic force on the +5 μC charge?",
+      "image": "./images/2017_p3_q34.png",
+      "passage": null,
+      "options": ["0.14 N", "1.50 N", "1.64 N", "1.36 N"],
+      "answer": "D",
+      "explanation": "From the diagram and Coulomb's law, vector sum gives net force 1.36 N."
+    },
+    {
+      "id": 35,
+      "question": "A designer wants to maximize the total capacitance using three 10 μF capacitors. Which combination should they choose, and why?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "All in parallel, because it gives the maximum total capacitance.",
+        "All in series, because it gives the highest voltage rating.",
+        "One in series with two in parallel, because it balances both voltage and capacitance.",
+        "It doesn't matter; all combinations give the same result."
+      ],
+      "answer": "A",
+      "explanation": "Parallel combination adds capacitances: 10+10+10=30 μF, the maximum."
+    },
+    {
+      "id": 36,
+      "question": "Two wires A and B are made of the same material. Wire A has twice the length and half the diameter of wire B. What is the ratio R_A / R_B of their resistances?",
+      "image": null,
+      "passage": null,
+      "options": ["1", "8", "4", "16"],
+      "answer": "B",
+      "explanation": "R = ρL/A, A ∝ d². For A: L_A=2L_B, d_A=0.5d_B → A_A = (0.25)A_B. So R_A/R_B = (2)/(0.25) = 8."
+    },
+    {
+      "id": 37,
+      "question": "In the circuit shown below, what is the value of the unknown resistor R and current through 5R respectively, so that the total resistance of the circuit is equal to 6 Ω?",
+      "image": "./images/2017_p3_q37.png",
+      "passage": null,
+      "options": [
+        "6 Ω and 8 A",
+        "6 Ω and 2 A",
+        "3 Ω and 8/11 A",
+        "3 Ω and 5/11 A"
+      ],
+      "answer": "C",
+      "explanation": "Solving the circuit gives R=3 Ω and current through 5R = 8/11 A."
+    },
+    {
+      "id": 38,
+      "question": "A student says: \"If the current flows upward in a vertical wire, the magnetic field lines will form clockwise circles around the wire.\" What is wrong with this statement?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Magnetic field lines do not form circles.",
+        "The direction of the field is counterclockwise, not clockwise.",
+        "Magnetic fields do not exist around straight wires.",
+        "The current direction should be downward for counterclockwise fields."
+      ],
+      "answer": "B",
+      "explanation": "Right-hand rule: upward current gives counterclockwise field circles."
+    },
+    {
+      "id": 39,
+      "question": "You are conducting an experiment to demonstrate the force on a current-carrying conductor in a magnetic field. Which new setup will most effectively demonstrate the force?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Use stronger magnetic field and lower the current.",
+        "Use a weaker magnetic field and increase the length of conductor.",
+        "Use stronger magnetic field, increase current, and keep wire perpendicular to field.",
+        "Keep current constant and place wire at 45° to the field."
+      ],
+      "answer": "C",
+      "explanation": "Force F = BIL sinθ, maximum when B, I, L are large and θ=90°."
+    },
+    {
+      "id": 40,
+      "question": "A square of side L meters lies in the xy-plane in a region where the magnetic field is given by B = B₀(2i + 3j + 4k) T. The magnitude of flux passing through the square will be:",
+      "image": null,
+      "passage": null,
+      "options": ["2B₀L² Wb", "3B₀L² Wb", "4B₀L² Wb", "4B₀L Wb"],
+      "answer": "C",
+      "explanation": "Flux = B·A, with A = L² k. B·k = 4B₀, so flux = 4B₀L² Wb."
+    },
+    {
+      "id": 41,
+      "question": "What happens if a permanent magnet is cut into two pieces?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The two pieces lose their magnetic properties.",
+        "One piece becomes north pole, the other becomes a south pole.",
+        "Each piece becomes a new magnet with a north and a south pole.",
+        "The magnet retains only its north pole."
+      ],
+      "answer": "C",
+      "explanation": "Each piece becomes a complete magnet with both poles."
+    },
+    {
+      "id": 42,
+      "question": "A current of 3 A flows through a long straight wire. At a distance 0.2 m from the wire, the magnetic field is 4×10⁻⁷ T. What is the magnetic field at a distance of 0.4 m?",
+      "image": null,
+      "passage": null,
+      "options": ["2×10⁻⁷ T", "4×10⁻⁷ T", "8×10⁻⁷ T", "1×10⁻⁷ T"],
+      "answer": "A",
+      "explanation": "B ∝ 1/r, so B₂ = B₁×(r₁/r₂) = 4e-7×(0.2/0.4)=2×10⁻⁷ T."
+    },
+    {
+      "id": 43,
+      "question": "A coil with 200 turns has an area of 0.3 m². The magnetic field strength is 0.8 T. Initially, the field makes an angle of 60° with respect to the normal of the coil's plane. After 5 seconds, the coil is rotated to 90°. What is the induced electromotive force?",
+      "image": null,
+      "passage": null,
+      "options": ["4.8 V", "3.0 V", "2.4 V", "1.6 V"],
+      "answer": "A",
+      "explanation": "ΔΦ = NBA(cos90° - cos60°) = 200×0.8×0.3×(0 - 0.5) = -24 Wb. emf = |ΔΦ/Δt| = 24/5 = 4.8 V."
+    },
+    {
+      "id": 44,
+      "question": "An ideal transformer has a primary coil with 600 turns and a secondary coil with 150 turns. If the primary voltage is 240 V and secondary current is 10 A, what is the primary current?",
+      "image": null,
+      "passage": null,
+      "options": ["1.5 A", "4.0 A", "3.0 A", "2.5 A"],
+      "answer": "D",
+      "explanation": "Vp/Vs = Np/Ns = 4 ⇒ Vs = 60 V. Power in = power out: IpVp = IsVs ⇒ Ip = (10×60)/240 = 2.5 A."
+    },
+    {
+      "id": 45,
+      "question": "Which of the following phenomena is best explained by Newtonian mechanics in Astronomy?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The Moon revolves around the Earth",
+        "The Sun's light bends when passing near another star",
+        "Galaxies are moving away from each other",
+        "A star becomes a black hole after it dies"
+      ],
+      "answer": "A",
+      "explanation": "Newton's law of gravitation explains planetary and lunar orbits."
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is a branch of Earth science that focuses on the study of solid and liquid matter of the Earth?",
+      "image": null,
+      "passage": null,
+      "options": ["Astronomy", "Geology", "Meteorology", "Oceanography"],
+      "answer": "B",
+      "explanation": "Geology studies Earth's solid and liquid material."
+    },
+    {
+      "id": 47,
+      "question": "A company wants to improve the efficiency of its electrical power transmission system. Which branch of physics should electrical engineers apply to reduce energy loss?",
+      "image": null,
+      "passage": null,
+      "options": ["Thermodynamics", "Electricals", "Nuclear physics", "Electromagnetism"],
+      "answer": "D",
+      "explanation": "Electromagnetism covers AC transmission, transformers, and power factor correction."
+    },
+    {
+      "id": 48,
+      "question": "When holding a pencil between your fingers and applying force, why does a finger on the sharper side feel more pain than the other?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "The pencil is heavier on the flat side",
+        "The pressure is greater on the sharper side",
+        "The pressure on both fingers is equal",
+        "The pressure is lower on the finger that feels pain"
+      ],
+      "answer": "B",
+      "explanation": "Smaller contact area produces higher pressure for the same force."
+    },
+    {
+      "id": 49,
+      "question": "A diver in fresh water experiences a pressure of 600 kPa. If they move up by 10 m, what will be the new pressure? (atmospheric pressure = 100 kPa, g=10 m/s², ρ=1000 kg/m³)",
+      "image": null,
+      "passage": null,
+      "options": ["500 kPa", "520 kPa", "540 kPa", "550 kPa"],
+      "answer": "A",
+      "explanation": "Initial total pressure = 600 kPa, so gauge pressure = 500 kPa, depth = 50 m. After moving up 10 m, depth=40 m, gauge=400 kPa, total=500 kPa."
+    },
+    {
+      "id": 50,
+      "question": "Two hydraulic presses A and B have identical fluid and input forces, but press A has a larger output piston area than press B. Which is true about the force they produce?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Press B produces a larger output force than press A",
+        "Both presses produce the same output",
+        "Press A produces a larger output force than press B",
+        "Output force depends only on input force, not piston area"
+      ],
+      "answer": "C",
+      "explanation": "F_out = (A_out/A_in) F_in, larger area gives larger force."
+    },
+    {
+      "id": 51,
+      "question": "A team of engineers is building a cargo ship. They need to ensure the ship remains floating even when fully loaded. What is the best design change they could make?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Increase the ship's height to make it more visible.",
+        "Increase the surface area of the ship's bottom to displace more water.",
+        "Use denser materials in the ship's construction to make it more stable.",
+        "Reduce the ship's total volume to make it more compact."
+      ],
+      "answer": "B",
+      "explanation": "Increasing bottom area increases displaced water volume, increasing buoyant force."
+    },
+    {
+      "id": 52,
+      "question": "A metal block weighs 50 N in air and 42 N when fully submerged in water. What is the density of the metal? (g=10 m/s², ρ_water=1000 kg/m³)",
+      "image": null,
+      "passage": null,
+      "options": ["5000 kg/m³", "2000 kg/m³", "2500 kg/m³", "6250 kg/m³"],
+      "answer": "D",
+      "explanation": "Buoyant force = 8 N = ρ_w V g → V = 8/(1000×10)=0.0008 m³. Mass = 50/10=5 kg. Density = 5/0.0008 = 6250 kg/m³."
+    },
+    {
+      "id": 53,
+      "question": "An airplane wing is designed so that air moves faster over the top surface than below. If the speed over the top is 200 m/s and under the wing is 150 m/s, which is true?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Pressure above the wing is greater than below.",
+        "Pressure below the wing is greater than above.",
+        "Pressure is equal on both sides.",
+        "Bernoulli's principle does not apply here."
+      ],
+      "answer": "B",
+      "explanation": "Bernoulli: faster flow, lower pressure; so pressure below is greater, creating lift."
+    },
+    {
+      "id": 54,
+      "question": "Which one of the following is a safety measure when using a gas cylinder?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Use the gas cylinder for long hours",
+        "Store the gas cylinder in a warm area",
+        "Keep the gas cylinder in a vertical position",
+        "Keep the gas knob open all the times"
+      ],
+      "answer": "C",
+      "explanation": "Gas cylinders should be kept upright to prevent leaks and ensure safety."
+    },
+    {
+      "id": 55,
+      "question": "How does electrical conductivity of a P-type semiconductor differ from that of N-type semiconductor?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "P-type conducts via electron flow, N-type via hole movement.",
+        "Both conduct through free electrons, but N-type have more.",
+        "P-type semiconductors do not conduct electricity under normal conditions.",
+        "N-type conducts via electron flow, P-type via hole movement."
+      ],
+      "answer": "D",
+      "explanation": "In N-type, electrons are majority carriers; in P-type, holes are majority carriers."
+    },
+    {
+      "id": 56,
+      "question": "What happens to the potential barrier of a P-N junction diode under forward bias?",
+      "image": null,
+      "passage": null,
+      "options": ["It increases", "It decreases", "It remains constant", "It becomes infinite"],
+      "answer": "B",
+      "explanation": "Forward bias reduces the potential barrier, allowing current to flow."
+    },
+    {
+      "id": 57,
+      "question": "Designing a power supply for a sensitive audio amplifier requires smoothed signal in the DC output. Which rectifier configuration would be most appropriate, and what additional component would you incorporate?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Half-wave rectifier with a resistor",
+        "Full-wave rectifier with an ammeter",
+        "Full-wave rectifier with a capacitor",
+        "Half-wave rectifier with an inductor"
+      ],
+      "answer": "C",
+      "explanation": "Full-wave rectifier with a capacitor filter provides smooth DC output."
+    },
+    {
+      "id": 58,
+      "question": "A transistor with a common-emitter current gain of 100 has a collector current of 10 mA. What is the base current?",
+      "image": null,
+      "passage": null,
+      "options": ["10 μA", "0.1 μA", "1 μA", "100 μA"],
+      "answer": "D",
+      "explanation": "I_B = I_C / β = 10 mA / 100 = 0.1 mA = 100 μA."
+    },
+    {
+      "id": 59,
+      "question": "Which of the following is a typical advantage of integrated circuits?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Capability to withstand very high voltage",
+        "Large physical size for better handling",
+        "Ability to operate at high speed",
+        "High individual component replacement ease"
+      ],
+      "answer": "C",
+      "explanation": "ICs operate at high speeds due to small distances and low capacitance."
+    },
+    {
+      "id": 60,
+      "question": "Logic gates X and Y have the truth tables shown. When the output of X is connected to the input of Y, the resulting combination is equivalent to a single:",
+      "image": "./images/2017_p3_q60.png",
+      "passage": null,
+      "options": ["NOT gate", "NOR gate", "NAND gate", "AND gate"],
+      "answer": "C",
+      "explanation": "From the given truth tables, the combination produces a NAND gate."
+    }
+  ]
+}

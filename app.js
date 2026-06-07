@@ -33,6 +33,20 @@
   const $ = (sel) => document.querySelector(sel);
   const $$ = (sel) => document.querySelectorAll(sel);
 
+  // Helper to resolve absolute image paths dynamically for subpath deployments
+  function resolveImagePath(imagePath) {
+    if (!imagePath || !currentSubject) return '';
+    if (imagePath.startsWith('http')) return imagePath;
+
+    // Remove leading ./ if present
+    const cleanPath = imagePath.startsWith('./') ? imagePath.slice(2) : imagePath;
+
+    // Get base URL (current directory of index.html)
+    const baseUrl = window.location.origin + window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1);
+
+    return `${baseUrl}data/${currentSubject.id}/${cleanPath}`;
+  }
+
   const screens = {
     home:     $('#screen-home'),
     subjects: $('#screen-subjects'),
@@ -281,7 +295,7 @@
     // Image
     const img = $('#question-image');
     if (q.image) {
-      img.src = q.image;
+      img.src = resolveImagePath(q.image);
       img.classList.remove('hidden');
     } else {
       img.classList.add('hidden');
@@ -541,7 +555,7 @@
 
       let imageHtml = '';
       if (q.image) {
-        imageHtml = `<img class="review-q-image" src="${q.image}" alt="Question diagram" />`;
+        imageHtml = `<img class="review-q-image" src="${resolveImagePath(q.image)}" alt="Question diagram" />`;
       }
 
       let explanationHtml = '';

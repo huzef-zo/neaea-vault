@@ -313,11 +313,15 @@
       card.dataset.index = i;
       card.innerHTML = `
         <span class="option-letter">${letters[i]}</span>
-        <span class="option-text">${opt}</span>
+        <span class="option-text"></span>
       `;
+      card.querySelector('.option-text').textContent = opt;
       card.addEventListener('click', () => handleAnswer(i));
       grid.appendChild(card);
     });
+
+    // Render Math
+    renderMath($('#question-area'));
 
     // Hide explanation & next
     $('#explanation-box').classList.add('hidden');
@@ -357,6 +361,7 @@
     if (q.explanation) {
       $('#explanation-text').textContent = q.explanation;
       $('#explanation-box').classList.remove('hidden');
+      renderMath($('#explanation-box'));
     }
 
     // Show next button
@@ -426,6 +431,7 @@
           const isLast = currentQuestionIndex >= currentPaperData.questions.length - 1;
           nextBtn.textContent = isLast ? 'See Results' : 'Next Question';
           nextBtn.classList.remove('hidden');
+          renderMath($('#explanation-box'));
 
           showToast('Time\'s up!');
         }
@@ -568,14 +574,16 @@
           <span class="review-q-number">Question ${i + 1}</span>
           <span class="review-q-status ${isCorrect ? 'correct' : 'wrong'}">${isCorrect ? 'Correct' : 'Wrong'}</span>
         </div>
-        <p class="review-q-text">${q.question}</p>
+        <p class="review-q-text"></p>
         ${imageHtml}
         ${answersHtml}
         ${explanationHtml}
       `;
+      item.querySelector('.review-q-text').textContent = q.question;
 
       list.appendChild(item);
     });
+    renderMath(list);
   }
 
   // ─── Toast ───

@@ -8,7 +8,12 @@
       "question": "After rationalizing the denominator of 5/(3√3 - 2√2), the denominator is equal to ______.",
       "image": null,
       "passage": null,
-      "options": ["35", "5(3√3-2√2)/19", "19", "5(3√3+2√2)/19"],
+      "options": [
+        "35",
+        "5(3√3-2√2)/19",
+        "19",
+        "5(3√3+2√2)/19"
+      ],
       "answer": "C",
       "explanation": "Multiply numerator and denominator by (3√3+2√2): denominator becomes (3√3)² - (2√2)² = 27 - 8 = 19."
     },
@@ -17,7 +22,12 @@
       "question": "The solution set of the equation 5|2x-1| - 3|4x+5| = 2 is equal to:",
       "image": null,
       "passage": null,
-      "options": ["{6/11}", "{-11, -9, -6/11}", "{}", "{-9, -6/11}"],
+      "options": [
+        "{6/11}",
+        "{-11, -9, -6/11}",
+        "{}",
+        "{-9, -6/11}"
+      ],
       "answer": "D",
       "explanation": "Solve by cases. For x < -5/4: |2x-1| = -(2x-1), |4x+5| = -(4x+5) → 5(-2x+1) - 3(-4x-5)=2 → -10x+5+12x+15=2 → 2x+20=2 → 2x=-18 → x=-9 (valid since -9 < -1.25). For -5/4 ≤ x < 1/2: |2x-1| = -(2x-1), |4x+5| = 4x+5 → 5(-2x+1)-3(4x+5)=2 → -10x+5-12x-15=2 → -22x-10=2 → -22x=12 → x=-6/11 (valid in interval). For x ≥ 1/2: both positive: 5(2x-1)-3(4x+5)=2 → 10x-5-12x-15=2 → -2x-20=2 → -2x=22 → x=-11 (not ≥1/2). So solutions: -9 and -6/11."
     },
@@ -26,7 +36,12 @@
       "question": "In a survey of 600 students, 250 drink tea, 225 drink coffee, 75 drink both. How many drink neither?",
       "image": null,
       "passage": null,
-      "options": ["400", "550", "200", "125"],
+      "options": [
+        "400",
+        "550",
+        "200",
+        "125"
+      ],
       "answer": "C",
       "explanation": "n(T∪C)=250+225-75=400. Neither = 600-400=200."
     },
@@ -49,7 +64,12 @@
       "question": "ΔABC and ΔDEF are similar. Area of ΔABC = 12 m². DE is twice AB. Area of ΔDEF?",
       "image": null,
       "passage": null,
-      "options": ["6 m²", "48 m²", "36 m²", "24 m²"],
+      "options": [
+        "6 m²",
+        "48 m²",
+        "36 m²",
+        "24 m²"
+      ],
       "answer": "B",
       "explanation": "Ratio of areas = square of linear ratio. DE/AB = 2, so area ratio = 4. Area DEF = 12*4 = 48 m²."
     },
@@ -72,7 +92,12 @@
       "question": "Range of f(x) = (x+2)/(x-2) ?",
       "image": null,
       "passage": null,
-      "options": ["ℝ\\{2}", "ℝ\\{-2}", "ℝ\\{-1}", "ℝ\\{1}"],
+      "options": [
+        "ℝ\\{2}",
+        "ℝ\\{-2}",
+        "ℝ\\{-1}",
+        "ℝ\\{1}"
+      ],
       "answer": "D",
       "explanation": "Solve y = (x+2)/(x-2) → y(x-2)=x+2 → yx-2y=x+2 → yx-x=2+2y → x(y-1)=2(y+1) → x = 2(y+1)/(y-1). y cannot be 1. So range = ℝ\\{1}."
     },
@@ -81,7 +106,12 @@
       "question": "Firm A offers starting salary 5000 Birr with raise of 600 per year. Total earned over first 20 years?",
       "image": null,
       "passage": null,
-      "options": ["214,000", "16,400", "264,000", "216,000"],
+      "options": [
+        "214,000",
+        "16,400",
+        "264,000",
+        "216,000"
+      ],
       "answer": "D",
       "explanation": "Arithmetic sequence: first term 5000, common difference 600, n=20. Sum = 20/2*(2*5000 + 19*600) = 10*(10000+11400)=10*21400=214,000. So answer A? Wait 214,000 is option A. But D is 216,000. Check: 2*5000=10000, 19*600=11400, sum=21400, times 10 = 214,000. Yes A."
     },
@@ -90,7 +120,12 @@
       "question": "Arithmetic sequence: first term 10, tenth term -26. Find a101.",
       "image": null,
       "passage": null,
-      "options": ["420", "380", "-410", "-390"],
+      "options": [
+        "420",
+        "380",
+        "-410",
+        "-390"
+      ],
       "answer": "C",
       "explanation": "a10 = 10+9d = -26 → 9d = -36 → d = -4. a101 = 10+100*(-4)=10-400=-390. Answer D."
     },
@@ -99,7 +134,12 @@
       "question": "Area enclosed by f(x)=1-x² and x-axis from x=0 to x=2.",
       "image": null,
       "passage": null,
-      "options": ["3", "2", "2/3", "4/3"],
+      "options": [
+        "3",
+        "2",
+        "2/3",
+        "4/3"
+      ],
       "answer": "D",
       "explanation": "∫₀¹ (1-x²)dx = [x - x³/3]₀¹ = 1-1/3=2/3. From 1 to 2, function negative, area = ∫₁² (x²-1)dx = [x³/3 - x]₁² = (8/3-2)-(1/3-1)= (8/3-6/3) - (1/3-3/3)= (2/3) - (-2/3)=4/3. Total = 2/3+4/3=2? Wait 2/3+4/3=6/3=2. So answer B? But option B is 2, D is 4/3. Actually total area = 2. So answer B."
     },
@@ -108,7 +148,12 @@
       "question": "Constant term in expansion of (x - 2/x²)^6.",
       "image": null,
       "passage": null,
-      "options": ["-160", "-60", "60", "240"],
+      "options": [
+        "-160",
+        "-60",
+        "60",
+        "240"
+      ],
       "answer": "A",
       "explanation": "General term: C(6,k) x^(6-k) * (-2/x²)^k = C(6,k) (-2)^k x^(6-3k). Constant when 6-3k=0 → k=2. Term = C(6,2)(-2)^2 = 15*4=60. But sign? (-2)^2=4 positive, so +60. Answer C? However check: x^(6-3*2)=x^0, term = 15 * 4 = 60. So answer C."
     },
@@ -117,7 +162,12 @@
       "question": "Square ABCD inscribed in circle radius 4 cm. Area of segment cut off by chords AB, BC, CD, AD?",
       "image": null,
       "passage": null,
-      "options": ["16(π+2)", "16(π-2)", "16(π+1)", "16(π+1)"],
+      "options": [
+        "16(π+2)",
+        "16(π-2)",
+        "16(π+1)",
+        "16(π+1)"
+      ],
       "answer": "B",
       "explanation": "Area of circle = π*16=16π. Area of square = (side)². Diagonal = 8, side = 8/√2=4√2, area = 32. Area of four segments = circle - square = 16π - 32 = 16(π-2)."
     },
@@ -140,16 +190,26 @@
       "question": "Frequency distribution: class 3-7(4), 8-12(11), 13-17(10), 18-22(5). Mean?",
       "image": null,
       "passage": null,
-      "options": ["14", "7", "15", "28"],
+      "options": [
+        "14",
+        "7",
+        "15",
+        "28"
+      ],
       "answer": "A",
-      "explanation": "Midpoints: 5,10,15,20. Sum = 5*4=20, 10*11=110, 15*10=150, 20*5=100, total=380. Total freq=4+11+10+5=30. Mean=380/30≈12.67, not matching. Actually 380/30=12.666, none. Perhaps midpoints: 5,10,15,20 gives 380/30=12.67. But option A is 14. Maybe class boundaries? 3-7: midpoint 5, but might be 5? No. Recalculate: 3-7 = 3,4,5,6,7 average 5; 8-12 avg 10; 13-17 avg 15; 18-22 avg 20. Yes 380/30=12.67. Possibly they used different class marks? If 0-4? No. I'll assume typo and answer 14? Not. Given options, maybe answer is 14? Let's check if frequencies are 4,11,10,5 sum 30, sum fx= (5*4=20)+(10*11=110)+(15*10=150)+(20*5=100)=380, mean=12.67, not listed. Perhaps the classes are 3-7,8-12,13-17,18-22 but frequencies are 4,11,10,5, then maybe they want median? Median class 13-17? Not. I'll compute again: 380/30=12.666... No option. Could be that the first class is 3-7 but midpoint 5, but if they use 5,10,15,20 correctly. Possibly misprint: option A 14, B 7, C 15, D 28. 15 is close to 12.67? No. I'll go with 14 as estimate. But given typical answer, I'll choose 14? Let's see: If frequencies were 4,11,10,5 and we want mean =14, then total sum would be 14*30=420, but we have 380, short by 40. So maybe one class midpoint is off. I think the intended answer is 15? No. I'll check the PDF: The class intervals: 3-7, 8-12, 13-17, 18-22. Midpoints 5,10,15,20. Sum 380, mean 12.67. None. Possibly the frequencies are 4,11,10,5 but the last class is 18-22, midpoint 20, ok. I'll assume the answer is 15 (C) as a common mistake? No. Given the time, I'll compute correctly: 380/30=12.666, round to 13, not there. I'll choose C 15? No. Actually 380/30=12.67, closest is 14? Not. I'll check if total frequency is 30, sum 380, mean 12.67. Perhaps they used 3-7 midpoint 5, but maybe they used 4-8? No. I'll re-read: "Class interval 3-7 8-12 13-17 18-22 Frequency 4 11 10 5". Maybe the midpoints are 5,10,15,20. No option. Could be that the mean is 14 if the frequencies were different. I'll skip and assume answer A 14 as per typical exam keys."
+      "explanation": "Midpoints: 5,10,15,20. Sum = 5*4=20, 10*11=110, 15*10=150, 20*5=100, total=380. Total freq=4+11+10+5=30. Mean=380/30≈12.67, not matching. Actually 380/30=12.666, none. Perhaps midpoints: 5,10,15,20 gives 380/30=12.67. But option A is 14. Maybe class boundaries? 3-7: midpoint 5, but might be 5? No. Recalculate: 3-7 = 3,4,5,6,7 average 5; 8-12 avg 10; 13-17 avg 15; 18-22 avg 20. Yes 380/30=12.67. Possibly they used different class marks? If 0-4? No. I'll assume typo and answer 14? Not. Given options, maybe answer is 14? Let's check if frequencies are 4,11,10,5 sum 30, sum fx= (5*4=20)+(10*11=110)+(15*10=150)+(20*5=100)=380, mean=12.67, not listed. Perhaps the classes are 3-7,8-12,13-17,18-22 but frequencies are 4,11,10,5, then maybe they want median? Median class 13-17? Not. I'll compute again: 380/30=12.666... No option. Could be that the first class is 3-7 but midpoint 5, but if they use 5,10,15,20 correctly. Possibly misprint: option A 14, B 7, C 15, D 28. 15 is close to 12.67? No. I'll go with 14 as estimate. But given typical answer, I'll choose 14? Let's see: If frequencies were 4,11,10,5 and we want mean =14, then total sum would be 14*30=420, but we have 380, short by 40. So maybe one class midpoint is off. I think the intended answer is 15? No. I'll check the PDF: The class intervals: 3-7, 8-12, 13-17, 18-22. Midpoints 5,10,15,20. Sum 380, mean 12.67. None. Possibly the frequencies are 4,11,10,5 but the last class is 18-22, midpoint 20, ok. I'll assume the answer is 15 (C) as a common mistake? No. Given the time, I'll compute correctly: 380/30=12.666, round to 13, not there. I'll choose C 15? No. Actually 380/30=12.67, closest is 14? Not. I'll check if total frequency is 30, sum 380, mean 12.67. Perhaps they used 3-7 midpoint 5, but maybe they used 4-8? No. I'll re-read: \"Class interval 3-7 8-12 13-17 18-22 Frequency 4 11 10 5\". Maybe the midpoints are 5,10,15,20. No option. Could be that the mean is 14 if the frequencies were different. I'll skip and assume answer A 14 as per typical exam keys."
     },
     {
       "id": 15,
       "question": "P(-2,5) and Q(8,-1). Q is midpoint of PR. Find R.",
       "image": null,
       "passage": null,
-      "options": ["(-7,18)", "(14,3)", "(18,-7)", "(3,2)"],
+      "options": [
+        "(-7,18)",
+        "(14,3)",
+        "(18,-7)",
+        "(3,2)"
+      ],
       "answer": "C",
       "explanation": "Midpoint formula: ((-2+xR)/2, (5+yR)/2) = (8,-1). So -2+xR=16 → xR=18; 5+yR=-2 → yR=-7. So R(18,-7)."
     },
@@ -158,7 +218,12 @@
       "question": "Mr. Soresa divided 40,000 for three workers in ratio 1/2 : 3/10 : 1/5. Find C's share.",
       "image": null,
       "passage": null,
-      "options": ["20,000", "8,000", "12,000", "13,333.33"],
+      "options": [
+        "20,000",
+        "8,000",
+        "12,000",
+        "13,333.33"
+      ],
       "answer": "B",
       "explanation": "Ratios: 1/2 = 0.5, 3/10=0.3, 1/5=0.2. Sum = 1. So C's share = (0.2/1)*40000 = 8000."
     },
@@ -167,7 +232,12 @@
       "question": "Solution set of log₂(x+2)+log₂(x-1)=2.",
       "image": null,
       "passage": null,
-      "options": ["{-3}", "{-3,2}", "{}", "{2}"],
+      "options": [
+        "{-3}",
+        "{-3,2}",
+        "{}",
+        "{2}"
+      ],
       "answer": "D",
       "explanation": "Combine: log₂((x+2)(x-1))=2 → (x+2)(x-1)=4 → x²+x-2=4 → x²+x-6=0 → (x+3)(x-2)=0 → x=-3 or 2. Domain: x+2>0 and x-1>0 → x>1. So only x=2."
     },
@@ -176,7 +246,12 @@
       "question": "If cos θ = -3/5 and tan θ < 0, which is true?",
       "image": null,
       "passage": null,
-      "options": ["sin θ = -4/5", "cot θ = -4/3", "csc θ = 5/4", "tan θ = 4/3"],
+      "options": [
+        "sin θ = -4/5",
+        "cot θ = -4/3",
+        "csc θ = 5/4",
+        "tan θ = 4/3"
+      ],
       "answer": "A",
       "explanation": "cos negative, tan negative → sin positive (since tan=sin/cos). sin = ±√(1-9/25)=±4/5, positive so sin=4/5. Then csc=5/4. So A says sin=-4/5 false, B cot = cos/sin = (-3/5)/(4/5)=-3/4, false, C csc=5/4 true, D tan = -4/3 false. So C is true."
     },
@@ -185,7 +260,12 @@
       "question": "Volume of frustum of pyramid with base areas 81 cm² and 121 cm², altitude 6 cm.",
       "image": null,
       "passage": null,
-      "options": ["602π", "602", "301", "903π"],
+      "options": [
+        "602π",
+        "602",
+        "301",
+        "903π"
+      ],
       "answer": "B",
       "explanation": "Volume of frustum = (h/3)(A1 + A2 + √(A1A2)) = (6/3)(81+121+√(9801)) = 2*(202+99)=2*301=602 cm³."
     },
@@ -194,7 +274,12 @@
       "question": "Simplify (x²-4)/(x²+3x-10) ÷ (x²+5x+6)/(x²+8x+15).",
       "image": null,
       "passage": null,
-      "options": ["(x+2)/(x+5)", "((x+2)/(x+5))²", "(x-2)/(x+3)", "none"],
+      "options": [
+        "(x+2)/(x+5)",
+        "((x+2)/(x+5))²",
+        "(x-2)/(x+3)",
+        "none"
+      ],
       "answer": "B",
       "explanation": "Factor: (x-2)(x+2)/[(x+5)(x-2)] ÷ [(x+2)(x+3)]/[(x+3)(x+5)] = (x+2)/(x+5) ÷ (x+2)/(x+5) = 1? Wait compute: First fraction = (x+2)/(x+5). Second fraction = (x+2)/(x+5). Division gives 1. Not in options. Let me re-calc: Numerator first: x²-4=(x-2)(x+2). Denominator: x²+3x-10=(x+5)(x-2). So first = (x+2)/(x+5). Second: x²+5x+6=(x+2)(x+3), denominator: x²+8x+15=(x+3)(x+5), so second = (x+2)/(x+5). Then division gives 1. But option B is ((x+2)/(x+5))², which is not 1. Possibly the division is in reverse? If it were multiplication, then product = ((x+2)/(x+5))². Given the options, likely the intended operation is multiplication, not division. So answer B."
     },
@@ -203,7 +288,12 @@
       "question": "If f(x) = (π²+1)⁴, then f'(x) = ?",
       "image": null,
       "passage": null,
-      "options": ["0", "8π(π²+1)³", "4(π²+1)³", "8(π²+1)³"],
+      "options": [
+        "0",
+        "8π(π²+1)³",
+        "4(π²+1)³",
+        "8(π²+1)³"
+      ],
       "answer": "A",
       "explanation": "f(x) is constant, derivative = 0."
     },
@@ -268,7 +358,12 @@
       "question": "Which vector is orthogonal to u = (-4,6)?",
       "image": null,
       "passage": null,
-      "options": ["(-3,2)", "(-1,-1)", "(3,-2)", "(-3,-2)"],
+      "options": [
+        "(-3,2)",
+        "(-1,-1)",
+        "(3,-2)",
+        "(-3,-2)"
+      ],
       "answer": "C",
       "explanation": "Dot product =0. (-4,6)·(3,-2)= -12-12=-24, not 0. (-4,6)·(-3,2)=12+12=24. (-4,6)·(-1,-1)=4-6=-2. (-4,6)·(-3,-2)=12-12=0. So D works. But D is (-3,-2). Option C is (3,-2) gives -12-12=-24. So D is correct. But option D is listed as (-3,-2). Yes."
     },
@@ -291,7 +386,12 @@
       "question": "Balloon inflated at 900 cm³/s. Rate of radius increase when radius=15 cm.",
       "image": null,
       "passage": null,
-      "options": ["π cm/s", "1 cm/s", "1/π cm/s", "1/4 cm/s"],
+      "options": [
+        "π cm/s",
+        "1 cm/s",
+        "1/π cm/s",
+        "1/4 cm/s"
+      ],
       "answer": "C",
       "explanation": "V=(4/3)πr³, dV/dt=4πr² dr/dt = 900 → dr/dt = 900/(4π*225)=900/(900π)=1/π cm/s."
     },
@@ -300,7 +400,12 @@
       "question": "Marginal revenue when x=20 for R(x)=3x²+36x+5.",
       "image": null,
       "passage": null,
-      "options": ["156", "120", "1925", "1236"],
+      "options": [
+        "156",
+        "120",
+        "1925",
+        "1236"
+      ],
       "answer": "A",
       "explanation": "R'(x)=6x+36, R'(20)=120+36=156."
     },
@@ -309,7 +414,12 @@
       "question": "Vectors a=2i-3j+2k, b=2i+3j+k. Area of triangle OAB.",
       "image": null,
       "passage": null,
-      "options": ["229/2", "√85", "√229/2", "2√229"],
+      "options": [
+        "229/2",
+        "√85",
+        "√229/2",
+        "2√229"
+      ],
       "answer": "C",
       "explanation": "Area = 0.5|a×b|. a×b = determinant |i j k; 2 -3 2; 2 3 1| = i(-3*1 - 2*3) - j(2*1 - 2*2) + k(2*3 - (-3)*2) = i(-3-6) - j(2-4) + k(6+6)= (-9, 2, 12). Magnitude = √(81+4+144)=√229. Area = √229/2."
     },
@@ -318,7 +428,12 @@
       "question": "Vector with initial (2,5,0) and terminal (-3,7,4).",
       "image": null,
       "passage": null,
-      "options": ["-5i+2j-4k", "-5i+2j+4k", "5i-2j-4k", "-i+12j+4k"],
+      "options": [
+        "-5i+2j-4k",
+        "-5i+2j+4k",
+        "5i-2j-4k",
+        "-i+12j+4k"
+      ],
       "answer": "B",
       "explanation": "Vector = terminal - initial = (-3-2, 7-5, 4-0)=(-5,2,4) = -5i+2j+4k."
     },
@@ -327,7 +442,12 @@
       "question": "GCF of 65 and 117 expressed as 65m - 117. Find m.",
       "image": null,
       "passage": null,
-      "options": ["1", "2", "3", "4"],
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
       "answer": "B",
       "explanation": "GCF(65,117)=13. 65m - 117 = 13 → 65m = 130 → m=2."
     },
@@ -336,7 +456,12 @@
       "question": "Greatest ratio among 3:2, 8:5, 121:75, 5:3.",
       "image": null,
       "passage": null,
-      "options": ["5:3", "8:5", "121:75", "3:2"],
+      "options": [
+        "5:3",
+        "8:5",
+        "121:75",
+        "3:2"
+      ],
       "answer": "A",
       "explanation": "Compute decimals: 3/2=1.5, 8/5=1.6, 121/75≈1.6133, 5/3≈1.6667. Greatest is 5:3."
     },
@@ -345,7 +470,12 @@
       "question": "Benti earns 18,000, Derartu 20,000. Ratio of Derartu's earnings to total?",
       "image": null,
       "passage": null,
-      "options": ["9:10", "10:19", "9:19", "10:18"],
+      "options": [
+        "9:10",
+        "10:19",
+        "9:19",
+        "10:18"
+      ],
       "answer": "B",
       "explanation": "Total = 38,000. Ratio = 20,000:38,000 = 20:38 = 10:19."
     },
@@ -354,7 +484,12 @@
       "question": "Maximize Z=4x+y subject to x+y≤50, 3x+y≤90, x,y≥0.",
       "image": null,
       "passage": null,
-      "options": ["120", "110", "200", "50"],
+      "options": [
+        "120",
+        "110",
+        "200",
+        "50"
+      ],
       "answer": "A",
       "explanation": "Corner points: (0,0)=0; (30,0) from 3x=90 → (30,0): Z=120; (0,50): Z=50; intersection x+y=50 and 3x+y=90 → subtract: 2x=40→x=20, y=30, Z=80+30=110. Max at (30,0)=120."
     },
@@ -377,7 +512,12 @@
       "question": "Corner points (0,0),(5,0),(3,4),(0,5). Z=px+qy, p,q>0. Max occurs at (3,4) and (0,5). Find relation.",
       "image": null,
       "passage": null,
-      "options": ["q=3p", "p=3q", "p=q", "p> (1/3)q"],
+      "options": [
+        "q=3p",
+        "p=3q",
+        "p=q",
+        "p> (1/3)q"
+      ],
       "answer": "A",
       "explanation": "Values at (3,4): 3p+4q; at (0,5): 5q. Since both are max and equal, 3p+4q=5q → 3p=q → q=3p."
     },
@@ -386,7 +526,12 @@
       "question": "What percent of 15 is equal to 600?",
       "image": null,
       "passage": null,
-      "options": ["400", "90", "690", "4000"],
+      "options": [
+        "400",
+        "90",
+        "690",
+        "4000"
+      ],
       "answer": "D",
       "explanation": "Let x% of 15 = 600 → (x/100)*15=600 → x=600*100/15=4000%."
     },
@@ -395,7 +540,12 @@
       "question": "Shop sells 30 articles for 6600. Plans to sell each for 200. Approximate discount percent?",
       "image": null,
       "passage": null,
-      "options": ["9.091%", "10%", "90.091%", "8%"],
+      "options": [
+        "9.091%",
+        "10%",
+        "90.091%",
+        "8%"
+      ],
       "answer": "A",
       "explanation": "Original price per article = 6600/30=220. Selling price 200. Discount = 20/220 ≈ 0.09091 = 9.091%."
     },
@@ -404,7 +554,12 @@
       "question": "12% tax on shoes amounts to 45 Birr. What is 8% tax?",
       "image": null,
       "passage": null,
-      "options": ["30", "37.5", "40", "35"],
+      "options": [
+        "30",
+        "37.5",
+        "40",
+        "35"
+      ],
       "answer": "A",
       "explanation": "Let price = P. 0.12P=45 → P=375. 8% tax = 0.08*375=30."
     },
@@ -441,7 +596,12 @@
       "question": "Box of 15 oranges, 12 good, 3 bad. Select 3 without replacement. Probability box approved (all three good).",
       "image": null,
       "passage": null,
-      "options": ["12/15", "1/5", "44/91", "88/225"],
+      "options": [
+        "12/15",
+        "1/5",
+        "44/91",
+        "88/225"
+      ],
       "answer": "C",
       "explanation": "Probability = (12/15)*(11/14)*(10/13) = (12*11*10)/(15*14*13)=1320/2730=132/273=44/91."
     },
@@ -450,7 +610,12 @@
       "question": "Profit 20% on selling price of 960 Birr. Find cost.",
       "image": null,
       "passage": null,
-      "options": ["600", "800", "900", "840"],
+      "options": [
+        "600",
+        "800",
+        "900",
+        "840"
+      ],
       "answer": "B",
       "explanation": "Profit % on SP = 20% means profit = 0.2*960=192, cost = 960-192=768, not in options. Alternatively, if profit on cost: SP=960, profit 20% on cost → 1.2C=960 → C=800. So likely they mean on cost."
     },
@@ -459,7 +624,12 @@
       "question": "Infected 230,000, died 10,000, remaining 43% cured. Number still infected as percent of total?",
       "image": null,
       "passage": null,
-      "options": ["57%", "54.5%", "56.5%", "65%"],
+      "options": [
+        "57%",
+        "54.5%",
+        "56.5%",
+        "65%"
+      ],
       "answer": "B",
       "explanation": "Remaining after deaths = 220,000. Cured = 43% of 220,000 = 94,600. Still infected = 220,000-94,600=125,400. Percent of total = (125,400/230,000)*100 ≈ 54.52%."
     },
@@ -468,7 +638,12 @@
       "question": "Meti sold shoe for 10,000 with 60% markup on selling price. Find cost price.",
       "image": null,
       "passage": null,
-      "options": ["4,000", "6,000", "16,000", "5,000"],
+      "options": [
+        "4,000",
+        "6,000",
+        "16,000",
+        "5,000"
+      ],
       "answer": "A",
       "explanation": "Markup on SP means profit = 60% of SP = 0.6*10000=6000, so cost = 10000-6000=4000."
     },
@@ -477,7 +652,12 @@
       "question": "A = [[-2,3,-1],[0,1,2],[0,0,3]], |B|=1/3. Find det(2AᵀB).",
       "image": null,
       "passage": null,
-      "options": ["16", "-4", "-16", "48"],
+      "options": [
+        "16",
+        "-4",
+        "-16",
+        "48"
+      ],
       "answer": "C",
       "explanation": "det(2AᵀB) = 2³ * det(Aᵀ) * det(B) = 8 * det(A) * (1/3). det(A) = (-2)*1*3 = -6. So 8 * (-6) * (1/3) = 8 * (-2) = -16."
     },
@@ -486,7 +666,12 @@
       "question": "A,B non-zero square matrices same order, (A+B)² = A²+B². Then which is true?",
       "image": null,
       "passage": null,
-      "options": ["AB=0", "BA=0", "AB=BA", "AB=-BA"],
+      "options": [
+        "AB=0",
+        "BA=0",
+        "AB=BA",
+        "AB=-BA"
+      ],
       "answer": "D",
       "explanation": "(A+B)² = A²+AB+BA+B² = A²+B² → AB+BA=0 → AB = -BA."
     },
@@ -495,7 +680,12 @@
       "question": "P=(1,a,a), Q=(a-1,1,1). Distance PQ=3. Find set containing a.",
       "image": null,
       "passage": null,
-      "options": ["{-9,1}", "{-1/3,3}", "{-3,1/3}", "{-1,9}"],
+      "options": [
+        "{-9,1}",
+        "{-1/3,3}",
+        "{-3,1/3}",
+        "{-1,9}"
+      ],
       "answer": "B",
       "explanation": "PQ² = (a-2)² + (1-a)² + (1-a)² = (a-2)² + 2(1-a)² = 9. Expand: a²-4a+4 + 2(1-2a+a²)= a²-4a+4+2-4a+2a² = 3a²-8a+6=9 → 3a²-8a-3=0 → (3a+1)(a-3)=0 → a=-1/3 or a=3. Set = {-1/3,3}."
     },
@@ -504,7 +694,12 @@
       "question": "Probability of occurrence = 2/3. Probability of non-occurrence?",
       "image": null,
       "passage": null,
-      "options": ["4/3", "2/3", "3/4", "1/3"],
+      "options": [
+        "4/3",
+        "2/3",
+        "3/4",
+        "1/3"
+      ],
       "answer": "D",
       "explanation": "1 - 2/3 = 1/3."
     },
@@ -513,7 +708,12 @@
       "question": "Red ball and 4 white balls. Draw two without replacement. Probability both white?",
       "image": null,
       "passage": null,
-      "options": ["1/5", "4/5", "16/25", "3/5"],
+      "options": [
+        "1/5",
+        "4/5",
+        "16/25",
+        "3/5"
+      ],
       "answer": "D",
       "explanation": "P(white first)=4/5, then P(white second)=3/4, product = 12/20 = 3/5."
     },
@@ -550,7 +750,12 @@
       "question": "Length 10m, breadth 2.4cm. Ratio length:breadth?",
       "image": null,
       "passage": null,
-      "options": ["5:1.2", "25:6", "1250:3", "625:6"],
+      "options": [
+        "5:1.2",
+        "25:6",
+        "1250:3",
+        "625:6"
+      ],
       "answer": "C",
       "explanation": "Convert to same unit: 10m = 1000cm. Ratio = 1000 : 2.4 = 10000 : 24 = 1250 : 3."
     },
@@ -559,7 +764,12 @@
       "question": "Farmer bought bull 44,000, cow 18,000. Sold bull at 5% loss, cow at 10% profit. Net result?",
       "image": null,
       "passage": null,
-      "options": ["loss 200", "profit 400", "loss 400", "profit 200"],
+      "options": [
+        "loss 200",
+        "profit 400",
+        "loss 400",
+        "profit 200"
+      ],
       "answer": "C",
       "explanation": "Bull loss = 0.05*44000=2200, selling price = 44000-2200=41800. Cow profit=0.10*18000=1800, selling price=19800. Total CP=62000, total SP=41800+19800=61600, loss = 400."
     },
@@ -610,7 +820,12 @@
       "question": "Tent: cylinder height 5m, diameter 6m, conical top slant height 8m. Area of canvas?",
       "image": null,
       "passage": null,
-      "options": ["54π", "39π", "78π", "63π"],
+      "options": [
+        "54π",
+        "39π",
+        "78π",
+        "63π"
+      ],
       "answer": "C",
       "explanation": "Cylinder lateral area = 2πrh = 2π*3*5=30π. Cone lateral area = πrl = π*3*8=24π. Total = 54π? Wait 30+24=54π. But option A is 54π, C is 78π. Also base? The tent does not include base (floor). So 54π. Answer A."
     },
@@ -619,7 +834,12 @@
       "question": "In circle, chords AC and BD intersect at P. ∠DAC=35°, ∠APB=65°. Find ∠ACB.",
       "image": "./images/2017_p2_q60.png",
       "passage": null,
-      "options": ["130°", "60°", "70°", "30°"],
+      "options": [
+        "130°",
+        "60°",
+        "70°",
+        "30°"
+      ],
       "answer": "D",
       "explanation": "∠APB = 65° is exterior angle to triangle? Use inscribed angles. ∠DAC = 35° intercepts arc DC. ∠ACB intercepts arc AB. Need to find. Alternatively, use vertical angles and triangle sum. ∠APB = ∠CPD = 65°. In triangle PAD, ∠DAP=35°, so ∠ADP = 180-35-? Not direct. Use property: ∠APB = (1/2)(arc AB + arc CD). Also ∠DAC = 35° = (1/2) arc DC. So arc DC=70°. Then arc AB = 2*65 - 70 = 60°. Then ∠ACB = (1/2) arc AB = 30°. So answer D."
     }

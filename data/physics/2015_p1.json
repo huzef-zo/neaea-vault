@@ -22,7 +22,12 @@
       "question": "The number of significant digits in a quantity m = 7.10 × 10³⁰ kg is",
       "image": null,
       "passage": null,
-      "options": ["3", "2", "32", "33"],
+      "options": [
+        "3",
+        "2",
+        "32",
+        "33"
+      ],
       "answer": "A",
       "explanation": "The number 7.10 has three significant figures (7, 1, and the trailing zero after decimal). The power of ten does not affect significant figures."
     },
@@ -31,7 +36,12 @@
       "question": "Given A = a i + b j + 2k and B = 4i + 2j - 4k. What must be the value of 'a' and 'b', respectively, for the two vectors to be parallel?",
       "image": null,
       "passage": null,
-      "options": ["-2 and -1", "2 and 1", "-1 and -2", "1 and 2"],
+      "options": [
+        "-2 and -1",
+        "2 and 1",
+        "-1 and -2",
+        "1 and 2"
+      ],
       "answer": "B",
       "explanation": "For parallel vectors, components must be proportional: a/4 = b/2 = 2/(-4) = -1/2. Thus a = -2, b = -1. So answer A? Wait: a/4 = -1/2 → a = -2; b/2 = -1/2 → b = -1. So (-2, -1). Option A says -2 and -1. Yes A."
     },
@@ -40,7 +50,12 @@
       "question": "For what value of 'a' the two vectors A = a i + 2j + 5k and B = (1/2)i + 6j + 2k are orthogonal to each other?",
       "image": null,
       "passage": null,
-      "options": ["1", "-44", "-1", "4"],
+      "options": [
+        "1",
+        "-44",
+        "-1",
+        "4"
+      ],
       "answer": "B",
       "explanation": "Orthogonal means dot product = 0: a*(0.5) + 2*6 + 5*2 = 0.5a + 12 + 10 = 0.5a + 22 = 0 → a = -44."
     },
@@ -49,7 +64,12 @@
       "question": "What is the area of a parallelogram formed by vectors A = 2i - j + k and B = 3i + 2j - 3k?",
       "image": null,
       "passage": null,
-      "options": ["√111", "√121", "√131", "√141"],
+      "options": [
+        "√111",
+        "√121",
+        "√131",
+        "√141"
+      ],
       "answer": "D",
       "explanation": "Area = |A × B|. A×B = determinant |i j k; 2 -1 1; 3 2 -3| = i[(-1)(-3)-(1)(2)] - j[(2)(-3)-(1)(3)] + k[(2)(2)-(-1)(3)] = i[3-2] - j[-6-3] + k[4+3] = i(1) - j(-9) + k(7) = i + 9j + 7k. Magnitude = √(1²+9²+7²)=√(1+81+49)=√131. So answer C."
     },
@@ -58,7 +78,12 @@
       "question": "What is the magnitude of A·(A×B) if θ is the angle between vector A and vector B?",
       "image": null,
       "passage": null,
-      "options": ["BA sinθ", "BA² sinθ", "B²A sinθ", "zero"],
+      "options": [
+        "BA sinθ",
+        "BA² sinθ",
+        "B²A sinθ",
+        "zero"
+      ],
       "answer": "D",
       "explanation": "A×B is perpendicular to both A and B, so A is perpendicular to (A×B). Thus dot product is zero."
     },
@@ -81,7 +106,12 @@
       "question": "A, B and C are three points, in that order, on a straight line road with AB=40km and BC=90km. A woman travels from A to B at 10 km/h and then from B to C at 15 km/h. What is the average speed of the woman for the journey from A to C?",
       "image": null,
       "passage": null,
-      "options": ["25 km/h", "13 km/h", "5 km/h", "6 km/h"],
+      "options": [
+        "25 km/h",
+        "13 km/h",
+        "5 km/h",
+        "6 km/h"
+      ],
       "answer": "B",
       "explanation": "Time AB = 40/10 = 4 h, time BC = 90/15 = 6 h. Total distance = 130 km, total time = 10 h, average speed = 13 km/h."
     },
@@ -90,7 +120,12 @@
       "question": "A stone is thrown upward with a speed of 20 m/s from a point at a height h meters above the horizontal ground level. If the stone hits the ground 5 seconds later, what is the height h?",
       "image": null,
       "passage": null,
-      "options": ["zero", "100 m", "25 m", "20 m"],
+      "options": [
+        "zero",
+        "100 m",
+        "25 m",
+        "20 m"
+      ],
       "answer": "C",
       "explanation": "Use s = ut + ½at² with upward positive. Displacement from launch point to ground = -h. u=20, a=-10, t=5: -h = 20*5 + 0.5*(-10)*25 = 100 -125 = -25 → h=25 m."
     },
@@ -99,7 +134,12 @@
       "question": "A truck traveling with constant speed of 20 m/s along a straight line passes a motorcycle. Just as the truck passes, the motorcycle accelerates from rest at 2 m/s² to overtake the truck. How fast is the motorcycle traveling while it overtakes the truck?",
       "image": null,
       "passage": null,
-      "options": ["2 m/s", "20 m/s", "30 m/s", "40 m/s"],
+      "options": [
+        "2 m/s",
+        "20 m/s",
+        "30 m/s",
+        "40 m/s"
+      ],
       "answer": "D",
       "explanation": "Let t be time to overtake. Distance: truck = 20t, motorcycle = ½×2×t² = t². Overtake when 20t = t² → t=20 s (t=0 start). Motorcycle speed = at = 2×20 = 40 m/s."
     },
@@ -136,7 +176,12 @@
       "question": "In the figure shown below; the masses of block A and block B are 4 kg and 8 kg respectively. Coefficient of static friction between block A and block B is 0.25 and the coefficient of kinetic friction between the horizontal surface and block B is 0.2. What is the maximum value of force F that can accelerate the system without sliding block A?",
       "image": "./images/2015_p1_q13.png",
       "passage": null,
-      "options": ["54 N", "24 N", "30 N", "10 N"],
+      "options": [
+        "54 N",
+        "24 N",
+        "30 N",
+        "10 N"
+      ],
       "answer": "C",
       "explanation": "Maximum static friction between A and B = μs m_A g = 0.25×4×10 = 10 N. This friction accelerates A: a_max = 10/4 = 2.5 m/s². For system (total mass 12 kg), F - friction on B = m_total a. Friction on B from ground = μk (m_A+m_B)g = 0.2×12×10 = 24 N. So F = 24 + 12×2.5 = 24+30=54 N. But that is force on B? The question asks for maximum F to accelerate without sliding A. That is 54 N. Answer A."
     },
@@ -145,7 +190,12 @@
       "question": "A 32 kg big fish moving with 10 m/s to the east swallows a small 4 kg fish moving with a speed of 5 m/s to the west. The velocity of the big fish after impact is",
       "image": null,
       "passage": null,
-      "options": ["8.3 m/s, east", "10 m/s, east", "10 m/s, west", "8.3 m/s, west"],
+      "options": [
+        "8.3 m/s, east",
+        "10 m/s, east",
+        "10 m/s, west",
+        "8.3 m/s, west"
+      ],
       "answer": "A",
       "explanation": "Momentum conservation: (32×10) + (4×(-5)) = (32+4)v → 320 -20 = 36v → 300=36v → v=8.33 m/s east."
     },
@@ -168,7 +218,12 @@
       "question": "What should be the coefficient of static friction at the pavement of a flat road for a car moving with a maximum speed of 15 m/s in a circle of radius 45 m to make turns safely?",
       "image": null,
       "passage": null,
-      "options": ["0.2", "0.3", "0.4", "0.5"],
+      "options": [
+        "0.2",
+        "0.3",
+        "0.4",
+        "0.5"
+      ],
       "answer": "D",
       "explanation": "Centripetal force = friction: μmg = mv²/r → μ = v²/(rg) = 225/(45×10)=225/450=0.5."
     },
@@ -177,7 +232,12 @@
       "question": "The dimension of energy is",
       "image": null,
       "passage": null,
-      "options": ["ML²T⁻²", "MLT⁻²", "ML²T⁻³", "MLT⁻³"],
+      "options": [
+        "ML²T⁻²",
+        "MLT⁻²",
+        "ML²T⁻³",
+        "MLT⁻³"
+      ],
       "answer": "A",
       "explanation": "Energy = work = force × distance = (MLT⁻²)×L = ML²T⁻²."
     },
@@ -186,7 +246,12 @@
       "question": "A force of F = (2i + 4k) N is exerted on a block to move it with a velocity of V = (6j + 8k) m/s. What is the power exerted on the block?",
       "image": null,
       "passage": null,
-      "options": ["12 W", "32 W", "24 W", "16 W"],
+      "options": [
+        "12 W",
+        "32 W",
+        "24 W",
+        "16 W"
+      ],
       "answer": "B",
       "explanation": "Power = F·V = (2)(0) + (0)(6) + (4)(8) = 32 W."
     },
@@ -195,7 +260,12 @@
       "question": "A block of mass 2.5 kg is attached to a spring with spring constant 40 N/m. If it is pulled down a displacement of 30 cm and released, what would its speed be as it passes the equilibrium position?",
       "image": null,
       "passage": null,
-      "options": ["1.6 m/s", "1.2 m/s", "1.4 m/s", "1 m/s"],
+      "options": [
+        "1.6 m/s",
+        "1.2 m/s",
+        "1.4 m/s",
+        "1 m/s"
+      ],
       "answer": "B",
       "explanation": "Conservation of energy: ½kA² = ½mv² → v = A√(k/m) = 0.3×√(40/2.5)=0.3×√16=0.3×4=1.2 m/s."
     },
@@ -204,7 +274,12 @@
       "question": "What is the moment of inertia of a thin rod of mass M and length L about an axis perpendicular to the rod at a distance of L/4 from one end? (I_cm = 1/12 ML²)",
       "image": null,
       "passage": null,
-      "options": ["(7/48)ML²", "(7/12)ML²", "(5/12)ML²", "(1/3)ML²"],
+      "options": [
+        "(7/48)ML²",
+        "(7/12)ML²",
+        "(5/12)ML²",
+        "(1/3)ML²"
+      ],
       "answer": "A",
       "explanation": "Parallel axis theorem: I = I_cm + M d², with d = distance from cm to axis. cm is at L/2, axis at L/4 from one end, so distance = L/2 - L/4 = L/4. I = (1/12)ML² + M(L/4)² = ML²/12 + ML²/16 = (4ML²/48 + 3ML²/48)=7ML²/48."
     },
@@ -213,7 +288,12 @@
       "question": "The angular displacement described by a particle is given as θ(t) = 10 + 20t - 4t² where θ in radian and t in seconds. What is the value of t when the particle becomes momentarily at rest?",
       "image": null,
       "passage": null,
-      "options": ["5 s", "2.5 s", "2 s", "1 s"],
+      "options": [
+        "5 s",
+        "2.5 s",
+        "2 s",
+        "1 s"
+      ],
       "answer": "B",
       "explanation": "ω = dθ/dt = 20 - 8t = 0 → t = 2.5 s."
     },
@@ -222,7 +302,12 @@
       "question": "A solid cylindrical grinding stone (I = ½MR²) has a radius of 0.4 m and mass of 40 kg. A constant unbalanced torque acting on it changes its angular speed to 40 rad/s from rest in 20 seconds. What is the magnitude of the desired net torque?",
       "image": null,
       "passage": null,
-      "options": ["6.4 Nm", "16 Nm", "3.2 Nm", "8 Nm"],
+      "options": [
+        "6.4 Nm",
+        "16 Nm",
+        "3.2 Nm",
+        "8 Nm"
+      ],
       "answer": "A",
       "explanation": "α = Δω/Δt = 40/20 = 2 rad/s². I = ½×40×(0.4)² = 0.5×40×0.16 = 20×0.16 = 3.2 kg·m². Torque = Iα = 3.2×2 = 6.4 Nm."
     },
@@ -231,7 +316,12 @@
       "question": "A ring (I = MR²) is released and rolled down an inclined plane which is 10 m above the horizontal ground. What is the linear velocity of the ring at the bottom of the incline?",
       "image": null,
       "passage": null,
-      "options": ["2√10 m/s", "√10 m/s", "100 m/s", "10 m/s"],
+      "options": [
+        "2√10 m/s",
+        "√10 m/s",
+        "100 m/s",
+        "10 m/s"
+      ],
       "answer": "D",
       "explanation": "Conservation of energy: mgh = ½mv² + ½Iω², with ω=v/R, I=MR² gives ½mv²+½(MR²)(v²/R²)=½mv²+½mv²=mv². So mgh = mv² → v = √(gh) = √(10×10)=10 m/s."
     },
@@ -254,7 +344,12 @@
       "question": "A Carnot engine working between 27°C and 327°C has a work output of 800 J per cycle. The amount of heat energy supplied to the engine from the source in each cycle is",
       "image": null,
       "passage": null,
-      "options": ["800 J", "1600 J", "3200 J", "6400 J"],
+      "options": [
+        "800 J",
+        "1600 J",
+        "3200 J",
+        "6400 J"
+      ],
       "answer": "B",
       "explanation": "Efficiency η = 1 - T_c/T_h = 1 - (300)/(600) = 0.5. η = W/Q_h → Q_h = W/η = 800/0.5 = 1600 J."
     },
@@ -263,7 +358,12 @@
       "question": "If one mole of an ideal gas doubles its volume as it undergoes an isothermal expansion, its pressure is",
       "image": null,
       "passage": null,
-      "options": ["quadrupled", "doubled", "halved", "quartered"],
+      "options": [
+        "quadrupled",
+        "doubled",
+        "halved",
+        "quartered"
+      ],
       "answer": "C",
       "explanation": "Isothermal: PV = constant. If V doubles, P halves."
     },
@@ -272,7 +372,12 @@
       "question": "The rms speed of an ideal gas at a temperature of 120 K is V. What would the rms speed be if its temperature becomes 480 K?",
       "image": null,
       "passage": null,
-      "options": ["V/4", "V/2", "4V", "2V"],
+      "options": [
+        "V/4",
+        "V/2",
+        "4V",
+        "2V"
+      ],
       "answer": "D",
       "explanation": "v_rms ∝ √T. T₂/T₁ = 480/120 = 4, so v_rms₂ = √4 × V = 2V."
     },
@@ -281,7 +386,12 @@
       "question": "A 12 kg object is suspended by two cables as shown in the figure below. If the system is in equilibrium, the values of T₁ and T₂, respectively, are",
       "image": "./images/2015_p1_q28.png",
       "passage": null,
-      "options": ["200 N, 160 N", "160 N, 200 N", "80 N, 120 N", "120 N, 80 N"],
+      "options": [
+        "200 N, 160 N",
+        "160 N, 200 N",
+        "80 N, 120 N",
+        "120 N, 80 N"
+      ],
       "answer": "B",
       "explanation": "From the figure (not visible), using equilibrium conditions, typically T₁ and T₂ have specific values. Based on common problem, T₁=160 N, T₂=200 N or vice versa. Given options, B is 160 N, 200 N. Likely correct."
     },
@@ -290,7 +400,12 @@
       "question": "An electron (mass=9×10⁻³¹ kg and charge=1.6×10⁻¹⁹ C) is released from rest in a uniform electric field of strength 9×10⁻³ N/C. How long does the electron take to travel a distance of 1.28 m?",
       "image": null,
       "passage": null,
-      "options": ["2×10⁻⁸ s", "4×10⁻⁷ s", "4×10⁻⁸ s", "2×10⁻⁷ s"],
+      "options": [
+        "2×10⁻⁸ s",
+        "4×10⁻⁷ s",
+        "4×10⁻⁸ s",
+        "2×10⁻⁷ s"
+      ],
       "answer": "B",
       "explanation": "a = F/m = qE/m = (1.6e-19 × 9e-3)/(9e-31) = (1.44e-21)/(9e-31)=1.6e9 m/s². s = ½at² → t = √(2s/a)=√(2×1.28 / 1.6e9)=√(2.56/1.6e9)=√(1.6e-9)=4×10⁻⁵? Wait 1.6e-9 square root = 4e-5? Actually 4e-5 s. Not matching. Let's compute carefully: 2s/a = 2×1.28 / (1.6e9)=2.56/1.6e9=1.6e-9, sqrt=4e-5 s = 4×10⁻⁵ s, not in options. Options are 10⁻⁸ and 10⁻⁷. Possibly E=9×10²? Or mass different? Given options, the correct from typical problems is 4×10⁻⁸ s? Let's recalc with numbers: If E=9×10⁻³, then a = (1.6e-19 * 9e-3)/9e-31 = 1.44e-21/9e-31 = 1.6e9 m/s². Then t=√(2*1.28/1.6e9)=√(2.56/1.6e9)=√(1.6e-9)=4e-5 s. None. Maybe they used e=1.6e-19, m=9.1e-31? Then a=1.44e-21/9.1e-31=1.58e9, t=√(2.56/1.58e9)=√(1.62e-9)=4.02e-5 s. Still not. Perhaps distance is 1.28 cm? 0.0128 m then t=√(0.0256/1.6e9)=√(1.6e-11)=4e-6 s. No. Given the options, maybe they expect 4×10⁻⁸ s? That would require a much larger acceleration. Possibly E=9×10³? Then a=1.6e-19*9e3/9e-31=1.44e-16/9e-31=1.6e14, t=√(2.56/1.6e14)=√(1.6e-14)=1.26e-7 s close to 1.3e-7. Not matching. I'll go with the calculation: with given numbers, answer should be about 4×10⁻⁵ s, not listed. Possibly they have a typo and the intended answer is 4×10⁻⁷ s? I'll choose B 4×10⁻⁷ s as a common result if distance is 1.28 mm? I'll note discrepancy."
     },
@@ -299,7 +414,12 @@
       "question": "A hollow metal sphere of radius 10 cm is charged to a potential of 100 V. What is the potential at the center of the sphere?",
       "image": null,
       "passage": null,
-      "options": ["Zero", "50 V", "200 V", "100 V"],
+      "options": [
+        "Zero",
+        "50 V",
+        "200 V",
+        "100 V"
+      ],
       "answer": "D",
       "explanation": "For a hollow conducting sphere, the electric field inside is zero, so the potential is constant throughout the interior and equals the surface potential, 100 V."
     },
@@ -308,7 +428,12 @@
       "question": "A 10 m ladder that weighs 50 N leans at an angle of 60° with the horizontal against a wall. What is the coefficient of friction between the floor and the ladder as the ladder is just on the verge of slipping?",
       "image": "./images/2015_p1_q31.png",
       "passage": null,
-      "options": ["0.15", "0.20", "0.25", "0.30"],
+      "options": [
+        "0.15",
+        "0.20",
+        "0.25",
+        "0.30"
+      ],
       "answer": "C",
       "explanation": "From equilibrium conditions (torque about floor contact point), solving gives μ = (1/2) cotθ = 0.5 × cot60° = 0.5 × 0.577 = 0.2885 ≈ 0.29. Closest option 0.30. But given typical answer, it might be 0.25 or 0.30. I'll choose 0.30 (D)."
     },
@@ -345,7 +470,12 @@
       "question": "A 10⁻⁶ F capacitor is charged with a 10 V battery. What is the energy of the capacitor?",
       "image": null,
       "passage": null,
-      "options": ["50 μJ", "100 μJ", "150 μJ", "200 μJ"],
+      "options": [
+        "50 μJ",
+        "100 μJ",
+        "150 μJ",
+        "200 μJ"
+      ],
       "answer": "A",
       "explanation": "Energy = ½CV² = 0.5×10⁻⁶×100 = 50×10⁻⁶ J = 50 μJ."
     },
@@ -354,7 +484,12 @@
       "question": "The intensity level (loudness level) changes from L₁ = 60 dB to L₂ = 90 dB. What is the ratio of intensities I₂/I₁?",
       "image": null,
       "passage": null,
-      "options": ["3", "30", "300", "1000"],
+      "options": [
+        "3",
+        "30",
+        "300",
+        "1000"
+      ],
       "answer": "D",
       "explanation": "ΔL = 10 log₁₀(I₂/I₁) = 30 dB → log₁₀(I₂/I₁)=3 → I₂/I₁ = 10³ = 1000."
     },
@@ -363,7 +498,12 @@
       "question": "A 0.5 kg object attached to a spring undergoes SHM with amplitude of 8 cm and period of 0.2π s. What is the maximum force acting on the object?",
       "image": null,
       "passage": null,
-      "options": ["80 N", "50 N", "8 N", "4 N"],
+      "options": [
+        "80 N",
+        "50 N",
+        "8 N",
+        "4 N"
+      ],
       "answer": "A",
       "explanation": "ω = 2π/T = 2π/(0.2π)=10 rad/s. Maximum acceleration a_max = ω²A = 100×0.08=8 m/s². F_max = m a_max = 0.5×8=4 N. That gives 4 N, option D. But wait: F_max = kA, and k = mω² = 0.5×100=50 N/m, then F=50×0.08=4 N. So answer D. However option A is 80 N, likely a miscalculation. So correct is D."
     },
@@ -372,7 +512,12 @@
       "question": "When light travels from one medium to another which is separated by a sharp boundary the characteristic that does not change is",
       "image": null,
       "passage": null,
-      "options": ["velocity", "wavelength", "frequency", "amplitude"],
+      "options": [
+        "velocity",
+        "wavelength",
+        "frequency",
+        "amplitude"
+      ],
       "answer": "C",
       "explanation": "Frequency remains constant when light passes between media. Velocity and wavelength change, amplitude may change due to reflection/transmission."
     },
@@ -381,7 +526,12 @@
       "question": "Monochromatic green light of wavelength 5×10⁻⁷ m illuminates two slits 1 mm apart. If the screen and the slits are 2 m apart, the separation between two successive bright fringes is",
       "image": null,
       "passage": null,
-      "options": ["0.25 mm", "0.1 mm", "1 mm", "0.01 mm"],
+      "options": [
+        "0.25 mm",
+        "0.1 mm",
+        "1 mm",
+        "0.01 mm"
+      ],
       "answer": "C",
       "explanation": "Fringe spacing β = λD/d = (5×10⁻⁷×2)/(1×10⁻³) = (10⁻⁶)/(10⁻³)=1×10⁻³ m = 1 mm."
     },
@@ -390,7 +540,12 @@
       "question": "A tube closed at one end containing air produces a fundamental frequency of 512 Hz. If the same length of tube is open at both ends, the fundamental frequency that can be produced is",
       "image": null,
       "passage": null,
-      "options": ["1024 Hz", "512 Hz", "256 Hz", "125 Hz"],
+      "options": [
+        "1024 Hz",
+        "512 Hz",
+        "256 Hz",
+        "125 Hz"
+      ],
       "answer": "A",
       "explanation": "For closed tube, f₁ = v/(4L). For open tube, f₁' = v/(2L) = 2×f₁ = 1024 Hz."
     },
@@ -399,7 +554,12 @@
       "question": "A uniform spring of force constant K is cut into two equal pieces. What is the force constant of each piece?",
       "image": null,
       "passage": null,
-      "options": ["2K", "3K/2", "K", "K/2"],
+      "options": [
+        "2K",
+        "3K/2",
+        "K",
+        "K/2"
+      ],
       "answer": "A",
       "explanation": "Spring constant is inversely proportional to length. Cutting into two halves reduces length to half, so force constant doubles: 2K."
     },
@@ -408,7 +568,12 @@
       "question": "A progressive wave is represented by the equation Y(t,x) = (0.2) sin(6.28t - 12.56x), where x and y are in meter and t in seconds. The velocity of the wave is",
       "image": null,
       "passage": null,
-      "options": ["2 m/s", "1.5 m/s", "1 m/s", "0.5 m/s"],
+      "options": [
+        "2 m/s",
+        "1.5 m/s",
+        "1 m/s",
+        "0.5 m/s"
+      ],
       "answer": "D",
       "explanation": "General form: sin(ωt - kx), with ω=6.28, k=12.56. v = ω/k = 6.28/12.56 = 0.5 m/s."
     },
@@ -431,7 +596,12 @@
       "question": "A 0.5 m long guitar string of cross-sectional area 10⁻⁶ m² has Young's modulus of Y = 2×10⁹ N/m². By how much length do you stretch the string to obtain a tension of 20 N?",
       "image": null,
       "passage": null,
-      "options": ["2 mm", "3 mm", "4 mm", "5 mm"],
+      "options": [
+        "2 mm",
+        "3 mm",
+        "4 mm",
+        "5 mm"
+      ],
       "answer": "D",
       "explanation": "ΔL = (F L)/(A Y) = (20 × 0.5)/(10⁻⁶ × 2×10⁹) = 10/(2×10³) = 10/2000 = 0.005 m = 5 mm."
     },
@@ -454,7 +624,12 @@
       "question": "In a hydraulic brake system a force of 20 N is applied to piston 1 which has a cross-sectional area of 4 cm². What is the force on piston 2 if its cross-sectional area is 60 cm²?",
       "image": null,
       "passage": null,
-      "options": ["200 N", "300 N", "400 N", "500 N"],
+      "options": [
+        "200 N",
+        "300 N",
+        "400 N",
+        "500 N"
+      ],
       "answer": "B",
       "explanation": "Pascal's principle: F₁/A₁ = F₂/A₂ → F₂ = F₁ × (A₂/A₁) = 20 × (60/4)=20×15=300 N."
     },
@@ -477,7 +652,12 @@
       "question": "The speed of water flowing through a horizontal pipe is 10 m/s at a point where the cross-sectional area of the pipe is 0.1 cm². If there is a point in the pipe where its cross-sectional area is 1 cm², what is the pressure difference between these points?",
       "image": null,
       "passage": null,
-      "options": ["4.95×10⁴ Pa", "5.95×10⁴ Pa", "6.95×10⁴ Pa", "7.95×10⁴ Pa"],
+      "options": [
+        "4.95×10⁴ Pa",
+        "5.95×10⁴ Pa",
+        "6.95×10⁴ Pa",
+        "7.95×10⁴ Pa"
+      ],
       "answer": "A",
       "explanation": "Continuity: A₁v₁ = A₂v₂ → v₂ = v₁ (A₁/A₂)=10×(0.1/1)=1 m/s. Bernoulli: P₁ + ½ρv₁² = P₂ + ½ρv₂² → ΔP = ½ρ(v₁² - v₂²)=0.5×1000×(100-1)=500×99=49500 Pa = 4.95×10⁴ Pa."
     },
@@ -486,16 +666,26 @@
       "question": "The transfer of heat by the direct movement of molecules is called",
       "image": null,
       "passage": null,
-      "options": ["conduction", "convection", "radiation", "induction"],
+      "options": [
+        "conduction",
+        "convection",
+        "radiation",
+        "induction"
+      ],
       "answer": "B",
-      "explanation": "Convection involves the bulk movement of fluid molecules. Conduction is through molecular collisions without bulk motion. The phrase "direct movement of molecules" suggests convection."
+      "explanation": "Convection involves the bulk movement of fluid molecules. Conduction is through molecular collisions without bulk motion. The phrase \"direct movement of molecules\" suggests convection."
     },
     {
       "id": 49,
       "question": "A window has a glass surface of 2000 cm² and thickness of 4 mm. The temperature inside and outside the glass are 21°C and -3°C, respectively. What is the rate of heat flow through the window? (K = 0.2 W/m°C)",
       "image": null,
       "passage": null,
-      "options": ["480 W", "48 W", "84 W", "240 W"],
+      "options": [
+        "480 W",
+        "48 W",
+        "84 W",
+        "240 W"
+      ],
       "answer": "D",
       "explanation": "Area = 2000 cm² = 0.2 m², thickness = 0.004 m. ΔT = 24°C. Rate = kAΔT/d = 0.2×0.2×24/0.004 = (0.04×24)/0.004 = 0.96/0.004=240 W."
     },
@@ -504,7 +694,12 @@
       "question": "A piece of iron (specific heat = 450 J/kg°C) is dropped from a height of 900 m above the ground. Assuming all the energy is converted to heat the iron, what will be the rise in temperature of the iron in degree centigrade?",
       "image": null,
       "passage": null,
-      "options": ["zero", "8", "20", "24"],
+      "options": [
+        "zero",
+        "8",
+        "20",
+        "24"
+      ],
       "answer": "C",
       "explanation": "Potential energy mgh = heat energy mcΔT → ΔT = gh/c = (10×900)/450 = 9000/450 = 20°C."
     }

@@ -22,7 +22,12 @@
       "question": "If the GCF(a,169) = 13 and LCM(a,169) = 338, what is the value of a?",
       "image": null,
       "passage": null,
-      "options": ["26", "394", "52", "20"],
+      "options": [
+        "26",
+        "394",
+        "52",
+        "20"
+      ],
       "answer": "A",
       "explanation": "We know that GCF(a,b) × LCM(a,b) = a × b. So 13 × 338 = a × 169 → 4394 = 169a → a = 4394/169 = 26."
     },
@@ -31,7 +36,12 @@
       "question": "If a = 5 + 2√6 and b = 1/a, then which one of the following is the value of a² + b²?",
       "image": null,
       "passage": null,
-      "options": ["98 - 40√6", "98", "1", "40√6"],
+      "options": [
+        "98 - 40√6",
+        "98",
+        "1",
+        "40√6"
+      ],
       "answer": "B",
       "explanation": "b = 1/(5+2√6) = (5-2√6)/(25-24) = 5-2√6. Then a² = (5+2√6)² = 25+20√6+24 = 49+20√6, b² = (5-2√6)² = 49-20√6. Sum = 98."
     },
@@ -54,7 +64,12 @@
       "question": "The solution set of the equation |7 - (x+2)| + |3x-3| = 0 is equal to:",
       "image": null,
       "passage": null,
-      "options": ["{-1,2}", "{}", "{-7/4, 1/2}", "{1/2, 7/4}"],
+      "options": [
+        "{-1,2}",
+        "{}",
+        "{-7/4, 1/2}",
+        "{1/2, 7/4}"
+      ],
       "answer": "B",
       "explanation": "Sum of absolute values is zero only if each term is zero. |7-(x+2)| = |5-x| = 0 → x=5. |3x-3| = 0 → x=1. No x satisfies both, so solution set is empty."
     },
@@ -77,7 +92,12 @@
       "question": "A line from the top of a cliff to the ground passes over the top of a pole 20m high. The line meets the ground at a point 15m from the base of the pole. If it is 120m away from this point to the base of the cliff, how high is the cliff?",
       "image": null,
       "passage": null,
-      "options": ["160", "90", "320", "180"],
+      "options": [
+        "160",
+        "90",
+        "320",
+        "180"
+      ],
       "answer": "A",
       "explanation": "Using similar triangles: height of cliff / (120+15) = height of pole / 15 → h/135 = 20/15 → h = (20/15)*135 = 20*9 = 180. Wait: h/135 = 20/15 → h = (20*135)/15 = 20*9 = 180. So answer 180? Option D is 180. But check: The point on ground is 15m from pole, and 120m from cliff base, so total horizontal distance = 135m. Pole height 20, so cliff height = (135/15)*20 = 9*20 = 180. Yes D."
     },
@@ -86,7 +106,12 @@
       "question": "Given vectors u with initial point (2,-3) and terminal point (-3,2) and v with initial point (4,7) and terminal point (-1,-1), then v - u is equal to:",
       "image": null,
       "passage": null,
-      "options": ["(0,13)", "(0,-13)", "(10,-3)", "(10,-13)"],
+      "options": [
+        "(0,13)",
+        "(0,-13)",
+        "(10,-3)",
+        "(10,-13)"
+      ],
       "answer": "A",
       "explanation": "u = (-3-2, 2-(-3)) = (-5, 5). v = (-1-4, -1-7) = (-5, -8). v - u = (-5-(-5), -8-5) = (0, -13). That is (0,-13). Option B."
     },
@@ -95,7 +120,12 @@
       "question": "Which one of the following is the mean deviation about the mean of the data: 38, 44, 70, 54, 40, 46, 63, 55, 42, 48?",
       "image": null,
       "passage": null,
-      "options": ["50", "5", "8.4", "8"],
+      "options": [
+        "50",
+        "5",
+        "8.4",
+        "8"
+      ],
       "answer": "C",
       "explanation": "Mean = (38+44+70+54+40+46+63+55+42+48)/10 = 500/10=50. Absolute deviations: 12,6,20,4,10,4,13,5,8,2 sum = 84. Mean deviation = 84/10=8.4."
     },
@@ -118,7 +148,12 @@
       "question": "If the mean of the following data is 28, find missing frequency f. (Class intervals 0-10,10-20,20-30,30-40,40-50,50-60; frequencies 12,18,27,f,17,6)",
       "image": null,
       "passage": null,
-      "options": ["14", "4", "20", "10"],
+      "options": [
+        "14",
+        "4",
+        "20",
+        "10"
+      ],
       "answer": "C",
       "explanation": "Midpoints: 5,15,25,35,45,55. Sum of (mid×freq) = 5*12 +15*18+25*27+35f+45*17+55*6 = 60+270+675+35f+765+330 = 2100+35f. Total freq = 12+18+27+f+17+6 = 80+f. Mean = (2100+35f)/(80+f)=28 → 2100+35f = 2240+28f → 7f=140 → f=20."
     },
@@ -127,7 +162,12 @@
       "question": "Which one of the following numbers is the coefficient of a⁵b⁷ in expansion of (a - b)¹²?",
       "image": null,
       "passage": null,
-      "options": ["101376", "792", "-101376", "-792"],
+      "options": [
+        "101376",
+        "792",
+        "-101376",
+        "-792"
+      ],
       "answer": "D",
       "explanation": "General term: C(12,k) a^(12-k) (-b)^k. We need 12-k=5 → k=7, then coefficient = C(12,7)*(-1)^7 = 792 * (-1) = -792."
     },
@@ -136,7 +176,12 @@
       "question": "If 2/6! + 1/7! = x/8!, then x = ?",
       "image": null,
       "passage": null,
-      "options": ["120", "26.13", "56", "840"],
+      "options": [
+        "120",
+        "26.13",
+        "56",
+        "840"
+      ],
       "answer": "A",
       "explanation": "2/720 + 1/5040 = 2/720 + 1/5040 = (14/5040 + 1/5040)=15/5040 = 1/336. 8! = 40320, so x/40320 = 1/336 → x = 40320/336 = 120."
     },
@@ -145,7 +190,12 @@
       "question": "Number of ways of selecting 9 balls from 6 red, 5 white, 5 blue if each selection consists of 3 balls of each colour?",
       "image": null,
       "passage": null,
-      "options": ["40", "2000", "48000", "160"],
+      "options": [
+        "40",
+        "2000",
+        "48000",
+        "160"
+      ],
       "answer": "B",
       "explanation": "Choose 3 red from 6: C(6,3)=20; 3 white from 5: C(5,3)=10; 3 blue from 5: C(5,3)=10. Total = 20*10*10=2000."
     },
@@ -154,7 +204,12 @@
       "question": "A man cuts three lengths from a board of length 91cm. Second length is 3cm longer than shortest, third is twice shortest. The third piece is at least 5cm longer than second. Find possible lengths of shortest piece.",
       "image": null,
       "passage": null,
-      "options": ["[0,8)", "(0,8)", "[8,22]", "(22,∞)"],
+      "options": [
+        "[0,8)",
+        "(0,8)",
+        "[8,22]",
+        "(22,∞)"
+      ],
       "answer": "C",
       "explanation": "Let shortest = x. Then second = x+3, third = 2x. Condition: third ≥ second+5 → 2x ≥ x+3+5 → x ≥ 8. Also total ≤ 91: x+(x+3)+2x ≤ 91 → 4x+3 ≤ 91 → 4x ≤ 88 → x ≤ 22. So x ∈ [8,22]."
     },
@@ -163,7 +218,12 @@
       "question": "Let A={1,2,...,20}. Relation R from A to A defined by R={(x,y): 3x-y=0} where x,y∈A. Find the range of R.",
       "image": null,
       "passage": null,
-      "options": ["{1,2,3,4,5,6}", "{3,6,9,12,15,18}", "{6,9,12,15,18,21}", "ℝ"],
+      "options": [
+        "{1,2,3,4,5,6}",
+        "{3,6,9,12,15,18}",
+        "{6,9,12,15,18,21}",
+        "ℝ"
+      ],
       "answer": "B",
       "explanation": "y=3x. For x∈A, y=3x must be ≤20 → x≤6. So x=1,...,6 gives y=3,6,9,12,15,18. Range = {3,6,9,12,15,18}."
     },
@@ -172,7 +232,12 @@
       "question": "A question paper has 12 questions: part I (5 questions), part II (7 questions). Student must attempt 8 questions, at least 3 from each part. Number of ways?",
       "image": null,
       "passage": null,
-      "options": ["210", "175", "385", "420"],
+      "options": [
+        "210",
+        "175",
+        "385",
+        "420"
+      ],
       "answer": "D",
       "explanation": "Possible distribution: (3 from I,5 from II) or (4 from I,4 from II) or (5 from I,3 from II). Ways = C(5,3)C(7,5)+C(5,4)C(7,4)+C(5,5)C(7,3) = 10*21 + 5*35 + 1*35 = 210+175+35=420."
     },
@@ -181,7 +246,12 @@
       "question": "Sum of all natural numbers between 100 and 1000 exclusive, which are divisible by 5.",
       "image": null,
       "passage": null,
-      "options": ["99550", "97350", "550000", "98450"],
+      "options": [
+        "99550",
+        "97350",
+        "550000",
+        "98450"
+      ],
       "answer": "D",
       "explanation": "First term 105, last 995, d=5. Number of terms = ((995-105)/5)+1 = (890/5)+1=178+1=179. Sum = (179/2)*(105+995)=89.5*1100=98450."
     },
@@ -190,7 +260,12 @@
       "question": "Sum of some terms of a geometric sequence is 315, first term 5, common ratio 2. Find last term.",
       "image": null,
       "passage": null,
-      "options": ["160", "180", "224", "150"],
+      "options": [
+        "160",
+        "180",
+        "224",
+        "150"
+      ],
       "answer": "A",
       "explanation": "Sum of n terms = a(r^n -1)/(r-1) = 5(2^n -1) = 315 → 2^n -1 = 63 → 2^n=64 → n=6. Last term = a r^(n-1)=5*2^5=5*32=160."
     },
@@ -213,7 +288,12 @@
       "question": "12th term of geometric sequence whose 8th term is 192 and common ratio 2.",
       "image": null,
       "passage": null,
-      "options": ["3072", "6144", "4450", "9216"],
+      "options": [
+        "3072",
+        "6144",
+        "4450",
+        "9216"
+      ],
       "answer": "A",
       "explanation": "a8 = a*r^7 = a*2^7 = 128a = 192 → a = 192/128 = 1.5. Then a12 = a*r^11 = 1.5 * 2^11 = 1.5 * 2048 = 3072."
     },
@@ -222,7 +302,12 @@
       "question": "Sum to n of the series 1/(1×2) + 1/(2×3) + 1/(3×4) + ...",
       "image": null,
       "passage": null,
-      "options": ["(n+1)/n", "1/(n(n+1))", "n/(n+1)", "n(n+1)"],
+      "options": [
+        "(n+1)/n",
+        "1/(n(n+1))",
+        "n/(n+1)",
+        "n(n+1)"
+      ],
       "answer": "C",
       "explanation": "Telescoping: 1/(k(k+1)) = 1/k - 1/(k+1). Sum from k=1 to n = 1 - 1/(n+1) = n/(n+1)."
     },
@@ -231,7 +316,12 @@
       "question": "Sum of squares of two consecutive odd positive integers is 290. Find the numbers.",
       "image": null,
       "passage": null,
-      "options": ["-13 and 11", "13 and 15", "11 and 13", "9 and 11"],
+      "options": [
+        "-13 and 11",
+        "13 and 15",
+        "11 and 13",
+        "9 and 11"
+      ],
       "answer": "C",
       "explanation": "Let numbers be 2k-1 and 2k+1. (2k-1)^2+(2k+1)^2 = 8k^2+2=290 → 8k^2=288 → k^2=36 → k=6. Numbers: 11 and 13."
     },
@@ -240,7 +330,12 @@
       "question": "Which sampling method involves dividing population into subgroups (strata) then randomly selecting from each stratum?",
       "image": null,
       "passage": null,
-      "options": ["Multistage sampling", "Systematic sampling", "Cluster sampling", "Stratified sampling"],
+      "options": [
+        "Multistage sampling",
+        "Systematic sampling",
+        "Cluster sampling",
+        "Stratified sampling"
+      ],
       "answer": "D",
       "explanation": "Stratified sampling divides population into homogeneous strata and then samples from each stratum."
     },
@@ -263,7 +358,12 @@
       "question": "Slope of tangent line to f(x)=x³-3x+2 at x=3.",
       "image": null,
       "passage": null,
-      "options": ["20", "-1/24", "24", "26"],
+      "options": [
+        "20",
+        "-1/24",
+        "24",
+        "26"
+      ],
       "answer": "C",
       "explanation": "f'(x)=3x²-3, f'(3)=27-3=24."
     },
@@ -272,7 +372,12 @@
       "question": "Volume of cube increasing at 8 cm³/s. How fast is surface area increasing when edge is 12 cm?",
       "image": null,
       "passage": null,
-      "options": ["2/9 cm²/s", "8/3 cm²/s", "3 cm²/s", "12 cm²/s"],
+      "options": [
+        "2/9 cm²/s",
+        "8/3 cm²/s",
+        "3 cm²/s",
+        "12 cm²/s"
+      ],
       "answer": "B",
       "explanation": "V=s³, dV/dt=3s² ds/dt =8 → ds/dt = 8/(3s²). Surface area A=6s², dA/dt=12s ds/dt =12s * 8/(3s²)=96/(3s)=32/s. At s=12, dA/dt=32/12=8/3."
     },
@@ -281,7 +386,12 @@
       "question": "Marginal revenue when x=10 for R(x)=13x²+26x+15.",
       "image": null,
       "passage": null,
-      "options": ["286", "1575", "301", "26"],
+      "options": [
+        "286",
+        "1575",
+        "301",
+        "26"
+      ],
       "answer": "A",
       "explanation": "Marginal revenue = R'(x)=26x+26, at x=10: 260+26=286."
     },
@@ -304,7 +414,12 @@
       "question": "Area bounded by y=x³ and x-axis between x=-2 and x=1.",
       "image": null,
       "passage": null,
-      "options": ["16/4", "15/4", "9", "17/4"],
+      "options": [
+        "16/4",
+        "15/4",
+        "9",
+        "17/4"
+      ],
       "answer": "D",
       "explanation": "Area = ∫_{-2}^{0} |x³| dx + ∫_{0}^{1} x³ dx = ∫_{-2}^{0} -x³ dx + ∫_{0}^{1} x³ dx = [ -x⁴/4 ]_{-2}^{0} + [ x⁴/4 ]_{0}^{1} = (0 - (-16/4)) + (1/4 - 0) = 4 + 1/4 = 17/4."
     },
@@ -313,7 +428,12 @@
       "question": "Local maximum value of f(x)=x³-6x²+9x+15.",
       "image": null,
       "passage": null,
-      "options": ["f(1)", "f(3)", "f(-1)", "f(-3)"],
+      "options": [
+        "f(1)",
+        "f(3)",
+        "f(-1)",
+        "f(-3)"
+      ],
       "answer": "A",
       "explanation": "f'(x)=3x²-12x+9=3(x²-4x+3)=3(x-1)(x-3). Critical points x=1,3. f''(x)=6x-12, f''(1)=-6<0 → local max at x=1. f(1)=1-6+9+15=19, so local maximum value is f(1)."
     },
@@ -322,7 +442,12 @@
       "question": "Area of parallelogram with adjacent sides i+k and 2i+j+k.",
       "image": null,
       "passage": null,
-      "options": ["√2", "√3", "2", "3"],
+      "options": [
+        "√2",
+        "√3",
+        "2",
+        "3"
+      ],
       "answer": "B",
       "explanation": "Vectors a=(1,0,1), b=(2,1,1). Cross product a×b = determinant |i j k; 1 0 1; 2 1 1| = i(0*1 - 1*1) - j(1*1 - 1*2) + k(1*1 - 0*2) = i(-1) - j(1-2) + k(1) = (-1, 1, 1). Magnitude = √(1+1+1)=√3."
     },
@@ -331,7 +456,12 @@
       "question": "Coordinates of centroid of triangle with vertices A(2,1), B(5,8), C(8,3).",
       "image": null,
       "passage": null,
-      "options": ["(4,5)", "(5,8)", "(5,2)", "(5,4)"],
+      "options": [
+        "(4,5)",
+        "(5,8)",
+        "(5,2)",
+        "(5,4)"
+      ],
       "answer": "D",
       "explanation": "Centroid = ((2+5+8)/3, (1+8+3)/3) = (15/3, 12/3) = (5,4)."
     },
@@ -340,7 +470,12 @@
       "question": "Sequence defined by a_n = a_{n-1} + (a_{n-2})² + n, with a₁=1, a₂=-2. Find a₃? (Options: 29,175,125,493) Likely a₃? Actually question says 'value of a_n' but options are numbers; probably a₃ or a₄? Let's compute: a₃ = a₂ + (a₁)² + 3 = -2+1+3=2. Not in options. a₄ = a₃ + (a₂)²+4 = 2+4+4=10. Not. a₅ = a₄ + (a₃)²+5 = 10+4+5=19. Not. a₆ = 19 + (10)²+6 = 19+100+6=125. So a₆=125. Answer C.",
       "image": null,
       "passage": null,
-      "options": ["29", "175", "125", "493"],
+      "options": [
+        "29",
+        "175",
+        "125",
+        "493"
+      ],
       "answer": "C",
       "explanation": "Compute: a₃= -2+1+3=2; a₄=2+(-2)²+4=2+4+4=10; a₅=10+2²+5=10+4+5=19; a₆=19+10²+6=19+100+6=125."
     },
@@ -363,7 +498,12 @@
       "question": "Solution set of (3x)/(x+4) + 2/(x²+6x+8) = 1/(x+2).",
       "image": null,
       "passage": null,
-      "options": ["{-2}", "{-2, 1/3}", "{}", "{1/3}"],
+      "options": [
+        "{-2}",
+        "{-2, 1/3}",
+        "{}",
+        "{1/3}"
+      ],
       "answer": "D",
       "explanation": "Note x²+6x+8=(x+2)(x+4). Multiply by (x+2)(x+4): 3x(x+2) + 2 = (x+4). So 3x²+6x+2 = x+4 → 3x²+5x-2=0 → (3x-1)(x+2)=0 → x=1/3 or x=-2. But x=-2 makes denominators zero (excluded). So only x=1/3."
     },
@@ -372,7 +512,12 @@
       "question": "Solution set of system: x+y+z=1, y+z=3, x-y+z=-5? (The PDF has garbled text, but likely this).",
       "image": null,
       "passage": null,
-      "options": ["{(-2,2,1)}", "{(2,-2,1)}", "{(2,1,-2)}", "{(-2,-2,1)}"],
+      "options": [
+        "{(-2,2,1)}",
+        "{(2,-2,1)}",
+        "{(2,1,-2)}",
+        "{(-2,-2,1)}"
+      ],
       "answer": "A",
       "explanation": "From second: y+z=3. From first: x+3=1 → x=-2. Third: -2 - y + z = -5 → -y+z = -3. Solve with y+z=3: adding gives 2z=0 → z=0, then y=3. So (-2,3,0) not matching options. Possibly different equations. Given typical exam, answer A (-2,2,1) works if equations are: x+y+z=1, y+z=3, x-y+z=-5 → then x=-2, y+z=3, -2-y+z=-5 → z-y=-3, solving gives z=0,y=3. So none. I'll assume they have correct answer as A."
     },
@@ -395,7 +540,12 @@
       "question": "Image of point (1,-3) under translation T if image of (-1,2) is (3,-1).",
       "image": null,
       "passage": null,
-      "options": ["(4,-3)", "(3,0)", "(5,-6)", "(5,6)"],
+      "options": [
+        "(4,-3)",
+        "(3,0)",
+        "(5,-6)",
+        "(5,6)"
+      ],
       "answer": "C",
       "explanation": "Translation vector = (3-(-1), -1-2) = (4, -3). So image of (1,-3) = (1+4, -3-3) = (5, -6)."
     },
@@ -404,7 +554,12 @@
       "question": "Find fifth decile (D₅) of data: 10,13,15,12,18,15,16,12,13,20,17,14,19,18,23,2.",
       "image": null,
       "passage": null,
-      "options": ["15.5", "16", "12.5", "15"],
+      "options": [
+        "15.5",
+        "16",
+        "12.5",
+        "15"
+      ],
       "answer": "D",
       "explanation": "Sort: 2,10,12,12,13,13,14,15,15,16,17,18,18,19,20,23. n=16. D₅ = 5th decile = 50th percentile = median. Median = average of 8th and 9th values = (15+15)/2=15."
     },
@@ -413,7 +568,12 @@
       "question": "Image of line l: y=5x after reflection about line L: y=2x+1.",
       "image": null,
       "passage": null,
-      "options": ["y=-5x+11", "y=5x-11", "y=x+11", "y=7x-19"],
+      "options": [
+        "y=-5x+11",
+        "y=5x-11",
+        "y=x+11",
+        "y=7x-19"
+      ],
       "answer": "A",
       "explanation": "Reflection of line y=5x in line y=2x+1. Requires formula or solving. Given options, likely A."
     },
@@ -422,7 +582,12 @@
       "question": "If u = 3i+2j+5k and v = -3i+2j+k, then (3u)·(u×v) = ?",
       "image": null,
       "passage": null,
-      "options": ["-12", "12", "0", "-6"],
+      "options": [
+        "-12",
+        "12",
+        "0",
+        "-6"
+      ],
       "answer": "C",
       "explanation": "Scalar triple product (3u)·(u×v) = 3 [u·(u×v)] = 3*0 = 0 because u·(u×v)=0 (u perpendicular to cross product)."
     },
@@ -445,7 +610,12 @@
       "question": "Absolute maximum value of f(x)=x³-6x² on [-1,1].",
       "image": null,
       "passage": null,
-      "options": ["32", "7", "5", "0"],
+      "options": [
+        "32",
+        "7",
+        "5",
+        "0"
+      ],
       "answer": "C",
       "explanation": "f'(x)=3x²-12x=3x(x-4). Critical points: x=0 (inside), x=4 (outside). f(-1)=-1-6=-7, f(0)=0, f(1)=1-6=-5. Maximum = 0? But options include 5? Wait f(0)=0, f(1)=-5, f(-1)=-7, max=0. Option D is 0. But also check endpoints: f(-1)=-7, f(1)=-5, f(0)=0. So absolute max = 0. But option C is 5, not. Possibly the function is x³+6x²? Then f(-1)=5, f(0)=0, f(1)=7, max=7. Given options, likely the intended function gave max 7? But as written, answer 0. I'll check original PDF: It says f(x)=x³-6x². So max on [-1,1] is 0. Answer D."
     },
@@ -454,16 +624,26 @@
       "question": "∫₀² (3x²+2x) dx = ?",
       "image": null,
       "passage": null,
-      "options": ["20", "10", "12", "8"],
+      "options": [
+        "20",
+        "10",
+        "12",
+        "8"
+      ],
       "answer": "C",
       "explanation": "∫(3x²+2x)dx = x³+x². Evaluate 0 to 2: 8+4=12."
     },
     {
       "id": 46,
-      "question": "Total cost C(x)=x²+7000, revenue R(x)=10x²-1000? Wait PDF: C(x)=x²+7000, R(x)=10x/(x²-1000)? That seems wrong. Likely R(x)=10x? Actually given: C(x)=x²+7,000, R(x)=10x? But options are large. Let's reconstruct: The PDF text: "C(x)=x^2+7,000 and R(x)=10x^2-1,000? No. Actually from image: "C(x)=x^2+7,000 and R(x)=10x^2-1,000? But then profit =9x^2-8,000, unbounded. Probably it's a typo. Given typical problem, maximum profit occurs at derivative. I'll skip to match options. Likely answer C 9,000.",
+      "question": "Total cost C(x)=x²+7000, revenue R(x)=10x²-1000? Wait PDF: C(x)=x²+7000, R(x)=10x/(x²-1000)? That seems wrong. Likely R(x)=10x? Actually given: C(x)=x²+7,000, R(x)=10x? But options are large. Let's reconstruct: The PDF text: \"C(x)=x^2+7,000 and R(x)=10x^2-1,000? No. Actually from image: \"C(x)=x^2+7,000 and R(x)=10x^2-1,000? But then profit =9x^2-8,000, unbounded. Probably it's a typo. Given typical problem, maximum profit occurs at derivative. I'll skip to match options. Likely answer C 9,000.",
       "image": null,
       "passage": null,
-      "options": ["8000", "16000", "9000", "32000"],
+      "options": [
+        "8000",
+        "16000",
+        "9000",
+        "32000"
+      ],
       "answer": "C",
       "explanation": "Assuming correct numbers, the maximum profit is Birr 9,000."
     },
@@ -472,7 +652,12 @@
       "question": "Toss a coin four times. Number of outcomes with at least two tails.",
       "image": null,
       "passage": null,
-      "options": ["9", "12", "11", "8"],
+      "options": [
+        "9",
+        "12",
+        "11",
+        "8"
+      ],
       "answer": "C",
       "explanation": "Total outcomes 16. Number with 0 tails: 1, with 1 tail: 4. So at least 2 tails = 16-5=11."
     },
@@ -481,7 +666,12 @@
       "question": "If f(x)=√(x²+2x+1), then f'(2)=?",
       "image": null,
       "passage": null,
-      "options": ["2", "1/3", "2/3", "1"],
+      "options": [
+        "2",
+        "1/3",
+        "2/3",
+        "1"
+      ],
       "answer": "D",
       "explanation": "Simplify: √((x+1)²)=|x+1|. For x=2, |x+1|=x+1=3. f'(x)= sign(x+1)=1 for x>-1. So f'(2)=1."
     },
@@ -490,7 +680,12 @@
       "question": "Sum of infinite series 0.33 + 0.0033 + 0.00033 + ...",
       "image": null,
       "passage": null,
-      "options": ["33/(10^n)", "2/3", "33/(10^(n+1))", "1/3"],
+      "options": [
+        "33/(10^n)",
+        "2/3",
+        "33/(10^(n+1))",
+        "1/3"
+      ],
       "answer": "D",
       "explanation": "0.33 = 33/100, next term 33/10000, etc. Sum = (33/100)/(1 - 1/100) = (33/100)/(99/100)=33/99=1/3."
     },
@@ -499,7 +694,12 @@
       "question": "Box with 8 items, 6 defective. Select 3 items. Probability that two defective and one non-defective.",
       "image": null,
       "passage": null,
-      "options": ["3/14", "15/56", "5/56", "15/28"],
+      "options": [
+        "3/14",
+        "15/56",
+        "5/56",
+        "15/28"
+      ],
       "answer": "D",
       "explanation": "Number of ways: choose 2 defective from 6: C(6,2)=15, choose 1 non-defective from 2: C(2,1)=2. Total favorable =30. Total ways = C(8,3)=56. Probability = 30/56 = 15/28."
     },
@@ -536,7 +736,12 @@
       "question": "If f(x)=√(x+2) and g(x)=(1-2x)/x, then (f∘g)(1/4)=?",
       "image": null,
       "passage": null,
-      "options": ["2", "1/4", "1/2", "4"],
+      "options": [
+        "2",
+        "1/4",
+        "1/2",
+        "4"
+      ],
       "answer": "D",
       "explanation": "g(1/4) = (1 - 0.5)/(0.25) = 0.5/0.25 = 2. Then f(2)=√(2+2)=√4=2? That gives 2, not 4. Wait f(2)=√4=2. Option A is 2. Let me recalc: g(1/4) = (1 - 2*(1/4)) / (1/4) = (1 - 0.5)/0.25 = 0.5/0.25 = 2. f(2)=√(2+2)=2. So answer should be 2. But option A is 2. However option D is 4. Possibly mistake: f(x)=√(x+2) indeed gives 2. So answer A."
     },
@@ -552,7 +757,7 @@
         "Class C more consistent than B"
       ],
       "answer": "B",
-      "explanation": "Lower standard deviation means more consistent. Class A sd=5.85, B=5.80, C=6.02, D=6.05. So B has lowest sd, most consistent. Option B says A more consistent than B? False (5.85 > 5.80). Option D: C more consistent than B? False (6.02 > 5.80). Option A: D highly variable? True (highest sd) but not stated as 'highly variable'? Usually true. But given typical multiple choice, the true statement might be that A is more consistent than B is false. Wait need to pick true. Actually A: D has highest sd, so highly variable - true. B: A more consistent than B? false. C: most consistent is C? false. D: C more consistent than B? false. So A is true. But check wording: "The result of class D students is highly variable." That is true. So answer A."
+      "explanation": "Lower standard deviation means more consistent. Class A sd=5.85, B=5.80, C=6.02, D=6.05. So B has lowest sd, most consistent. Option B says A more consistent than B? False (5.85 > 5.80). Option D: C more consistent than B? False (6.02 > 5.80). Option A: D highly variable? True (highest sd) but not stated as 'highly variable'? Usually true. But given typical multiple choice, the true statement might be that A is more consistent than B is false. Wait need to pick true. Actually A: D has highest sd, so highly variable - true. B: A more consistent than B? false. C: most consistent is C? false. D: C more consistent than B? false. So A is true. But check wording: \"The result of class D students is highly variable.\" That is true. So answer A."
     },
     {
       "id": 55,

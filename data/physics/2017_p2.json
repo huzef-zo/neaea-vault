@@ -8,7 +8,12 @@
       "question": "Two vectors A and B are given as shown in the figure below. Which one of the following vectors may represent A - B?",
       "image": "./images/2017_p2_q1.png",
       "passage": null,
-      "options": ["Vector diagram 1", "Vector diagram 2", "Vector diagram 3", "Vector diagram 4"],
+      "options": [
+        "Vector diagram 1",
+        "Vector diagram 2",
+        "Vector diagram 3",
+        "Vector diagram 4"
+      ],
       "answer": "C",
       "explanation": "A - B = A + (-B). The correct vector diagram shows the tail of -B placed at tip of A, with resultant from tail of A to tip of -B."
     },
@@ -45,7 +50,12 @@
       "question": "A 0.25 kg ball moving at 4 m/s collides inelastically with a stationary ball of mass 0.75 kg. After collision they stick together. What is the kinetic energy lost?",
       "image": null,
       "passage": null,
-      "options": ["4 J", "2 J", "3.5 J", "1.5 J"],
+      "options": [
+        "4 J",
+        "2 J",
+        "3.5 J",
+        "1.5 J"
+      ],
       "answer": "D",
       "explanation": "Initial KE = 0.5*0.25*16 = 2 J. Final velocity = (0.25*4)/(1) = 1 m/s. Final KE = 0.5*1*1 = 0.5 J. Lost = 1.5 J."
     },
@@ -54,7 +64,12 @@
       "question": "A block weighing 200 N is placed on a frictionless inclined plane that rises to a height of 3 m over a distance of 12 m along the plane. What is the mechanical advantage (MA) of the inclined plane?",
       "image": null,
       "passage": null,
-      "options": ["1.67", "3.00", "4.00", "6.00"],
+      "options": [
+        "1.67",
+        "3.00",
+        "4.00",
+        "6.00"
+      ],
       "answer": "C",
       "explanation": "MA = length along plane / height = 12/3 = 4."
     },
@@ -105,7 +120,12 @@
       "question": "The sound intensity at a distance of 2 m from a point source is 1 W/m². What will be the intensity at a distance of 4 m from the same source, assuming uniform spherical spreading?",
       "image": null,
       "passage": null,
-      "options": ["0.25 W/m²", "0.5 W/m²", "1.0 W/m²", "2 W/m²"],
+      "options": [
+        "0.25 W/m²",
+        "0.5 W/m²",
+        "1.0 W/m²",
+        "2 W/m²"
+      ],
       "answer": "A",
       "explanation": "Intensity ∝ 1/r², so I₂ = I₁*(r₁²/r₂²) = 1*(4/16)=0.25 W/m²."
     },
@@ -170,7 +190,12 @@
       "question": "A particle moves along a path represented by vector S(t) = t² i + (3t - t²) j. At time t=2, what is the work done by a constant force F = 4i + 3j over the displacement?",
       "image": null,
       "passage": null,
-      "options": ["6 J", "12 J", "20 J", "22 J"],
+      "options": [
+        "6 J",
+        "12 J",
+        "20 J",
+        "22 J"
+      ],
       "answer": "C",
       "explanation": "Displacement from t=0 to t=2: S(2)-S(0) = (4i+(6-4)j) - (0) = 4i+2j. Work = F·S = 4*4 + 3*2 = 16+6=22 J. Answer D."
     },
@@ -179,7 +204,12 @@
       "question": "The velocity of a particle moving with constant acceleration at an instant t₀ is 10 m/s. After 5 seconds, velocity is 20 m/s. The velocity at 3 seconds before t₀ is:",
       "image": null,
       "passage": null,
-      "options": ["8 m/s", "4 m/s", "6 m/s", "7 m/s"],
+      "options": [
+        "8 m/s",
+        "4 m/s",
+        "6 m/s",
+        "7 m/s"
+      ],
       "answer": "B",
       "explanation": "Acceleration a = (20-10)/5 = 2 m/s². Velocity at t = t₀-3: v = u - a*3 = 10 - 6 = 4 m/s."
     },
@@ -188,7 +218,12 @@
       "question": "The figure below shows a velocity-time graph of a particle moving along a straight line. The total displacement after 8 s is:",
       "image": "./images/2017_p2_q16.png",
       "passage": null,
-      "options": ["-1.0 m", "33 m", "67 m", "-34 m"],
+      "options": [
+        "-1.0 m",
+        "33 m",
+        "67 m",
+        "-34 m"
+      ],
       "answer": "A",
       "explanation": "Displacement = area under v-t graph. From the graph (not visible), the net area gives -1.0 m."
     },
@@ -197,7 +232,12 @@
       "question": "A ball is dropped from a height of 80 m. How long will it take to hit the ground? (g=10 m/s²)",
       "image": null,
       "passage": null,
-      "options": ["3.5 s", "4.0 s", "5.0 s", "6.0 s"],
+      "options": [
+        "3.5 s",
+        "4.0 s",
+        "5.0 s",
+        "6.0 s"
+      ],
       "answer": "B",
       "explanation": "t = √(2h/g) = √(160/10) = √16 = 4 s."
     },
@@ -206,16 +246,26 @@
       "question": "A car takes a turn on a flat road with velocity v and radius r. If velocity is reduced by half while radius constant, how does the frictional force required for circular motion change?",
       "image": null,
       "passage": null,
-      "options": ["It is halved", "It remains the same", "It is doubled", "It is quadrupled"],
+      "options": [
+        "It is halved",
+        "It remains the same",
+        "It is doubled",
+        "It is quadrupled"
+      ],
       "answer": "A",
-      "explanation": "Centripetal force = mv²/r. v becomes v/2, so force becomes (1/4) of original, i.e., quartered, not halved. Wait: v² becomes v²/4, so force is quartered. But option says halved? Actually halved is incorrect. The correct answer is not listed. However maybe they think force ∝ v, then half? No. Given options, closest is halved? No. Perhaps they mean the frictional force required is proportional to v², so quartered. None. I'll check: v reduced by half, v² reduced to 1/4, so f becomes 1/4. Not an option. Possibly they ask for change in required friction? It is quartered. None. I'll assume a misprint and answer A? But I'll put D? No. Let's see: If v halved, f becomes 1/4, so it is quartered. Not listed. Maybe they mean velocity doubled? Then f quadrupled. Given the options, perhaps they meant quartered is not there, but "halved" is wrong. I'll select A as a guess? Actually many students mistakenly think force ∝ v, so would say halved. The correct answer is not there. I'll put A and note in explanation that it should be quartered."
+      "explanation": "Centripetal force = mv²/r. v becomes v/2, so force becomes (1/4) of original, i.e., quartered, not halved. Wait: v² becomes v²/4, so force is quartered. But option says halved? Actually halved is incorrect. The correct answer is not listed. However maybe they think force ∝ v, then half? No. Given options, closest is halved? No. Perhaps they mean the frictional force required is proportional to v², so quartered. None. I'll check: v reduced by half, v² reduced to 1/4, so f becomes 1/4. Not an option. Possibly they ask for change in required friction? It is quartered. None. I'll assume a misprint and answer A? But I'll put D? No. Let's see: If v halved, f becomes 1/4, so it is quartered. Not listed. Maybe they mean velocity doubled? Then f quadrupled. Given the options, perhaps they meant quartered is not there, but \"halved\" is wrong. I'll select A as a guess? Actually many students mistakenly think force ∝ v, so would say halved. The correct answer is not there. I'll put A and note in explanation that it should be quartered."
     },
     {
       "id": 19,
       "question": "A 5 kg box is resting on an incline of 30°. Coefficient of static friction = 0.58. What is the maximum static friction force before it slides?",
       "image": null,
       "passage": null,
-      "options": ["25 N", "15 N", "12.5 N", "10 N"],
+      "options": [
+        "25 N",
+        "15 N",
+        "12.5 N",
+        "10 N"
+      ],
       "answer": "A",
       "explanation": "Maximum static friction = μs * N = μs * mg cosθ = 0.58*5*10*cos30 = 0.58*50*0.866 = 0.58*43.3 = 25.1 N ≈ 25 N."
     },
@@ -224,7 +274,12 @@
       "question": "If the force applied to an object is perpendicular to its displacement, what is the work done?",
       "image": null,
       "passage": null,
-      "options": ["Maximum", "Negative", "Half of the maximum", "Zero"],
+      "options": [
+        "Maximum",
+        "Negative",
+        "Half of the maximum",
+        "Zero"
+      ],
       "answer": "D",
       "explanation": "Work = F·d = F d cosθ; cos90°=0, so work=0."
     },
@@ -233,7 +288,12 @@
       "question": "The system shown in the figure is in equilibrium. The maximum value of W, so that the maximum static frictional force on the 100 kg body is 450 N, will be:",
       "image": "./images/2017_p2_q21.png",
       "passage": null,
-      "options": ["50 N", "100 N", "150 N", "200 N"],
+      "options": [
+        "50 N",
+        "100 N",
+        "150 N",
+        "200 N"
+      ],
       "answer": "C",
       "explanation": "From the figure (not visible), the tension in the string equals weight W. For the 100 kg block, friction balances tension component. Solve for W given max friction = 450 N. Likely W = 150 N."
     },
@@ -242,7 +302,12 @@
       "question": "In the figure below, the position-time graph of a particle of mass 0.1 kg is shown. The impulse at t = 2 sec is:",
       "image": "./images/2017_p2_q22.png",
       "passage": null,
-      "options": ["0.2 kg m/s", "0.4 kg m/s", "0.6 kg m/s", "0.8 kg m/s"],
+      "options": [
+        "0.2 kg m/s",
+        "0.4 kg m/s",
+        "0.6 kg m/s",
+        "0.8 kg m/s"
+      ],
       "answer": "B",
       "explanation": "Impulse = change in momentum = mΔv. From the graph, slope gives velocity. At t=2, velocity changes. Compute Δv and multiply by mass."
     },
@@ -279,7 +344,12 @@
       "question": "Two rods of length L and 2L with coefficients of linear expansion α and 2α respectively are connected so total length becomes 3L. The average coefficient of linear expansion of the composite rod equals:",
       "image": null,
       "passage": null,
-      "options": ["(3/2)α", "(5/3)α", "(5/2)α", "α"],
+      "options": [
+        "(3/2)α",
+        "(5/3)α",
+        "(5/2)α",
+        "α"
+      ],
       "answer": "B",
       "explanation": "ΔL_total = L α ΔT + 2L (2α) ΔT = LαΔT + 4LαΔT = 5LαΔT. Average α = ΔL_total/(3L ΔT) = 5α/3."
     },
@@ -302,7 +372,12 @@
       "question": "Two small spheres with charges q₁=3 μC and q₂=-2 μC are placed 6 cm apart in vacuum. What is the magnitude of electrostatic force between them? (k=9×10⁹ Nm²/C²)",
       "image": null,
       "passage": null,
-      "options": ["1.5 N", "9 N", "3 N", "15 N"],
+      "options": [
+        "1.5 N",
+        "9 N",
+        "3 N",
+        "15 N"
+      ],
       "answer": "D",
       "explanation": "F = k|q₁q₂|/r² = 9e9 * (3e-6*2e-6)/(0.06²) = 9e9 * 6e-12 / 0.0036 = 54e-3 / 0.0036 = 0.054/0.0036 = 15 N."
     },
@@ -325,7 +400,12 @@
       "question": "Designing a circuit to convert a galvanometer (full-scale 5 mA, resistance 30 Ω) into a voltmeter measuring up to 50 V. What series resistor is needed?",
       "image": null,
       "passage": null,
-      "options": ["9,970 Ω", "10,000 Ω", "1,000 Ω", "2,000 Ω"],
+      "options": [
+        "9,970 Ω",
+        "10,000 Ω",
+        "1,000 Ω",
+        "2,000 Ω"
+      ],
       "answer": "A",
       "explanation": "V = I_g (R_g + R_s) → 50 = 0.005*(30 + R_s) → 30+R_s = 10000 → R_s = 9970 Ω."
     },
@@ -348,7 +428,12 @@
       "question": "An ancient wooden artifact has only 25% of its original ¹⁴C remaining. Half-life of ¹⁴C is 5730 years. How old is the artifact?",
       "image": null,
       "passage": null,
-      "options": ["5,730 years", "11,460 years", "17,190 years", "22,920 years"],
+      "options": [
+        "5,730 years",
+        "11,460 years",
+        "17,190 years",
+        "22,920 years"
+      ],
       "answer": "B",
       "explanation": "25% means two half-lives: 2 * 5730 = 11,460 years."
     },
@@ -427,7 +512,12 @@
       "question": "Which type of radiation, related to physics in medicine, is frequently used in cancer treatment?",
       "image": null,
       "passage": null,
-      "options": ["Gamma-rays", "Radio waves", "Alpha particles", "Microwaves"],
+      "options": [
+        "Gamma-rays",
+        "Radio waves",
+        "Alpha particles",
+        "Microwaves"
+      ],
       "answer": "A",
       "explanation": "Gamma rays are used in radiation therapy to kill cancer cells."
     },
@@ -450,7 +540,12 @@
       "question": "Which branch of physics is most crucial for understanding transmission of radio waves, microwaves, and infrared waves in communication technologies?",
       "image": null,
       "passage": null,
-      "options": ["Thermodynamics", "Quantum mechanics", "Classical mechanics", "Electromagnetism"],
+      "options": [
+        "Thermodynamics",
+        "Quantum mechanics",
+        "Classical mechanics",
+        "Electromagnetism"
+      ],
       "answer": "D",
       "explanation": "Electromagnetism describes propagation of electromagnetic waves."
     },
@@ -459,7 +554,12 @@
       "question": "At the peak of its trajectory, what is the vertical component of a projectile's velocity?",
       "image": null,
       "passage": null,
-      "options": ["Maximum", "Half of initial value", "Zero", "Constant"],
+      "options": [
+        "Maximum",
+        "Half of initial value",
+        "Zero",
+        "Constant"
+      ],
       "answer": "C",
       "explanation": "At maximum height, vertical velocity becomes zero."
     },
@@ -468,7 +568,12 @@
       "question": "In projectile motion, which is the correct relation between total time of flight (T) and maximum height (H)?",
       "image": null,
       "passage": null,
-      "options": ["H = (1/4)gT²", "H = (1/2)gT²", "H = (1/8)gT²", "H = gT"],
+      "options": [
+        "H = (1/4)gT²",
+        "H = (1/2)gT²",
+        "H = (1/8)gT²",
+        "H = gT"
+      ],
       "answer": "C",
       "explanation": "Time of flight T = 2u sinθ/g, max height H = u² sin²θ/(2g) = (gT²/8). So H = (1/8)gT²."
     },
@@ -505,7 +610,12 @@
       "question": "A fan blade starts from rest and reaches angular velocity 30 rad/s in 6 s with constant angular acceleration. What is angular displacement during this time?",
       "image": null,
       "passage": null,
-      "options": ["90 rad", "120 rad", "180 rad", "210 rad"],
+      "options": [
+        "90 rad",
+        "120 rad",
+        "180 rad",
+        "210 rad"
+      ],
       "answer": "A",
       "explanation": "θ = (ω₀+ω)t/2 = (0+30)*6/2 = 90 rad."
     },
@@ -528,7 +638,12 @@
       "question": "Rotating system: m₁=2kg at r₁=1m, m₂=3kg at r₂=2m, m₃=4kg at r₃=3m. What is total moment of inertia I about the axis?",
       "image": null,
       "passage": null,
-      "options": ["34 kg·m²", "38 kg·m²", "42 kg·m²", "50 kg·m²"],
+      "options": [
+        "34 kg·m²",
+        "38 kg·m²",
+        "42 kg·m²",
+        "50 kg·m²"
+      ],
       "answer": "D",
       "explanation": "I = Σ m r² = 2*1² + 3*2² + 4*3² = 2 + 12 + 36 = 50 kg·m²."
     },
@@ -551,7 +666,12 @@
       "question": "Two moons orbit a planet. Moon A has orbital radius R, Moon B has radius 4R. How does orbital period of B compare to A?",
       "image": null,
       "passage": null,
-      "options": ["Twice as long", "8 times as long", "4 times as long", "2 times as long"],
+      "options": [
+        "Twice as long",
+        "8 times as long",
+        "4 times as long",
+        "2 times as long"
+      ],
       "answer": "B",
       "explanation": "Kepler's third law: T² ∝ r³, so T_B/T_A = (4R/R)^(3/2) = 4^(3/2)=8."
     },
@@ -560,7 +680,12 @@
       "question": "Two masses 4 kg and 6 kg separated by 2 m. Gravitational force between them? G=6.7×10⁻¹¹ Nm²/kg²",
       "image": null,
       "passage": null,
-      "options": ["4.0×10⁻¹¹ N", "8.0×10⁻¹⁰ N", "2.0×10⁻¹¹ N", "4.0×10⁻¹⁰ N"],
+      "options": [
+        "4.0×10⁻¹¹ N",
+        "8.0×10⁻¹⁰ N",
+        "2.0×10⁻¹¹ N",
+        "4.0×10⁻¹⁰ N"
+      ],
       "answer": "D",
       "explanation": "F = G m₁m₂/r² = 6.7e-11 * 4*6 / 4 = 6.7e-11 * 24/4 = 6.7e-11 * 6 = 4.02e-10 N ≈ 4.0×10⁻¹⁰ N."
     },
@@ -611,7 +736,12 @@
       "question": "What force is needed on a hydraulic press piston of radius 2 cm to produce 7200 N on working piston of radius 6 cm?",
       "image": null,
       "passage": null,
-      "options": ["2400 N", "800 N", "1050 N", "667 N"],
+      "options": [
+        "2400 N",
+        "800 N",
+        "1050 N",
+        "667 N"
+      ],
       "answer": "B",
       "explanation": "F1/A1 = F2/A2 → F1 = F2*(A1/A2) = 7200*(π*2²)/(π*6²)=7200*(4/36)=7200/9=800 N."
     },
@@ -648,7 +778,12 @@
       "question": "A cube with side 0.5 m submerged in fluid density 1200 kg/m³. Buoyant force?",
       "image": null,
       "passage": null,
-      "options": ["1500 N", "500 N", "1200 N", "250 N"],
+      "options": [
+        "1500 N",
+        "500 N",
+        "1200 N",
+        "250 N"
+      ],
       "answer": "A",
       "explanation": "Volume = 0.125 m³, buoyant force = ρVg = 1200*0.125*10 = 1500 N."
     },
@@ -657,7 +792,12 @@
       "question": "A liquid flows through horizontal pipe where diameter decreases from 10 cm to 5 cm. Velocity at larger section = 4 m/s. Velocity at smaller section?",
       "image": null,
       "passage": null,
-      "options": ["4 m/s", "8 m/s", "12 m/s", "16 m/s"],
+      "options": [
+        "4 m/s",
+        "8 m/s",
+        "12 m/s",
+        "16 m/s"
+      ],
       "answer": "D",
       "explanation": "Continuity: A₁v₁ = A₂v₂ → (π*5²)*4 = (π*2.5²)*v₂ → 25*4 = 6.25 v₂ → v₂ = 100/6.25 = 16 m/s."
     },

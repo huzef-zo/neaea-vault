@@ -8,7 +8,12 @@
       "question": "Let a function f(x) = -4x^3 - 2x - 10, then which one of the following is true about f.",
       "image": null,
       "passage": null,
-      "options": ["f is neither even nor odd", "f is odd", "f is even", "f is both even and odd"],
+      "options": [
+        "f is neither even nor odd",
+        "f is odd",
+        "f is even",
+        "f is both even and odd"
+      ],
       "answer": "A",
       "explanation": "f(-x) = -4(-x)^3 -2(-x) -10 = 4x^3 + 2x -10, which is not equal to f(x) or -f(x). So it is neither even nor odd."
     },
@@ -17,7 +22,12 @@
       "question": "If (g o f)(x) = x^2 + x + 6 and f(x) = x + 2, then what is the equivalent expression for g(x)?",
       "image": null,
       "passage": null,
-      "options": ["x^2 - 3x + 8", "-x^2 - 3x + 6", "x^2 + 3x + 8", "x^2 - 3x - 6"],
+      "options": [
+        "x^2 - 3x + 8",
+        "-x^2 - 3x + 6",
+        "x^2 + 3x + 8",
+        "x^2 - 3x - 6"
+      ],
       "answer": "A",
       "explanation": "g(f(x)) = g(x+2) = x^2 + x + 6. Let u = x+2, then x = u-2. So g(u) = (u-2)^2 + (u-2) + 6 = u^2 -4u+4 + u-2 +6 = u^2 -3u +8. Thus g(x) = x^2 -3x +8."
     },
@@ -96,7 +106,12 @@
       "question": "What is the solution set of the expression (36x-72)/(-x^3+4x) = [ (x-1)/(x+1) - (x+1)/(x-1) ] / [ (x+2)/(x^2-1) ] ?",
       "image": null,
       "passage": null,
-      "options": ["{-3,-2}", "{-3,3}", "{3,2}", "{3,3}"],
+      "options": [
+        "{-3,-2}",
+        "{-3,3}",
+        "{3,2}",
+        "{3,3}"
+      ],
       "answer": "B",
       "explanation": "Simplify both sides. Left: 36(x-2)/[x(4-x^2)] = 36(x-2)/[x(2-x)(2+x)] = -36/[x(2+x)] for x≠2. Right side complex. After simplification, equation reduces to x^2=9, so x=±3, but check domain restrictions. Solutions: -3 and 3."
     },
@@ -105,7 +120,12 @@
       "question": "Let L: 6x+8y=20. Then what is the distance d from the point p(-6,-6) to the line L?",
       "image": null,
       "passage": null,
-      "options": ["12", "9", "13", "10"],
+      "options": [
+        "12",
+        "9",
+        "13",
+        "10"
+      ],
       "answer": "D",
       "explanation": "Distance = |6(-6)+8(-6)-20|/√(6^2+8^2) = | -36 -48 -20|/10 = | -104|/10 = 10.4? Wait -104/10 = -10.4, absolute 10.4, but options are integers. Check: 6x+8y-20=0, point (-6,-6): 6(-6)+8(-6)-20 = -36-48-20=-104, | -104|=104, sqrt(36+64)=10, so 104/10=10.4. None match. Possibly the line is 6x+8y=20? That is what we used. Maybe the point is (-6,6) or something. Given options, 10 is closest, but 10.4 not listed. Perhaps they forgot absolute? 104/10=10.4, but if they computed as | -36-48+20|=| -64|=64/10=6.4 no. Let me recalc: 6*(-6)+8*(-6)= -36-48=-84, then -84-20? The line is 6x+8y-20=0, so -84-20=-104 correct. If the line were 6x+8y+20=0, then -84+20=-64, 6.4. None. Possibly the point is (-6,6): then 6(-6)+8(6)-20=-36+48-20=-8, 0.8. Not. I'll assume the intended answer is 10 (maybe they used |Ax0+By0+C| without absolute? No). Given typical exam, answer 10 is common for such distances. I'll put D."
     },
@@ -114,7 +134,12 @@
       "question": "Let x^2 + y^2 - 6x - 10y - 15 = 0. Then what is the equation of the tangent line at point (2,3) on the circle?",
       "image": null,
       "passage": null,
-      "options": ["-x-3y-4=0", "-5x-y+7=0", "2x-y-4=0", "2x-y-1=0"],
+      "options": [
+        "-x-3y-4=0",
+        "-5x-y+7=0",
+        "2x-y-4=0",
+        "2x-y-1=0"
+      ],
       "answer": "D",
       "explanation": "Circle center (3,5). Radius vector from center to point (2,3) is (-1,-2). Tangent slope = perpendicular slope = 2? Actually slope of radius = (3-5)/(2-3) = (-2)/(-1)=2. So tangent slope = -1/2. Equation: y-3 = (-1/2)(x-2) => 2y-6 = -x+2 => x+2y-8=0, not matching. Alternatively use formula: xx1+yy1 -3(x+x1)-5(y+y1)-15=0 gives 2x+3y -3(x+2)-5(y+3)-15=0 → 2x+3y-3x-6-5y-15-15=0 → -x-2y-36=0, not. Let's recompute: For circle (x-h)^2+(y-k)^2=r^2, tangent at (x1,y1) is (x1-h)(x-h)+(y1-k)(y-k)=r^2. Here h=3,k=5, r^2=9+25+15=49? Actually complete square: (x-3)^2+(y-5)^2 = 9+25+15=49. Then tangent: (2-3)(x-3)+(3-5)(y-5)=49 → (-1)(x-3)+(-2)(y-5)=49 → -x+3 -2y+10=49 → -x-2y+13=49 → -x-2y-36=0, same. None match. Maybe the point is (2,3) but does it lie on circle? 4+9-12-30-15= -44, not zero. So point not on circle. That's the issue. The problem likely has a typo. Given the options, D is 2x-y-1=0. I'll assume the intended point yields D."
     },
@@ -179,7 +204,12 @@
       "question": "Which one of the following sentences is not a proposition?",
       "image": null,
       "passage": null,
-      "options": ["Plant produces their own food", "Welcome!", "There is no medicine for HIV/AIDS.", "Man is mortal"],
+      "options": [
+        "Plant produces their own food",
+        "Welcome!",
+        "There is no medicine for HIV/AIDS.",
+        "Man is mortal"
+      ],
       "answer": "B",
       "explanation": "A proposition is a declarative statement that is either true or false. \"Welcome!\" is an exclamation, not a declarative statement, hence not a proposition."
     },
@@ -188,7 +218,12 @@
       "question": "If (p ⇔ ¬q) ⇒ (¬p ∨ r) is False, then which of the following has a truth value false?",
       "image": null,
       "passage": null,
-      "options": ["¬q ⇔ r", "q ⇒ p", "q ∨ ¬r", "¬p ⇔ r"],
+      "options": [
+        "¬q ⇔ r",
+        "q ⇒ p",
+        "q ∨ ¬r",
+        "¬p ⇔ r"
+      ],
       "answer": "B",
       "explanation": "An implication is false only when antecedent true and consequent false. So (p↔¬q) is true and (¬p∨r) is false. (¬p∨r) false means ¬p false and r false → p true, r false. Then (p↔¬q) true with p true gives ¬q true → q false. So p=T, q=F, r=F. Then evaluate: A: ¬q⇔r → T⇔F = false. B: q⇒p → F⇒T = true. C: q∨¬r → F∨T = true. D: ¬p⇔r → F⇔F = true. So A is false. Answer A."
     },
@@ -225,7 +260,12 @@
       "question": "If the standard deviation of x1, x2, ..., xn is 3, then what is the standard deviation of 2x1+3, 2x2+3, ..., 2xn+3?",
       "image": null,
       "passage": null,
-      "options": ["12", "9", "14", "16"],
+      "options": [
+        "12",
+        "9",
+        "14",
+        "16"
+      ],
       "answer": "A",
       "explanation": "Standard deviation scales by the absolute value of the factor. Adding constant does not change sd. So new sd = 2 * 3 = 6, not in options. 2*3=6, but options are 12,9,14,16. Possibly they mean variance? Variance would be 4*9=36, sd=6 still. Maybe they meant standard deviation of 2x+3 is 2*3=6, none. If they meant 4x+3, then 12. But it says 2x+3. I'll check: If the data is multiplied by 2, sd doubles. So 6. Not listed. Could be a misprint? Option A is 12, which is 4*3. I'll assume they intended 4x+3? Given options, 12 is plausible. I'll put A."
     },
@@ -234,7 +274,12 @@
       "question": "A committee of 8 students has to be formed from 6 boys and 4 girls. What is the probability that the committee contains 5 boys and 3 girls?",
       "image": null,
       "passage": null,
-      "options": ["2/13", "5/7", "8/15", "2/3"],
+      "options": [
+        "2/13",
+        "5/7",
+        "8/15",
+        "2/3"
+      ],
       "answer": "A",
       "explanation": "Total ways = C(10,8)=45. Ways to choose 5 boys from 6: C(6,5)=6, and 3 girls from 4: C(4,3)=4, total favorable=24. Probability = 24/45 = 8/15. So answer C. But options: A 2/13≈0.154, B 5/7≈0.714, C 8/15≈0.533, D 2/3≈0.667. So C is correct. However the problem says committee of 8 from 6 boys and 4 girls total 10, so 8 members require at most 6 boys and 4 girls, 5 boys 3 girls is possible. 24/45=8/15. So answer C."
     },
@@ -243,7 +288,12 @@
       "question": "A bag contains 4 red, 5 yellow and 3 green balls. Three balls are drawn without replacement. Probability of red first, yellow second, green third?",
       "image": null,
       "passage": null,
-      "options": ["12/22", "1/22", "7/22", "9/22"],
+      "options": [
+        "12/22",
+        "1/22",
+        "7/22",
+        "9/22"
+      ],
       "answer": "B",
       "explanation": "P = (4/12)*(5/11)*(3/10) = (4*5*3)/(12*11*10)=60/1320=1/22."
     },
@@ -252,7 +302,12 @@
       "question": "What is the constant term in the expansion of (-2x + 5/x^5)^6?",
       "image": null,
       "passage": null,
-      "options": ["160", "-960", "-160", "-960"],
+      "options": [
+        "160",
+        "-960",
+        "-160",
+        "-960"
+      ],
       "answer": "D",
       "explanation": "General term: C(6,k)(-2x)^(6-k)*(5/x^5)^k = C(6,k)(-2)^(6-k)*5^k * x^(6-k-5k) = C(6,k)(-2)^(6-k)*5^k * x^(6-6k). Constant when 6-6k=0 → k=1. Term = C(6,1)*(-2)^5*5^1 = 6 * (-32)*5 = 6*(-160)= -960. So answer D (both C and D say -960, but D is -960)."
     },
@@ -261,7 +316,12 @@
       "question": "How many three-digit numbers can be formed from the digits 2,3,5,7,9 if each digit is used once only?",
       "image": null,
       "passage": null,
-      "options": ["60", "125", "100", "50"],
+      "options": [
+        "60",
+        "125",
+        "100",
+        "50"
+      ],
       "answer": "A",
       "explanation": "Number of permutations of 5 digits taken 3: 5P3 = 5*4*3=60."
     },
@@ -270,7 +330,12 @@
       "question": "In the table if there are 60 observations, class intervals 7-9,10-12,13-15,16-18,19-21 with frequencies 3,13,f1,17,f2. Mode is 14. Find f1 and f2.",
       "image": null,
       "passage": null,
-      "options": ["34,3", "11,8", "36,9", "12,7"],
+      "options": [
+        "34,3",
+        "11,8",
+        "36,9",
+        "12,7"
+      ],
       "answer": "B",
       "explanation": "Total frequency: 3+13+f1+17+f2=60 → f1+f2=27. Modal class is 13-15 (since mode 14). Mode formula: L=12.5, h=3, d1 = f1-13, d2 = f1-17. Mode = 12.5 + [d1/(d1+d2)]*3 = 14 → [d1/(d1+d2)]*3 = 1.5 → d1/(d1+d2)=0.5 → d1 = d2 → f1-13 = f1-17 → -13=-17, impossible. So maybe the modal class is different? If mode 14, the class 13-15 is modal. For mode formula, d1 = f1 - previous frequency (13), d2 = f1 - next frequency (17). For mode to be 14, we need d1/(d1+d2) = (14-12.5)/3 = 1.5/3=0.5, so d1 = d2, which gives -13 = -17, impossible. So maybe the class boundaries are different: 13-15 has lower boundary 13? If L=13, then (14-13)/3=1/3, then d1/(d1+d2)=1/3 → 3d1 = d1+d2 → 2d1=d2 → 2(f1-13)=f1-17 → 2f1-26 = f1-17 → f1=9, then f2=27-9=18, not in options. If L=12.5 as before, no solution. Given options, B has f1=11, f2=8 sum 19, not 27. A:34+3=37, C:36+9=45, D:12+7=19. None sum to 27. So likely total is not 60? The problem says 60 observations, but frequencies sum to 3+13+?+17+? = 33+f1+f2=60 → f1+f2=27. Only option B sums to 19, others more. Perhaps I misread frequencies: maybe it's 3,13,f1,17,f2 and total 60, so f1+f2=27. None of the options sum to 27. Option B: 11+8=19, D:12+7=19. So maybe total is 52? Then f1+f2=19. That fits B and D. Given mode 14, let's test B: f1=11, f2=8. Then d1=11-13=-2, d2=11-17=-6, mode formula gives L=12.5 + [(-2)/(-2-6)]*3 = 12.5 + [(-2)/(-8)]*3 = 12.5 + 0.25*3 = 12.5+0.75=13.25, not 14. D: f1=12,f2=7: d1=-1,d2=-5, ratio= (-1)/(-6)=1/6≈0.1667, mode=12.5+0.5=13. Not 14. So none give 14. Possibly the class intervals are 6-9,10-12,...? I'll assume the intended answer is B based on common exam keys."
     },
@@ -279,7 +344,12 @@
       "question": "If A = [[1,-1,2],[-1,2,-1],[-2,3,1]]. Then what is the determinant of 2A?",
       "image": null,
       "passage": null,
-      "options": ["32", "-32", "64", "-64"],
+      "options": [
+        "32",
+        "-32",
+        "64",
+        "-64"
+      ],
       "answer": "C",
       "explanation": "det(2A) = 2^3 * det(A) = 8 * det(A). Compute det(A): Expand along first row: 1*(2*1 - (-1)*3) - (-1)*((-1)*1 - (-1)*(-2)) + 2*((-1)*3 - 2*(-2)) = 1*(2+3) +1*((-1) - 2) + 2*(-3+4) = 1*5 +1*(-3)+2*(1)=5-3+2=4. So det(2A)=8*4=32. Answer A? But options: A 32, B -32, C 64, D -64. So A is 32."
     },
@@ -288,7 +358,12 @@
       "question": "What is the value of x, if |[2+x,0,0],[0,x+2,0],[0,0,x+2]| = 125?",
       "image": null,
       "passage": null,
-      "options": ["-3", "3", "5", "-5"],
+      "options": [
+        "-3",
+        "3",
+        "5",
+        "-5"
+      ],
       "answer": "B",
       "explanation": "Determinant = (2+x)*(x+2)*(x+2) = (x+2)^3 = 125 → x+2=5 → x=3."
     },
@@ -339,7 +414,12 @@
       "question": "Let Z = (2-3i)^4 / [(3+4i)(5-12i)]. Then what is the magnitude of Z?",
       "image": null,
       "passage": null,
-      "options": ["169/√65", "169/65", "13/5", "13/√65"],
+      "options": [
+        "169/√65",
+        "169/65",
+        "13/5",
+        "13/√65"
+      ],
       "answer": "C",
       "explanation": "|Z| = |2-3i|^4 / (|3+4i| * |5-12i|). |2-3i|=√(4+9)=√13, so numerator = (√13)^4=169. |3+4i|=5, |5-12i|=13, denominator=65. So |Z|=169/65 = 13/5. Answer C."
     },
@@ -348,7 +428,12 @@
       "question": "Let x^4 + 5x^2 - 36 = 0. Then what is the solution set in complex numbers?",
       "image": "./images/2013_p1_q31.png",
       "passage": null,
-      "options": ["{±2, ±3i}", "{±2i, ±3}", "{±2, ±3}", "{±2i, ±3i}"],
+      "options": [
+        "{±2, ±3i}",
+        "{±2i, ±3}",
+        "{±2, ±3}",
+        "{±2i, ±3i}"
+      ],
       "answer": "A",
       "explanation": "Let u=x^2, then u^2+5u-36=0 → (u+9)(u-4)=0 → u=4 or u=-9. So x=±2 or x=±3i."
     },
@@ -371,7 +456,12 @@
       "question": "Let Z = 2√2 (cos(11π/4) + i sin(11π/4)). What is the Cartesian representation?",
       "image": null,
       "passage": null,
-      "options": ["-2-2i", "-2+2i", "2+2i", "2-2i"],
+      "options": [
+        "-2-2i",
+        "-2+2i",
+        "2+2i",
+        "2-2i"
+      ],
       "answer": "D",
       "explanation": "11π/4 = 2π + 3π/4, so cos=cos(3π/4)= -√2/2, sin=sin(3π/4)=√2/2. Then Z = 2√2 * (-√2/2 + i√2/2) = 2√2 * (√2/2)(-1+i) = 2*( -1+i) = -2+2i. So answer B: -2+2i."
     },
@@ -380,7 +470,12 @@
       "question": "If a translation T takes point (-2,-3) to (1,2), then what is the image of line L: 3x-y+4=0 under T?",
       "image": null,
       "passage": null,
-      "options": ["3x+y-9=0", "3x+y+9=0", "3x-y+9=0", "3x-y-9=0"],
+      "options": [
+        "3x+y-9=0",
+        "3x+y+9=0",
+        "3x-y+9=0",
+        "3x-y-9=0"
+      ],
       "answer": "D",
       "explanation": "Translation vector = (1-(-2), 2-(-3)) = (3,5). Under translation, line shifts: replace x by x-3, y by y-5 in original equation: 3(x-3) - (y-5) +4 = 0 → 3x-9 -y+5+4=0 → 3x-y+0=0? That gives 3x-y=0, not in options. Wait: original line 3x-y+4=0. After translation, the image line has equation 3(x - 3) - (y - 5) + 4 = 0? Actually if a point (x,y) on image corresponds to (x-3, y-5) on original? Let's do systematically: Let (x',y') be image. Then (x',y') = (x+3, y+5) where (x,y) is original point on line. So x = x'-3, y=y'-5. Substitute into line: 3(x'-3) - (y'-5) +4 =0 → 3x'-9 -y'+5+4=0 → 3x'-y' +0=0 → 3x'-y'=0. Not in options. Perhaps translation vector is (-3,-5)? No. Given options, none match 3x-y=0. Could be that the translation T takes (-2,-3) to (1,2) so vector (3,5), then the image of line is obtained by replacing (x,y) with (x-3, y-5) in the equation? That gives 3(x-3)-(y-5)+4=3x-9-y+5+4=3x-y=0. Not listed. If we replace with (x+3,y+5) then 3(x+3)-(y+5)+4=3x+9-y-5+4=3x-y+8=0. Not either. Perhaps they want the line after translation of the graph? The line itself is shifted, so new line should be parallel: 3x-y+c=0. The constant c is determined by the image of a point. Take a point on L, say (0,4) gives 0-4+4=0. Its image under translation is (3,9). Plug into new line: 3*3 -9 + c =0 → 9-9+c=0 → c=0. So line 3x-y=0. Still not. Maybe the translation vector is (3,5) but they might have miswritten. Given options, D is 3x-y-9=0, which would be if c=-9. I'll assume the intended answer is D."
     },
@@ -424,7 +519,7 @@
         "The phase shift is 4π/3"
       ],
       "answer": "B",
-      "explanation": "Amplitude =10, period = 2π/3, not 8π. So B is false. Also phase shift: set 3x-π/3=0 → x=π/9, not 4π/3. So B and D false. But question asks for "not true", likely B is the clearly false one."
+      "explanation": "Amplitude =10, period = 2π/3, not 8π. So B is false. Also phase shift: set 3x-π/3=0 → x=π/9, not 4π/3. So B and D false. But question asks for \"not true\", likely B is the clearly false one."
     },
     {
       "id": 38,
@@ -445,7 +540,12 @@
       "question": "Let sin y = 12/15 and cos x = 12/13. Then what is cot(x+y)?",
       "image": null,
       "passage": null,
-      "options": ["51/16", "-16/51", "16/51", "-51/16"],
+      "options": [
+        "51/16",
+        "-16/51",
+        "16/51",
+        "-51/16"
+      ],
       "answer": "D",
       "explanation": "sin y = 4/5, cos y = 3/5 (assuming acute). cos x = 12/13, sin x = 5/13. Then sin(x+y)= sin x cos y + cos x sin y = (5/13)*(3/5)+(12/13)*(4/5)= (15/65)+(48/65)=63/65. cos(x+y)= cos x cos y - sin x sin y = (12/13)*(3/5)-(5/13)*(4/5)= (36/65)-(20/65)=16/65. So cot(x+y)= cos/sin = 16/63, not in options. If we use different quadrants? Possibly sin y = 12/15 = 4/5 but y could be in quadrant II? Then cos y = -3/5. Then sin(x+y)= (5/13)*(-3/5)+(12/13)*(4/5)= -15/65+48/65=33/65, cos(x+y)= (12/13)*(-3/5)-(5/13)*(4/5)= -36/65-20/65=-56/65, cot = (-56/65)/(33/65)= -56/33. Not. If y in IV? sin y negative? Given sin y positive, y in I or II. If y in II, cot = -56/33. Not matching. If x in IV? cos x positive, x in I or IV. If x in IV, sin x = -5/13, then sin(x+y)= (-5/13)*(3/5)+(12/13)*(4/5)= -15/65+48/65=33/65, same. cos= (12/13)*(3/5)-(-5/13)*(4/5)=36/65+20/65=56/65, cot=56/33. Not. So none give -16/51. Maybe they meant tan? Or different numbers. Given options, D is -51/16, which is negative reciprocal of 16/51. Possibly they computed tan instead of cot. tan(x+y)= sin/cos = 63/16, then cot=16/63. None. I'll assume the intended answer is D based on typical exam."
     },
@@ -454,7 +554,12 @@
       "question": "Angle of elevation to top of building 60°, to a point 14m below top is 45°. Find height of building.",
       "image": null,
       "passage": null,
-      "options": ["30m", "34m", "24m", "20m"],
+      "options": [
+        "30m",
+        "34m",
+        "24m",
+        "20m"
+      ],
       "answer": "B",
       "explanation": "Let height = h, distance from point to building = d. Then tan60 = h/d = √3, tan45 = (h-14)/d =1. So h-14 = d, and h = √3 d. Substitute: √3 d -14 = d → d(√3 -1)=14 → d=14/(√3-1)=14(√3+1)/(3-1)=7(√3+1)≈7*2.732=19.124, then h=√3 d≈1.732*19.124≈33.12 ≈33m. Closest is 34m. Answer B."
     },
@@ -463,7 +568,12 @@
       "question": "Which of the following is a divergent sequence?",
       "image": null,
       "passage": null,
-      "options": ["{γ^{1/n}}", "{(√3)^n}", "{1+(-1)^n/5^n}", "{(π/6)^n}"],
+      "options": [
+        "{γ^{1/n}}",
+        "{(√3)^n}",
+        "{1+(-1)^n/5^n}",
+        "{(π/6)^n}"
+      ],
       "answer": "B",
       "explanation": "(√3)^n → ∞ since √3>1, so divergent. Others converge to 1, 1, 0 respectively."
     },
@@ -472,7 +582,12 @@
       "question": "What is the sum of the series Σ_{n=0}^∞ 3^n 4^{3-n}?",
       "image": null,
       "passage": null,
-      "options": ["-∞", "192", "182", "0"],
+      "options": [
+        "-∞",
+        "192",
+        "182",
+        "0"
+      ],
       "answer": "B",
       "explanation": "3^n * 4^{3-n} = 64 * (3/4)^n. Sum from n=0 to ∞ = 64 / (1 - 3/4) = 64 / (1/4) = 256, not in options. If sum from n=1? 64*(3/4)/(1/4)=64*3=192. So likely sum from n=1 gives 192. Option B is 192."
     },
@@ -481,7 +596,12 @@
       "question": "What is the sum of the first 40 terms of the sequence A_n = 5n+10?",
       "image": null,
       "passage": null,
-      "options": ["3500", "4000", "5500", "4500"],
+      "options": [
+        "3500",
+        "4000",
+        "5500",
+        "4500"
+      ],
       "answer": "D",
       "explanation": "Arithmetic: first term =15, last term =5*40+10=210, sum = (40/2)*(15+210)=20*225=4500."
     },
@@ -518,7 +638,12 @@
       "question": "What is the value of lim_{x→0} (10x^2 cos2x)/(cos^2 x - 1)?",
       "image": null,
       "passage": null,
-      "options": ["does not exist", "-10", "10", "-∞"],
+      "options": [
+        "does not exist",
+        "-10",
+        "10",
+        "-∞"
+      ],
       "answer": "B",
       "explanation": "cos^2 x -1 = -sin^2 x. So expression = 10x^2 cos2x / (-sin^2 x) = -10 (x^2/sin^2 x) cos2x → -10 *1*1 = -10."
     },
@@ -527,7 +652,12 @@
       "question": "Let f(x) = { sin(bx)/x for x>0, 4x^2+10b^2 for x≤0 }. If b≠0, find b for continuity at x=0.",
       "image": null,
       "passage": null,
-      "options": ["-1/10", "-10", "-11", "1/10"],
+      "options": [
+        "-1/10",
+        "-10",
+        "-11",
+        "1/10"
+      ],
       "answer": "A",
       "explanation": "Right limit = lim_{x→0+} sin(bx)/x = b. Left limit = f(0)= 4(0)^2+10b^2 = 10b^2. Set equal: b = 10b^2 → 10b^2 - b =0 → b(10b-1)=0 → b=0 (excluded) or b=1/10. So b=1/10, not in options? Option A is -1/10, D is 1/10. So D is correct. But the problem says b≠0, and the options include 1/10 as D. So answer D."
     },
@@ -536,7 +666,12 @@
       "question": "Let f(x)= x^2+2x-3. Then lim_{h→0} (f(h+2)-f(2))/h = ?",
       "image": null,
       "passage": null,
-      "options": ["6", "-6", "3", "-3"],
+      "options": [
+        "6",
+        "-6",
+        "3",
+        "-3"
+      ],
       "answer": "A",
       "explanation": "This is derivative f'(2). f'(x)=2x+2, so f'(2)=4+2=6."
     },
@@ -545,7 +680,12 @@
       "question": "lim_{x→1} (√(1+√(8x+1)) - 2)/(x-1) = ?",
       "image": null,
       "passage": null,
-      "options": ["-1/24", "1/24", "1/3", "-1/3"],
+      "options": [
+        "-1/24",
+        "1/24",
+        "1/3",
+        "-1/3"
+      ],
       "answer": "B",
       "explanation": "Use L'Hopital or rationalization. Derivative of numerator at x=1: derivative of √(1+√(8x+1)) = (1/(2√(1+√(8x+1)))) * (1/(2√(8x+1)))*8 = 8/(4√(1+√(8x+1))√(8x+1)) = 2/(√(1+√(8x+1))√(8x+1)). At x=1: √(8+1)=3, √(1+3)=2, so numerator derivative = 2/(2*3)=1/3. Denominator derivative =1. So limit = 1/3. But options include 1/3 (C). However 1/3 is positive. Let me compute numeric: x=1.001: sqrt(8*1.001+1)=sqrt(9.008)=3.00133, then 1+ that=4.00133, sqrt=2.00033, minus 2=0.00033, divided by 0.001 = 0.33, yes 1/3. So answer C. But option B is 1/24, not. So C is correct. However the problem says √(1+√(8x+1)) - 2, yes. So answer C."
     },
@@ -554,7 +694,12 @@
       "question": "Let f(x)=e^{4x+3} and g(x)=sin x. If F(x)=x f(x)+ f(g(x)), then F'(0)=?",
       "image": null,
       "passage": null,
-      "options": ["5/e^3", "5e^3", "-5e^3", "-5/e^3"],
+      "options": [
+        "5/e^3",
+        "5e^3",
+        "-5e^3",
+        "-5/e^3"
+      ],
       "answer": "D",
       "explanation": "F'(x)= f(x)+ x f'(x) + f'(g(x)) g'(x). f'(x)=4e^{4x+3}. At x=0: f(0)=e^3, f'(0)=4e^3, g(0)=0, g'(0)=1, f'(g(0))=f'(0)=4e^3. So F'(0)= e^3 + 0 + 4e^3*1 = 5e^3. That is positive 5e^3. Option B is 5e^3. So answer B. But options: A 5/e^3, B 5e^3, C -5e^3, D -5/e^3. So B."
     },
@@ -591,7 +736,12 @@
       "question": "Let f(x)= 4/(x^3 - x^2 - x + 1). Then what is the set of all critical numbers of f?",
       "image": "./images/2013_p1_q53.png",
       "passage": null,
-      "options": ["{-1,1}", "{1}", "{-1}", "{}"],
+      "options": [
+        "{-1,1}",
+        "{1}",
+        "{-1}",
+        "{}"
+      ],
       "answer": "B",
       "explanation": "Critical numbers where f'(x)=0 or undefined. Denominator = (x-1)^2(x+1). f is undefined at x=1 and x=-1. f'(x) = -4(3x^2-2x-1)/(denom^2). Set numerator zero: 3x^2-2x-1=0 → (3x+1)(x-1)=0 → x=1 or x=-1/3. x=1 is not in domain, x=-1/3 is in domain (not a hole). So critical number is -1/3. Not in options. Options are {-1,1}, {1}, {-1}, {}. Possibly they consider points where derivative undefined (vertical asymptotes) as critical? Then x=1 and x=-1. But those are not in domain. Many textbooks say critical numbers are where derivative is zero or undefined AND function is defined. So none. Given options, maybe they consider x=1 as a critical point? I'll assume the intended answer is B {1}."
     },
@@ -600,7 +750,12 @@
       "question": "If the region bounded by y=2.5x^2 and y=10 rotates about x-axis, volume?",
       "image": null,
       "passage": null,
-      "options": ["80π", "320π", "160π", "300π"],
+      "options": [
+        "80π",
+        "320π",
+        "160π",
+        "300π"
+      ],
       "answer": "C",
       "explanation": "Intersection: 2.5x^2=10 → x^2=4 → x=±2. Volume = π∫_{-2}^{2} (10^2 - (2.5x^2)^2) dx = π∫_{-2}^{2} (100 - 6.25x^4) dx = 2π [100x - 1.25x^5] from 0 to 2 = 2π (200 - 1.25*32)=2π(200-40)=2π*160=320π. So answer B? Wait compute: 1.25*32=40, 200-40=160, times 2π = 320π. So B is 320π. But options: A 80π, B 320π, C 160π, D 300π. So B."
     },
@@ -609,7 +764,12 @@
       "question": "An object moving along parabola y=4√x. At what point is it closest to (17,0)?",
       "image": null,
       "passage": null,
-      "options": ["(8,4)", "(16,16)", "(12,9)", "(4,8)"],
+      "options": [
+        "(8,4)",
+        "(16,16)",
+        "(12,9)",
+        "(4,8)"
+      ],
       "answer": "A",
       "explanation": "Distance squared D^2 = (x-17)^2 + (4√x -0)^2 = (x-17)^2 + 16x = x^2 -34x+289+16x = x^2 -18x+289. Derivative 2x-18=0 → x=9, then y=4*3=12. So (9,12). Not in options. Option C is (12,9) with y=9, but 4√12≈13.86, no. Option A (8,4): 4√8≈11.31, not 4. So none. Maybe the parabola is y^2=16x? Then y=4√x, yes. Minimizing distance gave (9,12). Not listed. Perhaps they meant y=4x^2? No. Given options, (16,16) gives 4√16=16, yes that lies on y=4√x? 4*4=16 yes. So (16,16) is on curve. Distance to (17,0): (1)^2+16^2=1+256=257, sqrt≈16.03. For (8,4): 8 gives y=4√8≈11.31, not 4. So (8,4) not on curve. (12,9): 4√12≈13.86, not 9. (4,8): 4*2=8, yes (4,8) is on curve, distance to (17,0): (13)^2+64=169+64=233, sqrt≈15.26. So (4,8) closer? Actually (9,12) gives (8)^2+144=64+144=208, sqrt≈14.42, even closer. So none. I'll assume the correct answer is not listed, but based on options, (4,8) is on curve and might be the intended answer D. Given the choices, D is (4,8)."
     },
@@ -618,7 +778,12 @@
       "question": "Radius of cylinder height 10 cm increases at 6 cm/min. Rate of change of volume when radius=5 cm?",
       "image": null,
       "passage": null,
-      "options": ["200π", "800π", "500π", "600π"],
+      "options": [
+        "200π",
+        "800π",
+        "500π",
+        "600π"
+      ],
       "answer": "D",
       "explanation": "V=πr^2 h, h constant=10. dV/dt = 20π r dr/dt = 20π *5 *6 = 600π cm^3/min."
     },
@@ -627,7 +792,12 @@
       "question": "Equation of tangent line to f(x)=4/√(x+6) + 6x + 8 at x=-2?",
       "image": "./images/2013_p1_q57.png",
       "passage": null,
-      "options": ["y=6x+8", "y=4x+6", "y=6x+4", "y=4x+8"],
+      "options": [
+        "y=6x+8",
+        "y=4x+6",
+        "y=6x+4",
+        "y=4x+8"
+      ],
       "answer": "A",
       "explanation": "f(-2)=4/√4 + 6(-2)+8 = 4/2 -12+8=2-12+8=-2. f'(x)= -4*(1/2)(x+6)^{-3/2} +6 = -2(x+6)^{-3/2}+6. At x=-2: f'(-2)= -2(4)^{-3/2}+6 = -2/(8)+6 = -0.25+6=5.75. Tangent: y+2=5.75(x+2) → y=5.75x+9.5, not among options. Maybe the function is different? Given options, A is y=6x+8, which would be slope 6. I'll assume the intended answer is A."
     },
@@ -643,7 +813,7 @@
         "If f(c) = lim_{x→c} f(x), then f is continuous at x=c"
       ],
       "answer": "B",
-      "explanation": "Differentiability implies continuity. So B is true. A false. C false (limit exists but may not equal f(c)). D is actually the definition of continuity, so D is also true? Wait D says "If f(c) = lim_{x→c} f(x), then f is continuous at x=c" — that is exactly the definition. So both B and D are true. But the question asks for "which one is true", multiple choice single answer. Usually they expect B because D is the definition but they might consider it true as well. However in many exams, they consider D also correct. But given typical, B is the classic statement. I'll choose B."
+      "explanation": "Differentiability implies continuity. So B is true. A false. C false (limit exists but may not equal f(c)). D is actually the definition of continuity, so D is also true? Wait D says \"If f(c) = lim_{x→c} f(x), then f is continuous at x=c\" — that is exactly the definition. So both B and D are true. But the question asks for \"which one is true\", multiple choice single answer. Usually they expect B because D is the definition but they might consider it true as well. However in many exams, they consider D also correct. But given typical, B is the classic statement. I'll choose B."
     },
     {
       "id": 59,
@@ -664,7 +834,12 @@
       "question": "lim_{x→∞} ((2x+5)/(2x-11))^{2x+1} = ?",
       "image": null,
       "passage": null,
-      "options": ["e^{16}", "e^{8}", "e^{-16}", "e^{-8}"],
+      "options": [
+        "e^{16}",
+        "e^{8}",
+        "e^{-16}",
+        "e^{-8}"
+      ],
       "answer": "A",
       "explanation": "Let y = ((2x+5)/(2x-11))^{2x+1}. Write as (1 + 16/(2x-11))^{2x+1} = (1 + 8/(x-5.5))^{2x+1} ≈ e^{8*2}? Actually standard limit: (1 + a/x)^{bx} → e^{ab}. Here a=16/(2)=8? Better: (2x+5)/(2x-11) = 1 + 16/(2x-11). Then exponent = 2x+1. As x→∞, (1 + 16/(2x))^{2x} → e^{16}. So answer e^{16}."
     },
@@ -673,7 +848,12 @@
       "question": "Area bounded by y=x^2-9 and y=9-x^2?",
       "image": null,
       "passage": null,
-      "options": ["36", "-54", "-36", "54"],
+      "options": [
+        "36",
+        "-54",
+        "-36",
+        "54"
+      ],
       "answer": "D",
       "explanation": "Intersection: x^2-9 = 9-x^2 → 2x^2=18 → x=±3. Area = ∫_{-3}^{3} [(9-x^2) - (x^2-9)] dx = ∫_{-3}^{3} (18-2x^2) dx = 2∫_{0}^{3} (18-2x^2) dx = 2[18x - (2/3)x^3]_0^3 = 2[54 - (2/3)*27] = 2[54-18]=2*36=72. Not in options. Options: 36, -54, -36, 54. So none. If they took absolute value, maybe they computed ∫ from -3 to 3 of (x^2-9) - (9-x^2) = negative, area positive 72. Not. Perhaps they computed only one region? Or the curves are different. Given options, 54 is close to 72? No. I'll assume the intended answer is D 54."
     },
@@ -682,7 +862,12 @@
       "question": "Let f(x)=e^x cos x. Then f''(x) = ?",
       "image": null,
       "passage": null,
-      "options": ["-2e^x cos x", "2e^x sin x", "-2e^x sin x", "2e^x cos x"],
+      "options": [
+        "-2e^x cos x",
+        "2e^x sin x",
+        "-2e^x sin x",
+        "2e^x cos x"
+      ],
       "answer": "C",
       "explanation": "f'(x)=e^x cos x - e^x sin x = e^x(cos x - sin x). f''(x)= e^x(cos x - sin x) + e^x(-sin x - cos x) = e^x(cos x - sin x - sin x - cos x)= e^x(-2 sin x) = -2e^x sin x. So C."
     },
@@ -691,7 +876,12 @@
       "question": "Let f(x)=√(64-x^2). Then the largest interval that f is differentiable?",
       "image": null,
       "passage": null,
-      "options": ["(-8,8)", "[-8,8]", "(-∞,-8]∪[8,∞)", "(-∞,-8)∪(8,∞)"],
+      "options": [
+        "(-8,8)",
+        "[-8,8]",
+        "(-∞,-8]∪[8,∞)",
+        "(-∞,-8)∪(8,∞)"
+      ],
       "answer": "A",
       "explanation": "f is differentiable where derivative exists and finite. Derivative f'(x)= -x/√(64-x^2), defined for |x|<8. At x=±8, derivative infinite (vertical tangent). So largest open interval is (-8,8). Answer A."
     },
@@ -700,7 +890,12 @@
       "question": "Solve system: x-2y+z=7, 3x+y-z=2, 2x+3y+2z=7. Solution set?",
       "image": null,
       "passage": null,
-      "options": ["{-2,-1,-3}", "{2,-1,3}", "{-2,1,-3}", "{-2,-1,3}"],
+      "options": [
+        "{-2,-1,-3}",
+        "{2,-1,3}",
+        "{-2,1,-3}",
+        "{-2,-1,3}"
+      ],
       "answer": "D",
       "explanation": "Solve: from first, z=7-x+2y. Substitute into second: 3x+y-(7-x+2y)=2 → 3x+y-7+x-2y=2 → 4x -y -7=2 → 4x-y=9 → y=4x-9. Third: 2x+3y+2(7-x+2y)=7 → 2x+3y+14-2x+4y=7 → 7y+14=7 → 7y=-7 → y=-1. Then 4x-9=-1 → 4x=8 → x=2. Then z=7-2+2(-1)=7-2-2=3. So (2,-1,3). Answer B? Options: B is {2,-1,3}. But D is {-2,-1,3}. So B."
     },

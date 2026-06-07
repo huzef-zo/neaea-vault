@@ -74,7 +74,7 @@
     },
     {
       "id": 7,
-      "question": "This item is based on the diagram which shows the different shape of bacteria below. (Image not provided) Options: A. Rod, spirochaete, sphere B. Sphere, rod, spirochaete C. Flagellated bacilli, clusters, spirilla D. Spirochaete, sphere, rod",
+      "question": "This item is based on the diagram which shows the different shape of bacteria below",
       "image": "./images/2013_p2_q7.png",
       "passage": null,
       "options": ["Rod, spirochaete, sphere", "Sphere, rod, spirochaete", "Flagellated bacilli, clusters, spirilla", "Spirochaete, sphere, rod"],

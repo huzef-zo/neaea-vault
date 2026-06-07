@@ -51,9 +51,10 @@
     home:     $('#screen-home'),
     subjects: $('#screen-subjects'),
     papers:   $('#screen-papers'),
-    exam:     $('#screen-exam'),
-    results:  $('#screen-results'),
-    review:   $('#screen-review'),
+    exam:      $('#screen-exam'),
+    results:   $('#screen-results'),
+    review:    $('#screen-review'),
+    analytics: $('#screen-analytics'),
   };
 
   // ─── Navigation ───
@@ -80,6 +81,14 @@
   const startPracticeBtn = $('#btn-start-practice');
   if (startPracticeBtn) {
     startPracticeBtn.addEventListener('click', () => showScreen('subjects'));
+  }
+
+  const showAnalyticsBtn = $('#btn-show-analytics');
+  if (showAnalyticsBtn) {
+    showAnalyticsBtn.addEventListener('click', () => {
+      renderAnalytics();
+      showScreen('analytics');
+    });
   }
 
   // Exit exam back button — confirm
@@ -158,7 +167,7 @@
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
         </div>
       `;
-      card.addEventListener('click', () => startExam(currentSubject.id, paperId));
+      card.addEventListener('click', () => showTimerModal(currentSubject.id, paperId));
       list.appendChild(card);
     });
   }
@@ -227,6 +236,99 @@
     return 0;
   }
 
+  // ─── Timer Modal Logic ───
+  function showTimerModal(subjectId, paperId) {
+    const modal = $('#timer-modal');
+    const parts = paperId.split('_p');
+    const year = parts[0] + ' E.C';
+    const paperNum = parts[1] ? `Paper ${parts[1]}` : 'Paper 1';
+
+    $('#modal-paper-title').textContent = `${year} · ${paperNum}`;
+    modal.classList.remove('hidden');
+
+    // Load preference
+    const pref = localStorage.getItem('vault_timer_preference') || '90';
+    updateModalTimer(parseInt(pref));
+
+    // Event listeners for modal
+    const startBtn = $('#btn-modal-start');
+    const newStartBtn = startBtn.cloneNode(true);
+    startBtn.parentNode.replaceChild(newStartBtn, startBtn);
+
+    newStartBtn.addEventListener('click', () => {
+      const h = parseInt($('#timer-hours').value) || 0;
+      const m = parseInt($('#timer-minutes').value) || 0;
+      const totalMinutes = (h * 60) + m;
+
+      if (totalMinutes > 0) {
+        timerEnabled = true;
+        timeRemaining = totalMinutes * 60;
+      } else {
+        timerEnabled = false;
+        timeRemaining = 0;
+      }
+
+      // Save preference if it was one of the presets or just save it
+      localStorage.setItem('vault_timer_preference', totalMinutes.toString());
+
+      modal.classList.add('hidden');
+      startExam(subjectId, paperId);
+    });
+
+    // Preset buttons
+    $$('.preset-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const mins = parseInt(btn.dataset.time);
+        updateModalTimer(mins);
+      });
+    });
+
+    // Manual adjustment
+    $$('.btn-timer-adj').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const unit = btn.dataset.unit;
+        const dir = btn.dataset.dir;
+        const input = unit === 'h' ? $('#timer-hours') : $('#timer-minutes');
+        let val = parseInt(input.value) || 0;
+
+        if (dir === 'up') val++;
+        else val--;
+
+        if (unit === 'h') {
+          if (val < 0) val = 0;
+          if (val > 99) val = 99;
+        } else {
+          if (val < 0) val = 59;
+          if (val > 59) val = 0;
+        }
+
+        input.value = String(val).padStart(2, '0');
+        // Deactivate presets if manual adj
+        $$('.preset-btn').forEach(b => b.classList.remove('active'));
+      });
+    });
+
+    // Dismiss on outside click
+    const overlay = $('.modal-overlay');
+    overlay.onclick = () => modal.classList.add('hidden');
+  }
+
+  function updateModalTimer(totalMinutes) {
+    const h = Math.floor(totalMinutes / 60);
+    const m = totalMinutes % 60;
+
+    $('#timer-hours').value = String(h).padStart(2, '0');
+    $('#timer-minutes').value = String(m).padStart(2, '0');
+
+    $$('.preset-btn').forEach(btn => {
+      if (parseInt(btn.dataset.time) === totalMinutes) {
+        btn.classList.add('active');
+      } else {
+        btn.classList.remove('active');
+      }
+    });
+  }
+
   // ─── Exam Engine ───
   async function startExam(subjectId, paperId) {
     currentPaperId = paperId;
@@ -265,10 +367,15 @@
       $('#exam-subject-label').textContent = currentPaperData.subject;
       $('#exam-paper-label').textContent = `${currentPaperData.year} — Paper ${currentPaperData.paper}`;
 
-      // Reset timer
-      timerEnabled = false;
-      $('#timer-toggle-btn').classList.remove('active');
-      $('#timer-display').classList.add('hidden');
+      // Initial timer setup handled by modal, but ensure display is correct
+      if (timerEnabled) {
+        $('#timer-toggle-btn').classList.add('active');
+        $('#timer-display').classList.remove('hidden');
+        startGlobalTimer();
+      } else {
+        $('#timer-toggle-btn').classList.remove('active');
+        $('#timer-display').classList.add('hidden');
+      }
 
       showScreen('exam');
       renderQuestion();
@@ -327,10 +434,6 @@
     $('#explanation-box').classList.add('hidden');
     $('#btn-next').classList.add('hidden');
 
-    // Start question timer if enabled
-    if (timerEnabled) {
-      startQuestionTimer();
-    }
   }
 
   function handleAnswer(selectedIndex) {
@@ -345,9 +448,6 @@
       correct: correctIndex,
       isCorrect,
     };
-
-    // Stop timer
-    stopTimer();
 
     // Visual feedback
     const options = $$('#options-grid .option-card');
@@ -383,24 +483,15 @@
   });
 
   // ─── Timer ───
-  function startQuestionTimer() {
+  function startGlobalTimer() {
     stopTimer();
-    const secondsPerQuestion = 90; // 1.5 minutes
-    timeRemaining = secondsPerQuestion;
     updateTimerDisplay();
-
-    const display = $('#timer-display');
-    display.classList.remove('hidden', 'warning', 'danger');
+    updateTimerStatus();
 
     timerInterval = setInterval(() => {
       timeRemaining--;
       updateTimerDisplay();
-
-      if (timeRemaining <= 10) {
-        display.classList.add('danger');
-      } else if (timeRemaining <= 30) {
-        display.classList.add('warning');
-      }
+      updateTimerStatus();
 
       if (timeRemaining <= 0) {
         stopTimer();
@@ -439,6 +530,18 @@
     }, 1000);
   }
 
+  function updateTimerStatus() {
+    const display = $('#timer-display');
+    display.classList.remove('warning', 'danger');
+
+    // Warning indicators: 10min (600s) and 5min (300s)
+    if (timeRemaining <= 300) {
+      display.classList.add('danger');
+    } else if (timeRemaining <= 600) {
+      display.classList.add('warning');
+    }
+  }
+
   function stopTimer() {
     if (timerInterval) {
       clearInterval(timerInterval);
@@ -447,10 +550,17 @@
   }
 
   function updateTimerDisplay() {
-    const m = Math.floor(timeRemaining / 60);
+    const h = Math.floor(timeRemaining / 3600);
+    const m = Math.floor((timeRemaining % 3600) / 60);
     const s = timeRemaining % 60;
-    $('#timer-display').textContent =
-      String(m).padStart(2, '0') + ':' + String(s).padStart(2, '0');
+
+    if (h > 0) {
+      $('#timer-display').textContent =
+        String(h).padStart(2, '0') + ':' + String(m).padStart(2, '0') + ':' + String(s).padStart(2, '0');
+    } else {
+      $('#timer-display').textContent =
+        String(m).padStart(2, '0') + ':' + String(s).padStart(2, '0');
+    }
   }
 
   // Timer toggle
@@ -462,7 +572,8 @@
     if (timerEnabled) {
       btn.classList.add('active');
       display.classList.remove('hidden');
-      startQuestionTimer();
+      if (timeRemaining <= 0) timeRemaining = 90 * 60; // Default if somehow toggled on without time
+      startGlobalTimer();
     } else {
       btn.classList.remove('active');
       display.classList.add('hidden');
@@ -650,6 +761,113 @@
         .catch((err) => {
           console.log('SW registration failed:', err);
         });
+    });
+  }
+
+  // ─── Performance Analytics ───
+  function calculateAnalytics() {
+    const stats = {};
+
+    SUBJECTS.forEach(sub => {
+      let totalScore = 0;
+      let totalQuestions = 0;
+      let attemptsCount = 0;
+      let lastAttempts = [];
+
+      sub.papers.forEach(paperId => {
+        const key = getStorageKey(sub.id, paperId);
+        const data = JSON.parse(localStorage.getItem(key) || 'null');
+
+        if (data && data.attempts && data.attempts.length > 0) {
+          data.attempts.forEach(attempt => {
+            totalScore += attempt.score;
+            totalQuestions += attempt.total;
+            attemptsCount++;
+          });
+          // For trend, we need last 3 attempts across all papers of this subject
+          // Or per paper? Requirement says "per subject comparing last 3 attempts"
+          lastAttempts = lastAttempts.concat(data.attempts);
+        }
+      });
+
+      if (attemptsCount > 0) {
+        // Sort lastAttempts by date to get the actual last 3
+        lastAttempts.sort((a, b) => new Date(a.date) - new Date(b.date));
+        // Requirement: "comparing last 3 attempts". Let's show dots for last 3.
+
+        stats[sub.id] = {
+          name: sub.name,
+          icon: sub.icon,
+          avg: Math.round((totalScore / totalQuestions) * 100),
+          attempts: attemptsCount,
+          recent: lastAttempts.slice(-3)
+        };
+      }
+    });
+
+    return stats;
+  }
+
+  function renderAnalytics() {
+    const container = $('#analytics-subject-list');
+    if (!container) return;
+    container.innerHTML = '';
+
+    const stats = calculateAnalytics();
+    const statEntries = Object.entries(stats);
+
+    if (statEntries.length === 0) {
+      container.innerHTML = '<div class="glass-card" style="text-align:center; padding: 40px; color: var(--text-secondary);">No exam data yet. Start practicing to see your performance!</div>';
+      $('#best-subject-name').textContent = '--';
+      $('#best-subject-score').textContent = '--';
+      $('#worst-subject-name').textContent = '--';
+      $('#worst-subject-score').textContent = '--';
+      return;
+    }
+
+    // Sort by avg
+    statEntries.sort((a, b) => b[1].avg - a[1].avg);
+
+    const best = statEntries[0][1];
+    const worst = statEntries[statEntries.length - 1][1];
+
+    $('#best-subject-name').textContent = best.name;
+    $('#best-subject-score').textContent = `${best.avg}% Avg`;
+    $('#worst-subject-name').textContent = worst.name;
+    $('#worst-subject-score').textContent = `${worst.avg}% Avg`;
+
+    statEntries.forEach(([id, data]) => {
+      const card = document.createElement('div');
+      card.className = 'analytics-subject-card glass-card';
+
+      const avgClass = data.avg >= 60 ? 'high' : (data.avg >= 40 ? 'mid' : 'low');
+
+      // Trend logic: compare each of last 3 with the one before it
+      let trendHtml = '';
+      if (data.recent.length >= 2) {
+        trendHtml = '<div class="trend-dots">';
+        for (let i = 1; i < data.recent.length; i++) {
+          const prev = data.recent[i-1].score / data.recent[i-1].total;
+          const curr = data.recent[i].score / data.recent[i].total;
+          let trend = 'stable';
+          if (curr > prev) trend = 'up';
+          if (curr < prev) trend = 'down';
+          trendHtml += `<span class="trend-dot ${trend}"></span>`;
+        }
+        trendHtml += '</div><span class="trend-label">Trend</span>';
+      }
+
+      card.innerHTML = `
+        <span class="analytics-subject-icon">${data.icon}</span>
+        <div class="analytics-subject-info">
+          <div class="analytics-subject-name">${data.name}</div>
+          <div class="analytics-subject-avg ${avgClass}">${data.avg}% Average Score</div>
+        </div>
+        <div class="analytics-subject-trend">
+          ${trendHtml}
+        </div>
+      `;
+      container.appendChild(card);
     });
   }
 

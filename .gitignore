@@ -1,7 +1,3 @@
 node_modules/
 .DS_Store
 *.log
-reproduce_issue.js
-reproduction_output.txt
-ls_output.txt
-/home/jules/verification/

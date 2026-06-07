@@ -50,6 +50,7 @@
     </div>
     <div class="home-actions">
       <button id="btn-start-practice" class="btn-primary">Start Practicing</button>
+      <button id="btn-show-analytics" class="btn-secondary">Performance Analytics</button>
     </div>
   </div>
 
@@ -157,6 +158,75 @@
     <div class="review-summary" id="review-summary"></div>
     <div class="review-list" id="review-list">
       <!-- Populated by JS -->
+    </div>
+  </div>
+
+  <!-- ============ SCREEN 7: PERFORMANCE ANALYTICS ============ -->
+  <div id="screen-analytics" class="screen">
+    <header class="screen-header">
+      <button class="btn-back" data-go="home">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+        <span>Home</span>
+      </button>
+      <h2>Performance</h2>
+    </header>
+
+    <div class="analytics-container">
+      <div class="analytics-overview">
+        <div class="best-worst-cards">
+          <div id="best-subject-card" class="stat-card glass-card">
+            <span class="stat-label">Best Subject</span>
+            <div id="best-subject-name" class="stat-value">--</div>
+            <div id="best-subject-score" class="stat-meta">--</div>
+          </div>
+          <div id="worst-subject-card" class="stat-card glass-card">
+            <span class="stat-label">Needs Work</span>
+            <div id="worst-subject-name" class="stat-value">--</div>
+            <div id="worst-subject-score" class="stat-meta">--</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="analytics-subject-list" id="analytics-subject-list">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ============ TIMER MODAL ============ -->
+  <div id="timer-modal" class="modal hidden">
+    <div class="modal-overlay"></div>
+    <div class="modal-content glass-card">
+      <h3 id="modal-paper-title">2018 E.C · Paper 1</h3>
+      <p class="modal-subtitle">Set Exam Timer</p>
+
+      <div class="timer-config">
+        <div class="time-input-group">
+          <div class="time-unit">
+            <button class="btn-timer-adj" data-unit="h" data-dir="up">▲</button>
+            <input type="number" id="timer-hours" value="01" min="0" max="99" />
+            <button class="btn-timer-adj" data-unit="h" data-dir="down">▼</button>
+            <span class="unit-label">HRS</span>
+          </div>
+          <span class="time-sep">:</span>
+          <div class="time-unit">
+            <button class="btn-timer-adj" data-unit="m" data-dir="up">▲</button>
+            <input type="number" id="timer-minutes" value="30" min="0" max="59" />
+            <button class="btn-timer-adj" data-unit="m" data-dir="down">▼</button>
+            <span class="unit-label">MIN</span>
+          </div>
+        </div>
+
+        <div class="timer-presets">
+          <button class="preset-btn" data-time="30">30m</button>
+          <button class="preset-btn" data-time="60">1h</button>
+          <button class="preset-btn active" data-time="90">1.5h</button>
+          <button class="preset-btn" data-time="120">2h</button>
+          <button class="preset-btn" data-time="0">OFF</button>
+        </div>
+      </div>
+
+      <button id="btn-modal-start" class="btn-primary">Start Exam</button>
     </div>
   </div>
 

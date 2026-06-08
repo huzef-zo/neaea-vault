@@ -45,6 +45,22 @@
     const baseUrl = window.location.origin + window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1);
 
     return `${baseUrl}data/${currentSubject.id}/${cleanPath}`;
+
+  function renderMath(element) {
+    if (typeof renderMathInElement === "function") {
+      renderMathInElement(element, {
+        delimiters: [
+          { left: "$$", right: "$$", display: true },
+          { left: "$", right: "$", display: false },
+          { left: "\\[", right: "\\]", display: true },
+          { left: "\\(", right: "\\)", display: false }
+        ],
+        throwOnError: false
+      });
+    } else {
+      console.error("KaTeX auto-render (renderMathInElement) not loaded");
+    }
+  }
   }
 
   const screens = {

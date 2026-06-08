@@ -1095,7 +1095,10 @@
       if (!response.ok) throw new Error('Failed to load manifest');
       const manifest = await response.json();
 
-      SUBJECTS = Object.entries(manifest).map(([id, papers]) => {
+      // New manifest structure has 'subjects' and 'images' keys
+      const subjectData = manifest.subjects || manifest;
+
+      SUBJECTS = Object.entries(subjectData).map(([id, papers]) => {
         const meta = SUBJECT_META[id] || { name: id.charAt(0).toUpperCase() + id.slice(1), icon: '📚' };
         return {
           id,

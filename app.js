@@ -24,6 +24,9 @@
   let currentPaperData = null;
   let currentQuestionIndex = 0;
   let userAnswers = [];
+  let flaggedQuestions = [];
+  let examStartTime = null;
+  let isReviewMode = false;
   let timerEnabled = false;
   let timerInterval = null;
   let timeRemaining = 0;
@@ -45,6 +48,7 @@
     const baseUrl = window.location.origin + window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1);
 
     return `${baseUrl}data/${currentSubject.id}/${cleanPath}`;
+  }
 
   function renderMath(element) {
     if (typeof renderMathInElement === "function") {
@@ -61,7 +65,6 @@
       console.error("KaTeX auto-render (renderMathInElement) not loaded");
     }
   }
-  }
 
   const screens = {
     home:     $('#screen-home'),
@@ -69,7 +72,6 @@
     papers:   $('#screen-papers'),
     exam:      $('#screen-exam'),
     results:   $('#screen-results'),
-    review:    $('#screen-review'),
     analytics: $('#screen-analytics'),
   };
 
@@ -111,12 +113,19 @@
   const exitExamBtn = $('.btn-exit-exam');
   if (exitExamBtn) {
     exitExamBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
+      if (isReviewMode) {
+        e.stopPropagation();
+        showScreen('results');
+        return;
+      }
       if (userAnswers.some((a) => a !== null)) {
-        if (!confirm('Quit exam? Your progress will be lost.')) return;
+        if (!confirm('Quit exam? Your progress will be lost.')) {
+          e.stopPropagation();
+          return;
+        }
       }
       stopTimer();
-      showScreen('papers');
+      // Let the default .btn-back handler take it to papers
     });
   }
 
@@ -350,6 +359,9 @@
     currentPaperId = paperId;
     currentQuestionIndex = 0;
     userAnswers = [];
+    flaggedQuestions = [];
+    examStartTime = Date.now();
+    isReviewMode = false;
 
     const url = `data/${subjectId}/${paperId}.json`;
 
@@ -378,6 +390,7 @@
       if (!currentPaperData.questions) throw new Error('Paper data is missing "questions" array');
 
       userAnswers = new Array(currentPaperData.questions.length).fill(null);
+      flaggedQuestions = new Array(currentPaperData.questions.length).fill(false);
 
       // Update header
       $('#exam-subject-label').textContent = currentPaperData.subject;
@@ -393,13 +406,37 @@
         $('#timer-display').classList.add('hidden');
       }
 
+      // Reset Submit Button
+      $('#btn-submit-exam').classList.remove('hidden');
+
       showScreen('exam');
+      renderQuestionNav();
       renderQuestion();
     } catch (err) {
       console.error('Step 3 Failed: Rendering failed', err);
       showToast(`Render error: ${err.message}`);
       return;
     }
+  }
+
+  function renderQuestionNav() {
+    const container = $('#question-nav');
+    container.innerHTML = '';
+
+    currentPaperData.questions.forEach((_, i) => {
+      const item = document.createElement('div');
+      item.className = 'nav-item';
+      if (i === currentQuestionIndex) item.classList.add('current');
+      if (userAnswers[i] !== null) item.classList.add('answered');
+      if (flaggedQuestions[i]) item.classList.add('flagged');
+
+      item.textContent = i + 1;
+      item.addEventListener('click', () => {
+        currentQuestionIndex = i;
+        renderQuestion();
+      });
+      container.appendChild(item);
+    });
   }
 
   function renderQuestion() {
@@ -410,6 +447,17 @@
     const pct = ((currentQuestionIndex + 1) / total) * 100;
     $('#progress-bar').style.width = pct + '%';
     $('#progress-text').textContent = `${currentQuestionIndex + 1} / ${total}`;
+
+    // Nav
+    renderQuestionNav();
+
+    // Question Header (Flag)
+    const flagBtn = $('#btn-flag');
+    if (flaggedQuestions[currentQuestionIndex]) {
+      flagBtn.classList.add('active');
+    } else {
+      flagBtn.classList.remove('active');
+    }
 
     // Question
     $('#question-number').textContent = `Question ${currentQuestionIndex + 1}`;
@@ -430,29 +478,63 @@
     grid.innerHTML = '';
 
     const letters = ['A', 'B', 'C', 'D'];
+    const answer = userAnswers[currentQuestionIndex];
+    const correctIndex = letters.indexOf(q.answer);
+
     q.options.forEach((opt, i) => {
       const card = document.createElement('div');
       card.className = 'option-card';
       card.dataset.index = i;
+
+      if (isReviewMode) {
+        card.classList.add('disabled');
+        if (i === correctIndex) card.classList.add('correct');
+        if (answer && i === answer.selected && !answer.isCorrect) card.classList.add('wrong');
+      } else {
+        if (answer && i === answer.selected) card.classList.add('selected');
+      }
+
       card.innerHTML = `
         <span class="option-letter">${letters[i]}</span>
         <span class="option-text"></span>
       `;
       card.querySelector('.option-text').textContent = opt;
-      card.addEventListener('click', () => handleAnswer(i));
+
+      if (!isReviewMode) {
+        card.addEventListener('click', () => handleAnswer(i));
+      }
       grid.appendChild(card);
     });
 
     // Render Math
     renderMath($('#question-area'));
 
-    // Hide explanation & next
-    $('#explanation-box').classList.add('hidden');
-    $('#btn-next').classList.add('hidden');
+    // Explanation (Review Mode)
+    const expBox = $('#explanation-box');
+    if (isReviewMode && q.explanation) {
+      $('#explanation-text').textContent = q.explanation;
+      expBox.classList.remove('hidden');
+      renderMath(expBox);
+    } else {
+      expBox.classList.add('hidden');
+    }
 
+    // Nav buttons
+    const prevBtn = $('#btn-prev');
+    const nextBtn = $('#btn-next');
+
+    prevBtn.disabled = currentQuestionIndex === 0;
+
+    if (currentQuestionIndex === total - 1) {
+      nextBtn.textContent = isReviewMode ? 'Finish Review' : 'Submit Exam';
+    } else {
+      nextBtn.textContent = 'Next';
+    }
   }
 
   function handleAnswer(selectedIndex) {
+    if (isReviewMode) return;
+
     const q = currentPaperData.questions[currentQuestionIndex];
     const correctLetter = q.answer;
     const correctIndex = ['A', 'B', 'C', 'D'].indexOf(correctLetter);
@@ -465,37 +547,44 @@
       isCorrect,
     };
 
-    // Visual feedback
+    // Update UI (selected state)
     const options = $$('#options-grid .option-card');
     options.forEach((card, i) => {
-      card.classList.add('disabled');
-      if (i === correctIndex) card.classList.add('correct');
-      if (i === selectedIndex && !isCorrect) card.classList.add('wrong');
+      if (i === selectedIndex) card.classList.add('selected');
+      else card.classList.remove('selected');
     });
 
-    // Show explanation
-    if (q.explanation) {
-      $('#explanation-text').textContent = q.explanation;
-      $('#explanation-box').classList.remove('hidden');
-      renderMath($('#explanation-box'));
-    }
-
-    // Show next button
-    const nextBtn = $('#btn-next');
-    const isLast = currentQuestionIndex >= currentPaperData.questions.length - 1;
-    nextBtn.textContent = isLast ? 'See Results' : 'Next Question';
-    nextBtn.classList.remove('hidden');
+    renderQuestionNav();
   }
 
-  // Next question handler
-  $('#btn-next').addEventListener('click', () => {
-    const isLast = currentQuestionIndex >= currentPaperData.questions.length - 1;
-    if (isLast) {
-      finishExam();
-    } else {
-      currentQuestionIndex++;
+  // Navigation handlers
+  $('#btn-prev').addEventListener('click', () => {
+    if (currentQuestionIndex > 0) {
+      currentQuestionIndex--;
       renderQuestion();
     }
+  });
+
+  $('#btn-next').addEventListener('click', () => {
+    if (currentQuestionIndex < currentPaperData.questions.length - 1) {
+      currentQuestionIndex++;
+      renderQuestion();
+    } else {
+      if (isReviewMode) {
+        showScreen('results');
+      } else {
+        finishExam();
+      }
+    }
+  });
+
+  $('#btn-flag').addEventListener('click', () => {
+    flaggedQuestions[currentQuestionIndex] = !flaggedQuestions[currentQuestionIndex];
+    renderQuestion();
+  });
+
+  $('#btn-submit-exam').addEventListener('click', () => {
+    finishExam();
   });
 
   // ─── Timer ───
@@ -600,31 +689,59 @@
 
   // ─── Finish Exam ───
   function finishExam() {
+    const total = currentPaperData.questions.length;
+    const answeredCount = userAnswers.filter(a => a !== null).length;
+    const unansweredCount = total - answeredCount;
+
+    if (unansweredCount > 0) {
+      if (!confirm(`Are you sure you want to submit? ${unansweredCount} questions are unanswered.`)) {
+        return;
+      }
+    } else {
+      if (!confirm('Are you sure you want to submit your exam?')) {
+        return;
+      }
+    }
+
     stopTimer();
 
-    const total = currentPaperData.questions.length;
-    const score = userAnswers.filter((a) => a && a.isCorrect).length;
-    const percentage = Math.round((score / total) * 100);
+    const correct = userAnswers.filter((a) => a && a.isCorrect).length;
+    const wrong = answeredCount - correct;
+    const flaggedCount = flaggedQuestions.filter(f => f).length;
+    const percentage = Math.round((correct / total) * 100);
     const passed = percentage >= 50;
 
+    // Time taken
+    const timeTakenMs = Date.now() - examStartTime;
+    const minutes = Math.floor(timeTakenMs / 60000);
+    const seconds = Math.floor((timeTakenMs % 60000) / 1000);
+    const timeString = `${minutes}m ${seconds}s`;
+
     // Save attempt
-    saveAttempt(currentSubject.id, currentPaperId, score, total);
+    saveAttempt(currentSubject.id, currentPaperId, correct, total);
 
     // Render results
     const statusEl = $('#results-pass-fail');
     statusEl.textContent = passed ? 'PASSED' : 'FAILED';
     statusEl.className = 'results-status ' + (passed ? 'pass' : 'fail');
 
-    $('#results-score-num').textContent = score;
+    $('#results-score-num').textContent = correct;
     $('#results-score-total').textContent = total;
     $('#results-percentage').textContent = percentage + '%';
+    $('#results-time').textContent = `Time taken: ${timeString}`;
+
+    // Breakdown
+    $('#breakdown-correct').textContent = correct;
+    $('#breakdown-wrong').textContent = wrong;
+    $('#breakdown-unanswered').textContent = unansweredCount;
+    $('#breakdown-flagged').textContent = flaggedCount;
 
     // Best comparison
     const stats = getPaperStats(currentSubject.id, currentPaperId);
     const bestEl = $('#results-best');
     if (stats.best) {
       const bestPct = Math.round((stats.best.score / stats.best.total) * 100);
-      if (score >= stats.best.score && score > 0) {
+      if (correct >= stats.best.score && correct > 0) {
         bestEl.textContent = 'New Personal Best!';
         bestEl.className = 'results-best new-best';
       } else {
@@ -645,73 +762,17 @@
 
   // Results buttons
   $('#btn-review').addEventListener('click', () => {
-    renderReview();
-    showScreen('review');
+    isReviewMode = true;
+    currentQuestionIndex = 0;
+    $('#btn-submit-exam').classList.add('hidden');
+    showScreen('exam');
+    renderQuestion();
   });
 
-  $('#btn-retry').addEventListener('click', () => {
-    startExam(currentSubject.id, currentPaperId);
+  $('#btn-back-to-papers').addEventListener('click', () => {
+    showScreen('papers');
   });
 
-  $('#btn-change-subject').addEventListener('click', () => {
-    showScreen('subjects');
-  });
-
-  // ─── Review Mode ───
-  function renderReview() {
-    const list = $('#review-list');
-    const summary = $('#review-summary');
-    list.innerHTML = '';
-
-    const total = currentPaperData.questions.length;
-    const correct = userAnswers.filter((a) => a && a.isCorrect).length;
-    summary.textContent = `You got ${correct} out of ${total} correct (${Math.round((correct / total) * 100)}%)`;
-
-    const letters = ['A', 'B', 'C', 'D'];
-
-    currentPaperData.questions.forEach((q, i) => {
-      const answer = userAnswers[i];
-      const isCorrect = answer && answer.isCorrect;
-      const wasSkipped = !answer || answer.selected === -1;
-
-      const item = document.createElement('div');
-      item.className = 'review-item ' + (isCorrect ? 'review-correct' : 'review-wrong');
-
-      let answersHtml = '';
-      if (isCorrect) {
-        answersHtml = `<div class="review-answers"><span class="review-correct-answer">Your answer: ${letters[answer.selected]} — Correct</span></div>`;
-      } else if (wasSkipped) {
-        answersHtml = `<div class="review-answers"><span class="review-your-answer">Skipped</span> &middot; <span class="review-correct-answer">Correct: ${letters[answer.correct]}</span></div>`;
-      } else {
-        answersHtml = `<div class="review-answers"><span class="review-your-answer">Your answer: ${letters[answer.selected]}</span> &middot; <span class="review-correct-answer">Correct: ${letters[answer.correct]}</span></div>`;
-      }
-
-      let imageHtml = '';
-      if (q.image) {
-        imageHtml = `<img class="review-q-image" src="${resolveImagePath(q.image)}" alt="Question diagram" />`;
-      }
-
-      let explanationHtml = '';
-      if (!isCorrect && q.explanation) {
-        explanationHtml = `<div class="review-explanation">${q.explanation}</div>`;
-      }
-
-      item.innerHTML = `
-        <div class="review-q-header">
-          <span class="review-q-number">Question ${i + 1}</span>
-          <span class="review-q-status ${isCorrect ? 'correct' : 'wrong'}">${isCorrect ? 'Correct' : 'Wrong'}</span>
-        </div>
-        <p class="review-q-text"></p>
-        ${imageHtml}
-        ${answersHtml}
-        ${explanationHtml}
-      `;
-      item.querySelector('.review-q-text').textContent = q.question;
-
-      list.appendChild(item);
-    });
-    renderMath(list);
-  }
 
   // ─── Toast ───
   function showToast(message) {

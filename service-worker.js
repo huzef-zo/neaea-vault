@@ -3,7 +3,7 @@
    Cache-first strategy for full offline support
    ============================================ */
 
-const CACHE_NAME = 'neaea-vault-v131';
+const CACHE_NAME = 'neaea-vault-v133';
 
 // Core app shell
 const APP_SHELL = [
@@ -17,7 +17,7 @@ const APP_SHELL = [
   'lib/katex/katex.min.js',
   'lib/katex/contrib/auto-render.min.js',
   'lib/katex/fonts/KaTeX_AMS-Regular.woff2',
-'lib/katex/fonts/KaTeX_AMS-Regular.ttf',  'lib/katex/fonts/KaTeX_AMS-Regular.woff',  'lib/katex/fonts/KaTeX_Caligraphic-Bold.ttf',  'lib/katex/fonts/KaTeX_Caligraphic-Bold.woff',  'lib/katex/fonts/KaTeX_Caligraphic-Regular.ttf',  'lib/katex/fonts/KaTeX_Caligraphic-Regular.woff',  'lib/katex/fonts/KaTeX_Fraktur-Bold.ttf',  'lib/katex/fonts/KaTeX_Fraktur-Bold.woff',  'lib/katex/fonts/KaTeX_Fraktur-Regular.ttf',  'lib/katex/fonts/KaTeX_Fraktur-Regular.woff',  'lib/katex/fonts/KaTeX_Main-Bold.ttf',  'lib/katex/fonts/KaTeX_Main-Bold.woff',  'lib/katex/fonts/KaTeX_Main-BoldItalic.ttf',  'lib/katex/fonts/KaTeX_Main-BoldItalic.woff',  'lib/katex/fonts/KaTeX_Main-Italic.ttf',  'lib/katex/fonts/KaTeX_Main-Italic.woff',  'lib/katex/fonts/KaTeX_Main-Regular.ttf',  'lib/katex/fonts/KaTeX_Main-Regular.woff',  'lib/katex/fonts/KaTeX_Math-BoldItalic.ttf',  'lib/katex/fonts/KaTeX_Math-BoldItalic.woff',  'lib/katex/fonts/KaTeX_Math-Italic.ttf',  'lib/katex/fonts/KaTeX_Math-Italic.woff',  'lib/katex/fonts/KaTeX_SansSerif-Bold.ttf',  'lib/katex/fonts/KaTeX_SansSerif-Bold.woff',  'lib/katex/fonts/KaTeX_SansSerif-Italic.ttf',  'lib/katex/fonts/KaTeX_SansSerif-Italic.woff',  'lib/katex/fonts/KaTeX_SansSerif-Regular.ttf',  'lib/katex/fonts/KaTeX_SansSerif-Regular.woff',  'lib/katex/fonts/KaTeX_Script-Regular.ttf',  'lib/katex/fonts/KaTeX_Script-Regular.woff',  'lib/katex/fonts/KaTeX_Size1-Regular.ttf',  'lib/katex/fonts/KaTeX_Size1-Regular.woff',  'lib/katex/fonts/KaTeX_Size2-Regular.ttf',  'lib/katex/fonts/KaTeX_Size2-Regular.woff',  'lib/katex/fonts/KaTeX_Size3-Regular.ttf',  'lib/katex/fonts/KaTeX_Size3-Regular.woff',  'lib/katex/fonts/KaTeX_Size4-Regular.ttf',  'lib/katex/fonts/KaTeX_Size4-Regular.woff',  'lib/katex/fonts/KaTeX_Typewriter-Regular.ttf',  'lib/katex/fonts/KaTeX_Typewriter-Regular.woff'
+'lib/katex/fonts/KaTeX_AMS-Regular.ttf',  'lib/katex/fonts/KaTeX_AMS-Regular.woff',  'lib/katex/fonts/KaTeX_Caligraphic-Bold.ttf',  'lib/katex/fonts/KaTeX_Caligraphic-Bold.woff',  'lib/katex/fonts/KaTeX_Caligraphic-Regular.ttf',  'lib/katex/fonts/KaTeX_Caligraphic-Regular.woff',  'lib/katex/fonts/KaTeX_Fraktur-Bold.ttf',  'lib/katex/fonts/KaTeX_Fraktur-Bold.woff',  'lib/katex/fonts/KaTeX_Fraktur-Regular.ttf',  'lib/katex/fonts/KaTeX_Fraktur-Regular.woff',  'lib/katex/fonts/KaTeX_Main-Bold.ttf',  'lib/katex/fonts/KaTeX_Main-Bold.woff',  'lib/katex/fonts/KaTeX_Main-BoldItalic.ttf',  'lib/katex/fonts/KaTeX_Main-BoldItalic.woff',  'lib/katex/fonts/KaTeX_Main-Italic.ttf',  'lib/katex/fonts/KaTeX_Main-Italic.woff',  'lib/katex/fonts/KaTeX_Main-Regular.ttf',  'lib/katex/fonts/KaTeX_Main-Regular.woff',  'lib/katex/fonts/KaTeX_Math-BoldItalic.ttf',  'lib/katex/fonts/KaTeX_Math-BoldItalic.woff',  'lib/katex/fonts/KaTeX_Math-Italic.ttf',  'lib/katex/fonts/KaTeX_Math-Italic.woff',  'lib/katex/fonts/KaTeX_SansSerif-Bold.ttf',  'lib/katex/fonts/KaTeX_SansSerif-Bold.woff',  'lib/katex/fonts/KaTeX_SansSerif-Italic.ttf',  'lib/katex/fonts/KaTeX_SansSerif-Italic.woff',  'lib/katex/fonts/KaTeX_SansSerif-Regular.ttf',  'lib/katex/fonts/KaTeX_SansSerif-Regular.woff',  'lib/katex/fonts/KaTeX_Script-Regular.ttf',  'lib/katex/fonts/KaTeX_Script-Regular.woff',  'lib/katex/fonts/KaTeX_Size1-Regular.ttf',  'lib/katex/fonts/KaTeX_Size1-Regular.woff',  'lib/katex/fonts/KaTeX_Size2-Regular.ttf',  'lib/katex/fonts/KaTeX_Size2-Regular.woff',  'lib/katex/fonts/KaTeX_Size3-Regular.ttf',  'lib/katex/fonts/KaTeX_Size3-Regular.woff',  'lib/katex/fonts/KaTeX_Size4-Regular.ttf',  'lib/katex/fonts/KaTeX_Size4-Regular.woff',  'lib/katex/fonts/KaTeX_Typewriter-Regular.ttf',  'lib/katex/fonts/KaTeX_Typewriter-Regular.woff',
   'lib/katex/fonts/KaTeX_Caligraphic-Bold.woff2',
   'lib/katex/fonts/KaTeX_Caligraphic-Regular.woff2',
   'lib/katex/fonts/KaTeX_Fraktur-Bold.woff2',
@@ -150,30 +150,40 @@ self.addEventListener('activate', (event) => {
 
 // Fetch — cache-first with network fallback
 self.addEventListener('fetch', (event) => {
-  // Only handle GET requests
   if (event.request.method !== 'GET') return;
 
-  event.respondWith(
-    caches.match(event.request).then((cached) => {
-      if (cached) {
-        return cached;
-      }
+  const url = new URL(event.request.url);
 
-      // Network fallback
-      return fetch(event.request).then((response) => {
-        // Cache successful responses for data files and images
-        if (response.ok) {
-          const url = new URL(event.request.url);
-          if (url.pathname.includes('/data/') || url.pathname.includes('/icons/')) {
+  // Strategy: Cache-first for data, icons, and lib assets
+  const isDataFile = url.pathname.includes('/data/');
+  const isIconFile = url.pathname.includes('/icons/');
+  const isLibFile = url.pathname.includes('/lib/');
+
+  if (isDataFile || isIconFile || isLibFile) {
+    event.respondWith(
+      caches.match(event.request).then((cached) => {
+        return cached || fetch(event.request).then((response) => {
+          if (response.ok) {
             const responseClone = response.clone();
             caches.open(CACHE_NAME).then((cache) => {
               cache.put(event.request, responseClone);
             });
           }
-        }
+          return response;
+        });
+      })
+    );
+    return;
+  }
+
+  // Strategy: Cache-first with network fallback for other requests
+  event.respondWith(
+    caches.match(event.request).then((cached) => {
+      if (cached) return cached;
+
+      return fetch(event.request).then((response) => {
         return response;
       }).catch(() => {
-        // Offline fallback for navigation
         if (event.request.mode === 'navigate') {
           return caches.match('index.html');
         }

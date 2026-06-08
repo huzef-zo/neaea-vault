@@ -1,0 +1,49 @@
+{
+  "subject": "Biology",
+  "year": "2020 E.C",
+  "paper": 99,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which organelle is responsible for producing energy in the form of ATP?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Golgi apparatus"
+      ],
+      "answer": "B",
+      "explanation": "The mitochondria is known as the powerhouse of the cell. It produces ATP through cellular respiration via the process of oxidative phosphorylation."
+    },
+    {
+      "id": 2,
+      "question": "What is the basic unit of heredity?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Chromosome",
+        "Nucleus",
+        "Gene",
+        "DNA"
+      ],
+      "answer": "C",
+      "explanation": "A gene is the basic unit of heredity. It is a sequence of DNA that codes for a specific protein or has a specific function."
+    },
+    {
+      "id": 3,
+      "question": "Which process converts glucose into pyruvate?",
+      "image": null,
+      "passage": null,
+      "options": [
+        "Krebs cycle",
+        "Glycolysis",
+        "Photosynthesis",
+        "Fermentation"
+      ],
+      "answer": "B",
+      "explanation": "Glycolysis is the metabolic pathway that converts glucose into pyruvate. It occurs in the cytoplasm and produces 2 ATP molecules per glucose."
+    }
+  ]
+}

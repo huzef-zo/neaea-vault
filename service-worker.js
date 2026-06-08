@@ -1,11 +1,11 @@
 /* ============================================
    NEAEA Vault — Service Worker
-   Cache-first strategy for full offline support
+   Strict Cache-first strategy for full offline support
    ============================================ */
 
-const CACHE_NAME = 'neaea-vault-v134';
+const CACHE_NAME = 'neaea-vault-v135';
 
-// Core app shell
+// Core app shell files
 const APP_SHELL = [
   './',
   'index.html',
@@ -17,7 +17,46 @@ const APP_SHELL = [
   'lib/katex/katex.min.js',
   'lib/katex/contrib/auto-render.min.js',
   'lib/katex/fonts/KaTeX_AMS-Regular.woff2',
-'lib/katex/fonts/KaTeX_AMS-Regular.ttf',  'lib/katex/fonts/KaTeX_AMS-Regular.woff',  'lib/katex/fonts/KaTeX_Caligraphic-Bold.ttf',  'lib/katex/fonts/KaTeX_Caligraphic-Bold.woff',  'lib/katex/fonts/KaTeX_Caligraphic-Regular.ttf',  'lib/katex/fonts/KaTeX_Caligraphic-Regular.woff',  'lib/katex/fonts/KaTeX_Fraktur-Bold.ttf',  'lib/katex/fonts/KaTeX_Fraktur-Bold.woff',  'lib/katex/fonts/KaTeX_Fraktur-Regular.ttf',  'lib/katex/fonts/KaTeX_Fraktur-Regular.woff',  'lib/katex/fonts/KaTeX_Main-Bold.ttf',  'lib/katex/fonts/KaTeX_Main-Bold.woff',  'lib/katex/fonts/KaTeX_Main-BoldItalic.ttf',  'lib/katex/fonts/KaTeX_Main-BoldItalic.woff',  'lib/katex/fonts/KaTeX_Main-Italic.ttf',  'lib/katex/fonts/KaTeX_Main-Italic.woff',  'lib/katex/fonts/KaTeX_Main-Regular.ttf',  'lib/katex/fonts/KaTeX_Main-Regular.woff',  'lib/katex/fonts/KaTeX_Math-BoldItalic.ttf',  'lib/katex/fonts/KaTeX_Math-BoldItalic.woff',  'lib/katex/fonts/KaTeX_Math-Italic.ttf',  'lib/katex/fonts/KaTeX_Math-Italic.woff',  'lib/katex/fonts/KaTeX_SansSerif-Bold.ttf',  'lib/katex/fonts/KaTeX_SansSerif-Bold.woff',  'lib/katex/fonts/KaTeX_SansSerif-Italic.ttf',  'lib/katex/fonts/KaTeX_SansSerif-Italic.woff',  'lib/katex/fonts/KaTeX_SansSerif-Regular.ttf',  'lib/katex/fonts/KaTeX_SansSerif-Regular.woff',  'lib/katex/fonts/KaTeX_Script-Regular.ttf',  'lib/katex/fonts/KaTeX_Script-Regular.woff',  'lib/katex/fonts/KaTeX_Size1-Regular.ttf',  'lib/katex/fonts/KaTeX_Size1-Regular.woff',  'lib/katex/fonts/KaTeX_Size2-Regular.ttf',  'lib/katex/fonts/KaTeX_Size2-Regular.woff',  'lib/katex/fonts/KaTeX_Size3-Regular.ttf',  'lib/katex/fonts/KaTeX_Size3-Regular.woff',  'lib/katex/fonts/KaTeX_Size4-Regular.ttf',  'lib/katex/fonts/KaTeX_Size4-Regular.woff',  'lib/katex/fonts/KaTeX_Typewriter-Regular.ttf',  'lib/katex/fonts/KaTeX_Typewriter-Regular.woff',
+  'lib/katex/fonts/KaTeX_AMS-Regular.ttf',
+  'lib/katex/fonts/KaTeX_AMS-Regular.woff',
+  'lib/katex/fonts/KaTeX_Caligraphic-Bold.ttf',
+  'lib/katex/fonts/KaTeX_Caligraphic-Bold.woff',
+  'lib/katex/fonts/KaTeX_Caligraphic-Regular.ttf',
+  'lib/katex/fonts/KaTeX_Caligraphic-Regular.woff',
+  'lib/katex/fonts/KaTeX_Fraktur-Bold.ttf',
+  'lib/katex/fonts/KaTeX_Fraktur-Bold.woff',
+  'lib/katex/fonts/KaTeX_Fraktur-Regular.ttf',
+  'lib/katex/fonts/KaTeX_Fraktur-Regular.woff',
+  'lib/katex/fonts/KaTeX_Main-Bold.ttf',
+  'lib/katex/fonts/KaTeX_Main-Bold.woff',
+  'lib/katex/fonts/KaTeX_Main-BoldItalic.ttf',
+  'lib/katex/fonts/KaTeX_Main-BoldItalic.woff',
+  'lib/katex/fonts/KaTeX_Main-Italic.ttf',
+  'lib/katex/fonts/KaTeX_Main-Italic.woff',
+  'lib/katex/fonts/KaTeX_Main-Regular.ttf',
+  'lib/katex/fonts/KaTeX_Main-Regular.woff',
+  'lib/katex/fonts/KaTeX_Math-BoldItalic.ttf',
+  'lib/katex/fonts/KaTeX_Math-BoldItalic.woff',
+  'lib/katex/fonts/KaTeX_Math-Italic.ttf',
+  'lib/katex/fonts/KaTeX_Math-Italic.woff',
+  'lib/katex/fonts/KaTeX_SansSerif-Bold.ttf',
+  'lib/katex/fonts/KaTeX_SansSerif-Bold.woff',
+  'lib/katex/fonts/KaTeX_SansSerif-Italic.ttf',
+  'lib/katex/fonts/KaTeX_SansSerif-Italic.woff',
+  'lib/katex/fonts/KaTeX_SansSerif-Regular.ttf',
+  'lib/katex/fonts/KaTeX_SansSerif-Regular.woff',
+  'lib/katex/fonts/KaTeX_Script-Regular.ttf',
+  'lib/katex/fonts/KaTeX_Script-Regular.woff',
+  'lib/katex/fonts/KaTeX_Size1-Regular.ttf',
+  'lib/katex/fonts/KaTeX_Size1-Regular.woff',
+  'lib/katex/fonts/KaTeX_Size2-Regular.ttf',
+  'lib/katex/fonts/KaTeX_Size2-Regular.woff',
+  'lib/katex/fonts/KaTeX_Size3-Regular.ttf',
+  'lib/katex/fonts/KaTeX_Size3-Regular.woff',
+  'lib/katex/fonts/KaTeX_Size4-Regular.ttf',
+  'lib/katex/fonts/KaTeX_Size4-Regular.woff',
+  'lib/katex/fonts/KaTeX_Typewriter-Regular.ttf',
+  'lib/katex/fonts/KaTeX_Typewriter-Regular.woff',
   'lib/katex/fonts/KaTeX_Caligraphic-Bold.woff2',
   'lib/katex/fonts/KaTeX_Caligraphic-Regular.woff2',
   'lib/katex/fonts/KaTeX_Fraktur-Bold.woff2',
@@ -37,82 +76,6 @@ const APP_SHELL = [
   'lib/katex/fonts/KaTeX_Size3-Regular.woff2',
   'lib/katex/fonts/KaTeX_Size4-Regular.woff2',
   'lib/katex/fonts/KaTeX_Typewriter-Regular.woff2',
-];
-
-// Data files — automatically generated
-const DATA_FILES = [
-  'data/aptitude/2015_p1.json',
-  'data/aptitude/2017_p1.json',
-  'data/aptitude/2017_p2.json',
-  'data/aptitude/2017_p3.json',
-  'data/aptitude/2018_p1.json',
-  'data/aptitude/2018_p2.json',
-  'data/aptitude/2018_p3.json',
-  'data/biology/2012_p1.json',
-  'data/biology/2013_p1.json',
-  'data/biology/2013_p2.json',
-  'data/biology/2015_p1.json',
-  'data/biology/2017_p1.json',
-  'data/biology/2017_p2.json',
-  'data/biology/2018_p1.json',
-  'data/biology/2018_p2.json',
-  'data/biology/2018_p3.json',
-  'data/biology/2018_p4.json',
-  'data/biology/2018_p5.json',
-  'data/biology/2018_p6.json',
-  'data/biology/2018_p7.json',
-  'data/biology/2020_p99.json',
-  'data/chemistry/2012_p1.json',
-  'data/chemistry/2013_p1.json',
-  'data/chemistry/2015_p1.json',
-  'data/chemistry/2017_p1.json',
-  'data/chemistry/2017_p2.json',
-  'data/chemistry/2017_p3.json',
-  'data/chemistry/2017_p4.json',
-  'data/chemistry/2018_p1.json',
-  'data/chemistry/2018_p2.json',
-  'data/chemistry/2018_p3.json',
-  'data/chemistry/2018_p4.json',
-  'data/chemistry/2018_p5.json',
-  'data/english/2012_p1.json',
-  'data/english/2013_p1.json',
-  'data/english/2015_p1.json',
-  'data/english/2016_p1.json',
-  'data/english/2017_p1.json',
-  'data/english/2017_p2.json',
-  'data/english/2018_p1.json',
-  'data/english/2018_p2.json',
-  'data/english/2018_p3.json',
-  'data/english/2018_p4.json',
-  'data/english/2018_p5.json',
-  'data/mathematics/2013_p1.json',
-  'data/mathematics/2015_p1.json',
-  'data/mathematics/2015_p2.json',
-  'data/mathematics/2017_p1.json',
-  'data/mathematics/2017_p2.json',
-  'data/mathematics/2017_p3.json',
-  'data/mathematics/2017_p4.json',
-  'data/mathematics/2018_p1.json',
-  'data/mathematics/2018_p2.json',
-  'data/mathematics/2018_p3.json',
-  'data/mathematics/2018_p4.json',
-  'data/mathematics/2018_p5.json',
-  'data/mathematics/2018_p6.json',
-  'data/physics/2015_p1.json',
-  'data/physics/2017_p1.json',
-  'data/physics/2017_p2.json',
-  'data/physics/2017_p3.json',
-  'data/physics/2018_p1.json',
-  'data/physics/2018_p2.json',
-  'data/physics/2018_p3.json',
-  'data/physics/2018_p4.json',
-  'data/physics/2018_p5.json',
-  'data/physics/2018_p6.json',
-  'data/manifest.json',
-];
-
-// Icon files
-const ICON_FILES = [
   'icons/icon-72.png',
   'icons/icon-96.png',
   'icons/icon-128.png',
@@ -123,20 +86,41 @@ const ICON_FILES = [
   'icons/icon-512.png',
 ];
 
-const ALL_ASSETS = [...APP_SHELL, ...DATA_FILES, ...ICON_FILES];
-
-// Install — cache everything
+// Install — fetch manifest and cache everything
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      console.log('[SW] Caching app shell and data');
-      return cache.addAll(ALL_ASSETS);
-    })
+    fetch('data/manifest.json')
+      .then((response) => response.json())
+      .then((data) => {
+        const dataFiles = [];
+        // Add JSON papers
+        if (data.subjects) {
+          for (const subject in data.subjects) {
+            data.subjects[subject].forEach((paperId) => {
+              dataFiles.push(`data/${subject}/${paperId}.json`);
+            });
+          }
+        }
+        // Add images
+        if (data.images) {
+          dataFiles.push(...data.images);
+        }
+
+        const ALL_ASSETS = [...APP_SHELL, ...dataFiles];
+
+        return caches.open(CACHE_NAME).then((cache) => {
+          console.log('[SW] Caching all assets from manifest');
+          return cache.addAll(ALL_ASSETS);
+        });
+      })
+      .catch((err) => {
+        console.error('[SW] Install failed to fetch manifest or cache assets:', err);
+      })
   );
   self.skipWaiting();
 });
 
-// Activate — clean old caches
+// Activate — clean old caches immediately
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches.keys().then((keys) => {
@@ -148,45 +132,35 @@ self.addEventListener('activate', (event) => {
   self.clients.claim();
 });
 
-// Fetch — cache-first with network fallback
+// Fetch — strict cache-first strategy
 self.addEventListener('fetch', (event) => {
   if (event.request.method !== 'GET') return;
 
-  const url = new URL(event.request.url);
-
-  // Strategy: Cache-first for data, icons, and lib assets
-  const isDataFile = url.pathname.includes('/data/');
-  const isIconFile = url.pathname.includes('/icons/');
-  const isLibFile = url.pathname.includes('/lib/');
-
-  if (isDataFile || isIconFile || isLibFile) {
-    event.respondWith(
-      caches.match(event.request).then((cached) => {
-        return cached || fetch(event.request).then((response) => {
-          if (response.ok) {
-            const responseClone = response.clone();
-            caches.open(CACHE_NAME).then((cache) => {
-              cache.put(event.request, responseClone);
-            });
-          }
-          return response;
-        });
-      })
-    );
-    return;
-  }
-
-  // Strategy: Cache-first with network fallback for other requests
   event.respondWith(
     caches.match(event.request).then((cached) => {
-      if (cached) return cached;
+      if (cached) {
+        return cached;
+      }
 
+      // If not in cache, try network (and cache it)
       return fetch(event.request).then((response) => {
+        if (!response || response.status !== 200 || response.type !== 'basic') {
+          return response;
+        }
+
+        const responseToCache = response.clone();
+        caches.open(CACHE_NAME).then((cache) => {
+          cache.put(event.request, responseToCache);
+        });
+
         return response;
       }).catch(() => {
+        // If network fails and it's a navigation request, show offline index.html
         if (event.request.mode === 'navigate') {
           return caches.match('index.html');
         }
+        // Otherwise, return a proper offline error or null
+        return null;
       });
     })
   );

@@ -98,6 +98,7 @@
         </button>
         <span id="timer-display" class="timer-display hidden">00:00</span>
       </div>
+      <button id="btn-submit-exam" class="btn-submit">Submit</button>
     </header>
 
     <div class="progress-bar-container">
@@ -105,9 +106,18 @@
       <span class="progress-text" id="progress-text">1 / 45</span>
     </div>
 
+    <div id="question-nav" class="question-nav">
+      <!-- Populated by JS -->
+    </div>
+
     <div class="question-area" id="question-area">
       <div class="question-card glass-card">
-        <p class="question-number" id="question-number">Question 1</p>
+        <div class="question-card-header">
+          <p class="question-number" id="question-number">Question 1</p>
+          <button id="btn-flag" class="btn-flag" title="Flag Question">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg>
+          </button>
+        </div>
         <p class="question-text" id="question-text"></p>
         <img id="question-image" class="question-image hidden" alt="Question diagram" />
       </div>
@@ -121,7 +131,10 @@
         <p id="explanation-text"></p>
       </div>
 
-      <button id="btn-next" class="btn-next hidden">Next Question</button>
+      <div class="exam-nav-buttons">
+        <button id="btn-prev" class="btn-nav">Previous</button>
+        <button id="btn-next" class="btn-nav">Next</button>
+      </div>
     </div>
   </div>
 
@@ -137,31 +150,37 @@
           <span id="results-score-total" class="score-total"></span>
         </div>
         <div class="results-percentage" id="results-percentage"></div>
+        <div id="results-time" class="results-time"></div>
         <div class="results-best" id="results-best"></div>
       </div>
     </div>
+
+    <div class="results-breakdown glass-card">
+      <div class="breakdown-item">
+        <span class="breakdown-label">Correct</span>
+        <span id="breakdown-correct" class="breakdown-value correct">0</span>
+      </div>
+      <div class="breakdown-item">
+        <span class="breakdown-label">Wrong</span>
+        <span id="breakdown-wrong" class="breakdown-value wrong">0</span>
+      </div>
+      <div class="breakdown-item">
+        <span class="breakdown-label">Unanswered</span>
+        <span id="breakdown-unanswered" class="breakdown-value">0</span>
+      </div>
+      <div class="breakdown-item">
+        <span class="breakdown-label">Flagged</span>
+        <span id="breakdown-flagged" class="breakdown-value flagged">0</span>
+      </div>
+    </div>
+
     <div class="results-actions">
       <button class="btn-primary" id="btn-review">Review Answers</button>
-      <button class="btn-secondary" id="btn-retry">Try Again</button>
-      <button class="btn-ghost" id="btn-change-subject">Change Subject</button>
+      <button class="btn-secondary" id="btn-back-to-papers">Back to Papers</button>
     </div>
   </div>
 
-  <!-- ============ SCREEN 6: REVIEW MODE ============ -->
-  <div id="screen-review" class="screen">
-    <header class="screen-header">
-      <button class="btn-back" data-go="results">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
-      </button>
-      <h2>Review Answers</h2>
-    </header>
-    <div class="review-summary" id="review-summary"></div>
-    <div class="review-list" id="review-list">
-      <!-- Populated by JS -->
-    </div>
-  </div>
-
-  <!-- ============ SCREEN 7: PERFORMANCE ANALYTICS ============ -->
+  <!-- ============ SCREEN 6: PERFORMANCE ANALYTICS ============ -->
   <div id="screen-analytics" class="screen">
     <header class="screen-header">
       <button class="btn-back" data-go="home">

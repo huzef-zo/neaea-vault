@@ -202,6 +202,29 @@
     return `vault_${subjectId}_${paperId}`;
   }
 
+  function getProgressKey(subjectId, paperId) {
+    return `vault_progress_${subjectId}_${paperId}`;
+  }
+
+  function saveProgress() {
+    if (!currentSubject || !currentPaperId || isReviewMode) return;
+    const key = getProgressKey(currentSubject.id, currentPaperId);
+    const state = {
+      currentQuestionIndex,
+      userAnswers,
+      flaggedQuestions,
+      timeRemaining,
+      timerEnabled,
+      examStartTime,
+    };
+    localStorage.setItem(key, JSON.stringify(state));
+  }
+
+  function clearProgress(subjectId, paperId) {
+    const key = getProgressKey(subjectId, paperId);
+    localStorage.removeItem(key);
+  }
+
   function getPaperStats(subjectId, paperId) {
     const key = getStorageKey(subjectId, paperId);
     const data = JSON.parse(localStorage.getItem(key) || 'null');
@@ -355,13 +378,54 @@
   }
 
   // ─── Exam Engine ───
-  async function startExam(subjectId, paperId) {
+  async function startExam(subjectId, paperId, isResuming = false) {
+    const progressKey = getProgressKey(subjectId, paperId);
+    const savedProgress = localStorage.getItem(progressKey);
+
+    if (savedProgress && !isResuming && !isReviewMode) {
+      const state = JSON.parse(savedProgress);
+      const modal = $('#resume-modal');
+      const mins = Math.ceil(state.timeRemaining / 60);
+      $('#resume-modal-subtitle').textContent = `You have a previous attempt in progress (${mins} minutes remaining).`;
+      modal.classList.remove('hidden');
+
+      const resumeBtn = $('#btn-resume-yes');
+      const freshBtn = $('#btn-resume-fresh');
+
+      const onResume = () => {
+        modal.classList.add('hidden');
+        startExam(subjectId, paperId, true);
+      };
+
+      const onFresh = () => {
+        clearProgress(subjectId, paperId);
+        modal.classList.add('hidden');
+        startExam(subjectId, paperId, false);
+      };
+
+      resumeBtn.onclick = onResume;
+      freshBtn.onclick = onFresh;
+      return;
+    }
+
     currentPaperId = paperId;
-    currentQuestionIndex = 0;
-    userAnswers = [];
-    flaggedQuestions = [];
-    examStartTime = Date.now();
     isReviewMode = false;
+
+    if (isResuming && savedProgress) {
+      const state = JSON.parse(savedProgress);
+      currentQuestionIndex = state.currentQuestionIndex;
+      userAnswers = state.userAnswers;
+      flaggedQuestions = state.flaggedQuestions;
+      timeRemaining = state.timeRemaining;
+      timerEnabled = state.timerEnabled;
+      examStartTime = state.examStartTime;
+    } else {
+      currentQuestionIndex = 0;
+      userAnswers = [];
+      flaggedQuestions = [];
+      examStartTime = Date.now();
+      // timeRemaining and timerEnabled set by timer modal or defaults
+    }
 
     const url = `data/${subjectId}/${paperId}.json`;
 
@@ -389,8 +453,10 @@
       console.log('Step 3: Rendering questions...');
       if (!currentPaperData.questions) throw new Error('Paper data is missing "questions" array');
 
-      userAnswers = new Array(currentPaperData.questions.length).fill(null);
-      flaggedQuestions = new Array(currentPaperData.questions.length).fill(false);
+      if (!isResuming) {
+        userAnswers = new Array(currentPaperData.questions.length).fill(null);
+        flaggedQuestions = new Array(currentPaperData.questions.length).fill(false);
+      }
 
       // Update header
       $('#exam-subject-label').textContent = currentPaperData.subject;
@@ -555,6 +621,7 @@
     });
 
     renderQuestionNav();
+    saveProgress();
   }
 
   // Navigation handlers
@@ -581,6 +648,7 @@
   $('#btn-flag').addEventListener('click', () => {
     flaggedQuestions[currentQuestionIndex] = !flaggedQuestions[currentQuestionIndex];
     renderQuestion();
+    saveProgress();
   });
 
   $('#btn-submit-exam').addEventListener('click', () => {
@@ -597,9 +665,11 @@
       timeRemaining--;
       updateTimerDisplay();
       updateTimerStatus();
+      saveProgress();
 
       if (timeRemaining <= 0) {
         stopTimer();
+        clearProgress(currentSubject.id, currentPaperId);
         // Auto-select nothing (skip) and move on
         if (userAnswers[currentQuestionIndex] === null) {
           // Mark as timed out
@@ -688,22 +758,22 @@
   });
 
   // ─── Finish Exam ───
-  function finishExam() {
+  function finishExam(forceSubmit = false) {
     const total = currentPaperData.questions.length;
     const answeredCount = userAnswers.filter(a => a !== null).length;
     const unansweredCount = total - answeredCount;
 
-    if (unansweredCount > 0) {
-      if (!confirm(`Are you sure you want to submit? ${unansweredCount} questions are unanswered.`)) {
-        return;
-      }
-    } else {
+    if (unansweredCount > 0 && !forceSubmit) {
+      showUnansweredModal();
+      return;
+    } else if (!forceSubmit) {
       if (!confirm('Are you sure you want to submit your exam?')) {
         return;
       }
     }
 
     stopTimer();
+    clearProgress(currentSubject.id, currentPaperId);
 
     const correct = userAnswers.filter((a) => a && a.isCorrect).length;
     const wrong = answeredCount - correct;
@@ -758,6 +828,37 @@
     glow.className = 'results-glow ' + (passed ? 'pass-glow' : 'fail-glow');
 
     showScreen('results');
+  }
+
+  function showUnansweredModal() {
+    const modal = $('#unanswered-modal');
+    const grid = $('#unanswered-grid');
+    grid.innerHTML = '';
+
+    userAnswers.forEach((ans, i) => {
+      if (ans === null) {
+        const link = document.createElement('div');
+        link.className = 'unanswered-link';
+        link.textContent = i + 1;
+        link.onclick = () => {
+          currentQuestionIndex = i;
+          renderQuestion();
+          modal.classList.add('hidden');
+        };
+        grid.appendChild(link);
+      }
+    });
+
+    $('#btn-unanswered-submit-anyway').onclick = () => {
+      modal.classList.add('hidden');
+      finishExam(true);
+    };
+
+    $('#btn-unanswered-close').onclick = () => {
+      modal.classList.add('hidden');
+    };
+
+    modal.classList.remove('hidden');
   }
 
   // Results buttons

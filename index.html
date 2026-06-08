@@ -249,6 +249,35 @@
     </div>
   </div>
 
+  <!-- ============ UNANSWERED QUESTIONS MODAL ============ -->
+  <div id="unanswered-modal" class="modal hidden">
+    <div class="modal-overlay"></div>
+    <div class="modal-content glass-card">
+      <h3>Unanswered Questions</h3>
+      <p class="modal-subtitle">The following questions are still unanswered:</p>
+      <div id="unanswered-grid" class="unanswered-grid">
+        <!-- Populated by JS -->
+      </div>
+      <div class="modal-actions" style="margin-top: var(--space-lg); display: flex; flex-direction: column; gap: var(--space-sm);">
+        <button id="btn-unanswered-submit-anyway" class="btn-secondary">Submit Anyway</button>
+        <button id="btn-unanswered-close" class="btn-ghost">Back to Exam</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============ RESUME MODAL ============ -->
+  <div id="resume-modal" class="modal hidden">
+    <div class="modal-overlay"></div>
+    <div class="modal-content glass-card">
+      <h3>Resume Attempt?</h3>
+      <p id="resume-modal-subtitle" class="modal-subtitle">You have a previous attempt in progress.</p>
+      <div class="modal-actions" style="margin-top: var(--space-lg); display: flex; flex-direction: column; gap: var(--space-sm);">
+        <button id="btn-resume-yes" class="btn-primary">Resume</button>
+        <button id="btn-resume-fresh" class="btn-secondary">Start Fresh</button>
+      </div>
+    </div>
+  </div>
+
   <!-- Toast Notification -->
   <div id="toast" class="toast hidden"></div>
 

@@ -1385,6 +1385,40 @@ body::before {
   margin-bottom: var(--space-lg);
 }
 
+.unanswered-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  max-height: 200px;
+  overflow-y: auto;
+  padding: 8px;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: var(--radius-md);
+}
+
+.unanswered-link {
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--accent-blue);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.unanswered-link:hover {
+  border-color: var(--accent-blue);
+  background: rgba(79, 143, 255, 0.1);
+  transform: translateY(-2px);
+}
+
 /* Timer Config */
 .timer-config {
   margin-bottom: var(--space-xl);

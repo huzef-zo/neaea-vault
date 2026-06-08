@@ -178,12 +178,13 @@
         ? `Best: ${stats.best.score} / ${stats.best.total} (${Math.round((stats.best.score / stats.best.total) * 100)}%)`
         : 'Not attempted';
 
+      card.setAttribute('data-paper-id', paperId);
       card.innerHTML = `
         <div class="paper-year">${parts[0]}</div>
         <div class="paper-details">
           <div class="paper-title">${year} &middot; ${paperNum}</div>
           <div class="paper-meta">
-            <span>${stats.questionCount} questions</span>
+            <span class="paper-qcount">${stats.questionCount > 0 ? stats.questionCount : '--'} questions</span>
             <span>${stats.attempts} attempt${stats.attempts !== 1 ? 's' : ''}</span>
           </div>
           <div class="paper-best ${bestClass}">${bestText}</div>
@@ -192,6 +193,10 @@
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
         </div>
       `;
+
+      if (stats.questionCount === 0) {
+        fetchAndStoreQuestionCount(currentSubject.id, paperId);
+      }
       card.addEventListener('click', () => showTimerModal(currentSubject.id, paperId));
       list.appendChild(card);
     });
@@ -245,6 +250,35 @@
     };
   }
 
+  async function fetchAndStoreQuestionCount(subjectId, paperId) {
+    const url = `data/${subjectId}/${paperId}.json`;
+    try {
+      // Since Service Worker is now cache-first, this should be near-instant if cached
+      const response = await fetch(url);
+      if (!response.ok) return;
+      const data = await response.json();
+      if (data && data.questions) {
+        const count = data.questions.length;
+        const key = getStorageKey(subjectId, paperId);
+        const stored = JSON.parse(localStorage.getItem(key) || '{"attempts":[]}');
+
+        // Only update if changed or not present
+        if (stored.questionCount !== count) {
+          stored.questionCount = count;
+          localStorage.setItem(key, JSON.stringify(stored));
+        }
+
+        // Update UI if still on the same papers screen
+        const countEl = document.querySelector(`[data-paper-id="${paperId}"] .paper-qcount`);
+        if (countEl && (countEl.textContent === '-- questions' || countEl.textContent.includes('--'))) {
+          countEl.textContent = `${count} questions`;
+        }
+      }
+    } catch (err) {
+      console.error('Failed to fetch question count:', err);
+    }
+  }
+
   function saveAttempt(subjectId, paperId, score, total) {
     const key = getStorageKey(subjectId, paperId);
     const data = JSON.parse(localStorage.getItem(key) || '{"attempts":[]}');
@@ -266,18 +300,23 @@
       (a.score / a.total) > (b.score / b.total) ? a : b
     );
     data.best = bestScore.score;
+    data.questionCount = total;
 
     localStorage.setItem(key, JSON.stringify(data));
   }
 
   function getQuestionCount(subjectId, paperId) {
-    // We'll use the cached data or a default
+    // 1. Current loaded paper
     if (currentPaperData && currentSubject && currentSubject.id === subjectId && currentPaperId === paperId) {
       return currentPaperData.questions.length;
     }
-    // Fallback: try to read from localStorage stats
+    // 2. localStorage
     const key = getStorageKey(subjectId, paperId);
     const data = JSON.parse(localStorage.getItem(key) || 'null');
+    if (data && data.questionCount) {
+      return data.questionCount;
+    }
+    // 3. Fallback to last attempt total if questionCount not set
     if (data && data.attempts && data.attempts.length > 0) {
       return data.attempts[data.attempts.length - 1].total;
     }

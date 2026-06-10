@@ -374,6 +374,29 @@ body {
   margin: 0 auto;
 }
 
+.passage-area {
+  margin-bottom: var(--space-md);
+}
+
+.passage-header {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--color-accent-blue);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: var(--space-sm);
+}
+
+.passage-text {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--color-text-secondary);
+  max-height: 300px;
+  overflow-y: auto;
+  padding-right: var(--space-sm);
+  white-space: pre-wrap;
+}
+
 .paper-card {
   background: var(--color-background-primary);
   border-bottom: 0.5px solid var(--color-border-tertiary);

@@ -3,7 +3,7 @@
    Strict Cache-first strategy for full offline support
    ============================================ */
 
-const CACHE_NAME = 'neaea-vault-v137';
+const CACHE_NAME = 'neaea-vault-v138';
 
 // Core app shell files
 const APP_SHELL = [

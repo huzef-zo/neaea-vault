@@ -284,7 +284,7 @@
     const data = JSON.parse(localStorage.getItem(key) || '{"attempts":[]}');
 
     const attempt = {
-      date: new Date().toISOString().split('T')[0],
+      date: new Date().toISOString(),
       score,
       total,
     };
@@ -1033,14 +1033,14 @@
       });
 
       if (attemptsCount > 0) {
-        // Sort lastAttempts by date to get the actual last 3
-        lastAttempts.sort((a, b) => new Date(a.date) - new Date(b.date));
+        // Sort lastAttempts by date (timestamp) to get the actual last 3
+        lastAttempts.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
         // Requirement: "comparing last 3 attempts". Let's show dots for last 3.
 
         stats[sub.id] = {
           name: sub.name,
           icon: sub.icon,
-          avg: Math.round((totalScore / totalQuestions) * 100),
+          avg: totalQuestions > 0 ? Math.round((totalScore / totalQuestions) * 100) : 0,
           attempts: attemptsCount,
           recent: lastAttempts.slice(-3)
         };
@@ -1073,10 +1073,16 @@
     const best = statEntries[0][1];
     const worst = statEntries[statEntries.length - 1][1];
 
+    const bestAvgClass = best.avg >= 60 ? 'high' : (best.avg >= 40 ? 'mid' : 'low');
+    const worstAvgClass = worst.avg >= 60 ? 'high' : (worst.avg >= 40 ? 'mid' : 'low');
+
     $('#best-subject-name').textContent = best.name;
     $('#best-subject-score').textContent = `${best.avg}% Avg`;
+    $('#best-subject-score').className = `stat-meta ${bestAvgClass}`;
+
     $('#worst-subject-name').textContent = worst.name;
     $('#worst-subject-score').textContent = `${worst.avg}% Avg`;
+    $('#worst-subject-score').className = `stat-meta ${worstAvgClass}`;
 
     statEntries.forEach(([id, data]) => {
       const card = document.createElement('div');
@@ -1103,7 +1109,15 @@
         <span class="analytics-subject-icon">${data.icon}</span>
         <div class="analytics-subject-info">
           <div class="analytics-subject-name">${data.name}</div>
-          <div class="analytics-subject-avg ${avgClass}">${data.avg}% Average Score</div>
+          <div class="analytics-bar-container" style="height: 8px; margin: 6px 0; background: var(--color-background-primary);">
+            <div class="analytics-bar-fill ${avgClass}" style="width: ${data.avg}%"></div>
+          </div>
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <div class="analytics-subject-avg ${avgClass}">${data.avg}% Average</div>
+            <div class="analytics-subject-attempts" style="font-size: 0.75rem; color: var(--color-text-tertiary); font-weight: 600;">
+              ${data.attempts} attempt${data.attempts !== 1 ? 's' : ''}
+            </div>
+          </div>
         </div>
         <div class="analytics-subject-trend">
           ${trendHtml}

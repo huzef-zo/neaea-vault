@@ -568,6 +568,31 @@
     $('#question-number').textContent = `Question ${currentQuestionIndex + 1}`;
     $('#question-text').textContent = q.question;
 
+    // Passage
+    const passageArea = $('#passage-area');
+    const passageText = $('#passage-text');
+    let displayPassage = q.passage;
+
+    if (displayPassage === 'same passage') {
+      // Find the last real passage by searching backwards
+      for (let i = currentQuestionIndex - 1; i >= 0; i--) {
+        const prevQ = currentPaperData.questions[i];
+        if (prevQ.passage && prevQ.passage !== 'same passage') {
+          displayPassage = prevQ.passage;
+          break;
+        }
+      }
+    }
+
+    if (displayPassage) {
+      passageText.textContent = displayPassage;
+      passageArea.classList.remove('hidden');
+      renderMath(passageArea);
+    } else {
+      passageArea.classList.add('hidden');
+      passageText.textContent = '';
+    }
+
     // Image
     const img = $('#question-image');
     if (q.image) {

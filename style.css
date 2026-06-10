@@ -1503,13 +1503,18 @@ body {
   color: var(--color-text-secondary);
 }
 
-#best-subject-card .stat-meta {
-  color: var(--color-success);
-}
+#best-subject-card .stat-meta.high,
+.analytics-subject-avg.high { color: var(--color-success); }
 
-#worst-subject-card .stat-meta {
-  color: var(--color-error);
-}
+#best-subject-card .stat-meta.mid,
+.analytics-subject-avg.mid { color: var(--color-warning); }
+
+#best-subject-card .stat-meta.low,
+.analytics-subject-avg.low { color: var(--color-error); }
+
+#worst-subject-card .stat-meta.high { color: var(--color-success); }
+#worst-subject-card .stat-meta.mid { color: var(--color-warning); }
+#worst-subject-card .stat-meta.low { color: var(--color-error); }
 
 .analytics-subject-list {
   display: flex;
@@ -1638,9 +1643,9 @@ body {
   transition: width var(--transition-fast);
 }
 
-.analytics-bar-fill.high { background: var(--color-success); }
-.analytics-bar-fill.mid { background: var(--color-warning); }
-.analytics-bar-fill.low { background: var(--color-error); }
+.analytics-bar-fill.high { background-color: var(--color-success); }
+.analytics-bar-fill.mid { background-color: var(--color-warning); }
+.analytics-bar-fill.low { background-color: var(--color-error); }
 
 .analytics-bar-percentage {
   font-size: 0.8rem;

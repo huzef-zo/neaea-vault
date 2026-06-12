@@ -85,7 +85,7 @@
   <!-- ============ SCREEN 4: EXAM MODE ============ -->
   <div id="screen-exam" class="screen">
     <header class="exam-header">
-      <button class="btn-back btn-exit-exam" data-go="papers">
+      <button class="btn-back btn-exit-exam">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
       </button>
       <div class="exam-info">
@@ -281,6 +281,19 @@
       <div class="modal-actions" style="margin-top: var(--space-lg); display: flex; flex-direction: column; gap: var(--space-sm);">
         <button id="btn-resume-yes" class="btn-primary">Resume</button>
         <button id="btn-resume-fresh" class="btn-secondary">Start Fresh</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============ EXIT MODAL ============ -->
+  <div id="exit-modal" class="modal hidden">
+    <div class="modal-overlay"></div>
+    <div class="modal-content glass-card">
+      <h3>Exit Exam?</h3>
+      <p class="modal-subtitle">Would you like to save your progress and leave, or continue the exam?</p>
+      <div class="modal-actions" style="margin-top: var(--space-lg); display: flex; flex-direction: column; gap: var(--space-sm);">
+        <button id="btn-exit-save" class="btn-primary">Save and Leave</button>
+        <button id="btn-exit-cancel" class="btn-secondary">Cancel</button>
       </div>
     </div>
   </div>

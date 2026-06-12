@@ -118,14 +118,31 @@
         showScreen('results');
         return;
       }
+
       if (userAnswers.some((a) => a !== null)) {
-        if (!confirm('Quit exam? Your progress will be lost.')) {
-          e.stopPropagation();
-          return;
-        }
+        $('#exit-modal').classList.remove('hidden');
+      } else {
+        stopTimer();
+        showScreen('papers');
       }
+    });
+  }
+
+  // Modal buttons for Exit
+  const btnExitSave = $('#btn-exit-save');
+  if (btnExitSave) {
+    btnExitSave.addEventListener('click', () => {
+      saveProgress();
       stopTimer();
-      // Let the default .btn-back handler take it to papers
+      $('#exit-modal').classList.add('hidden');
+      showScreen('papers');
+    });
+  }
+
+  const btnExitCancel = $('#btn-exit-cancel');
+  if (btnExitCancel) {
+    btnExitCancel.addEventListener('click', () => {
+      $('#exit-modal').classList.add('hidden');
     });
   }
 

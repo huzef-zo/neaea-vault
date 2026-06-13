@@ -253,15 +253,18 @@
     const questionCount = getQuestionCount(subjectId, paperId);
 
     if (!data || !data.attempts || data.attempts.length === 0) {
-      return { best: null, attempts: 0, questionCount };
+      return { best: null, last: null, attempts: 0, questionCount };
     }
 
     const bestAttempt = data.attempts.reduce((a, b) =>
       (a.score / a.total) > (b.score / b.total) ? a : b
     );
 
+    const lastAttempt = data.attempts[data.attempts.length - 1];
+
     return {
       best: bestAttempt,
+      last: lastAttempt,
       attempts: data.attempts.length,
       questionCount,
     };
@@ -296,7 +299,7 @@
     }
   }
 
-  function saveAttempt(subjectId, paperId, score, total) {
+  function saveAttempt(subjectId, paperId, score, total, answers = [], flags = [], timeString = '') {
     const key = getStorageKey(subjectId, paperId);
     const data = JSON.parse(localStorage.getItem(key) || '{"attempts":[]}');
 
@@ -304,6 +307,9 @@
       date: new Date().toISOString(),
       score,
       total,
+      answers,
+      flags,
+      timeString
     };
 
     data.attempts.push(attempt);
@@ -348,6 +354,21 @@
     const paperNum = parts[1] ? `Paper ${parts[1]}` : 'Paper 1';
 
     $('#modal-paper-title').textContent = `${year} · ${paperNum}`;
+
+    const stats = getPaperStats(subjectId, paperId);
+    const reviewBtn = $('#btn-modal-review');
+    if (stats.attempts > 0) {
+      reviewBtn.classList.remove('hidden');
+      const newReviewBtn = reviewBtn.cloneNode(true);
+      reviewBtn.parentNode.replaceChild(newReviewBtn, reviewBtn);
+      newReviewBtn.addEventListener('click', () => {
+        modal.classList.add('hidden');
+        viewLastAttempt(subjectId, paperId);
+      });
+    } else {
+      reviewBtn.classList.add('hidden');
+    }
+
     modal.classList.remove('hidden');
 
     // Load preference
@@ -869,9 +890,23 @@
     const timeString = `${minutes}m ${seconds}s`;
 
     // Save attempt
-    saveAttempt(currentSubject.id, currentPaperId, correct, total);
+    saveAttempt(currentSubject.id, currentPaperId, correct, total, userAnswers, flaggedQuestions, timeString);
 
-    // Render results
+    renderResultsScreen({
+      correct,
+      total,
+      percentage,
+      passed,
+      timeString,
+      answeredCount,
+      unansweredCount,
+      flaggedCount
+    }, true);
+  }
+
+  function renderResultsScreen(data, isNewAttempt) {
+    const { correct, total, percentage, passed, timeString, answeredCount, unansweredCount, flaggedCount } = data;
+
     const statusEl = $('#results-pass-fail');
     statusEl.textContent = passed ? 'PASSED' : 'FAILED';
     statusEl.className = 'results-status ' + (passed ? 'pass' : 'fail');
@@ -883,7 +918,7 @@
 
     // Breakdown
     $('#breakdown-correct').textContent = correct;
-    $('#breakdown-wrong').textContent = wrong;
+    $('#breakdown-wrong').textContent = answeredCount - correct;
     $('#breakdown-unanswered').textContent = unansweredCount;
     $('#breakdown-flagged').textContent = flaggedCount;
 
@@ -892,7 +927,7 @@
     const bestEl = $('#results-best');
     if (stats.best) {
       const bestPct = Math.round((stats.best.score / stats.best.total) * 100);
-      if (correct >= stats.best.score && correct > 0) {
+      if (isNewAttempt && correct >= stats.best.score && correct > 0) {
         bestEl.textContent = 'New Personal Best!';
         bestEl.className = 'results-best new-best';
       } else {
@@ -909,6 +944,53 @@
     glow.className = 'results-glow ' + (passed ? 'pass-glow' : 'fail-glow');
 
     showScreen('results');
+  }
+
+  async function viewLastAttempt(subjectId, paperId) {
+    const stats = getPaperStats(subjectId, paperId);
+    if (!stats.last) {
+      showToast('No previous attempt found.');
+      return;
+    }
+
+    const last = stats.last;
+
+    // Set state
+    currentSubject = SUBJECTS.find(s => s.id === subjectId);
+    currentPaperId = paperId;
+    userAnswers = last.answers || [];
+    flaggedQuestions = last.flags || [];
+
+    const url = `data/${subjectId}/${paperId}.json`;
+    showToast('Loading last attempt...');
+
+    try {
+      const response = await fetch(url);
+      if (!response.ok) throw new Error('Failed to load paper');
+      currentPaperData = await response.json();
+
+      const total = currentPaperData.questions.length;
+      const correct = userAnswers.filter((a) => a && a.isCorrect).length;
+      const answeredCount = userAnswers.filter(a => a !== null).length;
+      const unansweredCount = total - answeredCount;
+      const flaggedCount = flaggedQuestions.filter(f => f).length;
+      const percentage = Math.round((correct / total) * 100);
+      const passed = percentage >= 50;
+
+      renderResultsScreen({
+        correct,
+        total,
+        percentage,
+        passed,
+        timeString: last.timeString || 'N/A',
+        answeredCount,
+        unansweredCount,
+        flaggedCount
+      }, false);
+    } catch (err) {
+      console.error('Failed to view last attempt:', err);
+      showToast('Error loading last attempt.');
+    }
   }
 
   function showUnansweredModal() {
@@ -1140,6 +1222,7 @@
           ${trendHtml}
         </div>
       `;
+      card.addEventListener('click', () => openSubject(id));
       container.appendChild(card);
     });
   }
